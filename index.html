@@ -1,0 +1,240 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BioThreat Watch — радар трансграничных болезней</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌍</text></svg>">
+<style>
+  :root {
+    color-scheme: dark;
+    --bg: #0b0e14; --surface: #12161f; --border: #1f2530;
+    --text: #e8ecf3; --muted: #93a0b4; --faint: #5d6a7d;
+    --accent: #fbbf24; --accent-dim: rgba(251,191,36,.12);
+    --red: #f87171; --red-dim: rgba(248,113,113,.12);
+    --orange: #fb923c; --orange-dim: rgba(251,146,60,.12);
+    --blue: #7dd3fc; --blue-dim: rgba(125,211,252,.1);
+    --green: #34d399;
+    --mono: ui-monospace, "Cascadia Code", Consolas, monospace;
+  }
+  * { box-sizing: border-box; }
+  body { background: var(--bg); color: var(--text); font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; margin: 0; }
+
+  header.top {
+    background: linear-gradient(180deg, rgba(251,191,36,.07), transparent 70%);
+    border-bottom: 1px solid var(--border); padding: 28px 0 22px;
+  }
+  .wrap { max-width: 920px; margin: 0 auto; padding: 0 20px; }
+  .topbar { display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+  .brand { display: flex; align-items: center; gap: 16px; }
+  .logo {
+    width: 52px; height: 52px; border-radius: 14px; background: var(--accent-dim);
+    border: 1px solid rgba(251,191,36,.35); display: grid; place-items: center; font-size: 26px;
+  }
+  h1 { font-size: 24px; margin: 0; letter-spacing: -.02em; }
+  .brand p { margin: 2px 0 0; color: var(--muted); font-size: 14px; }
+  .live { display: flex; align-items: center; gap: 8px; color: var(--muted); font-size: 13px; font-family: var(--mono); }
+  .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--faint); flex: none; }
+  .dot.ok { background: var(--accent); box-shadow: 0 0 8px rgba(251,191,36,.7); }
+
+  .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px; margin: 24px 0 8px; }
+  .stat { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px; }
+  .stat b { display: block; font-size: 24px; font-weight: 700; letter-spacing: -.02em; }
+  .stat span { color: var(--muted); font-size: 12.5px; }
+
+  .filters { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin: 18px 0 4px; }
+  #q {
+    flex: 1 1 260px; background: var(--surface); border: 1px solid var(--border); color: var(--text);
+    border-radius: 10px; padding: 9px 14px; font-size: 14px; outline: none;
+  }
+  #q:focus { border-color: rgba(251,191,36,.5); }
+  .chips { display: flex; gap: 8px; flex-wrap: wrap; margin: 8px 0 6px; }
+  .chip-btn {
+    background: var(--surface); border: 1px solid var(--border); color: var(--muted);
+    font: 12px var(--mono); border-radius: 999px; padding: 6px 12px; cursor: pointer; transition: .15s;
+  }
+  .chip-btn:hover { color: var(--text); }
+  .chip-btn.active { color: var(--accent); border-color: rgba(251,191,36,.45); background: var(--accent-dim); }
+  .chip-btn.active.l-border { color: var(--red); border-color: rgba(248,113,113,.45); background: var(--red-dim); }
+  .chip-btn.active.l-high { color: var(--orange); border-color: rgba(251,146,60,.45); background: var(--orange-dim); }
+
+  .card {
+    background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--faint);
+    border-radius: 14px; padding: 16px 18px 12px; margin-bottom: 12px; transition: border-color .15s, opacity .15s;
+  }
+  .card:hover { border-color: #2c3543; }
+  .card.l-граница { border-left-color: var(--red); }
+  .card.l-высокая { border-left-color: var(--orange); }
+  .card.l-повышенная { border-left-color: var(--accent); }
+  .card.l-наблюдение { border-left-color: var(--blue); }
+  .card.l-фон { border-left-color: #2c3543; opacity: .8; }
+  .card.noise { opacity: .45; }
+  .card-top { display: flex; justify-content: space-between; gap: 10px; margin-bottom: 8px; align-items: center; flex-wrap: wrap; }
+  .badges { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+  .lvl, .verdict { font: 700 11px var(--mono); letter-spacing: .06em; padding: 3px 10px; border-radius: 999px; text-transform: uppercase; }
+  .lvl.l-граница { color: var(--red); background: var(--red-dim); border: 1px solid rgba(248,113,113,.4); }
+  .lvl.l-высокая { color: var(--orange); background: var(--orange-dim); border: 1px solid rgba(251,146,60,.4); }
+  .lvl.l-повышенная { color: var(--accent); background: var(--accent-dim); border: 1px solid rgba(251,191,36,.4); }
+  .lvl.l-наблюдение { color: var(--blue); background: var(--blue-dim); border: 1px solid rgba(125,211,252,.35); }
+  .lvl.l-фон { color: var(--faint); background: #171c27; border: 1px solid var(--border); }
+  .lvl.l-null { color: var(--muted); background: #171c27; border: 1px dashed var(--border); }
+  .verdict.confirmed { color: var(--red); background: var(--red-dim); border: 1px solid rgba(248,113,113,.35); }
+  .verdict.probable { color: var(--amber, #fbbf24); background: var(--accent-dim); border: 1px solid rgba(251,191,36,.3); }
+  .verdict.noise { color: var(--faint); background: #171c27; border: 1px solid var(--border); }
+  .verdict.pending { color: var(--muted); background: #171c27; border: 1px dashed var(--border); }
+  .pub { color: var(--faint); font-size: 12.5px; font-family: var(--mono); white-space: nowrap; }
+  .card h2 { font-size: 16px; line-height: 1.45; margin: 0 0 8px; font-weight: 650; }
+  .card h2 a { color: var(--text); text-decoration: none; }
+  .card h2 a:hover { color: var(--accent); }
+  .ai-sum { margin: 0 0 8px; color: var(--green); font-size: 14px; border-left: 2px solid rgba(52,211,153,.4); padding-left: 10px; }
+  .fields { display: flex; gap: 14px; flex-wrap: wrap; margin-bottom: 6px; font: 12.5px var(--mono); color: var(--blue); }
+  .card-foot { display: flex; gap: 14px; align-items: center; margin-top: 10px; padding-top: 9px; border-top: 1px solid var(--border); }
+  .card-foot a, .card-foot span { color: var(--faint); font-size: 12.5px; font-family: var(--mono); text-decoration: none; }
+  .card-foot a:hover { color: var(--blue); }
+  .empty { color: var(--muted); text-align: center; padding: 48px 0; }
+  .empty b { display: block; font-size: 18px; color: var(--text); margin-bottom: 6px; }
+
+  footer { border-top: 1px solid var(--border); margin-top: 40px; padding: 18px 0 30px; }
+  .foot { display: flex; gap: 18px; flex-wrap: wrap; font-size: 13px; color: var(--faint); }
+  .foot a { color: var(--muted); text-decoration: none; }
+  .foot a:hover { color: var(--accent); }
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="wrap topbar">
+    <div class="brand">
+      <div class="logo">🌍</div>
+      <div>
+        <h1>BioThreat Watch</h1>
+        <p>Трансграничные болезни животных: мировые вспышки, расстояние до границы РФ и уровень угрозы.</p>
+      </div>
+    </div>
+    <div class="live" id="meta"><span class="dot"></span><span>загрузка…</span></div>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="stats" id="stats"></section>
+  <section class="filters">
+    <input id="q" type="search" placeholder="Поиск по болезням, странам и резюме…">
+  </section>
+  <div class="chips" id="chips-level"></div>
+  <div class="chips" id="chips-verdict"></div>
+  <section id="feed"></section>
+</main>
+
+<footer>
+  <div class="wrap foot">
+    <span>данные: <a href="./events.json">events.json</a> · ИИ читает мировые новости, уровни — по оценке расстояния до границы РФ</span>
+    <a href="https://shray77.github.io/rss-core-site/">статус конвейера →</a>
+    <a href="https://github.com/shray77/biothreat">репозиторий</a>
+  </div>
+</footer>
+
+<script>
+let ALL = [], q = "", level = "", verdict = "real";
+
+const timeAgo = (iso) => {
+  const ms = Date.now() - new Date(iso).getTime();
+  if (isNaN(ms)) return "";
+  const m = Math.floor(ms / 60000);
+  if (m < 1) return "только что";
+  if (m < 60) return m + " мин назад";
+  const h = Math.floor(m / 60);
+  if (h < 24) return h + " ч назад";
+  return Math.floor(h / 24) + " дн назад";
+};
+const fmtDT = (s) => s ? new Date(s.includes("T") ? s : s.replace(" ", "T") + "Z").toLocaleDateString("ru-RU", { day: "numeric", month: "short" }) : "—";
+const esc = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+const VERDICT_RU = { confirmed: "подтверждено", probable: "вероятно", noise: "шум", pending: "ждёт ИИ" };
+
+function card(it) {
+  const lvl = it.level || null;
+  const lvlCls = lvl ? "l-" + lvl : "l-null";
+  const lvlLabel = lvl ? lvl + (it.distance_km ? " · " + it.distance_km + " км" : "") : "уровень ?";
+  const v = it.verdict || "pending";
+  const fields = [
+    it.disease && `🦠 ${esc(it.disease)}`,
+    it.country && `📍 ${esc(it.country)}`,
+  ].filter(Boolean).join("");
+  return `<article class="card ${lvlCls} ${v === "noise" ? "noise" : ""}">
+    <div class="card-top">
+      <div class="badges"><span class="lvl ${lvlCls}">${lvlLabel}</span><span class="verdict ${v}">${VERDICT_RU[v]}</span></div>
+      <span class="pub">${fmtDT(it.published_at)}</span>
+    </div>
+    <h2><a href="${it.url}" target="_blank" rel="noopener">${esc(it.title)}</a></h2>
+    ${it.ai_summary ? `<p class="ai-sum">${esc(it.ai_summary)}</p>` : ""}
+    ${fields ? `<div class="fields">${fields}</div>` : ""}
+    <div class="card-foot"><a href="${it.url}" target="_blank" rel="noopener">первоисточник ↗</a><span>${esc(it.source_id.replace("bing-world-", "world: ").replace("bing-", ""))}</span><span>${fmtDT(it.created_at)}</span></div>
+  </article>`;
+}
+
+function render() {
+  const feed = document.getElementById("feed");
+  const order = ["граница", "высокая", "повышенная", "наблюдение", "фон"];
+  const list = ALL.filter(it => {
+    const v = it.verdict || "pending";
+    if (verdict === "real" && v === "noise") return false;
+    if (verdict !== "real" && verdict !== "all" && v !== verdict) return false;
+    if (level && (it.level || "") !== level) return false;
+    if (q && !(it.title + " " + (it.ai_summary || "") + " " + (it.disease || "") + " " + (it.country || "")).toLowerCase().includes(q)) return false;
+    return true;
+  }).sort((a, b) => {
+    const la = order.indexOf(a.level || "zz"), lb = order.indexOf(b.level || "zz");
+    if (la !== lb) return la - lb;
+    return new Date(b.published_at || 0) - new Date(a.published_at || 0);
+  });
+  if (!list.length) {
+    feed.innerHTML = `<div class="empty"><b>Событий не найдено</b>Сбрось фильтры или запусти скан (run-now в репозитории).</div>`;
+    return;
+  }
+  feed.innerHTML = list.map(card).join("");
+}
+
+function renderMeta(j) {
+  document.getElementById("meta").innerHTML = `<span class="dot ok"></span><span>скан ${timeAgo(j.generated_at)}</span>`;
+  const n = (p) => j.items.filter(p).length;
+  document.getElementById("stats").innerHTML =
+    `<div class="stat"><b>${j.items.length}</b><span>событий в радаре</span></div>` +
+    `<div class="stat"><b style="color:var(--red)">${n(i => i.verdict === "confirmed" && (i.level === "граница" || i.level === "высокая"))}</b><span>угроза у границы</span></div>` +
+    `<div class="stat"><b>${n(i => i.verdict === "confirmed")}</b><span>подтверждено ИИ</span></div>` +
+    `<div class="stat"><b>${new Set(j.items.filter(i => i.verdict === "confirmed" && i.country).map(i => i.country)).size}</b><span>стран в радаре</span></div>` +
+    `<div class="stat"><b style="color:var(--muted)">${n(i => !i.verdict)}</b><span>в очереди на ИИ</span></div>`;
+}
+
+function chipRow(el, pairs, active, cb) {
+  document.getElementById(el).innerHTML = pairs.map(([v, l, cls]) =>
+    `<button class="chip-btn ${active === v ? "active " + (cls || "") : ""}" data-v="${v}">${l}</button>`).join("");
+  document.querySelectorAll(`#${el} .chip-btn`).forEach(b => b.onclick = () => { cb(b.dataset.v); renderChips(); render(); });
+}
+
+function renderChips() {
+  chipRow("chips-level", [
+    ["", "все уровни"],
+    ["граница", "🚨 граница", "l-border"],
+    ["высокая", "🔴 высокая", "l-high"],
+    ["повышенная", "🟠 повышенная"],
+    ["наблюдение", "🔵 наблюдение"],
+    ["фон", "⚪ фон"],
+  ], level, v => level = v);
+  chipRow("chips-verdict", [
+    ["real", "без шума"], ["confirmed", "подтверждено"], ["probable", "вероятно"], ["noise", "шум"], ["all", "вообще всё"],
+  ], verdict, v => verdict = v);
+}
+
+async function refresh() {
+  try {
+    const j = await (await fetch("./events.json", { cache: "no-store" })).json();
+    ALL = j.items || [];
+    renderMeta(j); renderChips(); render();
+  } catch (e) {
+    document.getElementById("meta").innerHTML = `<span class="dot ok"></span><span>events.json недоступен</span>`;
+  }
+}
+document.getElementById("q").oninput = (e) => { q = e.target.value.toLowerCase().trim(); render(); };
+refresh();
+setInterval(refresh, 5 * 60 * 1000);
+</script>
+</body>
+</html>
