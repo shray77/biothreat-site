@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-08T16:40:57.344Z",
+  "generated_at": "2026-10-08T18:41:11.079Z",
   "items": [
     {
       "fingerprint": "19cf9bb6d2cf290a94b5c3d7fd986c77ab3ef050",
@@ -206,15 +206,7 @@
       "published_at": "2026-10-06T14:09:00.000Z",
       "created_at": "2026-10-08 16:10:12",
       "ai_at": "2026-10-08 16:10:23",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Laos accelerates efforts to curb African Swine Fever spread",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f301f234553b75371f8b1a1b268&url=https%3a%2f%2fwww.thestar.com.my%2faseanplus%2faseanplus-news%2f2026%2f09%2f26%2flaos-accelerates-efforts-to-curb-african-swine-fever-spread&c=6748781607984032722&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-09-26T09:31:00.000Z"
-        }
-      ]
+      "dup_count": 1
     },
     {
       "fingerprint": "d5bc2b271d6d30a6720e0c8b8a19da77b5b1a33c",
@@ -583,6 +575,22 @@
       "dup_count": 1
     },
     {
+      "fingerprint": "6bfc54436840d9a7cb5dc35598c426c7440b5bed",
+      "disease": "нодулярный дерматит",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Повышается заболеваемость нодулярным дерматитом у скота, и вакцинация и использование ИИ могут помочь предотвратить его распространение.",
+      "source_id": "bing-world-lsd",
+      "title": "Before the Nodules Appear: Can India Stop the Next Lumpy Skin Disease Outbreak?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7d9ea4010444ba02c081f4daacaee&url=https%3a%2f%2fenewsroom.in%2flumpy-skin-disease-india-2026-outbreak-risk-prevention%2f&c=5648512348746989927&mkt=en-us",
+      "published_at": "2026-10-06T00:27:00.000Z",
+      "created_at": "2026-10-08 18:40:49",
+      "ai_at": "2026-10-08 18:40:54",
+      "dup_count": 1
+    },
+    {
       "fingerprint": "9440f8e3c2306ecc515ade68f52a049d43006780",
       "disease": "нодулярный дерматит",
       "country": "Индия",
@@ -596,21 +604,7 @@
       "published_at": "2026-10-06T00:27:00.000Z",
       "created_at": "2026-10-08 11:38:10",
       "ai_at": "2026-10-08 12:07:28",
-      "dup_count": 3,
-      "dups": [
-        {
-          "title": "Six Cattle Die as Lumpy Skin Disease Resurfaces in Central Kashmir",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f31296c4b4a891b29a9dc1f839f&url=https%3a%2f%2fkashmirlife.net%2fsix-cattle-die-as-lumpy-skin-disease-resurfaces-in-central-kashmir-453790%2f&c=5305272516231813381&mkt=en-us",
-          "source_id": "bing-world-lsd",
-          "published_at": "2026-09-26T08:00:00.000Z"
-        },
-        {
-          "title": "Six Cattle Die as Lumpy Skin Disease Resurfaces in Central Kashmir",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac688d2b8344c8d95dc68435a61d937&url=https%3a%2f%2fkashmirlife.net%2fsix-cattle-die-as-lumpy-skin-disease-resurfaces-in-central-kashmir-453790%2f&c=5305272516231813381&mkt=en-us",
-          "source_id": "bing-world-lsd",
-          "published_at": "2026-09-26T08:00:00.000Z"
-        }
-      ]
+      "dup_count": 1
     },
     {
       "fingerprint": "4201b6ce06bf54504d16b60ccb12add6a4e38b96",
@@ -629,20 +623,28 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "6a4d362778862b642d1fb2f534571d30c6bbd569",
+      "fingerprint": "5ee902fc6a6fd8e53b807d28bbbbf38c1bfb2dec",
       "disease": "нодулярный дерматит",
       "country": "Франция",
       "distance_km": 2500,
       "level": "фон",
       "verdict": "probable",
-      "ai_summary": "Продовольственные протесты в Фрэнции усилились из-за вспышки нодулярного дерматита у скота.",
+      "ai_summary": "В Франции усилились протесты фермеров из-за вспышки нодулярного дерматита у скота.",
       "source_id": "bing-world-lsd",
       "title": "Farmers' protests",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f31296c4b4a891b29a9dc1f839f&url=https%3a%2f%2fwww.lemonde.fr%2fen%2ffrench-farmers-protests%2f&c=8172835141637647689&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7d9ea4010444ba02c081f4daacaee&url=https%3a%2f%2fwww.lemonde.fr%2fen%2ffrench-farmers-protests%2f&c=8172835141637647689&mkt=en-us",
       "published_at": "2026-10-05T17:00:00.000Z",
-      "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 12:07:44",
-      "dup_count": 1
+      "created_at": "2026-10-08 18:40:49",
+      "ai_at": "2026-10-08 18:40:57",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Farmers' protests",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f31296c4b4a891b29a9dc1f839f&url=https%3a%2f%2fwww.lemonde.fr%2fen%2ffrench-farmers-protests%2f&c=8172835141637647689&mkt=en-us",
+          "source_id": "bing-world-lsd",
+          "published_at": "2026-10-05T17:00:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "0600366c0da4d651b58d6ea6d8eaca1fffb6a2ab",
@@ -722,6 +724,22 @@
       "published_at": "2026-10-05T05:56:00.000Z",
       "created_at": "2026-10-07 17:36:33",
       "ai_at": "2026-10-07 17:37:41",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "59a1599a1775e254232aa051c4ec5599fbaf71ce",
+      "disease": null,
+      "country": "Индия",
+      "distance_km": 3000,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-lsd",
+      "title": "सौंरई में पशुओं में लंपी जैसे लक्षण दिखे।",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7d9ea4010444ba02c081f4daacaee&url=https%3a%2f%2fwww.bhaskar.com%2flocal%2futtar-pradesh%2flalitpur%2fmadawara%2fnews%2flalitpur-saurai-lumpy-skin-disease-cattle-symptoms-health-checkup-139254430.html&c=9753267884992467340&mkt=en-us",
+      "published_at": "2026-10-05T05:19:00.000Z",
+      "created_at": "2026-10-08 18:40:49",
+      "ai_at": "2026-10-08 18:41:00",
       "dup_count": 1
     },
     {
@@ -855,21 +873,27 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "6cfa4b9e2a14d5301f2a1bcf72aee5cf4399d93b",
+      "fingerprint": "aa881c9fc54676a9c23c01e138174e63141b1e09",
       "disease": "нодулярный дерматит",
       "country": "Вьетнам",
       "distance_km": 1600,
       "level": "наблюдение",
       "verdict": "confirmed",
-      "ai_summary": "Власти Лайчуя предпринимают меры по борьбе с нодулярным дерматитом у скота.",
+      "ai_summary": "Власти Лайчуа усилили меры по борьбе с нодулярным дерматитом у скота",
       "source_id": "bing-world-lsd",
       "title": "Lai Chau steps up response to lumpy skin disease in cattle",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f31296c4b4a891b29a9dc1f839f&url=https%3a%2f%2fdtinews.dantri.com.vn%2fvietnam-today%2flai-chau-steps-up-response-to-lumpy-skin-disease-in-cattle-20261005144810488.htm&c=1403370788157083967&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7d9ea4010444ba02c081f4daacaee&url=https%3a%2f%2fdtinews.dantri.com.vn%2fvietnam-today%2flai-chau-steps-up-response-to-lumpy-skin-disease-in-cattle-20261005144810488.htm&c=1403370788157083967&mkt=en-us",
       "published_at": "2026-10-04T17:00:00.000Z",
-      "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 12:08:14",
-      "dup_count": 2,
+      "created_at": "2026-10-08 18:40:49",
+      "ai_at": "2026-10-08 18:41:04",
+      "dup_count": 3,
       "dups": [
+        {
+          "title": "Lai Chau steps up response to lumpy skin disease in cattle",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f31296c4b4a891b29a9dc1f839f&url=https%3a%2f%2fdtinews.dantri.com.vn%2fvietnam-today%2flai-chau-steps-up-response-to-lumpy-skin-disease-in-cattle-20261005144810488.htm&c=1403370788157083967&mkt=en-us",
+          "source_id": "bing-world-lsd",
+          "published_at": "2026-10-04T17:00:00.000Z"
+        },
         {
           "title": "Lai Chau steps up response to lumpy skin disease in cattle",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac688d2b8344c8d95dc68435a61d937&url=https%3a%2f%2fdtinews.dantri.com.vn%2fvietnam-today%2flai-chau-steps-up-response-to-lumpy-skin-disease-in-cattle-20261005144810488.htm&c=1403370788157083967&mkt=en-us",
@@ -1095,6 +1119,22 @@
       "dup_count": 1
     },
     {
+      "fingerprint": "b90a5d4a2040e71301aeb313f4bade0ceacec5b4",
+      "disease": "нодулярный дерматит",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-lsd",
+      "title": "Lumpy skin disease testing sites expand from 2 to 13 as diagnostic authority shifts to local governments",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7d9ea4010444ba02c081f4daacaee&url=https%3a%2f%2fbiz.heraldcorp.com%2farticle%2f10886209&c=10319645038061918551&mkt=en-us",
+      "published_at": "2026-09-27T16:28:00.000Z",
+      "created_at": "2026-10-08 18:40:49",
+      "ai_at": "2026-10-08 18:41:06",
+      "dup_count": 1
+    },
+    {
       "fingerprint": "eef4a6000a1f09d5693c60f3dec177eb3da9f9b8",
       "disease": "нодулярный дерматит",
       "country": null,
@@ -1108,38 +1148,6 @@
       "published_at": "2026-09-27T16:28:00.000Z",
       "created_at": "2026-10-08 11:38:10",
       "ai_at": "2026-10-08 12:18:21",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "c512e62ec5fe94aab008ae6fe069fae896f35769",
-      "disease": "нодулярный дерматит",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Количество институтов, которым разрешено определять нодулярный дерматит, увеличено с двух до 13",
-      "source_id": "bing-world-lsd",
-      "title": "Lumpy skin disease testing sites expand from 2 to 13 as diagnostic authority shifts to local governments",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac688d2b8344c8d95dc68435a61d937&url=https%3a%2f%2fbiz.heraldcorp.com%2farticle%2f10886209&c=10319645038061918551&mkt=en-us",
-      "published_at": "2026-09-27T16:28:00.000Z",
-      "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 12:18:25",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "0ec0ebf7241263df5f0888206cac799d943ceca6",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Численность вакансий по ветеринарным должностям, связанным с карантином животных, увеличилась на более чем 11% в год и составила 34,4% в прошлом году",
-      "source_id": "bing-world-asf",
-      "title": "Veterinary public officials' vacancy rate surges to 34.4% amid disease outbreaks",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb42d8b46b2b40b52c38aed9958&url=https%3a%2f%2fwww.msn.com%2fen-xl%2fnews%2fother%2fveterinary-public-officials-vacancy-rate-surges-to-34-4-amid-disease-outbreaks%2far-AA2d2Kdh&c=13689534074328014953&mkt=en-us",
-      "published_at": "2026-09-26T18:40:17.000Z",
-      "created_at": "2026-10-07 17:36:33",
-      "ai_at": "2026-10-07 17:38:51",
       "dup_count": 1
     }
   ]
