@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-08T20:41:49.955Z",
+  "generated_at": "2026-10-08T22:41:25.912Z",
   "items": [
     {
       "fingerprint": "ff6560d58c683b941f5e42b3e0545a4ff15f1926",
@@ -768,19 +768,27 @@
     },
     {
       "fingerprint": "8990f8fadfcc606f4206b014d7b16f1a9ac82226",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
+      "disease": "грипп птиц",
+      "country": "Молдова",
+      "distance_km": 450,
+      "level": "повышенная",
+      "verdict": "probable",
+      "ai_summary": "Молдова поддержит европейскую кампанию по профилактике гриппа птиц",
       "source_id": "bing-world-ai",
       "title": "Moldova will support the European campaign to prevent avian influenza",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7f66b0d1b41c89889ff7ba81987bd&url=https%3a%2f%2flogos-pres.md%2fen%2fnews%2fmoldova-will-support-the-european-campaign-to-prevent-avian-influenza%2f&c=14651266383460379879&mkt=en-us",
       "published_at": "2026-10-05T07:19:00.000Z",
       "created_at": "2026-10-08 20:40:38",
-      "ai_at": null,
-      "dup_count": 1
+      "ai_at": "2026-10-08 22:40:45",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Moldova will support the European campaign to prevent avian influenza",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb57ab949478d695001a90a6773&url=https%3a%2f%2flogos-pres.md%2fen%2fnews%2fmoldova-will-support-the-european-campaign-to-prevent-avian-influenza%2f&c=14651266383460379879&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-05T07:19:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "d9610b916b8059945cab747c0be2e94026a264fc",
@@ -812,22 +820,6 @@
       "published_at": "2026-10-05T07:19:00.000Z",
       "created_at": "2026-10-08 11:38:10",
       "ai_at": "2026-10-08 12:07:52",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "60b8817b21f23063c519f71b645790cfa722b202",
-      "disease": "грипп птиц",
-      "country": "Молдова",
-      "distance_km": 450,
-      "level": "повышенная",
-      "verdict": "probable",
-      "ai_summary": "Молдова поддержит европейскую кампанию по предотвращению птичьего гриппа",
-      "source_id": "bing-world-ai",
-      "title": "Moldova will support the European campaign to prevent avian influenza",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb57ab949478d695001a90a6773&url=https%3a%2f%2flogos-pres.md%2fen%2fnews%2fmoldova-will-support-the-european-campaign-to-prevent-avian-influenza%2f&c=14651266383460379879&mkt=en-us",
-      "published_at": "2026-10-05T07:19:00.000Z",
-      "created_at": "2026-10-07 17:36:33",
-      "ai_at": "2026-10-07 17:37:37",
       "dup_count": 1
     },
     {
@@ -896,19 +888,33 @@
     },
     {
       "fingerprint": "1528288481907c4716fe431eaac2777aaef51ed0",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
+      "disease": "грипп птиц",
+      "country": "Шотландия",
+      "distance_km": 2500,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "Подтверждена высокопатогенная птичья грипп H5N5 на острове Льюис в Шотландии.",
       "source_id": "bing-world-ai",
       "title": "Scotland: H5N5 avian influenza confirmed on Isle of Lewis",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7f66b0d1b41c89889ff7ba81987bd&url=https%3a%2f%2fwww.farmersguide.co.uk%2flivestock%2fanimal-health%2fscotland-h5n5-avian-influenza-confirmed-on-isle-of-lewis%2f&c=10627216864346639254&mkt=en-us",
       "published_at": "2026-10-05T01:44:00.000Z",
       "created_at": "2026-10-08 20:40:38",
-      "ai_at": null,
-      "dup_count": 1
+      "ai_at": "2026-10-08 22:40:48",
+      "dup_count": 3,
+      "dups": [
+        {
+          "title": "Scotland: H5N5 avian influenza confirmed on Isle of Lewis",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f30f746448f84f4f11384c17b49&url=https%3a%2f%2fwww.farmersguide.co.uk%2flivestock%2fanimal-health%2fscotland-h5n5-avian-influenza-confirmed-on-isle-of-lewis%2f&c=10627216864346639254&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-05T01:44:00.000Z"
+        },
+        {
+          "title": "Scotland: H5N5 avian influenza confirmed on Isle of Lewis",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb57ab949478d695001a90a6773&url=https%3a%2f%2fwww.farmersguide.co.uk%2flivestock%2fanimal-health%2fscotland-h5n5-avian-influenza-confirmed-on-isle-of-lewis%2f&c=10627216864346639254&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-05T01:44:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "831e314edd998093e532e000ee96deffb3490565",
@@ -927,61 +933,27 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "30f2fd30a8b965c0c6672f90072038b05f0a57c0",
-      "disease": "грипп птиц",
-      "country": "Шотландия",
-      "distance_km": 2500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Подтверждена высокопатогенная птицемогильная инфекция H5N5 на острове Льюис в Шотландии.",
-      "source_id": "bing-world-ai",
-      "title": "Scotland: H5N5 avian influenza confirmed on Isle of Lewis",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f30f746448f84f4f11384c17b49&url=https%3a%2f%2fwww.farmersguide.co.uk%2flivestock%2fanimal-health%2fscotland-h5n5-avian-influenza-confirmed-on-isle-of-lewis%2f&c=10627216864346639254&mkt=en-us",
-      "published_at": "2026-10-05T01:44:00.000Z",
-      "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 12:08:02",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Scotland: H5N5 avian influenza confirmed on Isle of Lewis",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb57ab949478d695001a90a6773&url=https%3a%2f%2fwww.farmersguide.co.uk%2flivestock%2fanimal-health%2fscotland-h5n5-avian-influenza-confirmed-on-isle-of-lewis%2f&c=10627216864346639254&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-05T01:44:00.000Z"
-        }
-      ]
-    },
-    {
       "fingerprint": "dd28aa8116ccf867ac456a60c31bf55338a1e73f",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "Bird flu returns to Great Britain with first outbreak of the season",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7f66b0d1b41c89889ff7ba81987bd&url=https%3a%2f%2fwww.shootinguk.co.uk%2fnews%2fbird-flu-returns-lewis%2f&c=3305635070185219083&mkt=en-us",
-      "published_at": "2026-10-05T00:36:00.000Z",
-      "created_at": "2026-10-08 20:40:38",
-      "ai_at": null,
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "0d2da66a560702adef11f6fb67ccb7262f18ebf1",
       "disease": "грипп птиц",
       "country": "Великобритания",
       "distance_km": 2500,
       "level": "фон",
       "verdict": "confirmed",
-      "ai_summary": "Великобритания потеряла статус страны, свободной от птичьего гриппа.",
+      "ai_summary": "Великобритания зафиксировала первый случай гриппа птиц в сезоне",
       "source_id": "bing-world-ai",
       "title": "Bird flu returns to Great Britain with first outbreak of the season",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7b942e67141899e8767dca72485ad&url=https%3a%2f%2fwww.shootinguk.co.uk%2fnews%2fbird-flu-returns-lewis%2f&c=3305635070185219083&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7f66b0d1b41c89889ff7ba81987bd&url=https%3a%2f%2fwww.shootinguk.co.uk%2fnews%2fbird-flu-returns-lewis%2f&c=3305635070185219083&mkt=en-us",
       "published_at": "2026-10-05T00:36:00.000Z",
-      "created_at": "2026-10-08 16:10:12",
-      "ai_at": "2026-10-08 16:10:51",
-      "dup_count": 5,
+      "created_at": "2026-10-08 20:40:38",
+      "ai_at": "2026-10-08 22:40:52",
+      "dup_count": 7,
       "dups": [
+        {
+          "title": "Bird flu returns to Great Britain with first outbreak of the season",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7b942e67141899e8767dca72485ad&url=https%3a%2f%2fwww.shootinguk.co.uk%2fnews%2fbird-flu-returns-lewis%2f&c=3305635070185219083&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-05T00:36:00.000Z"
+        },
         {
           "title": "Bird flu returns to Great Britain with first outbreak of the season",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f30f746448f84f4f11384c17b49&url=https%3a%2f%2fwww.shootinguk.co.uk%2fnews%2fbird-flu-returns-lewis%2f&c=3305635070185219083&mkt=en-us",
@@ -996,6 +968,12 @@
         },
         {
           "title": "UK records first bird flu outbreak of the season",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7f66b0d1b41c89889ff7ba81987bd&url=https%3a%2f%2fwww.fwi.co.uk%2flivestock%2fhealth-welfare%2fuk-records-first-bird-flu-outbreak-of-the-season&c=10313092179495897162&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-04T21:31:00.000Z"
+        },
+        {
+          "title": "UK records first bird flu outbreak of the season",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7b942e67141899e8767dca72485ad&url=https%3a%2f%2fwww.fwi.co.uk%2flivestock%2fhealth-welfare%2fuk-records-first-bird-flu-outbreak-of-the-season&c=10313092179495897162&mkt=en-us",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-04T21:31:00.000Z"
@@ -1007,22 +985,6 @@
           "published_at": "2026-10-04T21:31:00.000Z"
         }
       ]
-    },
-    {
-      "fingerprint": "1848762ddf5b5d66b03b7cf32cc6fa5c49ff12fb",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "UK records first bird flu outbreak of the season",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7f66b0d1b41c89889ff7ba81987bd&url=https%3a%2f%2fwww.fwi.co.uk%2flivestock%2fhealth-welfare%2fuk-records-first-bird-flu-outbreak-of-the-season&c=10313092179495897162&mkt=en-us",
-      "published_at": "2026-10-04T21:31:00.000Z",
-      "created_at": "2026-10-08 20:40:38",
-      "ai_at": null,
-      "dup_count": 1
     }
   ]
 }
