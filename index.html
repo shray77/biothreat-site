@@ -247,6 +247,23 @@ const CENTROIDS = {
   "Боливия": [-16.3, -63.6], "Парагвай": [-23.4, -58.4], "Уругвай": [-32.5, -55.8],
   "Аргентина": [-35.4, -65.2], "Чили": [-35.7, -71.5], "Австралия": [-25.3, 133.8],
   "Новая Зеландия": [-41.5, 173.0], "Папуа — Новая Гвинея": [-6.5, 145.0],
+  // Карибский бассейн (АЧС на островах с 2024) + регионы-обобщения
+  "Барбадос": [13.2, -59.6], "Сент-Китс и Невис": [17.3, -62.7],
+  "Тринидад и Тобаго": [10.7, -61.2], "Ямайка": [18.1, -77.3],
+  "Доминика": [15.4, -61.4], "Сент-Люсия": [13.9, -61.0],
+  "Гренада": [12.1, -61.7], "Антигуа и Барбуда": [17.1, -61.8],
+  "Европа": [50.0, 15.0], "Карибские острова": [15.5, -73.5],
+};
+// ИИ иногда отвечает регионом вместо страны (Шотландия, Иллинойс) — рисуем
+// маркер страны-центроида, чтобы событие не пропадало с карты.
+const REGION_FALLBACK = {
+  "Шотландия": "Великобритания", "Англия": "Великобритания",
+  "Уэльс": "Великобритания", "Северная Ирландия": "Великобритания",
+  "Британия": "Великобритания", "Иллинойс": "США", "Айова": "США",
+  "Канзас": "США", "Техас": "США", "Калифорния": "США",
+  "Миннесота": "США", "Висконсин": "США", "Мичиган": "США",
+  "Индиана": "США", "Бавария": "Германия", "Саксония": "Германия",
+  "Бранденбург": "Германия", "Карибские страны": "Карибские острова",
 };
 const LEVEL_COLOR = {
   "граница": "#f87171", "высокая": "#fb923c", "повышенная": "#fbbf24",
@@ -269,7 +286,7 @@ function renderMap(list) {
   markers.clearLayers();
   let plotted = 0;
   for (const it of list) {
-    const c = it.country ? CENTROIDS[it.country] : null;
+    const c = it.country ? (CENTROIDS[it.country] || CENTROIDS[REGION_FALLBACK[it.country] || ""]) : null;
     if (!c) continue;
     plotted++;
     const color = LEVEL_COLOR[it.level] || "#93a0b4";
@@ -279,6 +296,7 @@ function renderMap(list) {
     }).bindPopup(
       `<b>${esc(it.disease || "болезнь ?")}</b>${it.country ? " · " + esc(it.country) : ""}<br>` +
       `${esc(it.ai_summary || it.title || "")}<br>` +
+      (it.dup_count > 1 ? `+${it.dup_count - 1} сообщени${(it.dup_count - 1) % 10 === 1 && it.dup_count !== 11 ? "е" : "я"} из других фидов<br>` : "") +
       `<a href="${esc(it.url)}" target="_blank" rel="noopener">новость ↗</a>`
     ).addTo(markers);
   }
@@ -304,7 +322,7 @@ function card(it) {
     <h2><a href="${it.url}" target="_blank" rel="noopener">${esc(it.title)}</a></h2>
     ${it.ai_summary ? `<p class="ai-sum">${esc(it.ai_summary)}</p>` : ""}
     ${fields ? `<div class="fields">${fields}</div>` : ""}
-    <div class="card-foot"><a href="${it.url}" target="_blank" rel="noopener">первоисточник ↗</a><span>${esc(it.source_id.replace("bing-world-", "world: ").replace("bing-", ""))}</span><span>${fmtDT(it.created_at)}</span></div>
+    <div class="card-foot"><a href="${it.url}" target="_blank" rel="noopener">первоисточник ↗</a>${it.dup_count > 1 ? `<span title="эта вспышка пришла из нескольких фидов — на карте одна точка">+${it.dup_count - 1} из других фидов</span>` : ""}<span>${esc(it.source_id.replace("bing-world-", "world: ").replace("bing-", ""))}</span><span>${fmtDT(it.created_at)}</span></div>
   </article>`;
 }
 
