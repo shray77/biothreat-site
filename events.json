@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-08T16:11:13.375Z",
+  "generated_at": "2026-10-08T16:14:02.653Z",
   "items": [
     {
       "fingerprint": "19cf9bb6d2cf290a94b5c3d7fd986c77ab3ef050",
@@ -15,37 +15,70 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7a226120f452eb324978abc123a1e&url=https%3a%2f%2fwww.ecofinagency.com%2fnews-industry%2f0810-59566-eu-temporarily-suspends-namibian-meat-imports-after-foot-and-mouth-disease-outbreak&c=13435839415304782338&mkt=en-us",
       "published_at": "2026-10-08T06:23:00.000Z",
       "created_at": "2026-10-08 14:40:53",
-      "ai_at": "2026-10-08 14:41:07"
-    },
-    {
-      "fingerprint": "133dfb3434de02cfe55f794509db6d6364e9f873",
-      "disease": "африканская чума свиней",
-      "country": "Намибия",
-      "distance_km": 6500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В Намибии усиливают меры по борьбе с эпидемией африканской чумы свиней в регионе //Кхарас.",
-      "source_id": "bing-world-fmd",
-      "title": "Namibia Moves to Contain Outbreak as EU Suspends Meat Imports",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7a226120f452eb324978abc123a1e&url=https%3a%2f%2fallafrica.com%2fview%2fgroup%2fmain%2fmain%2fid%2f00098362.html&c=800740393134333902&mkt=en-us",
-      "published_at": "2026-10-07T00:14:00.000Z",
-      "created_at": "2026-10-08 14:40:53",
-      "ai_at": "2026-10-08 14:41:18"
-    },
-    {
-      "fingerprint": "081afa7890b6133bbb5acde890064307dc95c3f7",
-      "disease": "африканская чума свиней",
-      "country": "Намибия",
-      "distance_km": 6500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В Намибии усиливают меры по ликвидации вспышки африканской чумы свиней в регионе //Кхарас",
-      "source_id": "bing-world-fmd",
-      "title": "Namibia Moves to Contain Outbreak as EU Suspends Meat Imports",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac769c998b540a0b913cb57c2d08ee3&url=https%3a%2f%2fallafrica.com%2fview%2fgroup%2fmain%2fmain%2fid%2f00098362.html&c=800740393134333902&mkt=en-us",
-      "published_at": "2026-10-07T00:14:00.000Z",
-      "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 11:38:15"
+      "ai_at": "2026-10-08 14:41:07",
+      "dup_count": 14,
+      "dups": [
+        {
+          "title": "Namibia Moves to Contain Outbreak as EU Suspends Meat Imports",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7a226120f452eb324978abc123a1e&url=https%3a%2f%2fallafrica.com%2fview%2fgroup%2fmain%2fmain%2fid%2f00098362.html&c=800740393134333902&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-07T00:14:00.000Z"
+        },
+        {
+          "title": "Namibia Moves to Contain Outbreak as EU Suspends Meat Imports",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac769c998b540a0b913cb57c2d08ee3&url=https%3a%2f%2fallafrica.com%2fview%2fgroup%2fmain%2fmain%2fid%2f00098362.html&c=800740393134333902&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-07T00:14:00.000Z"
+        },
+        {
+          "title": "President Nandi-Ndaitwah addresses foot-and-mouth disease outbreak and calls for national cooperation",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7a226120f452eb324978abc123a1e&url=https%3a%2f%2fwww.msn.com%2fen-xl%2fmoney%2fgeneral%2fpresident-nandi-ndaitwah-addresses-foot-and-mouth-disease-outbreak-and-calls-for-national-cooperation%2far-AA2dIo4j&c=6359919209810789798&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-06T21:02:04.000Z"
+        },
+        {
+          "title": "EU suspends beef exports from Namibia due to foot and mouth disease",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6dd28a5ad46bcb39622fe900dd3de&url=https%3a%2f%2fwww.msn.com%2fen-xl%2fmoney%2fgeneral%2feu-suspends-beef-exports-from-namibia-due-to-foot-and-mouth-disease%2far-AA2dIFaV&c=9020763617303909794&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-06T20:53:03.000Z"
+        },
+        {
+          "title": "FMD auctions could resume after outbreak contained",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7a226120f452eb324978abc123a1e&url=https%3a%2f%2finformante.web.na%2f%3fp%3d401962&c=8785443750998355921&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-06T07:03:00.000Z"
+        },
+        {
+          "title": "FMD auctions could resume after outbreak contained",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac769c998b540a0b913cb57c2d08ee3&url=https%3a%2f%2finformante.web.na%2f%3fp%3d401962&c=8785443750998355921&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-06T07:03:00.000Z"
+        },
+        {
+          "title": "FMD auctions could resume after outbreak contained",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6dd28a5ad46bcb39622fe900dd3de&url=https%3a%2f%2finformante.web.na%2f%3fp%3d401962&c=8785443750998355921&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-06T07:03:00.000Z"
+        },
+        {
+          "title": "EU suspends meat imports from Namibia over foot and mouth disease outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7a226120f452eb324978abc123a1e&url=https%3a%2f%2fednews.net%2fen%2feu-suspends-meat-imports-from-namibia-over-foot-and-mouth-disease-outbreak%2f&c=10014401820659591168&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-06T01:09:00.000Z"
+        },
+        {
+          "title": "EU suspends meat imports from Namibia over foot and mouth disease outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac769c998b540a0b913cb57c2d08ee3&url=https%3a%2f%2fednews.net%2fen%2feu-suspends-meat-imports-from-namibia-over-foot-and-mouth-disease-outbreak%2f&c=10014401820659591168&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-06T01:09:00.000Z"
+        },
+        {
+          "title": "EU suspends meat imports from Namibia over foot and mouth disease outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6dd28a5ad46bcb39622fe900dd3de&url=https%3a%2f%2fednews.net%2fen%2feu-suspends-meat-imports-from-namibia-over-foot-and-mouth-disease-outbreak%2f&c=10014401820659591168&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-06T01:09:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "87e165022cd8edac97bab6247088e93c041a1572",
@@ -60,7 +93,16 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6dd28a5ad46bcb39622fe900dd3de&url=https%3a%2f%2fallafrica.com%2fview%2fgroup%2fmain%2fmain%2fid%2f00098362.html&c=800740393134333902&mkt=en-us",
       "published_at": "2026-10-07T00:14:00.000Z",
       "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 11:38:20"
+      "ai_at": "2026-10-08 11:38:20",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "EU suspends beef exports from Namibia due to foot and mouth disease",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb31058466db8b8c5248e004285&url=https%3a%2f%2fwww.msn.com%2fen-xl%2fmoney%2fgeneral%2feu-suspends-beef-exports-from-namibia-due-to-foot-and-mouth-disease%2far-AA2dIFaV&c=9020763617303909794&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-06T20:53:03.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "b8f0fe53d9d2a3db213722c6c4947a8bf5a4354f",
@@ -75,37 +117,34 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb31058466db8b8c5248e004285&url=https%3a%2f%2fallafrica.com%2fview%2fgroup%2fmain%2fmain%2fid%2f00098362.html&c=800740393134333902&mkt=en-us",
       "published_at": "2026-10-07T00:14:00.000Z",
       "created_at": "2026-10-07 17:36:33",
-      "ai_at": "2026-10-07 17:36:36"
-    },
-    {
-      "fingerprint": "78fef5f8082426c9c197df6fe6c4ff723d00fead",
-      "disease": "африканская чума свиней",
-      "country": "Намибия",
-      "distance_km": 6500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Президент Намибии обратилась к населению с призывом к единству в борьбе с африканской чумой свиней.",
-      "source_id": "bing-world-fmd",
-      "title": "President Nandi-Ndaitwah addresses foot-and-mouth disease outbreak and calls for national cooperation",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7a226120f452eb324978abc123a1e&url=https%3a%2f%2fwww.msn.com%2fen-xl%2fmoney%2fgeneral%2fpresident-nandi-ndaitwah-addresses-foot-and-mouth-disease-outbreak-and-calls-for-national-cooperation%2far-AA2dIo4j&c=6359919209810789798&mkt=en-us",
-      "published_at": "2026-10-06T21:02:04.000Z",
-      "created_at": "2026-10-08 14:40:53",
-      "ai_at": "2026-10-08 14:41:29"
-    },
-    {
-      "fingerprint": "e7f097ab91b5b6580b758810e5d6f65f10a72b41",
-      "disease": "кровяная болезнь скота",
-      "country": "Намибия",
-      "distance_km": 6500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Президент Намибии призвал к национальной солидарности при борьбе с эпидемией кровяной болезни скота",
-      "source_id": "bing-world-fmd",
-      "title": "President Nandi-Ndaitwah addresses foot-and-mouth disease outbreak and calls for national cooperation",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac769c998b540a0b913cb57c2d08ee3&url=https%3a%2f%2fwww.msn.com%2fen-xl%2fmoney%2fgeneral%2fpresident-nandi-ndaitwah-addresses-foot-and-mouth-disease-outbreak-and-calls-for-national-cooperation%2far-AA2dIo4j&c=6359919209810789798&mkt=en-us",
-      "published_at": "2026-10-06T21:02:04.000Z",
-      "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 11:38:23"
+      "ai_at": "2026-10-07 17:36:36",
+      "dup_count": 5,
+      "dups": [
+        {
+          "title": "President Nandi-Ndaitwah addresses foot-and-mouth disease outbreak and calls for national cooperation",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac769c998b540a0b913cb57c2d08ee3&url=https%3a%2f%2fwww.msn.com%2fen-xl%2fmoney%2fgeneral%2fpresident-nandi-ndaitwah-addresses-foot-and-mouth-disease-outbreak-and-calls-for-national-cooperation%2far-AA2dIo4j&c=6359919209810789798&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-06T21:02:04.000Z"
+        },
+        {
+          "title": "President Nandi-Ndaitwah addresses foot-and-mouth disease outbreak and calls for national cooperation",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb31058466db8b8c5248e004285&url=https%3a%2f%2fwww.msn.com%2fen-xl%2fmoney%2fgeneral%2fpresident-nandi-ndaitwah-addresses-foot-and-mouth-disease-outbreak-and-calls-for-national-cooperation%2far-AA2dIo4j&c=6359919209810789798&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-06T21:02:04.000Z"
+        },
+        {
+          "title": "EU suspends beef exports from Namibia due to foot and mouth disease",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac769c998b540a0b913cb57c2d08ee3&url=https%3a%2f%2fwww.rfi.fr%2fen%2finternational%2f20261006-eu-suspends-beef-exports-from-namibia-due-to-foot-and-mouth-disease&c=14068924569709245842&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-06T08:17:00.000Z"
+        },
+        {
+          "title": "EU assesses Namibia FMD outbreak as support fund mobilises N$1.5m response",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb31058466db8b8c5248e004285&url=https%3a%2f%2fobserver24.com.na%2feu-assesses-namibia-fmd-outbreak-as-support-fund-mobilises-n1-5m-response%2f&c=11522044295803823975&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-05T14:43:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "e6dbb6b65aacfe4d4146b63352b9df5875a696e8",
@@ -120,52 +159,8 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6dd28a5ad46bcb39622fe900dd3de&url=https%3a%2f%2fwww.msn.com%2fen-xl%2fmoney%2fgeneral%2fpresident-nandi-ndaitwah-addresses-foot-and-mouth-disease-outbreak-and-calls-for-national-cooperation%2far-AA2dIo4j&c=6359919209810789798&mkt=en-us",
       "published_at": "2026-10-06T21:02:04.000Z",
       "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 11:38:27"
-    },
-    {
-      "fingerprint": "97056ddf9846c7f181727d8423b995a29c4776e8",
-      "disease": "ящур",
-      "country": "Намибия",
-      "distance_km": 6500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Президент Намибии обратилась к населению с призывом к сотрудничеству в борьбе с африканской болезнью скота.",
-      "source_id": "bing-world-fmd",
-      "title": "President Nandi-Ndaitwah addresses foot-and-mouth disease outbreak and calls for national cooperation",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb31058466db8b8c5248e004285&url=https%3a%2f%2fwww.msn.com%2fen-xl%2fmoney%2fgeneral%2fpresident-nandi-ndaitwah-addresses-foot-and-mouth-disease-outbreak-and-calls-for-national-cooperation%2far-AA2dIo4j&c=6359919209810789798&mkt=en-us",
-      "published_at": "2026-10-06T21:02:04.000Z",
-      "created_at": "2026-10-07 17:36:33",
-      "ai_at": "2026-10-07 17:36:40"
-    },
-    {
-      "fingerprint": "f835fb72d4ddd0106706c42444e39a4173611774",
-      "disease": "африканская чума свиней",
-      "country": "Намибия",
-      "distance_km": 6500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Европейский союз приостановил экспорт блюд из говядины из-за вспышки африканской чумы свиней",
-      "source_id": "bing-world-fmd",
-      "title": "EU suspends beef exports from Namibia due to foot and mouth disease",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6dd28a5ad46bcb39622fe900dd3de&url=https%3a%2f%2fwww.msn.com%2fen-xl%2fmoney%2fgeneral%2feu-suspends-beef-exports-from-namibia-due-to-foot-and-mouth-disease%2far-AA2dIFaV&c=9020763617303909794&mkt=en-us",
-      "published_at": "2026-10-06T20:53:03.000Z",
-      "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 11:38:31"
-    },
-    {
-      "fingerprint": "a55ddc7a562827a50036cac59e702076e3634a59",
-      "disease": "нодулярный дерматит",
-      "country": "Намибия",
-      "distance_km": 6500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Евросоюз приостановил экспорт говядины из Намибии из-за вспышки ноги и болезни животных",
-      "source_id": "bing-world-fmd",
-      "title": "EU suspends beef exports from Namibia due to foot and mouth disease",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb31058466db8b8c5248e004285&url=https%3a%2f%2fwww.msn.com%2fen-xl%2fmoney%2fgeneral%2feu-suspends-beef-exports-from-namibia-due-to-foot-and-mouth-disease%2far-AA2dIFaV&c=9020763617303909794&mkt=en-us",
-      "published_at": "2026-10-06T20:53:03.000Z",
-      "created_at": "2026-10-07 17:36:33",
-      "ai_at": "2026-10-07 17:36:44"
+      "ai_at": "2026-10-08 11:38:27",
+      "dup_count": 1
     },
     {
       "fingerprint": "c55dce3e426b6b1ca5f6b3029c0e53663ce08a82",
@@ -180,37 +175,22 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7b9410b4c4b2f99842994a6732a43&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fafrican-swine-fever-outbreaks-disrupt-serbia-s-pork-market&c=15045505804836909516&mkt=en-us",
       "published_at": "2026-10-06T14:53:00.000Z",
       "created_at": "2026-10-08 16:10:12",
-      "ai_at": "2026-10-08 16:10:18"
-    },
-    {
-      "fingerprint": "bcdf1c78bdca25e0a4fef49914b18f48a21a2900",
-      "disease": "африканская чума свиней",
-      "country": "Сербия",
-      "distance_km": 1200,
-      "level": "наблюдение",
-      "verdict": "confirmed",
-      "ai_summary": "В Сербии объявлен режим чрезвычайной ситуации из-за своей свиней после того, как африканский свиной грипп распространился на сотни ферм, с ущербом в десятки тыс",
-      "source_id": "bing-world-asf",
-      "title": "African swine fever outbreaks disrupt Serbia's pork market",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f301f234553b75371f8b1a1b268&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fafrican-swine-fever-outbreaks-disrupt-serbia-s-pork-market&c=15045505804836909516&mkt=en-us",
-      "published_at": "2026-10-06T14:53:00.000Z",
-      "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 11:38:36"
-    },
-    {
-      "fingerprint": "773f300bb40b8e65c03c7de621d96bcc8b926b64",
-      "disease": "африканская чума свиней",
-      "country": "Сербия",
-      "distance_km": 1200,
-      "level": "наблюдение",
-      "verdict": "confirmed",
-      "ai_summary": "В Сербии объявлена чрезвычайная ситуация из-за распространения африканской свиной лихорадки на сотнях ферм, уничтожено 30 000 свиней.",
-      "source_id": "bing-world-asf",
-      "title": "African swine fever outbreaks disrupt Serbia's pork market",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb42d8b46b2b40b52c38aed9958&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fafrican-swine-fever-outbreaks-disrupt-serbia-s-pork-market&c=15045505804836909516&mkt=en-us",
-      "published_at": "2026-10-06T14:53:00.000Z",
-      "created_at": "2026-10-07 17:36:33",
-      "ai_at": "2026-10-07 17:36:48"
+      "ai_at": "2026-10-08 16:10:18",
+      "dup_count": 3,
+      "dups": [
+        {
+          "title": "African swine fever outbreaks disrupt Serbia's pork market",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f301f234553b75371f8b1a1b268&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fafrican-swine-fever-outbreaks-disrupt-serbia-s-pork-market&c=15045505804836909516&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-06T14:53:00.000Z"
+        },
+        {
+          "title": "African swine fever outbreaks disrupt Serbia's pork market",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb42d8b46b2b40b52c38aed9958&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fafrican-swine-fever-outbreaks-disrupt-serbia-s-pork-market&c=15045505804836909516&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-06T14:53:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "e7bf1b9c29ec7188dc96412a4c59f428b60468fa",
@@ -225,7 +205,16 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7b9410b4c4b2f99842994a6732a43&url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&c=11293811299519378751&mkt=en-us",
       "published_at": "2026-10-06T14:09:00.000Z",
       "created_at": "2026-10-08 16:10:12",
-      "ai_at": "2026-10-08 16:10:23"
+      "ai_at": "2026-10-08 16:10:23",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Laos accelerates efforts to curb African Swine Fever spread",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f301f234553b75371f8b1a1b268&url=https%3a%2f%2fwww.thestar.com.my%2faseanplus%2faseanplus-news%2f2026%2f09%2f26%2flaos-accelerates-efforts-to-curb-african-swine-fever-spread&c=6748781607984032722&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-09-26T09:31:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "d5bc2b271d6d30a6720e0c8b8a19da77b5b1a33c",
@@ -240,82 +229,40 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7a226120f452eb324978abc123a1e&url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&c=11293811299519378751&mkt=en-us",
       "published_at": "2026-10-06T14:09:00.000Z",
       "created_at": "2026-10-08 14:40:53",
-      "ai_at": "2026-10-08 14:41:38"
-    },
-    {
-      "fingerprint": "ff7f65b828ce7d6de3e254b80f44c673de746fc0",
-      "disease": "африканская чума свиней",
-      "country": "Китай",
-      "distance_km": 0,
-      "level": "граница",
-      "verdict": "probable",
-      "ai_summary": "В Китае появились опасения, что больные свиньи из Лаоса могут попасть на территорию страны для дальнейшего переработки",
-      "source_id": "bing-world-asf",
-      "title": "Report: Diseased Pigs From Laos Allegedly Enter China for Processing Amid ASF Outbreak",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f301f234553b75371f8b1a1b268&url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&c=11293811299519378751&mkt=en-us",
-      "published_at": "2026-10-06T14:09:00.000Z",
-      "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 11:38:41"
-    },
-    {
-      "fingerprint": "eddd739200793646f91f6eeca0204b6f5132a65f",
-      "disease": "африканская чума свиней",
-      "country": "Китай",
-      "distance_km": 0,
-      "level": "граница",
-      "verdict": "probable",
-      "ai_summary": "В Китае появились предположения, что больные свиньи из Лаоса проходят через страны",
-      "source_id": "bing-world-fmd",
-      "title": "Report: Diseased Pigs From Laos Allegedly Enter China for Processing Amid ASF Outbreak",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac769c998b540a0b913cb57c2d08ee3&url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&c=11293811299519378751&mkt=en-us",
-      "published_at": "2026-10-06T14:09:00.000Z",
-      "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 11:38:44"
-    },
-    {
-      "fingerprint": "0b6a4b4d107be9bf9b1e2affca65e25e1e52f6e6",
-      "disease": "африканская чума свиней",
-      "country": "Китай",
-      "distance_km": 0,
-      "level": "граница",
-      "verdict": "probable",
-      "ai_summary": "В Китае появились опасения, что заболевшие свиньи могут проникнуть в страну из Лаоса и Вьетнама, где подтверждены вспышки африканской чумы свиней.",
-      "source_id": "bing-world-fmd",
-      "title": "Report: Diseased Pigs From Laos Allegedly Enter China for Processing Amid ASF Outbreak",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6dd28a5ad46bcb39622fe900dd3de&url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&c=11293811299519378751&mkt=en-us",
-      "published_at": "2026-10-06T14:09:00.000Z",
-      "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 11:38:50"
-    },
-    {
-      "fingerprint": "950f758e69437d4bb0430d06a184fbbf7937e110",
-      "disease": "африканская чума свиней",
-      "country": "Китай",
-      "distance_km": 0,
-      "level": "граница",
-      "verdict": "probable",
-      "ai_summary": "Предположительно, в Китай могут ввезти свиней с африканской чумой свиней из Лаоса",
-      "source_id": "bing-world-asf",
-      "title": "Report: Diseased Pigs From Laos Allegedly Enter China for Processing Amid ASF Outbreak",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb42d8b46b2b40b52c38aed9958&url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&c=11293811299519378751&mkt=en-us",
-      "published_at": "2026-10-06T14:09:00.000Z",
-      "created_at": "2026-10-07 17:36:33",
-      "ai_at": "2026-10-07 17:36:52"
-    },
-    {
-      "fingerprint": "2876748987ffab02884b7841f91013c3d1b1d05d",
-      "disease": "африканская чума свиней",
-      "country": "Китай",
-      "distance_km": 0,
-      "level": "граница",
-      "verdict": "probable",
-      "ai_summary": "В Китае появились подозрения, что больные свиньи из Лаоса могут быть ввезены для переработки во время вспышки африканской чумы свиней в Лаосе и Вьетнаме.",
-      "source_id": "bing-world-fmd",
-      "title": "Report: Diseased Pigs From Laos Allegedly Enter China for Processing Amid ASF Outbreak",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb31058466db8b8c5248e004285&url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&c=11293811299519378751&mkt=en-us",
-      "published_at": "2026-10-06T14:09:00.000Z",
-      "created_at": "2026-10-07 17:36:33",
-      "ai_at": "2026-10-07 17:36:57"
+      "ai_at": "2026-10-08 14:41:38",
+      "dup_count": 6,
+      "dups": [
+        {
+          "title": "Report: Diseased Pigs From Laos Allegedly Enter China for Processing Amid ASF Outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f301f234553b75371f8b1a1b268&url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&c=11293811299519378751&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-06T14:09:00.000Z"
+        },
+        {
+          "title": "Report: Diseased Pigs From Laos Allegedly Enter China for Processing Amid ASF Outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac769c998b540a0b913cb57c2d08ee3&url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&c=11293811299519378751&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-06T14:09:00.000Z"
+        },
+        {
+          "title": "Report: Diseased Pigs From Laos Allegedly Enter China for Processing Amid ASF Outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6dd28a5ad46bcb39622fe900dd3de&url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&c=11293811299519378751&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-06T14:09:00.000Z"
+        },
+        {
+          "title": "Report: Diseased Pigs From Laos Allegedly Enter China for Processing Amid ASF Outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb42d8b46b2b40b52c38aed9958&url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&c=11293811299519378751&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-06T14:09:00.000Z"
+        },
+        {
+          "title": "Report: Diseased Pigs From Laos Allegedly Enter China for Processing Amid ASF Outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb31058466db8b8c5248e004285&url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&c=11293811299519378751&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-06T14:09:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "94d0db597a3dcc5345ef0a07beb78e336c7e0588",
@@ -330,14 +277,15 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7b9410b4c4b2f99842994a6732a43&url=https%3a%2f%2fwww.winnmediaskn.com%2fnia-veterinary-livestock-division-receive-training-to-strengthen-response-to-african-swine-fever%2f&c=6174612790158068676&mkt=en-us",
       "published_at": "2026-10-06T09:58:00.000Z",
       "created_at": "2026-10-08 16:10:12",
-      "ai_at": "2026-10-08 16:10:26"
+      "ai_at": "2026-10-08 16:10:26",
+      "dup_count": 1
     },
     {
       "fingerprint": "f1d8dac8693384a8045afe43f6bfd865cde9d1ae",
       "disease": "африканская чума свиней",
       "country": "Карибские острова",
-      "distance_km": null,
-      "level": "не определено",
+      "distance_km": 9500,
+      "level": "фон",
       "verdict": "probable",
       "ai_summary": "Ветеринарное и ветеринарное управление острова Невис получает обучение для укрепления подготовки к ответу на африканскую чуму свиней",
       "source_id": "bing-world-asf",
@@ -345,14 +293,15 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f301f234553b75371f8b1a1b268&url=https%3a%2f%2fwww.winnmediaskn.com%2fnia-veterinary-livestock-division-receive-training-to-strengthen-response-to-african-swine-fever%2f&c=6174612790158068676&mkt=en-us",
       "published_at": "2026-10-06T09:58:00.000Z",
       "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 11:38:54"
+      "ai_at": "2026-10-08 11:38:54",
+      "dup_count": 1
     },
     {
       "fingerprint": "52e48daedbe97f507802b1dd4f4c166a4a477c91",
       "disease": "африканская чума свиней",
       "country": "Сент-Китс и Невис",
-      "distance_km": null,
-      "level": "не определено",
+      "distance_km": 9000,
+      "level": "фон",
       "verdict": "probable",
       "ai_summary": "Ветеринарное и сельскохозяйственное управление островов Невис получает обучение для укрепления реагирования на африканскую свиную чуму",
       "source_id": "bing-world-asf",
@@ -360,7 +309,8 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb42d8b46b2b40b52c38aed9958&url=https%3a%2f%2fwww.winnmediaskn.com%2fnia-veterinary-livestock-division-receive-training-to-strengthen-response-to-african-swine-fever%2f&c=6174612790158068676&mkt=en-us",
       "published_at": "2026-10-06T09:58:00.000Z",
       "created_at": "2026-10-07 17:36:33",
-      "ai_at": "2026-10-07 17:37:02"
+      "ai_at": "2026-10-07 17:37:02",
+      "dup_count": 1
     },
     {
       "fingerprint": "0032c023ebdd4f783fb9de08742b64ca6d44a49e",
@@ -375,22 +325,28 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7b942e67141899e8767dca72485ad&url=https%3a%2f%2fpantagraph.com%2fnews%2fcommunity%2farticle_2d63d6f0-a91f-5d13-acf4-25c14650054c.html&c=8253917350783322877&mkt=en-us",
       "published_at": "2026-10-06T08:22:00.000Z",
       "created_at": "2026-10-08 16:10:12",
-      "ai_at": "2026-10-08 16:10:30"
-    },
-    {
-      "fingerprint": "a2bf78bc63812d0bf3cd91c91c7a5ce6433b4c20",
-      "disease": "грипп птиц",
-      "country": "США",
-      "distance_km": 5000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В الأمريكية зафиксирована вспышка птичьего гриппа на ферме в Иллинойсе, которая распространилась на кошку и крысу",
-      "source_id": "bing-world-ai",
-      "title": "Avian influenza spreads beyond backyard coop on Illinois farm",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f30f746448f84f4f11384c17b49&url=https%3a%2f%2fpantagraph.com%2fnews%2fcommunity%2farticle_2d63d6f0-a91f-5d13-acf4-25c14650054c.html&c=8253917350783322877&mkt=en-us",
-      "published_at": "2026-10-06T08:22:00.000Z",
-      "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 11:38:58"
+      "ai_at": "2026-10-08 16:10:30",
+      "dup_count": 4,
+      "dups": [
+        {
+          "title": "Avian influenza spreads beyond backyard coop on Illinois farm",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f30f746448f84f4f11384c17b49&url=https%3a%2f%2fpantagraph.com%2fnews%2fcommunity%2farticle_2d63d6f0-a91f-5d13-acf4-25c14650054c.html&c=8253917350783322877&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-06T08:22:00.000Z"
+        },
+        {
+          "title": "Avian influenza spread beyond a backyard coop on an Illinois farm, analysis finds",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7b942e67141899e8767dca72485ad&url=https%3a%2f%2fnews.illinois.edu%2favian-influenza-spread-beyond-a-backyard-coop-on-an-illinois-farm-analysis-finds%2f&c=17772084445275833658&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-06T03:21:00.000Z"
+        },
+        {
+          "title": "Avian influenza spread beyond a backyard coop on an Illinois farm, analysis finds",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f30f746448f84f4f11384c17b49&url=https%3a%2f%2fnews.illinois.edu%2favian-influenza-spread-beyond-a-backyard-coop-on-an-illinois-farm-analysis-finds%2f&c=17772084445275833658&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-06T03:21:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "556389a86d3f2abb5bc1be4b8dc7baa26653ce50",
@@ -405,14 +361,15 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb57ab949478d695001a90a6773&url=https%3a%2f%2fpantagraph.com%2fnews%2fcommunity%2farticle_2d63d6f0-a91f-5d13-acf4-25c14650054c.html&c=8253917350783322877&mkt=en-us",
       "published_at": "2026-10-06T08:22:00.000Z",
       "created_at": "2026-10-07 17:36:33",
-      "ai_at": "2026-10-07 17:37:07"
+      "ai_at": "2026-10-07 17:37:07",
+      "dup_count": 1
     },
     {
       "fingerprint": "0757b2d5b40a123f8bc019231ab8cac467f013c8",
       "disease": "африканская чума свиней",
       "country": "Европа",
-      "distance_km": null,
-      "level": "не определено",
+      "distance_km": 1500,
+      "level": "наблюдение",
       "verdict": "probable",
       "ai_summary": "Европейский союз запретил импорт говядины из Намибии из-за африканской чумы свиней",
       "source_id": "bing-world-fmd",
@@ -420,22 +377,8 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7a226120f452eb324978abc123a1e&url=https%3a%2f%2fwww.rfi.fr%2fen%2finternational%2f20261006-eu-suspends-beef-exports-from-namibia-due-to-foot-and-mouth-disease&c=14068924569709245842&mkt=en-us",
       "published_at": "2026-10-06T08:17:00.000Z",
       "created_at": "2026-10-08 14:40:53",
-      "ai_at": "2026-10-08 14:41:44"
-    },
-    {
-      "fingerprint": "cd1fa3d1fb544a0db35c761612af76578275dd7e",
-      "disease": "ящур",
-      "country": "Намибия",
-      "distance_km": 6500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Евросоюз приостановил экспорт говядины из Намибии из-за вспышки африканской чумы свиней",
-      "source_id": "bing-world-fmd",
-      "title": "EU suspends beef exports from Namibia due to foot and mouth disease",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac769c998b540a0b913cb57c2d08ee3&url=https%3a%2f%2fwww.rfi.fr%2fen%2finternational%2f20261006-eu-suspends-beef-exports-from-namibia-due-to-foot-and-mouth-disease&c=14068924569709245842&mkt=en-us",
-      "published_at": "2026-10-06T08:17:00.000Z",
-      "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 11:39:02"
+      "ai_at": "2026-10-08 14:41:44",
+      "dup_count": 1
     },
     {
       "fingerprint": "7d29ebab6fd832a0c526711411fe86b70e52983f",
@@ -450,67 +393,16 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7b9410b4c4b2f99842994a6732a43&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fphu-tho-ghi-nhan-44-o-dich-ta-lon-chau-phi-1778463.ldo&c=14538535557131450340&mkt=en-us",
       "published_at": "2026-10-06T07:18:00.000Z",
       "created_at": "2026-10-08 16:10:12",
-      "ai_at": "2026-10-08 16:10:34"
-    },
-    {
-      "fingerprint": "0fbc22c199eb6b0882c77ff324970e67aef039b4",
-      "disease": "африканская чума свиней",
-      "country": "Вьетнам",
-      "distance_km": 1600,
-      "level": "наблюдение",
-      "verdict": "confirmed",
-      "ai_summary": "В провинции Phu Tho за первые 9 месяцев года зарегистрированы 44 случая африканской чумы свиней, уничтожено 6,3 тысячи свиней",
-      "source_id": "bing-world-asf",
-      "title": "Phu Tho records 44 African swine fever outbreaks",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f301f234553b75371f8b1a1b268&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fphu-tho-ghi-nhan-44-o-dich-ta-lon-chau-phi-1778463.ldo&c=14538535557131450340&mkt=en-us",
-      "published_at": "2026-10-06T07:18:00.000Z",
-      "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 11:39:07"
-    },
-    {
-      "fingerprint": "7c5052d93bbb63a4e53580329b700003fb2fc210",
-      "disease": "африканская чума свиней",
-      "country": "Намибия",
-      "distance_km": 6500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В Намибии возможен возобновление аукционов животных после локализации вспышки африканской чумы свиней.",
-      "source_id": "bing-world-fmd",
-      "title": "FMD auctions could resume after outbreak contained",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7a226120f452eb324978abc123a1e&url=https%3a%2f%2finformante.web.na%2f%3fp%3d401962&c=8785443750998355921&mkt=en-us",
-      "published_at": "2026-10-06T07:03:00.000Z",
-      "created_at": "2026-10-08 14:40:53",
-      "ai_at": "2026-10-08 14:41:52"
-    },
-    {
-      "fingerprint": "bb60d9201c07278d3baff91e0d61936fae16f396",
-      "disease": "африканская чума свиней",
-      "country": "Намибия",
-      "distance_km": 6500,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "В Намибии возможен возобновление аукционов животных после локализации вспышки африканской чумы свиней.",
-      "source_id": "bing-world-fmd",
-      "title": "FMD auctions could resume after outbreak contained",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac769c998b540a0b913cb57c2d08ee3&url=https%3a%2f%2finformante.web.na%2f%3fp%3d401962&c=8785443750998355921&mkt=en-us",
-      "published_at": "2026-10-06T07:03:00.000Z",
-      "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 11:39:13"
-    },
-    {
-      "fingerprint": "5e7d689f5292decfffc0be7b3b6bfcbcaece979a",
-      "disease": "африканская чума свиней",
-      "country": "Намибия",
-      "distance_km": 6500,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "В Намибии могут возобновить аукционы животных после того, как эпидемию африканской чумы свиней будут содержать в округе Карасбург.",
-      "source_id": "bing-world-fmd",
-      "title": "FMD auctions could resume after outbreak contained",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6dd28a5ad46bcb39622fe900dd3de&url=https%3a%2f%2finformante.web.na%2f%3fp%3d401962&c=8785443750998355921&mkt=en-us",
-      "published_at": "2026-10-06T07:03:00.000Z",
-      "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 11:39:18"
+      "ai_at": "2026-10-08 16:10:34",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Phu Tho records 44 African swine fever outbreaks",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f301f234553b75371f8b1a1b268&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fphu-tho-ghi-nhan-44-o-dich-ta-lon-chau-phi-1778463.ldo&c=14538535557131450340&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-06T07:18:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "0da758f06f33a52ea16d8fb1c342ee2f0df71f72",
@@ -525,7 +417,8 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7a226120f452eb324978abc123a1e&url=https%3a%2f%2fwww.dailymaverick.co.za%2farticle%2f2026-10-06-foot-and-mouth-disease-vaccine-privatisation-long-overdue-say-farmers-experts%2f&c=1658247757765524833&mkt=en-us",
       "published_at": "2026-10-06T04:24:00.000Z",
       "created_at": "2026-10-08 14:40:53",
-      "ai_at": "2026-10-08 14:41:56"
+      "ai_at": "2026-10-08 14:41:56",
+      "dup_count": 1
     },
     {
       "fingerprint": "efb39daf07f2bb31bf11fe3a46616d9d0b73f0b4",
@@ -540,7 +433,8 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac769c998b540a0b913cb57c2d08ee3&url=https%3a%2f%2fwww.dailymaverick.co.za%2farticle%2f2026-10-06-foot-and-mouth-disease-vaccine-privatisation-long-overdue-say-farmers-experts%2f&c=1658247757765524833&mkt=en-us",
       "published_at": "2026-10-06T04:24:00.000Z",
       "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 11:39:22"
+      "ai_at": "2026-10-08 11:39:22",
+      "dup_count": 1
     },
     {
       "fingerprint": "6f7eb4b6b87a2c42cca2897f10c7c163a872ba88",
@@ -555,37 +449,8 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6dd28a5ad46bcb39622fe900dd3de&url=https%3a%2f%2fwww.dailymaverick.co.za%2farticle%2f2026-10-06-foot-and-mouth-disease-vaccine-privatisation-long-overdue-say-farmers-experts%2f&c=1658247757765524833&mkt=en-us",
       "published_at": "2026-10-06T04:24:00.000Z",
       "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 11:39:26"
-    },
-    {
-      "fingerprint": "bb774b03abf03bd773bc62b1b9db1e61af07015e",
-      "disease": "грипп птиц",
-      "country": "США",
-      "distance_km": 5000,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "Продолжает разрастаться вспышка гриппа птиц на американской ферме",
-      "source_id": "bing-world-ai",
-      "title": "Avian influenza spread beyond a backyard coop on an Illinois farm, analysis finds",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7b942e67141899e8767dca72485ad&url=https%3a%2f%2fnews.illinois.edu%2favian-influenza-spread-beyond-a-backyard-coop-on-an-illinois-farm-analysis-finds%2f&c=17772084445275833658&mkt=en-us",
-      "published_at": "2026-10-06T03:21:00.000Z",
-      "created_at": "2026-10-08 16:10:12",
-      "ai_at": "2026-10-08 16:10:37"
-    },
-    {
-      "fingerprint": "26510ae5e9c1e87a37f172327f0383d023c42a93",
-      "disease": "грипп птиц",
-      "country": "США",
-      "distance_km": 5000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "На ферме в штате Иллинойс обнаружены случаи заражения грызуна и кошки, спровоцированных птичьим гриппом из backyard-фермы.",
-      "source_id": "bing-world-ai",
-      "title": "Avian influenza spread beyond a backyard coop on an Illinois farm, analysis finds",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f30f746448f84f4f11384c17b49&url=https%3a%2f%2fnews.illinois.edu%2favian-influenza-spread-beyond-a-backyard-coop-on-an-illinois-farm-analysis-finds%2f&c=17772084445275833658&mkt=en-us",
-      "published_at": "2026-10-06T03:21:00.000Z",
-      "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 11:39:30"
+      "ai_at": "2026-10-08 11:39:26",
+      "dup_count": 1
     },
     {
       "fingerprint": "c303c021a3a6d2af7aa56bd9d7f8f96bcc90da74",
@@ -600,7 +465,8 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb57ab949478d695001a90a6773&url=https%3a%2f%2fnews.illinois.edu%2favian-influenza-spread-beyond-a-backyard-coop-on-an-illinois-farm-analysis-finds%2f&c=17772084445275833658&mkt=en-us",
       "published_at": "2026-10-06T03:21:00.000Z",
       "created_at": "2026-10-07 17:36:33",
-      "ai_at": "2026-10-07 17:37:10"
+      "ai_at": "2026-10-07 17:37:10",
+      "dup_count": 1
     },
     {
       "fingerprint": "83e6f821eda37ba7ee64ba44e97f8c384798b447",
@@ -615,7 +481,8 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac769c998b540a0b913cb57c2d08ee3&url=https%3a%2f%2fwww.lemonde.fr%2fen%2fenvironment%2farticle%2f2026%2f10%2f06%2frussia-s-reassurances-only-fuel-anxiety-over-suspected-plague-outbreak-in-siberia_6758298_114.html&c=11638037712724242732&mkt=en-us",
       "published_at": "2026-10-06T02:47:00.000Z",
       "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 11:39:36"
+      "ai_at": "2026-10-08 11:39:36",
+      "dup_count": 1
     },
     {
       "fingerprint": "e4441323662b519c9834dddc6e4538fb033048d2",
@@ -630,7 +497,8 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6dd28a5ad46bcb39622fe900dd3de&url=https%3a%2f%2fwww.lemonde.fr%2fen%2fenvironment%2farticle%2f2026%2f10%2f06%2frussia-s-reassurances-only-fuel-anxiety-over-suspected-plague-outbreak-in-siberia_6758298_114.html&c=11638037712724242732&mkt=en-us",
       "published_at": "2026-10-06T02:47:00.000Z",
       "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 11:39:40"
+      "ai_at": "2026-10-08 11:39:40",
+      "dup_count": 1
     },
     {
       "fingerprint": "200ec3ea07a882a819b4283be99d8d731c1ee76e",
@@ -645,82 +513,58 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7b942e67141899e8767dca72485ad&url=https%3a%2f%2fhyderabadmail.com%2fanantapur-siddarampuram-bird-flu-2500-chickens-die%2f&c=976459026237086365&mkt=en-us",
       "published_at": "2026-10-06T01:42:00.000Z",
       "created_at": "2026-10-08 16:10:12",
-      "ai_at": "2026-10-08 16:10:41"
-    },
-    {
-      "fingerprint": "a521804997add0991a4ea91fc8652d1365cc8552",
-      "disease": "грипп птиц",
-      "country": "Индия",
-      "distance_km": 3000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В округе Анантапур зафиксирована вспышка гриппа птиц, унесшая жизни 2,5 тысячи кур.",
-      "source_id": "bing-world-ai",
-      "title": "Anantapur bird flu outbreak: 2,500 chickens dead, 3-month curbs",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f30f746448f84f4f11384c17b49&url=https%3a%2f%2fhyderabadmail.com%2fanantapur-siddarampuram-bird-flu-2500-chickens-die%2f&c=976459026237086365&mkt=en-us",
-      "published_at": "2026-10-06T01:42:00.000Z",
-      "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 12:07:13"
-    },
-    {
-      "fingerprint": "bac860907a5bd4e59be5fa128dd9239efa7c3441",
-      "disease": "грипп птиц",
-      "country": "Индия",
-      "distance_km": 3000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В Индии в Анантапуре на птицефабрике погибло 2500 кур, что вызвало вспышку птичьего гриппа",
-      "source_id": "bing-world-ai",
-      "title": "Anantapur bird flu outbreak: 2,500 chickens dead, 3-month curbs",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb57ab949478d695001a90a6773&url=https%3a%2f%2fhyderabadmail.com%2fanantapur-siddarampuram-bird-flu-2500-chickens-die%2f&c=976459026237086365&mkt=en-us",
-      "published_at": "2026-10-06T01:42:00.000Z",
-      "created_at": "2026-10-07 17:36:33",
-      "ai_at": "2026-10-07 17:37:14"
-    },
-    {
-      "fingerprint": "2deb0921369afeae10e8a0162ed4b7cbd766637f",
-      "disease": "африканская чума свиней",
-      "country": "Намибия",
-      "distance_km": 6500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Европейский Союз приостановил импорт свежего мяса говядины, овец и коз, а также некоторых переработанных мясопродуктов из Намибии",
-      "source_id": "bing-world-fmd",
-      "title": "EU suspends meat imports from Namibia over foot and mouth disease outbreak",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7a226120f452eb324978abc123a1e&url=https%3a%2f%2fednews.net%2fen%2feu-suspends-meat-imports-from-namibia-over-foot-and-mouth-disease-outbreak%2f&c=10014401820659591168&mkt=en-us",
-      "published_at": "2026-10-06T01:09:00.000Z",
-      "created_at": "2026-10-08 14:40:53",
-      "ai_at": "2026-10-08 14:42:15"
-    },
-    {
-      "fingerprint": "f202dc2906357f710579a9230cfdbd20f81e14d8",
-      "disease": "африканская чума свиней",
-      "country": "Намибия",
-      "distance_km": 6500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Европейский союз временно приостановил импорт свежей говядины, мяса овец и коз и некоторых переработанных мясных продуктов из Намибии",
-      "source_id": "bing-world-fmd",
-      "title": "EU suspends meat imports from Namibia over foot and mouth disease outbreak",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac769c998b540a0b913cb57c2d08ee3&url=https%3a%2f%2fednews.net%2fen%2feu-suspends-meat-imports-from-namibia-over-foot-and-mouth-disease-outbreak%2f&c=10014401820659591168&mkt=en-us",
-      "published_at": "2026-10-06T01:09:00.000Z",
-      "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 12:07:18"
-    },
-    {
-      "fingerprint": "340cb320faaebba185db8331f4d29982ffb9b237",
-      "disease": "африканская чума свиней",
-      "country": "Намибия",
-      "distance_km": 6500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Европейский союз временно приостановил импорт свежего мяса быка, овцы и козы, а также некоторых переработанных мясных продуктов из Намибии",
-      "source_id": "bing-world-fmd",
-      "title": "EU suspends meat imports from Namibia over foot and mouth disease outbreak",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6dd28a5ad46bcb39622fe900dd3de&url=https%3a%2f%2fednews.net%2fen%2feu-suspends-meat-imports-from-namibia-over-foot-and-mouth-disease-outbreak%2f&c=10014401820659591168&mkt=en-us",
-      "published_at": "2026-10-06T01:09:00.000Z",
-      "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 12:07:23"
+      "ai_at": "2026-10-08 16:10:41",
+      "dup_count": 9,
+      "dups": [
+        {
+          "title": "Anantapur bird flu outbreak: 2,500 chickens dead, 3-month curbs",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f30f746448f84f4f11384c17b49&url=https%3a%2f%2fhyderabadmail.com%2fanantapur-siddarampuram-bird-flu-2500-chickens-die%2f&c=976459026237086365&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-06T01:42:00.000Z"
+        },
+        {
+          "title": "Anantapur bird flu outbreak: 2,500 chickens dead, 3-month curbs",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb57ab949478d695001a90a6773&url=https%3a%2f%2fhyderabadmail.com%2fanantapur-siddarampuram-bird-flu-2500-chickens-die%2f&c=976459026237086365&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-06T01:42:00.000Z"
+        },
+        {
+          "title": "Bird flu: Anantapur outbreak raises fresh concerns in state",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7b942e67141899e8767dca72485ad&url=https%3a%2f%2ftimesofindia.indiatimes.com%2fcity%2fvijayawada%2fbird-flu-anantapur-outbreak-raises-fresh-concerns-in-state%2farticleshow%2f134714984.cms&c=16159037176928069154&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-05T11:12:00.000Z"
+        },
+        {
+          "title": "Bird flu: Anantapur outbreak raises fresh concerns in state",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f30f746448f84f4f11384c17b49&url=https%3a%2f%2ftimesofindia.indiatimes.com%2fcity%2fvijayawada%2fbird-flu-anantapur-outbreak-raises-fresh-concerns-in-state%2farticleshow%2f134714984.cms&c=16159037176928069154&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-05T11:12:00.000Z"
+        },
+        {
+          "title": "Bird flu: Anantapur outbreak raises fresh concerns in state",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb57ab949478d695001a90a6773&url=https%3a%2f%2ftimesofindia.indiatimes.com%2fcity%2fvijayawada%2fbird-flu-anantapur-outbreak-raises-fresh-concerns-in-state%2farticleshow%2f134714984.cms&c=16159037176928069154&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-05T11:12:00.000Z"
+        },
+        {
+          "title": "Andhra Pradesh: Bird Flu Outbreak Triggers Alert",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7b942e67141899e8767dca72485ad&url=https%3a%2f%2fwww.deccanchronicle.com%2fsouthern-states%2fandhra-pradesh%2fandhra-pradesh-bird-flu-outbreak-triggers-alert-1993089&c=13460112480556033623&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-04T01:26:00.000Z"
+        },
+        {
+          "title": "Andhra Pradesh: Bird Flu Outbreak Triggers Alert",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f30f746448f84f4f11384c17b49&url=https%3a%2f%2fwww.deccanchronicle.com%2fsouthern-states%2fandhra-pradesh%2fandhra-pradesh-bird-flu-outbreak-triggers-alert-1993089&c=13460112480556033623&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-04T01:26:00.000Z"
+        },
+        {
+          "title": "Andhra Pradesh: Bird Flu Outbreak Triggers Alert",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb57ab949478d695001a90a6773&url=https%3a%2f%2fwww.deccanchronicle.com%2fsouthern-states%2fandhra-pradesh%2fandhra-pradesh-bird-flu-outbreak-triggers-alert-1993089&c=13460112480556033623&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-04T01:26:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "d7bafe1b3a77b89e44282d01544538b93649fcb8",
@@ -735,7 +579,8 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb31058466db8b8c5248e004285&url=https%3a%2f%2fednews.net%2fen%2feu-suspends-meat-imports-from-namibia-over-foot-and-mouth-disease-outbreak%2f&c=10014401820659591168&mkt=en-us",
       "published_at": "2026-10-06T01:09:00.000Z",
       "created_at": "2026-10-07 17:36:33",
-      "ai_at": "2026-10-07 17:37:19"
+      "ai_at": "2026-10-07 17:37:19",
+      "dup_count": 1
     },
     {
       "fingerprint": "9440f8e3c2306ecc515ade68f52a049d43006780",
@@ -750,7 +595,22 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f31296c4b4a891b29a9dc1f839f&url=https%3a%2f%2fenewsroom.in%2flumpy-skin-disease-india-2026-outbreak-risk-prevention%2f&c=5648512348746989927&mkt=en-us",
       "published_at": "2026-10-06T00:27:00.000Z",
       "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 12:07:28"
+      "ai_at": "2026-10-08 12:07:28",
+      "dup_count": 3,
+      "dups": [
+        {
+          "title": "Six Cattle Die as Lumpy Skin Disease Resurfaces in Central Kashmir",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f31296c4b4a891b29a9dc1f839f&url=https%3a%2f%2fkashmirlife.net%2fsix-cattle-die-as-lumpy-skin-disease-resurfaces-in-central-kashmir-453790%2f&c=5305272516231813381&mkt=en-us",
+          "source_id": "bing-world-lsd",
+          "published_at": "2026-09-26T08:00:00.000Z"
+        },
+        {
+          "title": "Six Cattle Die as Lumpy Skin Disease Resurfaces in Central Kashmir",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac688d2b8344c8d95dc68435a61d937&url=https%3a%2f%2fkashmirlife.net%2fsix-cattle-die-as-lumpy-skin-disease-resurfaces-in-central-kashmir-453790%2f&c=5305272516231813381&mkt=en-us",
+          "source_id": "bing-world-lsd",
+          "published_at": "2026-09-26T08:00:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "4201b6ce06bf54504d16b60ccb12add6a4e38b96",
@@ -765,52 +625,8 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac688d2b8344c8d95dc68435a61d937&url=https%3a%2f%2fenewsroom.in%2flumpy-skin-disease-india-2026-outbreak-risk-prevention%2f&c=5648512348746989927&mkt=en-us",
       "published_at": "2026-10-06T00:27:00.000Z",
       "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 12:07:32"
-    },
-    {
-      "fingerprint": "6f99bad7ff6b3d226980540bfe8807f28d709be5",
-      "disease": "африканская чума свиней",
-      "country": "Намибия",
-      "distance_km": 6500,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "Потенциальное влияние на рынок мяса в Южно-Африканской Республике",
-      "source_id": "bing-world-fmd",
-      "title": "Namibia FMD outbreak could drive up SA red meat prices",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7a226120f452eb324978abc123a1e&url=https%3a%2f%2fwww.farmersweekly.co.za%2fagri-news%2fafrica%2fnamibia-fmd-outbreak-could-drive-up-sa-red-meat-prices%2f&c=12042889160393093413&mkt=en-us",
-      "published_at": "2026-10-05T22:00:00.000Z",
-      "created_at": "2026-10-08 14:40:53",
-      "ai_at": "2026-10-08 14:42:24"
-    },
-    {
-      "fingerprint": "83a0631126586c4c3d2f789a9cb2c4ce612e917a",
-      "disease": "африканская чума свиней",
-      "country": "Намибия",
-      "distance_km": 6500,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "Проблемы с экспортом могут привести к росту цен на красное мясо в Южной Африке.",
-      "source_id": "bing-world-fmd",
-      "title": "Namibia FMD outbreak could drive up SA red meat prices",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac769c998b540a0b913cb57c2d08ee3&url=https%3a%2f%2fwww.farmersweekly.co.za%2fagri-news%2fafrica%2fnamibia-fmd-outbreak-could-drive-up-sa-red-meat-prices%2f&c=12042889160393093413&mkt=en-us",
-      "published_at": "2026-10-05T22:00:00.000Z",
-      "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 12:07:37"
-    },
-    {
-      "fingerprint": "d3ce4297a584f7134249fa02c756c4b46c677512",
-      "disease": "африканская чума свиней",
-      "country": "Намибия",
-      "distance_km": 6500,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "Война свиней может поднять цены на красное мясо в Южной Африке",
-      "source_id": "bing-world-fmd",
-      "title": "Namibia FMD outbreak could drive up SA red meat prices",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6dd28a5ad46bcb39622fe900dd3de&url=https%3a%2f%2fwww.farmersweekly.co.za%2fagri-news%2fafrica%2fnamibia-fmd-outbreak-could-drive-up-sa-red-meat-prices%2f&c=12042889160393093413&mkt=en-us",
-      "published_at": "2026-10-05T22:00:00.000Z",
-      "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 12:07:40"
+      "ai_at": "2026-10-08 12:07:32",
+      "dup_count": 1
     },
     {
       "fingerprint": "6a4d362778862b642d1fb2f534571d30c6bbd569",
@@ -825,74 +641,15 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f31296c4b4a891b29a9dc1f839f&url=https%3a%2f%2fwww.lemonde.fr%2fen%2ffrench-farmers-protests%2f&c=8172835141637647689&mkt=en-us",
       "published_at": "2026-10-05T17:00:00.000Z",
       "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 12:07:44"
-    },
-    {
-      "fingerprint": "7d97753d3c835bb6cacd5c56499d4c523b2b98e8",
-      "disease": "ящур",
-      "country": "Намибия",
-      "distance_km": 6500,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "Европейский союз оценивает ситуацию с заболеванием ящуром в Намибии и готовит меры для защиты животных и общественного здравоохранения в ЕС",
-      "source_id": "bing-world-fmd",
-      "title": "EU assesses Namibia FMD outbreak as support fund mobilises N$1.5m response",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb31058466db8b8c5248e004285&url=https%3a%2f%2fobserver24.com.na%2feu-assesses-namibia-fmd-outbreak-as-support-fund-mobilises-n1-5m-response%2f&c=11522044295803823975&mkt=en-us",
-      "published_at": "2026-10-05T14:43:00.000Z",
-      "created_at": "2026-10-07 17:36:33",
-      "ai_at": "2026-10-07 17:37:25"
-    },
-    {
-      "fingerprint": "c142253751ef8810bf71da03d2f6bae9d53835cb",
-      "disease": "грипп птиц",
-      "country": "Индия",
-      "distance_km": 3000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В Индии зафиксирована вспышка гриппа птиц в Анантапуре",
-      "source_id": "bing-world-ai",
-      "title": "Bird flu: Anantapur outbreak raises fresh concerns in state",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7b942e67141899e8767dca72485ad&url=https%3a%2f%2ftimesofindia.indiatimes.com%2fcity%2fvijayawada%2fbird-flu-anantapur-outbreak-raises-fresh-concerns-in-state%2farticleshow%2f134714984.cms&c=16159037176928069154&mkt=en-us",
-      "published_at": "2026-10-05T11:12:00.000Z",
-      "created_at": "2026-10-08 16:10:12",
-      "ai_at": "2026-10-08 16:10:44"
-    },
-    {
-      "fingerprint": "a986a8f984d2ac238374045d905c2d8175c9b61b",
-      "disease": "грипп птиц",
-      "country": "Индия",
-      "distance_km": 3000,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "В Индии наблюдается повторный подъем Highly Pathogenic Avian Influenza (H5N1), также известный как птичий грипп.",
-      "source_id": "bing-world-ai",
-      "title": "Bird flu: Anantapur outbreak raises fresh concerns in state",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f30f746448f84f4f11384c17b49&url=https%3a%2f%2ftimesofindia.indiatimes.com%2fcity%2fvijayawada%2fbird-flu-anantapur-outbreak-raises-fresh-concerns-in-state%2farticleshow%2f134714984.cms&c=16159037176928069154&mkt=en-us",
-      "published_at": "2026-10-05T11:12:00.000Z",
-      "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 12:07:49"
-    },
-    {
-      "fingerprint": "bb875b4078a54c38bd952b44bcf5aa391f69436f",
-      "disease": "грипп птиц",
-      "country": "Индия",
-      "distance_km": 3000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В округе Анантапур наблюдается повторное возобновление высокопатогенного орнитогенного инфлюэнцы (H5N1), более известного как птичий грипп",
-      "source_id": "bing-world-ai",
-      "title": "Bird flu: Anantapur outbreak raises fresh concerns in state",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb57ab949478d695001a90a6773&url=https%3a%2f%2ftimesofindia.indiatimes.com%2fcity%2fvijayawada%2fbird-flu-anantapur-outbreak-raises-fresh-concerns-in-state%2farticleshow%2f134714984.cms&c=16159037176928069154&mkt=en-us",
-      "published_at": "2026-10-05T11:12:00.000Z",
-      "created_at": "2026-10-07 17:36:33",
-      "ai_at": "2026-10-07 17:37:30"
+      "ai_at": "2026-10-08 12:07:44",
+      "dup_count": 1
     },
     {
       "fingerprint": "0600366c0da4d651b58d6ea6d8eaca1fffb6a2ab",
       "disease": "ящур",
       "country": "Европа",
-      "distance_km": null,
-      "level": "не определено",
+      "distance_km": 1500,
+      "level": "наблюдение",
       "verdict": "probable",
       "ai_summary": "Саванна Бифс приостанавливает массовое убой скота из-за вспышки Foot-and-Mouth disease",
       "source_id": "bing-world-fmd",
@@ -900,7 +657,8 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb31058466db8b8c5248e004285&url=https%3a%2f%2fwww.foodbusinessmea.com%2fsavanna-beef-suspends-cattle-slaughter-amid-foot-and-mouth-disease-outbreak%2f&c=8510208734920782781&mkt=en-us",
       "published_at": "2026-10-05T09:34:00.000Z",
       "created_at": "2026-10-07 17:36:33",
-      "ai_at": "2026-10-07 17:37:34"
+      "ai_at": "2026-10-07 17:37:34",
+      "dup_count": 1
     },
     {
       "fingerprint": "d9610b916b8059945cab747c0be2e94026a264fc",
@@ -915,7 +673,8 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7b942e67141899e8767dca72485ad&url=https%3a%2f%2flogos-pres.md%2fen%2fnews%2fmoldova-will-support-the-european-campaign-to-prevent-avian-influenza%2f&c=14651266383460379879&mkt=en-us",
       "published_at": "2026-10-05T07:19:00.000Z",
       "created_at": "2026-10-08 16:10:12",
-      "ai_at": "2026-10-08 16:10:46"
+      "ai_at": "2026-10-08 16:10:46",
+      "dup_count": 1
     },
     {
       "fingerprint": "f39369913f66b66fa0d1ba04fe26b4214049d51a",
@@ -930,7 +689,8 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f30f746448f84f4f11384c17b49&url=https%3a%2f%2flogos-pres.md%2fen%2fnews%2fmoldova-will-support-the-european-campaign-to-prevent-avian-influenza%2f&c=14651266383460379879&mkt=en-us",
       "published_at": "2026-10-05T07:19:00.000Z",
       "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 12:07:52"
+      "ai_at": "2026-10-08 12:07:52",
+      "dup_count": 1
     },
     {
       "fingerprint": "60b8817b21f23063c519f71b645790cfa722b202",
@@ -945,7 +705,8 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb57ab949478d695001a90a6773&url=https%3a%2f%2flogos-pres.md%2fen%2fnews%2fmoldova-will-support-the-european-campaign-to-prevent-avian-influenza%2f&c=14651266383460379879&mkt=en-us",
       "published_at": "2026-10-05T07:19:00.000Z",
       "created_at": "2026-10-07 17:36:33",
-      "ai_at": "2026-10-07 17:37:37"
+      "ai_at": "2026-10-07 17:37:37",
+      "dup_count": 1
     },
     {
       "fingerprint": "79e86596a1cb37b25d517c418b44cefe680cd615",
@@ -960,7 +721,8 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb31058466db8b8c5248e004285&url=https%3a%2f%2fwww.dailymail.com%2fnews%2farticle-16183277%2fRussias-plague-zone-Map-shows-areas-initiated-lockdowns-scientist-killed-countries-tighten-border-health-controls.html&c=6731202591112571449&mkt=en-us",
       "published_at": "2026-10-05T05:56:00.000Z",
       "created_at": "2026-10-07 17:36:33",
-      "ai_at": "2026-10-07 17:37:41"
+      "ai_at": "2026-10-07 17:37:41",
+      "dup_count": 1
     },
     {
       "fingerprint": "75f3ae02deeddf659727827c65eba85ff0c3481e",
@@ -975,7 +737,8 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f31296c4b4a891b29a9dc1f839f&url=https%3a%2f%2fwww.bhaskar.com%2flocal%2futtar-pradesh%2flalitpur%2fmadawara%2fnews%2flalitpur-saurai-lumpy-skin-disease-cattle-symptoms-health-checkup-139254430.html&c=9753267884992467340&mkt=en-us",
       "published_at": "2026-10-05T05:19:00.000Z",
       "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 12:07:55"
+      "ai_at": "2026-10-08 12:07:55",
+      "dup_count": 1
     },
     {
       "fingerprint": "5a5082baff5e58536d250f2fb43d61d36d5426ba",
@@ -990,7 +753,8 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac688d2b8344c8d95dc68435a61d937&url=https%3a%2f%2fwww.bhaskar.com%2flocal%2futtar-pradesh%2flalitpur%2fmadawara%2fnews%2flalitpur-saurai-lumpy-skin-disease-cattle-symptoms-health-checkup-139254430.html&c=9753267884992467340&mkt=en-us",
       "published_at": "2026-10-05T05:19:00.000Z",
       "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 12:07:58"
+      "ai_at": "2026-10-08 12:07:58",
+      "dup_count": 1
     },
     {
       "fingerprint": "831e314edd998093e532e000ee96deffb3490565",
@@ -1005,7 +769,8 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7b942e67141899e8767dca72485ad&url=https%3a%2f%2fwww.farmersguide.co.uk%2flivestock%2fanimal-health%2fscotland-h5n5-avian-influenza-confirmed-on-isle-of-lewis%2f&c=10627216864346639254&mkt=en-us",
       "published_at": "2026-10-05T01:44:00.000Z",
       "created_at": "2026-10-08 16:10:12",
-      "ai_at": "2026-10-08 16:10:48"
+      "ai_at": "2026-10-08 16:10:48",
+      "dup_count": 1
     },
     {
       "fingerprint": "30f2fd30a8b965c0c6672f90072038b05f0a57c0",
@@ -1020,22 +785,16 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f30f746448f84f4f11384c17b49&url=https%3a%2f%2fwww.farmersguide.co.uk%2flivestock%2fanimal-health%2fscotland-h5n5-avian-influenza-confirmed-on-isle-of-lewis%2f&c=10627216864346639254&mkt=en-us",
       "published_at": "2026-10-05T01:44:00.000Z",
       "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 12:08:02"
-    },
-    {
-      "fingerprint": "8c417bc376b5fc7fbfbac585e30ecb3306cd3dcc",
-      "disease": "грипп птиц",
-      "country": "Шотландия",
-      "distance_km": 2500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Подтвержден высокопатогенный птичий грипп H5N5 на острове Льюис в Шотландии.",
-      "source_id": "bing-world-ai",
-      "title": "Scotland: H5N5 avian influenza confirmed on Isle of Lewis",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb57ab949478d695001a90a6773&url=https%3a%2f%2fwww.farmersguide.co.uk%2flivestock%2fanimal-health%2fscotland-h5n5-avian-influenza-confirmed-on-isle-of-lewis%2f&c=10627216864346639254&mkt=en-us",
-      "published_at": "2026-10-05T01:44:00.000Z",
-      "created_at": "2026-10-07 17:36:33",
-      "ai_at": "2026-10-07 17:37:44"
+      "ai_at": "2026-10-08 12:08:02",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Scotland: H5N5 avian influenza confirmed on Isle of Lewis",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb57ab949478d695001a90a6773&url=https%3a%2f%2fwww.farmersguide.co.uk%2flivestock%2fanimal-health%2fscotland-h5n5-avian-influenza-confirmed-on-isle-of-lewis%2f&c=10627216864346639254&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-05T01:44:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "0d2da66a560702adef11f6fb67ccb7262f18ebf1",
@@ -1050,67 +809,34 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7b942e67141899e8767dca72485ad&url=https%3a%2f%2fwww.shootinguk.co.uk%2fnews%2fbird-flu-returns-lewis%2f&c=3305635070185219083&mkt=en-us",
       "published_at": "2026-10-05T00:36:00.000Z",
       "created_at": "2026-10-08 16:10:12",
-      "ai_at": "2026-10-08 16:10:51"
-    },
-    {
-      "fingerprint": "3b8acb10192853ff9a9b0bfc5153fbe5eeb3d787",
-      "disease": "грипп птиц",
-      "country": "Великобритания",
-      "distance_km": 2500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В Великобритании выявлен первый случай гриппа птиц в сезоне.",
-      "source_id": "bing-world-ai",
-      "title": "Bird flu returns to Great Britain with first outbreak of the season",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f30f746448f84f4f11384c17b49&url=https%3a%2f%2fwww.shootinguk.co.uk%2fnews%2fbird-flu-returns-lewis%2f&c=3305635070185219083&mkt=en-us",
-      "published_at": "2026-10-05T00:36:00.000Z",
-      "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 12:08:06"
-    },
-    {
-      "fingerprint": "8ab38f146124a6e30eecd2420169de3dc0f73471",
-      "disease": "грипп птиц",
-      "country": "Великобритания",
-      "distance_km": 2500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Великобритания потеряла статус безболезненного региона после вспышки H5N5 на острове Льюис",
-      "source_id": "bing-world-ai",
-      "title": "Bird flu returns to Great Britain with first outbreak of the season",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb57ab949478d695001a90a6773&url=https%3a%2f%2fwww.shootinguk.co.uk%2fnews%2fbird-flu-returns-lewis%2f&c=3305635070185219083&mkt=en-us",
-      "published_at": "2026-10-05T00:36:00.000Z",
-      "created_at": "2026-10-07 17:36:33",
-      "ai_at": "2026-10-07 17:37:48"
-    },
-    {
-      "fingerprint": "2d686562499a081a0e6cfaf606457aae8707d5db",
-      "disease": "грипп птиц",
-      "country": "Великобритания",
-      "distance_km": 2500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В Великобритании зарегистрирован первый случай высокопатогенного птицеоздущего гриппа сезона 2026-27",
-      "source_id": "bing-world-ai",
-      "title": "UK records first bird flu outbreak of the season",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7b942e67141899e8767dca72485ad&url=https%3a%2f%2fwww.fwi.co.uk%2flivestock%2fhealth-welfare%2fuk-records-first-bird-flu-outbreak-of-the-season&c=10313092179495897162&mkt=en-us",
-      "published_at": "2026-10-04T21:31:00.000Z",
-      "created_at": "2026-10-08 16:10:12",
-      "ai_at": "2026-10-08 16:10:54"
-    },
-    {
-      "fingerprint": "decdb0fb7ddf21665eb74248179a51d09db88d36",
-      "disease": "грипп птиц",
-      "country": "Великобритания",
-      "distance_km": 2500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В Великобритании зафиксирована первая вспышка высокопатогенного птицемогильного гриппа сезона",
-      "source_id": "bing-world-ai",
-      "title": "UK records first bird flu outbreak of the season",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f30f746448f84f4f11384c17b49&url=https%3a%2f%2fwww.fwi.co.uk%2flivestock%2fhealth-welfare%2fuk-records-first-bird-flu-outbreak-of-the-season&c=10313092179495897162&mkt=en-us",
-      "published_at": "2026-10-04T21:31:00.000Z",
-      "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 12:08:10"
+      "ai_at": "2026-10-08 16:10:51",
+      "dup_count": 5,
+      "dups": [
+        {
+          "title": "Bird flu returns to Great Britain with first outbreak of the season",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f30f746448f84f4f11384c17b49&url=https%3a%2f%2fwww.shootinguk.co.uk%2fnews%2fbird-flu-returns-lewis%2f&c=3305635070185219083&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-05T00:36:00.000Z"
+        },
+        {
+          "title": "Bird flu returns to Great Britain with first outbreak of the season",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb57ab949478d695001a90a6773&url=https%3a%2f%2fwww.shootinguk.co.uk%2fnews%2fbird-flu-returns-lewis%2f&c=3305635070185219083&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-05T00:36:00.000Z"
+        },
+        {
+          "title": "UK records first bird flu outbreak of the season",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7b942e67141899e8767dca72485ad&url=https%3a%2f%2fwww.fwi.co.uk%2flivestock%2fhealth-welfare%2fuk-records-first-bird-flu-outbreak-of-the-season&c=10313092179495897162&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-04T21:31:00.000Z"
+        },
+        {
+          "title": "UK records first bird flu outbreak of the season",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f30f746448f84f4f11384c17b49&url=https%3a%2f%2fwww.fwi.co.uk%2flivestock%2fhealth-welfare%2fuk-records-first-bird-flu-outbreak-of-the-season&c=10313092179495897162&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-04T21:31:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "28d3bc84ea270b1392707354b5dbf340a7047ec6",
@@ -1125,7 +851,8 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb57ab949478d695001a90a6773&url=https%3a%2f%2fwww.fwi.co.uk%2flivestock%2fhealth-welfare%2fuk-records-first-bird-flu-outbreak-of-the-season&c=10313092179495897162&mkt=en-us",
       "published_at": "2026-10-04T21:31:00.000Z",
       "created_at": "2026-10-07 17:36:33",
-      "ai_at": "2026-10-07 17:37:53"
+      "ai_at": "2026-10-07 17:37:53",
+      "dup_count": 1
     },
     {
       "fingerprint": "6cfa4b9e2a14d5301f2a1bcf72aee5cf4399d93b",
@@ -1140,67 +867,16 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f31296c4b4a891b29a9dc1f839f&url=https%3a%2f%2fdtinews.dantri.com.vn%2fvietnam-today%2flai-chau-steps-up-response-to-lumpy-skin-disease-in-cattle-20261005144810488.htm&c=1403370788157083967&mkt=en-us",
       "published_at": "2026-10-04T17:00:00.000Z",
       "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 12:08:14"
-    },
-    {
-      "fingerprint": "6ba24171c844c2dacc74176d16fff8b3d28ff0a4",
-      "disease": "нодулярный дерматит",
-      "country": "Вьетнам",
-      "distance_km": 1600,
-      "level": "наблюдение",
-      "verdict": "confirmed",
-      "ai_summary": "Влада Лайчуа предпринимает меры по борьбе с нодулярным дерматитом скота",
-      "source_id": "bing-world-lsd",
-      "title": "Lai Chau steps up response to lumpy skin disease in cattle",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac688d2b8344c8d95dc68435a61d937&url=https%3a%2f%2fdtinews.dantri.com.vn%2fvietnam-today%2flai-chau-steps-up-response-to-lumpy-skin-disease-in-cattle-20261005144810488.htm&c=1403370788157083967&mkt=en-us",
-      "published_at": "2026-10-04T17:00:00.000Z",
-      "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 12:17:57"
-    },
-    {
-      "fingerprint": "367e97f271a6bb0f5c47e62cbe5594baeea30c49",
-      "disease": "грипп птиц",
-      "country": "Индия",
-      "distance_km": 3000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Зафиксирована вспышка гриппа птиц на ферме в деревне Siddapuram",
-      "source_id": "bing-world-ai",
-      "title": "Andhra Pradesh: Bird Flu Outbreak Triggers Alert",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7b942e67141899e8767dca72485ad&url=https%3a%2f%2fwww.deccanchronicle.com%2fsouthern-states%2fandhra-pradesh%2fandhra-pradesh-bird-flu-outbreak-triggers-alert-1993089&c=13460112480556033623&mkt=en-us",
-      "published_at": "2026-10-04T01:26:00.000Z",
-      "created_at": "2026-10-08 16:10:12",
-      "ai_at": "2026-10-08 16:10:57"
-    },
-    {
-      "fingerprint": "b038ffa31bd557722c524e7a2f24764cf44a6d9f",
-      "disease": "грипп птиц",
-      "country": "Индия",
-      "distance_km": 3000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Зафиксирована вспышка гриппа птиц на ферме в селе Сиддапурам",
-      "source_id": "bing-world-ai",
-      "title": "Andhra Pradesh: Bird Flu Outbreak Triggers Alert",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f30f746448f84f4f11384c17b49&url=https%3a%2f%2fwww.deccanchronicle.com%2fsouthern-states%2fandhra-pradesh%2fandhra-pradesh-bird-flu-outbreak-triggers-alert-1993089&c=13460112480556033623&mkt=en-us",
-      "published_at": "2026-10-04T01:26:00.000Z",
-      "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 12:18:01"
-    },
-    {
-      "fingerprint": "27cb10a876b2855faaca32cf4cefd1a849d983ce",
-      "disease": "грипп птиц",
-      "country": "Индия",
-      "distance_km": 3000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В farmhouse в деревне Siddapuram в округе Bukkarayasamudram зафиксировано около 2600 случаев гибели козыряков",
-      "source_id": "bing-world-ai",
-      "title": "Andhra Pradesh: Bird Flu Outbreak Triggers Alert",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb57ab949478d695001a90a6773&url=https%3a%2f%2fwww.deccanchronicle.com%2fsouthern-states%2fandhra-pradesh%2fandhra-pradesh-bird-flu-outbreak-triggers-alert-1993089&c=13460112480556033623&mkt=en-us",
-      "published_at": "2026-10-04T01:26:00.000Z",
-      "created_at": "2026-10-07 17:36:33",
-      "ai_at": "2026-10-07 17:38:27"
+      "ai_at": "2026-10-08 12:08:14",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Lai Chau steps up response to lumpy skin disease in cattle",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac688d2b8344c8d95dc68435a61d937&url=https%3a%2f%2fdtinews.dantri.com.vn%2fvietnam-today%2flai-chau-steps-up-response-to-lumpy-skin-disease-in-cattle-20261005144810488.htm&c=1403370788157083967&mkt=en-us",
+          "source_id": "bing-world-lsd",
+          "published_at": "2026-10-04T17:00:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "a820d74b993d193005f6cab36abf4394cdf3d7e8",
@@ -1215,14 +891,15 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7b942e67141899e8767dca72485ad&url=https%3a%2f%2fwww.jamaicaobserver.com%2f2026%2f10%2f03%2fbarbados-authorities-step-poultry-surveillance-suriname-bird-flu-outbreak%2f&c=7655190112156951742&mkt=en-us",
       "published_at": "2026-10-03T13:57:00.000Z",
       "created_at": "2026-10-08 16:10:12",
-      "ai_at": "2026-10-08 16:11:01"
+      "ai_at": "2026-10-08 16:11:01",
+      "dup_count": 1
     },
     {
       "fingerprint": "afd8d38671285c0ff0eeaf7cb67bdc2092941014",
       "disease": "грипп птиц",
       "country": "Барбадос",
-      "distance_km": null,
-      "level": "не определено",
+      "distance_km": 9500,
+      "level": "фон",
       "verdict": "probable",
       "ai_summary": "Власти Барбадоса усилили контроль за птицей на границе после вспышки Highly Pathogenic Avian Influenza в Суринаме.",
       "source_id": "bing-world-ai",
@@ -1230,7 +907,8 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb57ab949478d695001a90a6773&url=https%3a%2f%2fwww.jamaicaobserver.com%2f2026%2f10%2f03%2fbarbados-authorities-step-poultry-surveillance-suriname-bird-flu-outbreak%2f&c=7655190112156951742&mkt=en-us",
       "published_at": "2026-10-03T13:57:00.000Z",
       "created_at": "2026-10-07 17:36:33",
-      "ai_at": "2026-10-07 17:38:31"
+      "ai_at": "2026-10-07 17:38:31",
+      "dup_count": 1
     },
     {
       "fingerprint": "d98c86ac6b609aa61755ca2c38156dc33ced922f",
@@ -1245,22 +923,16 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7b9410b4c4b2f99842994a6732a43&url=https%3a%2f%2fdailytrust.com%2ffg-launches-african-swine-fever-control-campaign-in-southwest%2f&c=12930526176255237725&mkt=en-us",
       "published_at": "2026-10-02T23:13:00.000Z",
       "created_at": "2026-10-08 16:10:12",
-      "ai_at": "2026-10-08 16:11:04"
-    },
-    {
-      "fingerprint": "c752df4fefcabf99a423cfff9e8cc53d27ea0463",
-      "disease": "африканская чума свиней",
-      "country": "Нигерия",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": null,
-      "source_id": "bing-world-asf",
-      "title": "FG launches African Swine Fever control campaign in Southwest",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f301f234553b75371f8b1a1b268&url=https%3a%2f%2fdailytrust.com%2ffg-launches-african-swine-fever-control-campaign-in-southwest%2f&c=12930526176255237725&mkt=en-us",
-      "published_at": "2026-10-02T23:13:00.000Z",
-      "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 12:18:04"
+      "ai_at": "2026-10-08 16:11:04",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "FG launches African Swine Fever control campaign in Southwest",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f301f234553b75371f8b1a1b268&url=https%3a%2f%2fdailytrust.com%2ffg-launches-african-swine-fever-control-campaign-in-southwest%2f&c=12930526176255237725&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-02T23:13:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "6fd6b796962ac3571631eee3d6f98f8dc2643f51",
@@ -1275,7 +947,8 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb42d8b46b2b40b52c38aed9958&url=https%3a%2f%2fdailytrust.com%2ffg-launches-african-swine-fever-control-campaign-in-southwest%2f&c=12930526176255237725&mkt=en-us",
       "published_at": "2026-10-02T23:13:00.000Z",
       "created_at": "2026-10-07 17:36:33",
-      "ai_at": "2026-10-07 17:38:36"
+      "ai_at": "2026-10-07 17:38:36",
+      "dup_count": 1
     },
     {
       "fingerprint": "3b46c4d03ff618b04788defb79e5691a8d5a0e65",
@@ -1290,7 +963,8 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7b9410b4c4b2f99842994a6732a43&url=https%3a%2f%2fnannews.ng%2ffever-2%2f&c=14006278260514950885&mkt=en-us",
       "published_at": "2026-10-02T05:53:00.000Z",
       "created_at": "2026-10-08 16:10:12",
-      "ai_at": "2026-10-08 16:11:07"
+      "ai_at": "2026-10-08 16:11:07",
+      "dup_count": 1
     },
     {
       "fingerprint": "add4e70b77b0dcd7da10bee0ed148f62d030a256",
@@ -1305,7 +979,8 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f301f234553b75371f8b1a1b268&url=https%3a%2f%2fnannews.ng%2ffever-2%2f&c=14006278260514950885&mkt=en-us",
       "published_at": "2026-10-02T05:53:00.000Z",
       "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 12:18:09"
+      "ai_at": "2026-10-08 12:18:09",
+      "dup_count": 1
     },
     {
       "fingerprint": "562db5db8ad3c5ad07ff9ba4b4cfa2d336208a7e",
@@ -1320,7 +995,8 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7b9410b4c4b2f99842994a6732a43&url=https%3a%2f%2fwww.theepochtimes.com%2fchina%2fchinese-pig-farmers-report-suspected-swine-fever-outbreaks-as-prices-fall-6099027&c=17854083737317333624&mkt=en-us",
       "published_at": "2026-10-01T16:59:00.000Z",
       "created_at": "2026-10-08 16:10:12",
-      "ai_at": "2026-10-08 16:11:09"
+      "ai_at": "2026-10-08 16:11:09",
+      "dup_count": 1
     },
     {
       "fingerprint": "06e261ffd5a6d1f80d9c740e71f6817153ee66f3",
@@ -1335,7 +1011,8 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f301f234553b75371f8b1a1b268&url=https%3a%2f%2fwww.theepochtimes.com%2fchina%2fchinese-pig-farmers-report-suspected-swine-fever-outbreaks-as-prices-fall-6099027&c=17854083737317333624&mkt=en-us",
       "published_at": "2026-10-01T16:59:00.000Z",
       "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 12:18:13"
+      "ai_at": "2026-10-08 12:18:13",
+      "dup_count": 1
     },
     {
       "fingerprint": "7518bc9d3c26ccf2fff92129fc90a036874c3e34",
@@ -1350,7 +1027,8 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb42d8b46b2b40b52c38aed9958&url=https%3a%2f%2fwww.theepochtimes.com%2fchina%2fchinese-pig-farmers-report-suspected-swine-fever-outbreaks-as-prices-fall-6099027&c=17854083737317333624&mkt=en-us",
       "published_at": "2026-10-01T16:59:00.000Z",
       "created_at": "2026-10-07 17:36:33",
-      "ai_at": "2026-10-07 17:38:40"
+      "ai_at": "2026-10-07 17:38:40",
+      "dup_count": 1
     },
     {
       "fingerprint": "e31fd84586e5be17baf7e578ed40380ad747fa91",
@@ -1365,14 +1043,15 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb31058466db8b8c5248e004285&url=https%3a%2f%2fwww.theepochtimes.com%2fchina%2fchinese-pig-farmers-report-suspected-swine-fever-outbreaks-as-prices-fall-6099027&c=17854083737317333624&mkt=en-us",
       "published_at": "2026-10-01T16:59:00.000Z",
       "created_at": "2026-10-07 17:36:33",
-      "ai_at": "2026-10-07 17:38:43"
+      "ai_at": "2026-10-07 17:38:43",
+      "dup_count": 1
     },
     {
       "fingerprint": "fc32ad29d235dd2f6a1dfb4e63d4c40420519273",
       "disease": null,
       "country": "Барбадос",
-      "distance_km": null,
-      "level": "не определено",
+      "distance_km": 9500,
+      "level": "фон",
       "verdict": "probable",
       "ai_summary": null,
       "source_id": "bing-world-asf",
@@ -1380,7 +1059,8 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7b9410b4c4b2f99842994a6732a43&url=https%3a%2f%2fwww.nationalhogfarmer.com%2flivestock-management%2fcaribbean-countries-boost-african-swine-fever-preparedness&c=2397372920867091171&mkt=en-us",
       "published_at": "2026-09-28T05:28:00.000Z",
       "created_at": "2026-10-08 16:10:12",
-      "ai_at": "2026-10-08 16:11:12"
+      "ai_at": "2026-10-08 16:11:12",
+      "dup_count": 1
     },
     {
       "fingerprint": "0671dae42d365ac9e9e5f66e9d202a17fd93b58d",
@@ -1395,14 +1075,15 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f301f234553b75371f8b1a1b268&url=https%3a%2f%2fwww.nationalhogfarmer.com%2flivestock-management%2fcaribbean-countries-boost-african-swine-fever-preparedness&c=2397372920867091171&mkt=en-us",
       "published_at": "2026-09-28T05:28:00.000Z",
       "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 12:18:16"
+      "ai_at": "2026-10-08 12:18:16",
+      "dup_count": 1
     },
     {
       "fingerprint": "f44e79d3fe9dfc636ed1c8fa548f3ec90eab5064",
       "disease": "африканская чума свиней",
       "country": "Карибские страны",
-      "distance_km": null,
-      "level": "не определено",
+      "distance_km": 9500,
+      "level": "фон",
       "verdict": "probable",
       "ai_summary": "Представители 17 стран обновили и усилили свои планы по быстрому реагированию на африканскую свиную чуму.",
       "source_id": "bing-world-asf",
@@ -1410,7 +1091,8 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb42d8b46b2b40b52c38aed9958&url=https%3a%2f%2fwww.nationalhogfarmer.com%2flivestock-management%2fcaribbean-countries-boost-african-swine-fever-preparedness&c=2397372920867091171&mkt=en-us",
       "published_at": "2026-09-28T05:28:00.000Z",
       "created_at": "2026-10-07 17:36:33",
-      "ai_at": "2026-10-07 17:38:47"
+      "ai_at": "2026-10-07 17:38:47",
+      "dup_count": 1
     },
     {
       "fingerprint": "eef4a6000a1f09d5693c60f3dec177eb3da9f9b8",
@@ -1425,7 +1107,8 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f31296c4b4a891b29a9dc1f839f&url=https%3a%2f%2fbiz.heraldcorp.com%2farticle%2f10886209&c=10319645038061918551&mkt=en-us",
       "published_at": "2026-09-27T16:28:00.000Z",
       "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 12:18:21"
+      "ai_at": "2026-10-08 12:18:21",
+      "dup_count": 1
     },
     {
       "fingerprint": "c512e62ec5fe94aab008ae6fe069fae896f35769",
@@ -1440,7 +1123,8 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac688d2b8344c8d95dc68435a61d937&url=https%3a%2f%2fbiz.heraldcorp.com%2farticle%2f10886209&c=10319645038061918551&mkt=en-us",
       "published_at": "2026-09-27T16:28:00.000Z",
       "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 12:18:25"
+      "ai_at": "2026-10-08 12:18:25",
+      "dup_count": 1
     },
     {
       "fingerprint": "0ec0ebf7241263df5f0888206cac799d943ceca6",
@@ -1455,52 +1139,8 @@
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb42d8b46b2b40b52c38aed9958&url=https%3a%2f%2fwww.msn.com%2fen-xl%2fnews%2fother%2fveterinary-public-officials-vacancy-rate-surges-to-34-4-amid-disease-outbreaks%2far-AA2d2Kdh&c=13689534074328014953&mkt=en-us",
       "published_at": "2026-09-26T18:40:17.000Z",
       "created_at": "2026-10-07 17:36:33",
-      "ai_at": "2026-10-07 17:38:51"
-    },
-    {
-      "fingerprint": "78e42a5ac1bba374c6746572ad95de0a664c8c74",
-      "disease": "африканская чума свиней",
-      "country": "Лаос",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Министерство сельского хозяйства и окружающей среды Лаоса разработало план по борьбе с африканской чумой свиней",
-      "source_id": "bing-world-asf",
-      "title": "Laos accelerates efforts to curb African Swine Fever spread",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f301f234553b75371f8b1a1b268&url=https%3a%2f%2fwww.thestar.com.my%2faseanplus%2faseanplus-news%2f2026%2f09%2f26%2flaos-accelerates-efforts-to-curb-african-swine-fever-spread&c=6748781607984032722&mkt=en-us",
-      "published_at": "2026-09-26T09:31:00.000Z",
-      "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 12:18:30"
-    },
-    {
-      "fingerprint": "75f9130e95cd5b69dc232c19d21a79d790c2522c",
-      "disease": "нодулярный дерматит",
-      "country": "Индия",
-      "distance_km": 3000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В центральном Кашмире зафиксирована вспышка нодулярного дерматита у скота",
-      "source_id": "bing-world-lsd",
-      "title": "Six Cattle Die as Lumpy Skin Disease Resurfaces in Central Kashmir",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f31296c4b4a891b29a9dc1f839f&url=https%3a%2f%2fkashmirlife.net%2fsix-cattle-die-as-lumpy-skin-disease-resurfaces-in-central-kashmir-453790%2f&c=5305272516231813381&mkt=en-us",
-      "published_at": "2026-09-26T08:00:00.000Z",
-      "created_at": "2026-10-08 12:06:54",
-      "ai_at": "2026-10-08 12:06:58"
-    },
-    {
-      "fingerprint": "fd7c3eb7e18859bb229841b59ff2a550d8c772ac",
-      "disease": "нодулярный дерматит",
-      "country": "Индия",
-      "distance_km": 3000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В центральном Кашмире зафиксированы подозрительные случаи нодулярного дерматита у скота",
-      "source_id": "bing-world-lsd",
-      "title": "Six Cattle Die as Lumpy Skin Disease Resurfaces in Central Kashmir",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac688d2b8344c8d95dc68435a61d937&url=https%3a%2f%2fkashmirlife.net%2fsix-cattle-die-as-lumpy-skin-disease-resurfaces-in-central-kashmir-453790%2f&c=5305272516231813381&mkt=en-us",
-      "published_at": "2026-09-26T08:00:00.000Z",
-      "created_at": "2026-10-08 12:06:54",
-      "ai_at": "2026-10-08 12:07:02"
+      "ai_at": "2026-10-07 17:38:51",
+      "dup_count": 1
     }
   ]
 }
