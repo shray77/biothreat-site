@@ -1,7 +1,37 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-08T12:40:24.580Z",
+  "generated_at": "2026-10-08T14:42:25.002Z",
   "items": [
+    {
+      "fingerprint": "19cf9bb6d2cf290a94b5c3d7fd986c77ab3ef050",
+      "disease": "африканская чума свиней",
+      "country": "Намибия",
+      "distance_km": 6500,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "Европейский союз временно приостановил импорт мяса Намибии после вспышки африканской чумы свиней на 11 фермах в регионе Харас.",
+      "source_id": "bing-world-fmd",
+      "title": "EU Temporarily Suspends Namibian Meat Imports After Foot-and-Mouth Disease Outbreak",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7a226120f452eb324978abc123a1e&url=https%3a%2f%2fwww.ecofinagency.com%2fnews-industry%2f0810-59566-eu-temporarily-suspends-namibian-meat-imports-after-foot-and-mouth-disease-outbreak&c=13435839415304782338&mkt=en-us",
+      "published_at": "2026-10-08T06:23:00.000Z",
+      "created_at": "2026-10-08 14:40:53",
+      "ai_at": "2026-10-08 14:41:07"
+    },
+    {
+      "fingerprint": "133dfb3434de02cfe55f794509db6d6364e9f873",
+      "disease": "африканская чума свиней",
+      "country": "Намибия",
+      "distance_km": 6500,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "В Намибии усиливают меры по борьбе с эпидемией африканской чумы свиней в регионе //Кхарас.",
+      "source_id": "bing-world-fmd",
+      "title": "Namibia Moves to Contain Outbreak as EU Suspends Meat Imports",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7a226120f452eb324978abc123a1e&url=https%3a%2f%2fallafrica.com%2fview%2fgroup%2fmain%2fmain%2fid%2f00098362.html&c=800740393134333902&mkt=en-us",
+      "published_at": "2026-10-07T00:14:00.000Z",
+      "created_at": "2026-10-08 14:40:53",
+      "ai_at": "2026-10-08 14:41:18"
+    },
     {
       "fingerprint": "081afa7890b6133bbb5acde890064307dc95c3f7",
       "disease": "африканская чума свиней",
@@ -46,6 +76,21 @@
       "published_at": "2026-10-07T00:14:00.000Z",
       "created_at": "2026-10-07 17:36:33",
       "ai_at": "2026-10-07 17:36:36"
+    },
+    {
+      "fingerprint": "78fef5f8082426c9c197df6fe6c4ff723d00fead",
+      "disease": "африканская чума свиней",
+      "country": "Намибия",
+      "distance_km": 6500,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "Президент Намибии обратилась к населению с призывом к единству в борьбе с африканской чумой свиней.",
+      "source_id": "bing-world-fmd",
+      "title": "President Nandi-Ndaitwah addresses foot-and-mouth disease outbreak and calls for national cooperation",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7a226120f452eb324978abc123a1e&url=https%3a%2f%2fwww.msn.com%2fen-xl%2fmoney%2fgeneral%2fpresident-nandi-ndaitwah-addresses-foot-and-mouth-disease-outbreak-and-calls-for-national-cooperation%2far-AA2dIo4j&c=6359919209810789798&mkt=en-us",
+      "published_at": "2026-10-06T21:02:04.000Z",
+      "created_at": "2026-10-08 14:40:53",
+      "ai_at": "2026-10-08 14:41:29"
     },
     {
       "fingerprint": "e7f097ab91b5b6580b758810e5d6f65f10a72b41",
@@ -151,6 +196,21 @@
       "published_at": "2026-10-06T14:53:00.000Z",
       "created_at": "2026-10-07 17:36:33",
       "ai_at": "2026-10-07 17:36:48"
+    },
+    {
+      "fingerprint": "d5bc2b271d6d30a6720e0c8b8a19da77b5b1a33c",
+      "disease": "африканская чума свиней",
+      "country": "Китай",
+      "distance_km": 0,
+      "level": "граница",
+      "verdict": "probable",
+      "ai_summary": "В Китае опасаются, что заболевшие свиньи из Лаоса могут проникнуть в страну",
+      "source_id": "bing-world-fmd",
+      "title": "Report: Diseased Pigs From Laos Allegedly Enter China for Processing Amid ASF Outbreak",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7a226120f452eb324978abc123a1e&url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&c=11293811299519378751&mkt=en-us",
+      "published_at": "2026-10-06T14:09:00.000Z",
+      "created_at": "2026-10-08 14:40:53",
+      "ai_at": "2026-10-08 14:41:38"
     },
     {
       "fingerprint": "ff7f65b828ce7d6de3e254b80f44c673de746fc0",
@@ -288,6 +348,21 @@
       "ai_at": "2026-10-07 17:37:07"
     },
     {
+      "fingerprint": "0757b2d5b40a123f8bc019231ab8cac467f013c8",
+      "disease": "африканская чума свиней",
+      "country": "Европа",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Европейский союз запретил импорт говядины из Намибии из-за африканской чумы свиней",
+      "source_id": "bing-world-fmd",
+      "title": "EU suspends beef exports from Namibia due to foot and mouth disease",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7a226120f452eb324978abc123a1e&url=https%3a%2f%2fwww.rfi.fr%2fen%2finternational%2f20261006-eu-suspends-beef-exports-from-namibia-due-to-foot-and-mouth-disease&c=14068924569709245842&mkt=en-us",
+      "published_at": "2026-10-06T08:17:00.000Z",
+      "created_at": "2026-10-08 14:40:53",
+      "ai_at": "2026-10-08 14:41:44"
+    },
+    {
       "fingerprint": "cd1fa3d1fb544a0db35c761612af76578275dd7e",
       "disease": "ящур",
       "country": "Намибия",
@@ -318,6 +393,21 @@
       "ai_at": "2026-10-08 11:39:07"
     },
     {
+      "fingerprint": "7c5052d93bbb63a4e53580329b700003fb2fc210",
+      "disease": "африканская чума свиней",
+      "country": "Намибия",
+      "distance_km": 6500,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "В Намибии возможен возобновление аукционов животных после локализации вспышки африканской чумы свиней.",
+      "source_id": "bing-world-fmd",
+      "title": "FMD auctions could resume after outbreak contained",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7a226120f452eb324978abc123a1e&url=https%3a%2f%2finformante.web.na%2f%3fp%3d401962&c=8785443750998355921&mkt=en-us",
+      "published_at": "2026-10-06T07:03:00.000Z",
+      "created_at": "2026-10-08 14:40:53",
+      "ai_at": "2026-10-08 14:41:52"
+    },
+    {
       "fingerprint": "bb60d9201c07278d3baff91e0d61936fae16f396",
       "disease": "африканская чума свиней",
       "country": "Намибия",
@@ -346,6 +436,21 @@
       "published_at": "2026-10-06T07:03:00.000Z",
       "created_at": "2026-10-08 11:38:10",
       "ai_at": "2026-10-08 11:39:18"
+    },
+    {
+      "fingerprint": "0da758f06f33a52ea16d8fb1c342ee2f0df71f72",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-fmd",
+      "title": "Foot-and-mouth disease vaccine privatisation long overdue, say farmers, experts",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7a226120f452eb324978abc123a1e&url=https%3a%2f%2fwww.dailymaverick.co.za%2farticle%2f2026-10-06-foot-and-mouth-disease-vaccine-privatisation-long-overdue-say-farmers-experts%2f&c=1658247757765524833&mkt=en-us",
+      "published_at": "2026-10-06T04:24:00.000Z",
+      "created_at": "2026-10-08 14:40:53",
+      "ai_at": "2026-10-08 14:41:56"
     },
     {
       "fingerprint": "efb39daf07f2bb31bf11fe3a46616d9d0b73f0b4",
@@ -468,6 +573,21 @@
       "ai_at": "2026-10-07 17:37:14"
     },
     {
+      "fingerprint": "2deb0921369afeae10e8a0162ed4b7cbd766637f",
+      "disease": "африканская чума свиней",
+      "country": "Намибия",
+      "distance_km": 6500,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "Европейский Союз приостановил импорт свежего мяса говядины, овец и коз, а также некоторых переработанных мясопродуктов из Намибии",
+      "source_id": "bing-world-fmd",
+      "title": "EU suspends meat imports from Namibia over foot and mouth disease outbreak",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7a226120f452eb324978abc123a1e&url=https%3a%2f%2fednews.net%2fen%2feu-suspends-meat-imports-from-namibia-over-foot-and-mouth-disease-outbreak%2f&c=10014401820659591168&mkt=en-us",
+      "published_at": "2026-10-06T01:09:00.000Z",
+      "created_at": "2026-10-08 14:40:53",
+      "ai_at": "2026-10-08 14:42:15"
+    },
+    {
       "fingerprint": "f202dc2906357f710579a9230cfdbd20f81e14d8",
       "disease": "африканская чума свиней",
       "country": "Намибия",
@@ -541,6 +661,21 @@
       "published_at": "2026-10-06T00:27:00.000Z",
       "created_at": "2026-10-08 11:38:10",
       "ai_at": "2026-10-08 12:07:32"
+    },
+    {
+      "fingerprint": "6f99bad7ff6b3d226980540bfe8807f28d709be5",
+      "disease": "африканская чума свиней",
+      "country": "Намибия",
+      "distance_km": 6500,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "Потенциальное влияние на рынок мяса в Южно-Африканской Республике",
+      "source_id": "bing-world-fmd",
+      "title": "Namibia FMD outbreak could drive up SA red meat prices",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7a226120f452eb324978abc123a1e&url=https%3a%2f%2fwww.farmersweekly.co.za%2fagri-news%2fafrica%2fnamibia-fmd-outbreak-could-drive-up-sa-red-meat-prices%2f&c=12042889160393093413&mkt=en-us",
+      "published_at": "2026-10-05T22:00:00.000Z",
+      "created_at": "2026-10-08 14:40:53",
+      "ai_at": "2026-10-08 14:42:24"
     },
     {
       "fingerprint": "83a0631126586c4c3d2f789a9cb2c4ce612e917a",
