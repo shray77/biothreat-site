@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-09T06:42:07.855Z",
+  "generated_at": "2026-10-09T08:42:07.999Z",
   "items": [
     {
       "fingerprint": "8cbdf175e1ce003094437224794d8bf01ff9526f",
@@ -126,7 +126,7 @@
       "published_at": "2026-10-08T06:23:00.000Z",
       "created_at": "2026-10-09 06:40:43",
       "ai_at": "2026-10-09 06:40:54",
-      "dup_count": 24,
+      "dup_count": 25,
       "dups": [
         {
           "title": "EU Temporarily Suspends Namibian Meat Imports After Foot-and-Mouth Disease Outbreak",
@@ -857,22 +857,6 @@
           "published_at": "2026-10-06T01:42:00.000Z"
         }
       ]
-    },
-    {
-      "fingerprint": "df22985e2e809f400c6066de33300725bd256c04",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
-      "source_id": "bing-world-fmd",
-      "title": "EU suspends meat imports from Namibia over foot and mouth disease outbreak",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8834160c84484991edb247f4db391&url=https%3a%2f%2fednews.net%2fen%2feu-suspends-meat-imports-from-namibia-over-foot-and-mouth-disease-outbreak%2f&c=10014401820659591168&mkt=en-us",
-      "published_at": "2026-10-06T01:09:00.000Z",
-      "created_at": "2026-10-09 06:40:43",
-      "ai_at": null,
-      "dup_count": 1
     }
   ]
 }
