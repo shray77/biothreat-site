@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-09T02:42:09.476Z",
+  "generated_at": "2026-10-09T04:41:15.136Z",
   "items": [
     {
       "fingerprint": "0c18b6f62b8c34e9c150893bd256ba9c72a25846",
@@ -114,7 +114,7 @@
       "published_at": "2026-10-08T06:23:00.000Z",
       "created_at": "2026-10-09 02:40:39",
       "ai_at": "2026-10-09 02:40:48",
-      "dup_count": 27,
+      "dup_count": 28,
       "dups": [
         {
           "title": "EU Temporarily Suspends Namibian Meat Imports After Foot-and-Mouth Disease Outbreak",
@@ -744,7 +744,7 @@
       "published_at": "2026-10-06T01:42:00.000Z",
       "created_at": "2026-10-09 02:40:39",
       "ai_at": "2026-10-09 02:42:04",
-      "dup_count": 5,
+      "dup_count": 6,
       "dups": [
         {
           "title": "Anantapur bird flu outbreak: 2,500 chickens dead, 3-month curbs",
@@ -769,6 +769,12 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb57ab949478d695001a90a6773&url=https%3a%2f%2fhyderabadmail.com%2fanantapur-siddarampuram-bird-flu-2500-chickens-die%2f&c=976459026237086365&mkt=en-us",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-06T01:42:00.000Z"
+        },
+        {
+          "title": "Bird flu: Anantapur outbreak raises fresh concerns in state",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac84ae0b77f4c3db0a8df8261d6aec2&url=https%3a%2f%2ftimesofindia.indiatimes.com%2fcity%2fvijayawada%2fbird-flu-anantapur-outbreak-raises-fresh-concerns-in-state%2farticleshow%2f134714984.cms&c=16159037176928069154&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-05T11:12:00.000Z"
         }
       ]
     },
@@ -853,22 +859,6 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "a951c6307bd96b8db394d3d7d5646cdbaa886099",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
-      "source_id": "bing-world-fmd",
-      "title": "Namibia FMD outbreak could drive up SA red meat prices",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac84adf02be490b8407974e25971d3c&url=https%3a%2f%2fwww.farmersweekly.co.za%2fagri-news%2fafrica%2fnamibia-fmd-outbreak-could-drive-up-sa-red-meat-prices%2f&c=12042889160393093413&mkt=en-us",
-      "published_at": "2026-10-05T22:00:00.000Z",
-      "created_at": "2026-10-09 02:40:39",
-      "ai_at": null,
-      "dup_count": 1
-    },
-    {
       "fingerprint": "5ee902fc6a6fd8e53b807d28bbbbf38c1bfb2dec",
       "disease": "нодулярный дерматит",
       "country": "Франция",
@@ -893,35 +883,19 @@
       ]
     },
     {
-      "fingerprint": "faf297718465ffa60fc75f823a0f835a88e434f8",
-      "disease": null,
-      "country": null,
+      "fingerprint": "c1b8fb7cc8cdf1707d6672536ba9d311f3fbd75b",
+      "disease": "грипп птиц",
+      "country": "Андхра-Прадеш",
       "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "Public advice over Ness bird flu outbreak",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac84ae0b77f4c3db0a8df8261d6aec2&url=https%3a%2f%2fwelovestornoway.com%2findex.php%2farticles%2f43930-public-advice-over-ness-bird-flu-outbreak&c=17530613513474795213&mkt=en-us",
-      "published_at": "2026-10-05T15:44:00.000Z",
-      "created_at": "2026-10-09 02:40:39",
-      "ai_at": null,
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "9fc847416be92c03592b0953059f0c374a798ad0",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "В штате Андхра-Прадеш зафиксирован повторный всплеск птичьего гриппа",
       "source_id": "bing-world-ai",
       "title": "Bird flu: Anantapur outbreak raises fresh concerns in state",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac84ae0b77f4c3db0a8df8261d6aec2&url=https%3a%2f%2ftimesofindia.indiatimes.com%2fcity%2fvijayawada%2fbird-flu-anantapur-outbreak-raises-fresh-concerns-in-state%2farticleshow%2f134714984.cms&c=16159037176928069154&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7f66b0d1b41c89889ff7ba81987bd&url=https%3a%2f%2ftimesofindia.indiatimes.com%2fcity%2fvijayawada%2fbird-flu-anantapur-outbreak-raises-fresh-concerns-in-state%2farticleshow%2f134714984.cms&c=16159037176928069154&mkt=en-us",
       "published_at": "2026-10-05T11:12:00.000Z",
-      "created_at": "2026-10-09 02:40:39",
-      "ai_at": null,
+      "created_at": "2026-10-08 20:40:38",
+      "ai_at": "2026-10-08 20:41:49",
       "dup_count": 1
     }
   ]
