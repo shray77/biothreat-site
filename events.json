@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-08T22:41:25.912Z",
+  "generated_at": "2026-10-09T00:41:05.853Z",
   "items": [
+    {
+      "fingerprint": "d4f5d166540175e33550ce60b007e032e696381b",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Компания Avicena Systems получила $2 миллиона на разработку теста на грипп птиц и нодулярный дерматит, который сможет выявить болезнь за 15 минут.",
+      "source_id": "bing-world-lsd",
+      "title": "Livestock disease test wins $2m in federal backing",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac82ea9b88944e8ab787d3ca961efd8&url=https%3a%2f%2fpetnews.com.au%2flivestock-disease-test-wins-2m-in-federal-backing%2f&c=6515758475245743656&mkt=en-us",
+      "published_at": "2026-10-08T15:30:00.000Z",
+      "created_at": "2026-10-09 00:40:38",
+      "ai_at": "2026-10-09 00:40:43",
+      "dup_count": 1
+    },
     {
       "fingerprint": "ff6560d58c683b941f5e42b3e0545a4ff15f1926",
       "disease": "грипп птиц",
@@ -663,6 +679,22 @@
       "dup_count": 1
     },
     {
+      "fingerprint": "dc4cd924659e6f770d8f3e985848273f283e5a42",
+      "disease": "нодулярный дерматит",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Новый случай нодулярного дерматита у скота",
+      "source_id": "bing-world-lsd",
+      "title": "Before the Nodules Appear: Can India Stop the Next Lumpy Skin Disease Outbreak?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac82ea9b88944e8ab787d3ca961efd8&url=https%3a%2f%2fenewsroom.in%2flumpy-skin-disease-india-2026-outbreak-risk-prevention%2f&c=5648512348746989927&mkt=en-us",
+      "published_at": "2026-10-06T00:27:00.000Z",
+      "created_at": "2026-10-09 00:40:38",
+      "ai_at": "2026-10-09 00:40:45",
+      "dup_count": 1
+    },
+    {
       "fingerprint": "6bfc54436840d9a7cb5dc35598c426c7440b5bed",
       "disease": "нодулярный дерматит",
       "country": null,
@@ -946,7 +978,7 @@
       "published_at": "2026-10-05T00:36:00.000Z",
       "created_at": "2026-10-08 20:40:38",
       "ai_at": "2026-10-08 22:40:52",
-      "dup_count": 7,
+      "dup_count": 5,
       "dups": [
         {
           "title": "Bird flu returns to Great Britain with first outbreak of the season",
@@ -969,18 +1001,6 @@
         {
           "title": "UK records first bird flu outbreak of the season",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7f66b0d1b41c89889ff7ba81987bd&url=https%3a%2f%2fwww.fwi.co.uk%2flivestock%2fhealth-welfare%2fuk-records-first-bird-flu-outbreak-of-the-season&c=10313092179495897162&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-04T21:31:00.000Z"
-        },
-        {
-          "title": "UK records first bird flu outbreak of the season",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7b942e67141899e8767dca72485ad&url=https%3a%2f%2fwww.fwi.co.uk%2flivestock%2fhealth-welfare%2fuk-records-first-bird-flu-outbreak-of-the-season&c=10313092179495897162&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-04T21:31:00.000Z"
-        },
-        {
-          "title": "UK records first bird flu outbreak of the season",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f30f746448f84f4f11384c17b49&url=https%3a%2f%2fwww.fwi.co.uk%2flivestock%2fhealth-welfare%2fuk-records-first-bird-flu-outbreak-of-the-season&c=10313092179495897162&mkt=en-us",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-04T21:31:00.000Z"
         }
