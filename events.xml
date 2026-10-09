@@ -6,18 +6,32 @@
     <description>Радар трансграничных болезней животных: ящур, АЧС, грипп птиц, нодулярный дерматит — с оценкой угрозы для РФ</description>
     <language>ru</language>
     <item>
-      <title>[фон] африканская чума свиней — Намибия: FMD outbreak: 17 farms confirmed infected in //Kharas</title>
-      <link>http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac90fe20dbd41a1993a05a05e0c3917&amp;url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&amp;c=1179215140205991697&amp;mkt=en-us</link>
-      <guid isPermaLink="false">9049ea598b68b1e1b7b95fd57a2d18c6bf394322</guid>
-      <pubDate>Fri, 09 Oct 2026 00:15:00 GMT</pubDate>
-      <description>В //Кхарасе выявлено 17 заражённых ферм. · verdict: confirmed · FMD outbreak: 17 farms confirmed infected in //Kharas</description>
+      <title>[фон] грипп птиц — США: Avian influenza confirmed in dairy cattle in Washington for the first time</title>
+      <link>http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac962038b674169bceebcaffb2b0b0d&amp;url=https%3a%2f%2fwww.dvm360.com%2fview%2favian-influenza-confirmed-in-dairy-cattle-in-washington-for-the-first-time&amp;c=13268844438775985935&amp;mkt=en-us</link>
+      <guid isPermaLink="false">cb41090e9986ddd5d7504494983852d33c575cfb</guid>
+      <pubDate>Fri, 09 Oct 2026 14:03:00 GMT</pubDate>
+      <description>Зафиксирована вспышка Highly pathogenic avian influenza в молочном скоте в штате Вашингтон · verdict: confirmed · Avian influenza confirmed in dairy cattle in Washington for the first time</description>
     </item>
     <item>
-      <title>[фон] грипп птиц — США: Avian influenza detected at two Yakima County dairy farms</title>
-      <link>http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac90fe443cf42f2a2dc8d35df04aa6b&amp;url=https%3a%2f%2fwww.yakimaherald.com%2fnews%2flocal%2favian-influenza-detected-at-two-yakima-county-dairy-farms%2farticle_7dc797b5-e06a-487e-93b2-c403a1258a7b.html&amp;c=17984205846308169122&amp;mkt=en-us</link>
-      <guid isPermaLink="false">a6db0508a1a7c7539def5d4a7dff62379ec88716</guid>
-      <pubDate>Thu, 08 Oct 2026 16:45:00 GMT</pubDate>
-      <description>На двух молочном животноводческом ферме в штате Вашингтон выявлен грипп птиц. · verdict: probable · Avian influenza detected at two Yakima County dairy farms</description>
+      <title>[не определено] грипп птиц — Суринам: Guyana steps up bird flu surveillance amid outbreak in Suriname</title>
+      <link>http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac962038b674169bceebcaffb2b0b0d&amp;url=https%3a%2f%2fwww.jamaicaobserver.com%2f2026%2f10%2f09%2fguyana-steps-bird-flu-surveillance-amid-outbreak-suriname%2f&amp;c=3724265399978386093&amp;mkt=en-us</link>
+      <guid isPermaLink="false">be557676bbeaefb1266db588c11ce462c6d94a09</guid>
+      <pubDate>Fri, 09 Oct 2026 08:41:00 GMT</pubDate>
+      <description>Власти Гайаны усилили мониторинг и приняли меры предосторожности из-за вспышки гриппа птиц в Суринаме · verdict: probable · Guyana steps up bird flu surveillance amid outbreak in Suriname</description>
+    </item>
+    <item>
+      <title>[не определено] африканская чума свиней: African Swine Fever Situation Update</title>
+      <link>http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac96202a7f74eddbc7896e54474d15b&amp;url=https%3a%2f%2fglobalriskatlas.com%2fen%2fafrican-swine-fever-situation-update%2f&amp;c=17383024710182895256&amp;mkt=en-us</link>
+      <guid isPermaLink="false">c940bdbc8688dca048db440d8f4d8c7d2cb061b5</guid>
+      <pubDate>Fri, 09 Oct 2026 01:53:00 GMT</pubDate>
+      <description>Оповещение о ситуации с африканской чумой свиней · verdict: probable · African Swine Fever Situation Update</description>
+    </item>
+    <item>
+      <title>[фон] африканская чума свиней — Намибия: FMD outbreak: 17 farms confirmed infected in //Kharas</title>
+      <link>http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac96202ff224b0d9a51d794b485f87f&amp;url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&amp;c=1179215140205991697&amp;mkt=en-us</link>
+      <guid isPermaLink="false">df04781f1aec580fe1cd0bfb0cbb63823ebdb827</guid>
+      <pubDate>Fri, 09 Oct 2026 00:15:00 GMT</pubDate>
+      <description>Подтверждено заражение 17 ферм в регионе //Kharas · verdict: confirmed · FMD outbreak: 17 farms confirmed infected in //Kharas</description>
     </item>
     <item>
       <title>[не определено] грипп птиц: Avian influenza detected at two Yakima County dairy farms</title>
@@ -25,6 +39,13 @@
       <guid isPermaLink="false">0c18b6f62b8c34e9c150893bd256ba9c72a25846</guid>
       <pubDate>Thu, 08 Oct 2026 16:45:00 GMT</pubDate>
       <description>Детектирован грипп птиц на двух молочных фермах округа Якима · verdict: probable · Avian influenza detected at two Yakima County dairy farms</description>
+    </item>
+    <item>
+      <title>[не определено] Livestock disease test wins $2m in federal backing</title>
+      <link>http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac96200086b4e429b3d697a8ff651ee&amp;url=https%3a%2f%2fpetnews.com.au%2flivestock-disease-test-wins-2m-in-federal-backing%2f&amp;c=6515758475245743656&amp;mkt=en-us</link>
+      <guid isPermaLink="false">b163d80c35157704a38574c2b8000f3b0cbd48a2</guid>
+      <pubDate>Thu, 08 Oct 2026 15:30:00 GMT</pubDate>
+      <description>verdict: probable · Livestock disease test wins $2m in federal backing</description>
     </item>
     <item>
       <title>[не определено] Livestock disease test wins $2m in federal backing</title>
@@ -91,24 +112,31 @@
     </item>
     <item>
       <title>[наблюдение] африканская чума свиней — Сербия: African swine fever outbreaks disrupt Serbia's pork market</title>
-      <link>http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac90fe382dc4faab1d259821a085edd&amp;url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fafrican-swine-fever-outbreaks-disrupt-serbia-s-pork-market&amp;c=15045505804836909516&amp;mkt=en-us</link>
-      <guid isPermaLink="false">083baeba53c56cc04b98e385a4693c6fd21c8f0b</guid>
+      <link>http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac96202a7f74eddbc7896e54474d15b&amp;url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fafrican-swine-fever-outbreaks-disrupt-serbia-s-pork-market&amp;c=15045505804836909516&amp;mkt=en-us</link>
+      <guid isPermaLink="false">8fa023f942cbcb456e776a833bb627f9d5911124</guid>
       <pubDate>Tue, 06 Oct 2026 14:53:00 GMT</pubDate>
-      <description>В Сербии объявлена чрезвычайная ситуация из-за африканской чумы свиней, которая распространилась на сотни ферм. · verdict: confirmed · African swine fever outbreaks disrupt Serbia's pork market</description>
+      <description>В Сербии объявлен чрезвычайный режим из-за вспышки африканской чумы свиней · verdict: confirmed · African swine fever outbreaks disrupt Serbia's pork market</description>
     </item>
     <item>
       <title>[граница] африканская чума свиней — Китай: Report: Diseased Pigs From Laos Allegedly Enter China for Processing Amid ASF Outbreak</title>
-      <link>http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac90fe382dc4faab1d259821a085edd&amp;url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&amp;c=11293811299519378751&amp;mkt=en-us</link>
-      <guid isPermaLink="false">f36d839eba49f1176214a445a4a1e209eddd3405</guid>
+      <link>http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac96202a7f74eddbc7896e54474d15b&amp;url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&amp;c=11293811299519378751&amp;mkt=en-us</link>
+      <guid isPermaLink="false">5ae912660d571edaecfd6c578a92556686b25bb8</guid>
       <pubDate>Tue, 06 Oct 2026 14:09:00 GMT</pubDate>
-      <description>Из Лаоса в Китай, возможно, завезли больных свиней на переработку в условиях вспышки африканской чумы свиней · verdict: probable · Report: Diseased Pigs From Laos Allegedly Enter China for Processing Amid ASF Outbreak</description>
+      <description>Из Лаоса в Китай могут быть незаконно ввезены больные свиньи во время вспышки африканской чумы свиней в Вьетнаме и Лаосе · verdict: probable · Report: Diseased Pigs From Laos Allegedly Enter China for Processing Amid ASF Outbreak</description>
     </item>
     <item>
       <title>[не определено] африканская чума свиней — Лаос: Report: Diseased Pigs From Laos Allegedly Enter China for Processing Amid ASF Outbreak</title>
-      <link>http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac8834215a14ff0b7b8b2900d08dedd&amp;url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&amp;c=11293811299519378751&amp;mkt=en-us</link>
-      <guid isPermaLink="false">298983c2970f7bed31b0d04c5599d4967d6f611b</guid>
+      <link>http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac96202ff224b0d9a51d794b485f87f&amp;url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&amp;c=11293811299519378751&amp;mkt=en-us</link>
+      <guid isPermaLink="false">5d156d46e9cfe561dba402a06a1d3300a6f1596b</guid>
       <pubDate>Tue, 06 Oct 2026 14:09:00 GMT</pubDate>
-      <description>Предположение о том, что больные свиньи из Лаоса могут ввозить в Китай для переработки · verdict: probable · Report: Diseased Pigs From Laos Allegedly Enter China for Processing Amid ASF Outbreak</description>
+      <description>В Китае подозревают, что в страну могут попасть больные свиньи из Лаоса. · verdict: probable · Report: Diseased Pigs From Laos Allegedly Enter China for Processing Amid ASF Outbreak</description>
+    </item>
+    <item>
+      <title>[не определено] NIA Veterinary &amp; Livestock Division receive training to strengthen response to African Swine Fever</title>
+      <link>http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac96202a7f74eddbc7896e54474d15b&amp;url=https%3a%2f%2fwww.winnmediaskn.com%2fnia-veterinary-livestock-division-receive-training-to-strengthen-response-to-african-swine-fever%2f&amp;c=6174612790158068676&amp;mkt=en-us</link>
+      <guid isPermaLink="false">d59a7611670edb50127ae43438c1a7a1f64c2d20</guid>
+      <pubDate>Tue, 06 Oct 2026 09:58:00 GMT</pubDate>
+      <description>Сотрудники Невисской администрации получили обучение для укрепления реагирования на африканскую свиную болезнь · verdict: probable · NIA Veterinary &amp; Livestock Division receive training to strengthen response to African Swine Fever</description>
     </item>
     <item>
       <title>[не определено] африканская чума свиней: NIA Veterinary &amp; Livestock Division receive training to strengthen response to African Swine Fever</title>
@@ -167,25 +195,18 @@
       <description>Ветеринарное и сельскохозяйственное управление островов Невис получает обучение для укрепления реагирования на африканскую свиную чуму · verdict: probable · NIA Veterinary &amp; Livestock Division receive training to strengthen response to African Swine Fever</description>
     </item>
     <item>
+      <title>[фон] США: Avian influenza spreads beyond backyard coop on Illinois farm</title>
+      <link>http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac962038b674169bceebcaffb2b0b0d&amp;url=https%3a%2f%2fpantagraph.com%2fnews%2fcommunity%2farticle_2d63d6f0-a91f-5d13-acf4-25c14650054c.html&amp;c=8253917350783322877&amp;mkt=en-us</link>
+      <guid isPermaLink="false">fa634aec120db6d43e26d187b11da98d8e50641f</guid>
+      <pubDate>Tue, 06 Oct 2026 08:22:00 GMT</pubDate>
+      <description>Заражение грызунов и кошки птичьим гриппом выявлено на ферме в штате Иллинойс. · verdict: probable · Avian influenza spreads beyond backyard coop on Illinois farm</description>
+    </item>
+    <item>
       <title>[фон] авиарная инфекционная болезнь — Иллинойс: Avian influenza spreads beyond backyard coop on Illinois farm</title>
       <link>http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac66cb57ab949478d695001a90a6773&amp;url=https%3a%2f%2fpantagraph.com%2fnews%2fcommunity%2farticle_2d63d6f0-a91f-5d13-acf4-25c14650054c.html&amp;c=8253917350783322877&amp;mkt=en-us</link>
       <guid isPermaLink="false">556389a86d3f2abb5bc1be4b8dc7baa26653ce50</guid>
       <pubDate>Tue, 06 Oct 2026 08:22:00 GMT</pubDate>
       <description>В Иллинойсе обнаружено распространение H5N1 авиарной инфекционной болезни от птицы на кошку и крысу, подчеркнувшие адаптацию к млекопитающим и риски биосовмести · verdict: confirmed · Avian influenza spreads beyond backyard coop on Illinois farm</description>
-    </item>
-    <item>
-      <title>[наблюдение] африканская чума свиней — Европа: EU suspends beef exports from Namibia due to foot and mouth disease</title>
-      <link>http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac7a226120f452eb324978abc123a1e&amp;url=https%3a%2f%2fwww.rfi.fr%2fen%2finternational%2f20261006-eu-suspends-beef-exports-from-namibia-due-to-foot-and-mouth-disease&amp;c=14068924569709245842&amp;mkt=en-us</link>
-      <guid isPermaLink="false">0757b2d5b40a123f8bc019231ab8cac467f013c8</guid>
-      <pubDate>Tue, 06 Oct 2026 08:17:00 GMT</pubDate>
-      <description>Европейский союз запретил импорт говядины из Намибии из-за африканской чумы свиней · verdict: probable · EU suspends beef exports from Namibia due to foot and mouth disease</description>
-    </item>
-    <item>
-      <title>[наблюдение] африканская чума свиней — Вьетнам: Phu Tho records 44 African swine fever outbreaks</title>
-      <link>http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6ac90fe382dc4faab1d259821a085edd&amp;url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fphu-tho-ghi-nhan-44-o-dich-ta-lon-chau-phi-1778463.ldo&amp;c=14538535557131450340&amp;mkt=en-us</link>
-      <guid isPermaLink="false">f729bcdc0fbf9aae0c07601b2204a3b0fd1c538f</guid>
-      <pubDate>Tue, 06 Oct 2026 07:18:00 GMT</pubDate>
-      <description>В провинции Фу Тхо за первые 9 месяцев года зарегистрировано 44 случая африканской чумы свиней, уничтожено 6 300 свиней. · verdict: confirmed · Phu Tho records 44 African swine fever outbreaks</description>
     </item>
   </channel>
 </rss>
