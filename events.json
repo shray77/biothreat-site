@@ -1,28 +1,124 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-09T14:41:10.853Z",
+  "generated_at": "2026-10-09T16:42:12.613Z",
   "items": [
     {
-      "fingerprint": "8cbdf175e1ce003094437224794d8bf01ff9526f",
+      "fingerprint": "9049ea598b68b1e1b7b95fd57a2d18c6bf394322",
+      "disease": "африканская чума свиней",
+      "country": "Намибия",
+      "distance_km": 6500,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "В //Кхарасе выявлено 17 заражённых ферм.",
+      "source_id": "bing-world-fmd",
+      "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac90fe20dbd41a1993a05a05e0c3917&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
+      "published_at": "2026-10-09T00:15:00.000Z",
+      "created_at": "2026-10-09 16:40:43",
+      "ai_at": "2026-10-09 16:40:47",
+      "dup_count": 27,
+      "dups": [
+        {
+          "title": "EU Temporarily Suspends Namibian Meat Imports After Foot-and-Mouth Disease Outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac90fe20dbd41a1993a05a05e0c3917&url=https%3a%2f%2fwww.ecofinagency.com%2fnews-industry%2f0810-59566-eu-temporarily-suspends-namibian-meat-imports-after-foot-and-mouth-disease-outbreak&c=13435839415304782338&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-08T06:23:00.000Z"
+        },
+        {
+          "title": "EU Temporarily Suspends Namibian Meat Imports After Foot-and-Mouth Disease Outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8c17bfc0a4e85be77eb5c5e7b36ff&url=https%3a%2f%2fwww.ecofinagency.com%2fnews-industry%2f0810-59566-eu-temporarily-suspends-namibian-meat-imports-after-foot-and-mouth-disease-outbreak&c=13435839415304782338&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-08T06:23:00.000Z"
+        },
+        {
+          "title": "EU Temporarily Suspends Namibian Meat Imports After Foot-and-Mouth Disease Outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8834160c84484991edb247f4db391&url=https%3a%2f%2fwww.ecofinagency.com%2fnews-industry%2f0810-59566-eu-temporarily-suspends-namibian-meat-imports-after-foot-and-mouth-disease-outbreak&c=13435839415304782338&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-08T06:23:00.000Z"
+        },
+        {
+          "title": "EU Temporarily Suspends Namibian Meat Imports After Foot-and-Mouth Disease Outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac84adf02be490b8407974e25971d3c&url=https%3a%2f%2fwww.ecofinagency.com%2fnews-industry%2f0810-59566-eu-temporarily-suspends-namibian-meat-imports-after-foot-and-mouth-disease-outbreak&c=13435839415304782338&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-08T06:23:00.000Z"
+        },
+        {
+          "title": "EU Temporarily Suspends Namibian Meat Imports After Foot-and-Mouth Disease Outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7f66a4d0746dfb8c4adf2e43558fe&url=https%3a%2f%2fwww.ecofinagency.com%2fnews-industry%2f0810-59566-eu-temporarily-suspends-namibian-meat-imports-after-foot-and-mouth-disease-outbreak&c=13435839415304782338&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-08T06:23:00.000Z"
+        },
+        {
+          "title": "EU Temporarily Suspends Namibian Meat Imports After Foot-and-Mouth Disease Outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7a226120f452eb324978abc123a1e&url=https%3a%2f%2fwww.ecofinagency.com%2fnews-industry%2f0810-59566-eu-temporarily-suspends-namibian-meat-imports-after-foot-and-mouth-disease-outbreak&c=13435839415304782338&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-08T06:23:00.000Z"
+        },
+        {
+          "title": "Namibia Moves to Contain Outbreak as EU Suspends Meat Imports",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac90fe20dbd41a1993a05a05e0c3917&url=https%3a%2f%2fallafrica.com%2fview%2fgroup%2fmain%2fmain%2fid%2f00098362.html&c=800740393134333902&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-07T00:14:00.000Z"
+        },
+        {
+          "title": "Namibia Moves to Contain Outbreak as EU Suspends Meat Imports",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8834160c84484991edb247f4db391&url=https%3a%2f%2fallafrica.com%2fview%2fgroup%2fmain%2fmain%2fid%2f00098362.html&c=800740393134333902&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-07T00:14:00.000Z"
+        },
+        {
+          "title": "Namibia Moves to Contain Outbreak as EU Suspends Meat Imports",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac84adf02be490b8407974e25971d3c&url=https%3a%2f%2fallafrica.com%2fview%2fgroup%2fmain%2fmain%2fid%2f00098362.html&c=800740393134333902&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-07T00:14:00.000Z"
+        },
+        {
+          "title": "Namibia Moves to Contain Outbreak as EU Suspends Meat Imports",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7f66a4d0746dfb8c4adf2e43558fe&url=https%3a%2f%2fallafrica.com%2fview%2fgroup%2fmain%2fmain%2fid%2f00098362.html&c=800740393134333902&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-07T00:14:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "a6db0508a1a7c7539def5d4a7dff62379ec88716",
       "disease": "грипп птиц",
       "country": "США",
       "distance_km": 5000,
       "level": "фон",
       "verdict": "probable",
-      "ai_summary": "В двух фермах штата Вашингтон обнаружен грипп птиц.",
+      "ai_summary": "На двух молочном животноводческом ферме в штате Вашингтон выявлен грипп птиц.",
       "source_id": "bing-world-ai",
       "title": "Avian influenza detected at two Yakima County dairy farms",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac883451a4646ccb1682964a27a852f&url=https%3a%2f%2fwww.yakimaherald.com%2fnews%2flocal%2favian-influenza-detected-at-two-yakima-county-dairy-farms%2farticle_7dc797b5-e06a-487e-93b2-c403a1258a7b.html&c=17984205846308169122&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac90fe443cf42f2a2dc8d35df04aa6b&url=https%3a%2f%2fwww.yakimaherald.com%2fnews%2flocal%2favian-influenza-detected-at-two-yakima-county-dairy-farms%2farticle_7dc797b5-e06a-487e-93b2-c403a1258a7b.html&c=17984205846308169122&mkt=en-us",
       "published_at": "2026-10-08T16:45:00.000Z",
-      "created_at": "2026-10-09 06:40:43",
-      "ai_at": "2026-10-09 06:40:47",
-      "dup_count": 13,
+      "created_at": "2026-10-09 16:40:43",
+      "ai_at": "2026-10-09 16:40:50",
+      "dup_count": 17,
       "dups": [
+        {
+          "title": "Avian influenza detected at two Yakima County dairy farms",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac883451a4646ccb1682964a27a852f&url=https%3a%2f%2fwww.yakimaherald.com%2fnews%2flocal%2favian-influenza-detected-at-two-yakima-county-dairy-farms%2farticle_7dc797b5-e06a-487e-93b2-c403a1258a7b.html&c=17984205846308169122&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-08T16:45:00.000Z"
+        },
+        {
+          "title": "Multiple birds die at city zoos amid bird flu outbreak, officials say",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac90fe443cf42f2a2dc8d35df04aa6b&url=https%3a%2f%2fny1.com%2fnyc%2fall-boroughs%2fnews%2f2025%2f02%2f08%2f15-birds-die-of-bird-flu-at-city-zoos--officials-say&c=5111605619314766813&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-08T10:17:00.000Z"
+        },
         {
           "title": "Multiple birds die at city zoos amid bird flu outbreak, officials say",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7f66b0d1b41c89889ff7ba81987bd&url=https%3a%2f%2fny1.com%2fnyc%2fall-boroughs%2fnews%2f2025%2f02%2f08%2f15-birds-die-of-bird-flu-at-city-zoos--officials-say&c=5111605619314766813&mkt=en-us",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-08T10:17:00.000Z"
+        },
+        {
+          "title": "Washington confirms first detection of avian influenza in dairy cattle",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac90fe443cf42f2a2dc8d35df04aa6b&url=https%3a%2f%2fagr.wa.gov%2fabout-wsda%2fnews-and-media-relations%2fnews-releases%3farticle%3d47359&c=17074848773497059660&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-07T17:00:00.000Z"
         },
         {
           "title": "Washington confirms first detection of avian influenza in dairy cattle",
@@ -56,25 +152,7 @@
         },
         {
           "title": "Avian influenza spreads beyond backyard coop on Illinois farm",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8c17d65fa41e4a5957caa072b5348&url=https%3a%2f%2fpantagraph.com%2fnews%2fcommunity%2farticle_2d63d6f0-a91f-5d13-acf4-25c14650054c.html&c=8253917350783322877&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-06T08:22:00.000Z"
-        },
-        {
-          "title": "Avian influenza spreads beyond backyard coop on Illinois farm",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac883451a4646ccb1682964a27a852f&url=https%3a%2f%2fpantagraph.com%2fnews%2fcommunity%2farticle_2d63d6f0-a91f-5d13-acf4-25c14650054c.html&c=8253917350783322877&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-06T08:22:00.000Z"
-        },
-        {
-          "title": "Avian influenza spreads beyond backyard coop on Illinois farm",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac84ae0b77f4c3db0a8df8261d6aec2&url=https%3a%2f%2fpantagraph.com%2fnews%2fcommunity%2farticle_2d63d6f0-a91f-5d13-acf4-25c14650054c.html&c=8253917350783322877&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-06T08:22:00.000Z"
-        },
-        {
-          "title": "Avian influenza spreads beyond backyard coop on Illinois farm",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7f66b0d1b41c89889ff7ba81987bd&url=https%3a%2f%2fpantagraph.com%2fnews%2fcommunity%2farticle_2d63d6f0-a91f-5d13-acf4-25c14650054c.html&c=8253917350783322877&mkt=en-us",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac90fe443cf42f2a2dc8d35df04aa6b&url=https%3a%2f%2fpantagraph.com%2fnews%2fcommunity%2farticle_2d63d6f0-a91f-5d13-acf4-25c14650054c.html&c=8253917350783322877&mkt=en-us",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-06T08:22:00.000Z"
         }
@@ -143,84 +221,6 @@
       "created_at": "2026-10-09 10:40:39",
       "ai_at": "2026-10-09 10:40:45",
       "dup_count": 1
-    },
-    {
-      "fingerprint": "1abbaa6ccc2a04c4d59f075d38c6afa56aeccdbc",
-      "disease": "африканская чума свиней",
-      "country": "Намибия",
-      "distance_km": 6500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Евросоюз приостановил импорт мяса Намибии после вспышки африканской чумы свиней",
-      "source_id": "bing-world-fmd",
-      "title": "EU Temporarily Suspends Namibian Meat Imports After Foot-and-Mouth Disease Outbreak",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8c17bfc0a4e85be77eb5c5e7b36ff&url=https%3a%2f%2fwww.ecofinagency.com%2fnews-industry%2f0810-59566-eu-temporarily-suspends-namibian-meat-imports-after-foot-and-mouth-disease-outbreak&c=13435839415304782338&mkt=en-us",
-      "published_at": "2026-10-08T06:23:00.000Z",
-      "created_at": "2026-10-09 10:40:39",
-      "ai_at": "2026-10-09 10:40:49",
-      "dup_count": 28,
-      "dups": [
-        {
-          "title": "EU Temporarily Suspends Namibian Meat Imports After Foot-and-Mouth Disease Outbreak",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8834160c84484991edb247f4db391&url=https%3a%2f%2fwww.ecofinagency.com%2fnews-industry%2f0810-59566-eu-temporarily-suspends-namibian-meat-imports-after-foot-and-mouth-disease-outbreak&c=13435839415304782338&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-08T06:23:00.000Z"
-        },
-        {
-          "title": "EU Temporarily Suspends Namibian Meat Imports After Foot-and-Mouth Disease Outbreak",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac84adf02be490b8407974e25971d3c&url=https%3a%2f%2fwww.ecofinagency.com%2fnews-industry%2f0810-59566-eu-temporarily-suspends-namibian-meat-imports-after-foot-and-mouth-disease-outbreak&c=13435839415304782338&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-08T06:23:00.000Z"
-        },
-        {
-          "title": "EU Temporarily Suspends Namibian Meat Imports After Foot-and-Mouth Disease Outbreak",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7f66a4d0746dfb8c4adf2e43558fe&url=https%3a%2f%2fwww.ecofinagency.com%2fnews-industry%2f0810-59566-eu-temporarily-suspends-namibian-meat-imports-after-foot-and-mouth-disease-outbreak&c=13435839415304782338&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-08T06:23:00.000Z"
-        },
-        {
-          "title": "EU Temporarily Suspends Namibian Meat Imports After Foot-and-Mouth Disease Outbreak",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7a226120f452eb324978abc123a1e&url=https%3a%2f%2fwww.ecofinagency.com%2fnews-industry%2f0810-59566-eu-temporarily-suspends-namibian-meat-imports-after-foot-and-mouth-disease-outbreak&c=13435839415304782338&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-08T06:23:00.000Z"
-        },
-        {
-          "title": "Namibia Moves to Contain Outbreak as EU Suspends Meat Imports",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8834160c84484991edb247f4db391&url=https%3a%2f%2fallafrica.com%2fview%2fgroup%2fmain%2fmain%2fid%2f00098362.html&c=800740393134333902&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-07T00:14:00.000Z"
-        },
-        {
-          "title": "Namibia Moves to Contain Outbreak as EU Suspends Meat Imports",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac84adf02be490b8407974e25971d3c&url=https%3a%2f%2fallafrica.com%2fview%2fgroup%2fmain%2fmain%2fid%2f00098362.html&c=800740393134333902&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-07T00:14:00.000Z"
-        },
-        {
-          "title": "Namibia Moves to Contain Outbreak as EU Suspends Meat Imports",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7f66a4d0746dfb8c4adf2e43558fe&url=https%3a%2f%2fallafrica.com%2fview%2fgroup%2fmain%2fmain%2fid%2f00098362.html&c=800740393134333902&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-07T00:14:00.000Z"
-        },
-        {
-          "title": "Namibia Moves to Contain Outbreak as EU Suspends Meat Imports",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7a226120f452eb324978abc123a1e&url=https%3a%2f%2fallafrica.com%2fview%2fgroup%2fmain%2fmain%2fid%2f00098362.html&c=800740393134333902&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-07T00:14:00.000Z"
-        },
-        {
-          "title": "Namibia Moves to Contain Outbreak as EU Suspends Meat Imports",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac769c998b540a0b913cb57c2d08ee3&url=https%3a%2f%2fallafrica.com%2fview%2fgroup%2fmain%2fmain%2fid%2f00098362.html&c=800740393134333902&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-07T00:14:00.000Z"
-        },
-        {
-          "title": "President Nandi-Ndaitwah addresses foot-and-mouth disease outbreak and calls for national cooperation",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8c17bfc0a4e85be77eb5c5e7b36ff&url=https%3a%2f%2fwww.msn.com%2fen-xl%2fmoney%2fgeneral%2fpresident-nandi-ndaitwah-addresses-foot-and-mouth-disease-outbreak-and-calls-for-national-cooperation%2far-AA2dIo4j&c=6359919209810789798&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-06T21:02:04.000Z"
-        }
-      ]
     },
     {
       "fingerprint": "2c94e8b53ee0df046723367d3b3ddcaf19d4d737",
@@ -347,21 +347,27 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "05e97ba81eb6af551cd293c0fc3a5ee01c7f9be0",
+      "fingerprint": "083baeba53c56cc04b98e385a4693c6fd21c8f0b",
       "disease": "африканская чума свиней",
       "country": "Сербия",
       "distance_km": 1200,
       "level": "наблюдение",
       "verdict": "confirmed",
-      "ai_summary": "В Сербии объявлена чрезвычайная ситуация из-за распространения африканской чумы свиней на сотнях ферм, погибло около 30 000 свиней.",
+      "ai_summary": "В Сербии объявлена чрезвычайная ситуация из-за африканской чумы свиней, которая распространилась на сотни ферм.",
       "source_id": "bing-world-asf",
       "title": "African swine fever outbreaks disrupt Serbia's pork market",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8c17c1c89458aa04c91dce74ac6d4&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fafrican-swine-fever-outbreaks-disrupt-serbia-s-pork-market&c=15045505804836909516&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac90fe382dc4faab1d259821a085edd&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fafrican-swine-fever-outbreaks-disrupt-serbia-s-pork-market&c=15045505804836909516&mkt=en-us",
       "published_at": "2026-10-06T14:53:00.000Z",
-      "created_at": "2026-10-09 10:40:39",
-      "ai_at": "2026-10-09 10:41:19",
-      "dup_count": 7,
+      "created_at": "2026-10-09 16:40:43",
+      "ai_at": "2026-10-09 16:41:19",
+      "dup_count": 8,
       "dups": [
+        {
+          "title": "African swine fever outbreaks disrupt Serbia's pork market",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8c17c1c89458aa04c91dce74ac6d4&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fafrican-swine-fever-outbreaks-disrupt-serbia-s-pork-market&c=15045505804836909516&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-06T14:53:00.000Z"
+        },
         {
           "title": "African swine fever outbreaks disrupt Serbia's pork market",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8834215a14ff0b7b8b2900d08dedd&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fafrican-swine-fever-outbreaks-disrupt-serbia-s-pork-market&c=15045505804836909516&mkt=en-us",
@@ -401,21 +407,33 @@
       ]
     },
     {
-      "fingerprint": "fbd511731b93b152fa1ffa5d342f31887157017c",
+      "fingerprint": "f36d839eba49f1176214a445a4a1e209eddd3405",
       "disease": "африканская чума свиней",
       "country": "Китай",
       "distance_km": 0,
       "level": "граница",
       "verdict": "probable",
-      "ai_summary": "Подтверждены вспышки африканской чумы свиней в Лаосе и Вьетнаме: подозревают, что большие свиньи из Лаоса могут попасть в Китай",
-      "source_id": "bing-world-fmd",
+      "ai_summary": "Из Лаоса в Китай, возможно, завезли больных свиней на переработку в условиях вспышки африканской чумы свиней",
+      "source_id": "bing-world-asf",
       "title": "Report: Diseased Pigs From Laos Allegedly Enter China for Processing Amid ASF Outbreak",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8c17bfc0a4e85be77eb5c5e7b36ff&url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&c=11293811299519378751&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac90fe382dc4faab1d259821a085edd&url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&c=11293811299519378751&mkt=en-us",
       "published_at": "2026-10-06T14:09:00.000Z",
-      "created_at": "2026-10-09 10:40:39",
-      "ai_at": "2026-10-09 10:41:25",
-      "dup_count": 13,
+      "created_at": "2026-10-09 16:40:43",
+      "ai_at": "2026-10-09 16:41:25",
+      "dup_count": 15,
       "dups": [
+        {
+          "title": "Report: Diseased Pigs From Laos Allegedly Enter China for Processing Amid ASF Outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac90fe20dbd41a1993a05a05e0c3917&url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&c=11293811299519378751&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-06T14:09:00.000Z"
+        },
+        {
+          "title": "Report: Diseased Pigs From Laos Allegedly Enter China for Processing Amid ASF Outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8c17bfc0a4e85be77eb5c5e7b36ff&url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&c=11293811299519378751&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-06T14:09:00.000Z"
+        },
         {
           "title": "Report: Diseased Pigs From Laos Allegedly Enter China for Processing Amid ASF Outbreak",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8c17c1c89458aa04c91dce74ac6d4&url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&c=11293811299519378751&mkt=en-us",
@@ -463,18 +481,6 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac77f301f234553b75371f8b1a1b268&url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&c=11293811299519378751&mkt=en-us",
           "source_id": "bing-world-asf",
           "published_at": "2026-10-06T14:09:00.000Z"
-        },
-        {
-          "title": "Report: Diseased Pigs From Laos Allegedly Enter China for Processing Amid ASF Outbreak",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac769c998b540a0b913cb57c2d08ee3&url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&c=11293811299519378751&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-06T14:09:00.000Z"
-        },
-        {
-          "title": "Report: Diseased Pigs From Laos Allegedly Enter China for Processing Amid ASF Outbreak",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6dd28a5ad46bcb39622fe900dd3de&url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&c=11293811299519378751&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-06T14:09:00.000Z"
         }
       ]
     },
@@ -501,6 +507,22 @@
           "published_at": "2026-10-06T14:09:00.000Z"
         }
       ]
+    },
+    {
+      "fingerprint": "02a0b273bb044bc6808ac9e1eb99b2f94b20ac97",
+      "disease": "африканская чума свиней",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "В ветеринарную и сельскохозяйственную службу острова Невис прибывают для повышения готовности к борьбе с африканской свиной чумой.",
+      "source_id": "bing-world-asf",
+      "title": "NIA Veterinary & Livestock Division receive training to strengthen response to African Swine Fever",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac90fe382dc4faab1d259821a085edd&url=https%3a%2f%2fwww.winnmediaskn.com%2fnia-veterinary-livestock-division-receive-training-to-strengthen-response-to-african-swine-fever%2f&c=6174612790158068676&mkt=en-us",
+      "published_at": "2026-10-06T09:58:00.000Z",
+      "created_at": "2026-10-09 16:40:43",
+      "ai_at": "2026-10-09 16:41:34",
+      "dup_count": 1
     },
     {
       "fingerprint": "55234a78cbeb6905ddfcf283898e017b1953a0fd",
@@ -647,21 +669,27 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "2ebdcef8344ffba5f25eac4f40a7e78e270315cc",
+      "fingerprint": "f729bcdc0fbf9aae0c07601b2204a3b0fd1c538f",
       "disease": "африканская чума свиней",
       "country": "Вьетнам",
       "distance_km": 1600,
       "level": "наблюдение",
       "verdict": "confirmed",
-      "ai_summary": "В провинции Фу Тху за 9 месяцев зарегистрировано 44 случая африканской чумы свиней, уничтожено 6,3 тыс. свиней.",
+      "ai_summary": "В провинции Фу Тхо за первые 9 месяцев года зарегистрировано 44 случая африканской чумы свиней, уничтожено 6 300 свиней.",
       "source_id": "bing-world-asf",
       "title": "Phu Tho records 44 African swine fever outbreaks",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8c17c1c89458aa04c91dce74ac6d4&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fphu-tho-ghi-nhan-44-o-dich-ta-lon-chau-phi-1778463.ldo&c=14538535557131450340&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac90fe382dc4faab1d259821a085edd&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fphu-tho-ghi-nhan-44-o-dich-ta-lon-chau-phi-1778463.ldo&c=14538535557131450340&mkt=en-us",
       "published_at": "2026-10-06T07:18:00.000Z",
-      "created_at": "2026-10-09 10:40:39",
-      "ai_at": "2026-10-09 10:41:45",
-      "dup_count": 6,
+      "created_at": "2026-10-09 16:40:43",
+      "ai_at": "2026-10-09 16:41:47",
+      "dup_count": 7,
       "dups": [
+        {
+          "title": "Phu Tho records 44 African swine fever outbreaks",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8c17c1c89458aa04c91dce74ac6d4&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fphu-tho-ghi-nhan-44-o-dich-ta-lon-chau-phi-1778463.ldo&c=14538535557131450340&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-06T07:18:00.000Z"
+        },
         {
           "title": "Phu Tho records 44 African swine fever outbreaks",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8834215a14ff0b7b8b2900d08dedd&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fphu-tho-ghi-nhan-44-o-dich-ta-lon-chau-phi-1778463.ldo&c=14538535557131450340&mkt=en-us",
@@ -693,134 +721,6 @@
           "published_at": "2026-10-06T07:18:00.000Z"
         }
       ]
-    },
-    {
-      "fingerprint": "6a4120ee4c244c6f2bfe7dabb1891f94b13eca67",
-      "disease": null,
-      "country": "Россия",
-      "distance_km": 0,
-      "level": "граница",
-      "verdict": "probable",
-      "ai_summary": "В Сибирии подозревают вспышку чумы, но власти отрицают ее",
-      "source_id": "bing-world-fmd",
-      "title": "Russia's reassurances only fuel anxiety over suspected plague outbreak in Siberia",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7f66a4d0746dfb8c4adf2e43558fe&url=https%3a%2f%2fwww.lemonde.fr%2fen%2fenvironment%2farticle%2f2026%2f10%2f06%2frussia-s-reassurances-only-fuel-anxiety-over-suspected-plague-outbreak-in-siberia_6758298_114.html&c=11638037712724242732&mkt=en-us",
-      "published_at": "2026-10-06T04:47:00.000Z",
-      "created_at": "2026-10-08 20:40:38",
-      "ai_at": "2026-10-08 20:41:32",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "730516c5dc1cda28a3f90d870914e51bd3e79111",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Фермеры и эксперты приветствуют планы лицензировать частным производителям производство вакцины против африканской чумы свиней",
-      "source_id": "bing-world-fmd",
-      "title": "Foot-and-mouth disease vaccine privatisation long overdue, say farmers, experts",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8c17bfc0a4e85be77eb5c5e7b36ff&url=https%3a%2f%2fwww.dailymaverick.co.za%2farticle%2f2026-10-06-foot-and-mouth-disease-vaccine-privatisation-long-overdue-say-farmers-experts%2f&c=1658247757765524833&mkt=en-us",
-      "published_at": "2026-10-06T04:24:00.000Z",
-      "created_at": "2026-10-09 10:40:39",
-      "ai_at": "2026-10-09 10:41:52",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "cca509fd4d549a109fa02173e51582cba3d97faa",
-      "disease": "африканская чума свиней",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Фермеры и эксперты приветствуют планы по лицензированию частных производителей вакцины против африканской чумы свиней",
-      "source_id": "bing-world-fmd",
-      "title": "Foot-and-mouth disease vaccine privatisation long overdue, say farmers, experts",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8834160c84484991edb247f4db391&url=https%3a%2f%2fwww.dailymaverick.co.za%2farticle%2f2026-10-06-foot-and-mouth-disease-vaccine-privatisation-long-overdue-say-farmers-experts%2f&c=1658247757765524833&mkt=en-us",
-      "published_at": "2026-10-06T04:24:00.000Z",
-      "created_at": "2026-10-09 06:40:43",
-      "ai_at": "2026-10-09 06:41:59",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "607104c4d0c0d64bb0d6648e15c960fd7a3d455b",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Приватизация вакцины от африканской чумы свиней уже давно назрела, считают фермеры и эксперты.",
-      "source_id": "bing-world-fmd",
-      "title": "Foot-and-mouth disease vaccine privatisation long overdue, say farmers, experts",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac84adf02be490b8407974e25971d3c&url=https%3a%2f%2fwww.dailymaverick.co.za%2farticle%2f2026-10-06-foot-and-mouth-disease-vaccine-privatisation-long-overdue-say-farmers-experts%2f&c=1658247757765524833&mkt=en-us",
-      "published_at": "2026-10-06T04:24:00.000Z",
-      "created_at": "2026-10-09 02:40:39",
-      "ai_at": "2026-10-09 02:41:59",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "a7fafa84096b39c181c80dc288fec9f0e85917e1",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-fmd",
-      "title": "Foot-and-mouth disease vaccine privatisation long overdue, say farmers, experts",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7f66a4d0746dfb8c4adf2e43558fe&url=https%3a%2f%2fwww.dailymaverick.co.za%2farticle%2f2026-10-06-foot-and-mouth-disease-vaccine-privatisation-long-overdue-say-farmers-experts%2f&c=1658247757765524833&mkt=en-us",
-      "published_at": "2026-10-06T04:24:00.000Z",
-      "created_at": "2026-10-08 20:40:38",
-      "ai_at": "2026-10-08 20:41:34",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "0da758f06f33a52ea16d8fb1c342ee2f0df71f72",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-fmd",
-      "title": "Foot-and-mouth disease vaccine privatisation long overdue, say farmers, experts",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7a226120f452eb324978abc123a1e&url=https%3a%2f%2fwww.dailymaverick.co.za%2farticle%2f2026-10-06-foot-and-mouth-disease-vaccine-privatisation-long-overdue-say-farmers-experts%2f&c=1658247757765524833&mkt=en-us",
-      "published_at": "2026-10-06T04:24:00.000Z",
-      "created_at": "2026-10-08 14:40:53",
-      "ai_at": "2026-10-08 14:41:56",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "efb39daf07f2bb31bf11fe3a46616d9d0b73f0b4",
-      "disease": "африканская чума свиней",
-      "country": "ЮАР",
-      "distance_km": 7000,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "Фермеры и эксперты приветствуют планы по лицензированию частных производителей для выпуска вакцины от африканской чумы свиней",
-      "source_id": "bing-world-fmd",
-      "title": "Foot-and-mouth disease vaccine privatisation long overdue, say farmers, experts",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac769c998b540a0b913cb57c2d08ee3&url=https%3a%2f%2fwww.dailymaverick.co.za%2farticle%2f2026-10-06-foot-and-mouth-disease-vaccine-privatisation-long-overdue-say-farmers-experts%2f&c=1658247757765524833&mkt=en-us",
-      "published_at": "2026-10-06T04:24:00.000Z",
-      "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 11:39:22",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "6f7eb4b6b87a2c42cca2897f10c7c163a872ba88",
-      "disease": "болезнь копытных",
-      "country": "ЮАР",
-      "distance_km": 7000,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "Фармеры и эксперты приветствуют планы лицензировать частным производителям производство вакцины против болезни копытных.",
-      "source_id": "bing-world-fmd",
-      "title": "Foot-and-mouth disease vaccine privatisation long overdue, say farmers, experts",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6dd28a5ad46bcb39622fe900dd3de&url=https%3a%2f%2fwww.dailymaverick.co.za%2farticle%2f2026-10-06-foot-and-mouth-disease-vaccine-privatisation-long-overdue-say-farmers-experts%2f&c=1658247757765524833&mkt=en-us",
-      "published_at": "2026-10-06T04:24:00.000Z",
-      "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 11:39:26",
-      "dup_count": 1
     }
   ]
 }
