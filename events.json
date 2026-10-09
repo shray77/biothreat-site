@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-09T12:41:30.368Z",
+  "generated_at": "2026-10-09T14:41:10.853Z",
   "items": [
     {
       "fingerprint": "8cbdf175e1ce003094437224794d8bf01ff9526f",
@@ -94,6 +94,22 @@
       "published_at": "2026-10-08T16:45:00.000Z",
       "created_at": "2026-10-09 02:40:39",
       "ai_at": "2026-10-09 02:40:44",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "795db9f912ef92c39681ca3c511b25f1b630b8d8",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-lsd",
+      "title": "Livestock disease test wins $2m in federal backing",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8f3a75fb0451ba7a5e2b3a6c9ba6d&url=https%3a%2f%2fpetnews.com.au%2flivestock-disease-test-wins-2m-in-federal-backing%2f&c=6515758475245743656&mkt=en-us",
+      "published_at": "2026-10-08T15:30:00.000Z",
+      "created_at": "2026-10-09 14:40:39",
+      "ai_at": "2026-10-09 14:40:42",
       "dup_count": 1
     },
     {
@@ -804,22 +820,6 @@
       "published_at": "2026-10-06T04:24:00.000Z",
       "created_at": "2026-10-08 11:38:10",
       "ai_at": "2026-10-08 11:39:26",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "220e77e09f0af84ed57f9977b5c18399b03a4a36",
-      "disease": null,
-      "country": "США",
-      "distance_km": 5000,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "Avian influenza spread beyond a backyard coop on an Illinois farm, analysis finds",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8c17d65fa41e4a5957caa072b5348&url=https%3a%2f%2fnews.illinois.edu%2favian-influenza-spread-beyond-a-backyard-coop-on-an-illinois-farm-analysis-finds%2f&c=17772084445275833658&mkt=en-us",
-      "published_at": "2026-10-06T03:21:00.000Z",
-      "created_at": "2026-10-09 10:40:39",
-      "ai_at": "2026-10-09 10:41:55",
       "dup_count": 1
     }
   ]
