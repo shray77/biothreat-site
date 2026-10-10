@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-10T02:42:02.870Z",
+  "generated_at": "2026-10-10T04:41:27.813Z",
   "items": [
     {
       "fingerprint": "cb41090e9986ddd5d7504494983852d33c575cfb",
@@ -228,6 +228,22 @@
       "published_at": "2026-10-08T16:45:00.000Z",
       "created_at": "2026-10-09 02:40:39",
       "ai_at": "2026-10-09 02:40:44",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "36efc932efea1ae8778fd9ebb2876a69998f8e91",
+      "disease": "нодулярный дерматит",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Новая технология для быстрого выявления птичьего гриппа и нодулярного дерматита",
+      "source_id": "bing-world-lsd",
+      "title": "Livestock disease test wins $2m in federal backing",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9b87af296413ea3b7fdedb95baaa6&url=https%3a%2f%2fpetnews.com.au%2flivestock-disease-test-wins-2m-in-federal-backing%2f&c=6515758475245743656&mkt=en-us",
+      "published_at": "2026-10-08T15:30:00.000Z",
+      "created_at": "2026-10-10 04:40:38",
+      "ai_at": "2026-10-10 04:40:43",
       "dup_count": 1
     },
     {
@@ -664,22 +680,6 @@
       "published_at": "2026-10-06T09:58:00.000Z",
       "created_at": "2026-10-09 06:40:43",
       "ai_at": "2026-10-09 06:41:35",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "7d6fd221b66bd6a6dde07e929aa5bc27d331f5d4",
-      "disease": "африканская чума свиней",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-asf",
-      "title": "NIA Veterinary & Livestock Division receive training to strengthen response to African Swine Fever",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac84ae0390d4643b13add81a4341203&url=https%3a%2f%2fwww.winnmediaskn.com%2fnia-veterinary-livestock-division-receive-training-to-strengthen-response-to-african-swine-fever%2f&c=6174612790158068676&mkt=en-us",
-      "published_at": "2026-10-06T09:58:00.000Z",
-      "created_at": "2026-10-09 02:40:39",
-      "ai_at": "2026-10-09 02:41:38",
       "dup_count": 1
     }
   ]
