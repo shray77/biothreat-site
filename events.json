@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-10T14:42:11.190Z",
+  "generated_at": "2026-10-10T16:41:44.684Z",
   "items": [
     {
       "fingerprint": "cb41090e9986ddd5d7504494983852d33c575cfb",
@@ -298,6 +298,22 @@
       "published_at": "2026-10-08T16:45:00.000Z",
       "created_at": "2026-10-09 02:40:39",
       "ai_at": "2026-10-09 02:40:44",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "123645e56647a725d76098ad6ac51b7490129aaf",
+      "disease": "нодулярный дерматит",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-lsd",
+      "title": "Livestock disease test wins $2m in federal backing",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aca616fb57d4dbeb275e5f924b9f057&url=https%3a%2f%2fpetnews.com.au%2flivestock-disease-test-wins-2m-in-federal-backing%2f&c=6515758475245743656&mkt=en-us",
+      "published_at": "2026-10-08T15:30:00.000Z",
+      "created_at": "2026-10-10 16:40:51",
+      "ai_at": "2026-10-10 16:40:55",
       "dup_count": 1
     },
     {
@@ -622,15 +638,7 @@
       "published_at": "2026-10-06T14:09:00.000Z",
       "created_at": "2026-10-10 14:40:43",
       "ai_at": "2026-10-10 14:41:43",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Report: Diseased Pigs From Laos Allegedly Enter China for Processing Amid ASF Outbreak",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9f0d2f3bd46a19c6100769c9b9700&url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&c=11293811299519378751&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-06T14:09:00.000Z"
-        }
-      ]
+      "dup_count": 1
     }
   ]
 }
