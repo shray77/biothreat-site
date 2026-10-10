@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-10T06:40:39.259Z",
+  "generated_at": "2026-10-10T08:42:01.756Z",
   "items": [
     {
       "fingerprint": "cb41090e9986ddd5d7504494983852d33c575cfb",
@@ -16,13 +16,25 @@
       "published_at": "2026-10-09T14:03:00.000Z",
       "created_at": "2026-10-09 22:40:38",
       "ai_at": "2026-10-09 22:40:41",
-      "dup_count": 17,
+      "dup_count": 21,
       "dups": [
+        {
+          "title": "Avian influenza confirmed in dairy cattle in Washington for the first time",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9f0d4e54a46f88c696a7786beec5c&url=https%3a%2f%2fwww.dvm360.com%2fview%2favian-influenza-confirmed-in-dairy-cattle-in-washington-for-the-first-time&c=13268844438775985935&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-08T17:00:00.000Z"
+        },
         {
           "title": "Avian influenza confirmed in dairy cattle in Washington for the first time",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac99c6aea92468fa7f21c7cb55ba66b&url=https%3a%2f%2fwww.dvm360.com%2fview%2favian-influenza-confirmed-in-dairy-cattle-in-washington-for-the-first-time&c=13268844438775985935&mkt=en-us",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-08T17:00:00.000Z"
+        },
+        {
+          "title": "Avian influenza detected at two Yakima County dairy farms",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9f0d4e54a46f88c696a7786beec5c&url=https%3a%2f%2fwww.yakimaherald.com%2fnews%2flocal%2favian-influenza-detected-at-two-yakima-county-dairy-farms%2farticle_7dc797b5-e06a-487e-93b2-c403a1258a7b.html&c=17984205846308169122&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-08T16:45:00.000Z"
         },
         {
           "title": "Avian influenza detected at two Yakima County dairy farms",
@@ -50,6 +62,12 @@
         },
         {
           "title": "Multiple birds die at city zoos amid bird flu outbreak, officials say",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9f0d4e54a46f88c696a7786beec5c&url=https%3a%2f%2fny1.com%2fnyc%2fall-boroughs%2fnews%2f2025%2f02%2f08%2f15-birds-die-of-bird-flu-at-city-zoos--officials-say&c=5111605619314766813&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-08T10:17:00.000Z"
+        },
+        {
+          "title": "Multiple birds die at city zoos amid bird flu outbreak, officials say",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac99c6aea92468fa7f21c7cb55ba66b&url=https%3a%2f%2fny1.com%2fnyc%2fall-boroughs%2fnews%2f2025%2f02%2f08%2f15-birds-die-of-bird-flu-at-city-zoos--officials-say&c=5111605619314766813&mkt=en-us",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-08T10:17:00.000Z"
@@ -59,26 +77,24 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac90fe443cf42f2a2dc8d35df04aa6b&url=https%3a%2f%2fny1.com%2fnyc%2fall-boroughs%2fnews%2f2025%2f02%2f08%2f15-birds-die-of-bird-flu-at-city-zoos--officials-say&c=5111605619314766813&mkt=en-us",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-08T10:17:00.000Z"
-        },
-        {
-          "title": "Multiple birds die at city zoos amid bird flu outbreak, officials say",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7f66b0d1b41c89889ff7ba81987bd&url=https%3a%2f%2fny1.com%2fnyc%2fall-boroughs%2fnews%2f2025%2f02%2f08%2f15-birds-die-of-bird-flu-at-city-zoos--officials-say&c=5111605619314766813&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-08T10:17:00.000Z"
-        },
-        {
-          "title": "Washington confirms first detection of avian influenza in dairy cattle",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac99c6aea92468fa7f21c7cb55ba66b&url=https%3a%2f%2fagr.wa.gov%2fabout-wsda%2fnews-and-media-relations%2fnews-releases%3farticle%3d47359&c=17074848773497059660&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-07T17:00:00.000Z"
-        },
-        {
-          "title": "Washington confirms first detection of avian influenza in dairy cattle",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac962038b674169bceebcaffb2b0b0d&url=https%3a%2f%2fagr.wa.gov%2fabout-wsda%2fnews-and-media-relations%2fnews-releases%3farticle%3d47359&c=17074848773497059660&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-07T17:00:00.000Z"
         }
       ]
+    },
+    {
+      "fingerprint": "e8702ff1b62eb20f827b00e20444e5768fa5f14e",
+      "disease": null,
+      "country": "Суринам",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Власти Гайаны усилили мониторинг и приняли меры предосторожности для предотвращения вспышки птичьего гриппа после сообщений о заболевании.",
+      "source_id": "bing-world-ai",
+      "title": "Guyana steps up bird flu surveillance amid outbreak in Suriname",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9f0d4e54a46f88c696a7786beec5c&url=https%3a%2f%2fwww.jamaicaobserver.com%2f2026%2f10%2f09%2fguyana-steps-bird-flu-surveillance-amid-outbreak-suriname%2f&c=3724265399978386093&mkt=en-us",
+      "published_at": "2026-10-09T08:41:00.000Z",
+      "created_at": "2026-10-10 08:40:46",
+      "ai_at": "2026-10-10 08:40:51",
+      "dup_count": 1
     },
     {
       "fingerprint": "6ffe5238f731086cc9066028e203cc0ac5579222",
@@ -105,53 +121,27 @@
       ]
     },
     {
-      "fingerprint": "0dd65b60d53c2698d4c9ebb4b5fe73cdb3d21bea",
-      "disease": "африканская чума свиней",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Обновленная информация о ситуации с африканской чумой свиней",
-      "source_id": "bing-world-asf",
-      "title": "African Swine Fever Situation Update",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac99c6a59b247a98c2b1ec9b78a30dc&url=https%3a%2f%2fglobalriskatlas.com%2fen%2fafrican-swine-fever-situation-update%2f&c=17383024710182895256&mkt=en-us",
-      "published_at": "2026-10-09T01:53:00.000Z",
-      "created_at": "2026-10-10 02:40:38",
-      "ai_at": "2026-10-10 02:40:45",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "c940bdbc8688dca048db440d8f4d8c7d2cb061b5",
-      "disease": "африканская чума свиней",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Оповещение о ситуации с африканской чумой свиней",
-      "source_id": "bing-world-asf",
-      "title": "African Swine Fever Situation Update",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac96202a7f74eddbc7896e54474d15b&url=https%3a%2f%2fglobalriskatlas.com%2fen%2fafrican-swine-fever-situation-update%2f&c=17383024710182895256&mkt=en-us",
-      "published_at": "2026-10-09T01:53:00.000Z",
-      "created_at": "2026-10-09 22:40:38",
-      "ai_at": "2026-10-09 22:40:47",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "ee39a1ed23f5cbd878c9e87e03735bd4f3a20577",
+      "fingerprint": "9f750611bdd31efc28ed2a3b06b445461cb711a3",
       "disease": "африканская чума свиней",
       "country": "Намибия",
       "distance_km": 6500,
       "level": "фон",
       "verdict": "confirmed",
-      "ai_summary": "В Намибии подтверждены 17 случаев африканской чумы свиней в регионе //Кхарас.",
+      "ai_summary": "В Намибии подтверждено заражение 17 ферм африканской чумой свиней.",
       "source_id": "bing-world-fmd",
       "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac99c6944204b42b05fe11d336926ec&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
-      "published_at": "2026-10-09T00:15:00.000Z",
-      "created_at": "2026-10-10 02:40:38",
-      "ai_at": "2026-10-10 02:40:48",
-      "dup_count": 29,
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9f0d2f3bd46a19c6100769c9b9700&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
+      "published_at": "2026-10-09T07:35:00.000Z",
+      "created_at": "2026-10-10 08:40:46",
+      "ai_at": "2026-10-10 08:40:54",
+      "dup_count": 33,
       "dups": [
+        {
+          "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac99c6944204b42b05fe11d336926ec&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-09T00:15:00.000Z"
+        },
         {
           "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac96202ff224b0d9a51d794b485f87f&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
@@ -163,6 +153,12 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac90fe20dbd41a1993a05a05e0c3917&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
           "source_id": "bing-world-fmd",
           "published_at": "2026-10-09T00:15:00.000Z"
+        },
+        {
+          "title": "EU Temporarily Suspends Namibian Meat Imports After Foot-and-Mouth Disease Outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9f0d2f3bd46a19c6100769c9b9700&url=https%3a%2f%2fwww.ecofinagency.com%2fnews-industry%2f0810-59566-eu-temporarily-suspends-namibian-meat-imports-after-foot-and-mouth-disease-outbreak&c=13435839415304782338&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-08T06:23:00.000Z"
         },
         {
           "title": "EU Temporarily Suspends Namibian Meat Imports After Foot-and-Mouth Disease Outbreak",
@@ -199,20 +195,56 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac84adf02be490b8407974e25971d3c&url=https%3a%2f%2fwww.ecofinagency.com%2fnews-industry%2f0810-59566-eu-temporarily-suspends-namibian-meat-imports-after-foot-and-mouth-disease-outbreak&c=13435839415304782338&mkt=en-us",
           "source_id": "bing-world-fmd",
           "published_at": "2026-10-08T06:23:00.000Z"
-        },
-        {
-          "title": "EU Temporarily Suspends Namibian Meat Imports After Foot-and-Mouth Disease Outbreak",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7f66a4d0746dfb8c4adf2e43558fe&url=https%3a%2f%2fwww.ecofinagency.com%2fnews-industry%2f0810-59566-eu-temporarily-suspends-namibian-meat-imports-after-foot-and-mouth-disease-outbreak&c=13435839415304782338&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-08T06:23:00.000Z"
-        },
-        {
-          "title": "EU Temporarily Suspends Namibian Meat Imports After Foot-and-Mouth Disease Outbreak",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7a226120f452eb324978abc123a1e&url=https%3a%2f%2fwww.ecofinagency.com%2fnews-industry%2f0810-59566-eu-temporarily-suspends-namibian-meat-imports-after-foot-and-mouth-disease-outbreak&c=13435839415304782338&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-08T06:23:00.000Z"
         }
       ]
+    },
+    {
+      "fingerprint": "d36f9bd87821259e8c90ec6c24d45bbd78fd7f1e",
+      "disease": "африканская чума свиней",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Обновление ситуации по африканской чуме свиней",
+      "source_id": "bing-world-asf",
+      "title": "African Swine Fever Situation Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9f0d37a18448889aa1ca7817036ef&url=https%3a%2f%2fglobalriskatlas.com%2fen%2fafrican-swine-fever-situation-update%2f&c=17383024710182895256&mkt=en-us",
+      "published_at": "2026-10-09T01:53:00.000Z",
+      "created_at": "2026-10-10 08:40:46",
+      "ai_at": "2026-10-10 08:40:57",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "0dd65b60d53c2698d4c9ebb4b5fe73cdb3d21bea",
+      "disease": "африканская чума свиней",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Обновленная информация о ситуации с африканской чумой свиней",
+      "source_id": "bing-world-asf",
+      "title": "African Swine Fever Situation Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac99c6a59b247a98c2b1ec9b78a30dc&url=https%3a%2f%2fglobalriskatlas.com%2fen%2fafrican-swine-fever-situation-update%2f&c=17383024710182895256&mkt=en-us",
+      "published_at": "2026-10-09T01:53:00.000Z",
+      "created_at": "2026-10-10 02:40:38",
+      "ai_at": "2026-10-10 02:40:45",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "c940bdbc8688dca048db440d8f4d8c7d2cb061b5",
+      "disease": "африканская чума свиней",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Оповещение о ситуации с африканской чумой свиней",
+      "source_id": "bing-world-asf",
+      "title": "African Swine Fever Situation Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac96202a7f74eddbc7896e54474d15b&url=https%3a%2f%2fglobalriskatlas.com%2fen%2fafrican-swine-fever-situation-update%2f&c=17383024710182895256&mkt=en-us",
+      "published_at": "2026-10-09T01:53:00.000Z",
+      "created_at": "2026-10-09 22:40:38",
+      "ai_at": "2026-10-09 22:40:47",
+      "dup_count": 1
     },
     {
       "fingerprint": "0c18b6f62b8c34e9c150893bd256ba9c72a25846",
@@ -429,21 +461,27 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "8fa023f942cbcb456e776a833bb627f9d5911124",
+      "fingerprint": "8ac47f6246e177cba1f05d47d7a8a98e83437ce2",
       "disease": "африканская чума свиней",
       "country": "Сербия",
       "distance_km": 1200,
       "level": "наблюдение",
       "verdict": "confirmed",
-      "ai_summary": "В Сербии объявлен чрезвычайный режим из-за вспышки африканской чумы свиней",
+      "ai_summary": "В Сербии объявлен чрезвычайный режим из-за вспышки африканской чумы свиней, погибло 30 тыс. свиней.",
       "source_id": "bing-world-asf",
       "title": "African swine fever outbreaks disrupt Serbia's pork market",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac96202a7f74eddbc7896e54474d15b&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fafrican-swine-fever-outbreaks-disrupt-serbia-s-pork-market&c=15045505804836909516&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9f0d37a18448889aa1ca7817036ef&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fafrican-swine-fever-outbreaks-disrupt-serbia-s-pork-market&c=15045505804836909516&mkt=en-us",
       "published_at": "2026-10-06T14:53:00.000Z",
-      "created_at": "2026-10-09 22:40:38",
-      "ai_at": "2026-10-09 22:41:14",
-      "dup_count": 9,
+      "created_at": "2026-10-10 08:40:46",
+      "ai_at": "2026-10-10 08:41:27",
+      "dup_count": 10,
       "dups": [
+        {
+          "title": "African swine fever outbreaks disrupt Serbia's pork market",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac96202a7f74eddbc7896e54474d15b&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fafrican-swine-fever-outbreaks-disrupt-serbia-s-pork-market&c=15045505804836909516&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-06T14:53:00.000Z"
+        },
         {
           "title": "African swine fever outbreaks disrupt Serbia's pork market",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac90fe382dc4faab1d259821a085edd&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fafrican-swine-fever-outbreaks-disrupt-serbia-s-pork-market&c=15045505804836909516&mkt=en-us",
@@ -495,21 +533,33 @@
       ]
     },
     {
-      "fingerprint": "dafd31c6ab6ba1f3faa57fd5350bcf5312f9c206",
+      "fingerprint": "f0cf97e0ce70377678627624a2ab451c76609bec",
       "disease": "африканская чума свиней",
       "country": "Китай",
       "distance_km": 0,
       "level": "граница",
       "verdict": "probable",
-      "ai_summary": "Предположительно, в Китай ввезены больные свиньи из Лаоса в условиях вспышки африканской чумы свиней",
-      "source_id": "bing-world-asf",
+      "ai_summary": "В Китай могут попасть больные свиньи из Лаоса",
+      "source_id": "bing-world-fmd",
       "title": "Report: Diseased Pigs From Laos Allegedly Enter China for Processing Amid ASF Outbreak",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac99c6a59b247a98c2b1ec9b78a30dc&url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&c=11293811299519378751&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9f0d2f3bd46a19c6100769c9b9700&url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&c=11293811299519378751&mkt=en-us",
       "published_at": "2026-10-06T14:09:00.000Z",
-      "created_at": "2026-10-10 02:40:38",
-      "ai_at": "2026-10-10 02:41:17",
-      "dup_count": 18,
+      "created_at": "2026-10-10 08:40:46",
+      "ai_at": "2026-10-10 08:41:30",
+      "dup_count": 13,
       "dups": [
+        {
+          "title": "Report: Diseased Pigs From Laos Allegedly Enter China for Processing Amid ASF Outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9f0d37a18448889aa1ca7817036ef&url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&c=11293811299519378751&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-06T14:09:00.000Z"
+        },
+        {
+          "title": "Report: Diseased Pigs From Laos Allegedly Enter China for Processing Amid ASF Outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac99c6a59b247a98c2b1ec9b78a30dc&url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&c=11293811299519378751&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-06T14:09:00.000Z"
+        },
         {
           "title": "Report: Diseased Pigs From Laos Allegedly Enter China for Processing Amid ASF Outbreak",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac99c6944204b42b05fe11d336926ec&url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&c=11293811299519378751&mkt=en-us",
@@ -557,18 +607,6 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac84ae0390d4643b13add81a4341203&url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&c=11293811299519378751&mkt=en-us",
           "source_id": "bing-world-asf",
           "published_at": "2026-10-06T14:09:00.000Z"
-        },
-        {
-          "title": "Report: Diseased Pigs From Laos Allegedly Enter China for Processing Amid ASF Outbreak",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac84adf02be490b8407974e25971d3c&url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&c=11293811299519378751&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-06T14:09:00.000Z"
-        },
-        {
-          "title": "Report: Diseased Pigs From Laos Allegedly Enter China for Processing Amid ASF Outbreak",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7f66aa8744a939ebd53df5652778b&url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&c=11293811299519378751&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-06T14:09:00.000Z"
         }
       ]
     },
@@ -586,101 +624,15 @@
       "published_at": "2026-10-06T14:09:00.000Z",
       "created_at": "2026-10-09 22:40:38",
       "ai_at": "2026-10-09 22:41:23",
-      "dup_count": 3,
+      "dup_count": 2,
       "dups": [
         {
           "title": "Report: Diseased Pigs From Laos Allegedly Enter China for Processing Amid ASF Outbreak",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8834215a14ff0b7b8b2900d08dedd&url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&c=11293811299519378751&mkt=en-us",
           "source_id": "bing-world-asf",
           "published_at": "2026-10-06T14:09:00.000Z"
-        },
-        {
-          "title": "Report: Diseased Pigs From Laos Allegedly Enter China for Processing Amid ASF Outbreak",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac7b9410b4c4b2f99842994a6732a43&url=https%3a%2f%2fwww.visiontimes.com%2f2026%2f10%2f06%2freport-diseased-pigs-from-laos-allegedly-enter-china-for-processing-amid-asf-outbreak.html&c=11293811299519378751&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-06T14:09:00.000Z"
         }
       ]
-    },
-    {
-      "fingerprint": "6134105e31a3ec07b870943ad488a45fc86616bb",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Отделение ветеринарной и сельскохозяйственной службы острова Невис получает обучение для усиления противодействия африканской чуме свиней",
-      "source_id": "bing-world-asf",
-      "title": "NIA Veterinary & Livestock Division receive training to strengthen response to African Swine Fever",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac99c6a59b247a98c2b1ec9b78a30dc&url=https%3a%2f%2fwww.winnmediaskn.com%2fnia-veterinary-livestock-division-receive-training-to-strengthen-response-to-african-swine-fever%2f&c=6174612790158068676&mkt=en-us",
-      "published_at": "2026-10-06T09:58:00.000Z",
-      "created_at": "2026-10-10 02:40:38",
-      "ai_at": "2026-10-10 02:41:27",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "d59a7611670edb50127ae43438c1a7a1f64c2d20",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Сотрудники Невисской администрации получили обучение для укрепления реагирования на африканскую свиную болезнь",
-      "source_id": "bing-world-asf",
-      "title": "NIA Veterinary & Livestock Division receive training to strengthen response to African Swine Fever",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac96202a7f74eddbc7896e54474d15b&url=https%3a%2f%2fwww.winnmediaskn.com%2fnia-veterinary-livestock-division-receive-training-to-strengthen-response-to-african-swine-fever%2f&c=6174612790158068676&mkt=en-us",
-      "published_at": "2026-10-06T09:58:00.000Z",
-      "created_at": "2026-10-09 22:40:38",
-      "ai_at": "2026-10-09 22:41:26",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "02a0b273bb044bc6808ac9e1eb99b2f94b20ac97",
-      "disease": "африканская чума свиней",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "В ветеринарную и сельскохозяйственную службу острова Невис прибывают для повышения готовности к борьбе с африканской свиной чумой.",
-      "source_id": "bing-world-asf",
-      "title": "NIA Veterinary & Livestock Division receive training to strengthen response to African Swine Fever",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac90fe382dc4faab1d259821a085edd&url=https%3a%2f%2fwww.winnmediaskn.com%2fnia-veterinary-livestock-division-receive-training-to-strengthen-response-to-african-swine-fever%2f&c=6174612790158068676&mkt=en-us",
-      "published_at": "2026-10-06T09:58:00.000Z",
-      "created_at": "2026-10-09 16:40:43",
-      "ai_at": "2026-10-09 16:41:34",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "55234a78cbeb6905ddfcf283898e017b1953a0fd",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-asf",
-      "title": "NIA Veterinary & Livestock Division receive training to strengthen response to African Swine Fever",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8c17c1c89458aa04c91dce74ac6d4&url=https%3a%2f%2fwww.winnmediaskn.com%2fnia-veterinary-livestock-division-receive-training-to-strengthen-response-to-african-swine-fever%2f&c=6174612790158068676&mkt=en-us",
-      "published_at": "2026-10-06T09:58:00.000Z",
-      "created_at": "2026-10-09 10:40:39",
-      "ai_at": "2026-10-09 10:41:31",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "f7b7e2c70e8aac7179a2bf6263817dd6134b9428",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Ветеринарное и сельскохозяйственное управление острова Невис получает обучение для укрепления подготовки к борьбе с африканской чумой свиней",
-      "source_id": "bing-world-asf",
-      "title": "NIA Veterinary & Livestock Division receive training to strengthen response to African Swine Fever",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8834215a14ff0b7b8b2900d08dedd&url=https%3a%2f%2fwww.winnmediaskn.com%2fnia-veterinary-livestock-division-receive-training-to-strengthen-response-to-african-swine-fever%2f&c=6174612790158068676&mkt=en-us",
-      "published_at": "2026-10-06T09:58:00.000Z",
-      "created_at": "2026-10-09 06:40:43",
-      "ai_at": "2026-10-09 06:41:35",
-      "dup_count": 1
     }
   ]
 }
