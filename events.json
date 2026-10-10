@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-10T08:42:01.756Z",
+  "generated_at": "2026-10-10T10:41:46.508Z",
   "items": [
     {
       "fingerprint": "cb41090e9986ddd5d7504494983852d33c575cfb",
@@ -260,6 +260,22 @@
       "published_at": "2026-10-08T16:45:00.000Z",
       "created_at": "2026-10-09 02:40:39",
       "ai_at": "2026-10-09 02:40:44",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "47676601c3a3b46442e90ece44f3f47e5b8d4f69",
+      "disease": "нодулярный дерматит",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Разработчик Avicena Systems получил $2 миллиона на создание теста, который может обнаруживать грипп птиц и нодулярный дерматит за 15 минут с помощью технологии ",
+      "source_id": "bing-world-lsd",
+      "title": "Livestock disease test wins $2m in federal backing",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aca0cfb93e14f229cca84ba84e203c5&url=https%3a%2f%2fpetnews.com.au%2flivestock-disease-test-wins-2m-in-federal-backing%2f&c=6515758475245743656&mkt=en-us",
+      "published_at": "2026-10-08T15:30:00.000Z",
+      "created_at": "2026-10-10 10:40:40",
+      "ai_at": "2026-10-10 10:40:45",
       "dup_count": 1
     },
     {
@@ -546,7 +562,7 @@
       "published_at": "2026-10-06T14:09:00.000Z",
       "created_at": "2026-10-10 08:40:46",
       "ai_at": "2026-10-10 08:41:30",
-      "dup_count": 13,
+      "dup_count": 12,
       "dups": [
         {
           "title": "Report: Diseased Pigs From Laos Allegedly Enter China for Processing Amid ASF Outbreak",
