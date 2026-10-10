@@ -64,6 +64,9 @@
   .leaflet-popup-content-wrapper { background: #12161f; color: #e8ecf3; border-radius: 10px; border: 1px solid #2c3543; }
   .leaflet-popup-tip { background: #12161f; }
   .leaflet-popup-content { margin: 12px 16px; font: 13px/1.5 system-ui; }
+  /* Leaflet 1.8+ вшивает флаг Украины в дефолтный префикс атрибуции — префикс
+     заменён чистой ссылкой в initMap(); CSS-страховка, как в vet-meteo */
+  .leaflet-attribution-flag { display: none !important; }
   .leaflet-popup-content a { color: var(--blue); }
   .leaflet-container a.leaflet-popup-close-button { color: var(--faint); }
 
@@ -277,6 +280,9 @@ let map = null, markers = null;
 function initMap() {
   if (map || typeof L === "undefined") return;
   map = L.map("map", { scrollWheelZoom: false, worldCopyJump: true }).setView([48, 30], 2);
+  // флаг-фикс: дефолтный префикс Leaflet 1.8+ содержит SVG флага Украины —
+  // заменяем чистой ссылкой (BSD-заслуги сохранены), как в vet-meteo и vetflu-site
+  if (map.attributionControl) map.attributionControl.setPrefix('<a href="https://leafletjs.com" target="_blank" rel="noopener">Leaflet</a>');
   L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
     attribution: "© OpenStreetMap", maxZoom: 12,
   }).addTo(map);
