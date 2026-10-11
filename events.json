@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-11T14:41:03.590Z",
+  "generated_at": "2026-10-11T16:42:05.055Z",
   "items": [
+    {
+      "fingerprint": "58cd61fb331b2780aba4ab2525e35bf9e820e5e5",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-lsd",
+      "title": "Farmers' protests",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbacdebcad405d87ca7130a9d366e8&url=https%3a%2f%2fwww.lemonde.fr%2fen%2ffrench-farmers-protests%2f&c=8172835141637647689&mkt=en-us",
+      "published_at": "2026-10-10T17:00:00.000Z",
+      "created_at": "2026-10-11 16:40:49",
+      "ai_at": null,
+      "dup_count": 1
+    },
     {
       "fingerprint": "480d22c6518718c06663719ba1de777c73f8aa9f",
       "disease": "грипп птиц",
@@ -16,13 +32,19 @@
       "published_at": "2026-10-10T10:20:00.000Z",
       "created_at": "2026-10-10 18:40:51",
       "ai_at": "2026-10-10 18:40:55",
-      "dup_count": 29,
+      "dup_count": 32,
       "dups": [
         {
           "title": "Avian influenza confirmed in dairy cattle in Washington for the first time",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac962038b674169bceebcaffb2b0b0d&url=https%3a%2f%2fwww.dvm360.com%2fview%2favian-influenza-confirmed-in-dairy-cattle-in-washington-for-the-first-time&c=13268844438775985935&mkt=en-us",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-09T14:03:00.000Z"
+        },
+        {
+          "title": "Avian influenza confirmed in dairy cattle in Washington for the first time",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbace1c7f04e1095be782c58d52e24&url=https%3a%2f%2fwww.dvm360.com%2fview%2favian-influenza-confirmed-in-dairy-cattle-in-washington-for-the-first-time&c=13268844438775985935&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-08T17:00:00.000Z"
         },
         {
           "title": "Avian influenza confirmed in dairy cattle in Washington for the first time",
@@ -62,40 +84,40 @@
         },
         {
           "title": "Avian influenza detected at two Yakima County dairy farms",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbace1c7f04e1095be782c58d52e24&url=https%3a%2f%2fwww.yakimaherald.com%2fnews%2flocal%2favian-influenza-detected-at-two-yakima-county-dairy-farms%2farticle_7dc797b5-e06a-487e-93b2-c403a1258a7b.html&c=17984205846308169122&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-08T16:45:00.000Z"
+        },
+        {
+          "title": "Avian influenza detected at two Yakima County dairy farms",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9f0d4e54a46f88c696a7786beec5c&url=https%3a%2f%2fwww.yakimaherald.com%2fnews%2flocal%2favian-influenza-detected-at-two-yakima-county-dairy-farms%2farticle_7dc797b5-e06a-487e-93b2-c403a1258a7b.html&c=17984205846308169122&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-08T16:45:00.000Z"
-        },
-        {
-          "title": "Avian influenza detected at two Yakima County dairy farms",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac99c6aea92468fa7f21c7cb55ba66b&url=https%3a%2f%2fwww.yakimaherald.com%2fnews%2flocal%2favian-influenza-detected-at-two-yakima-county-dairy-farms%2farticle_7dc797b5-e06a-487e-93b2-c403a1258a7b.html&c=17984205846308169122&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-08T16:45:00.000Z"
-        },
-        {
-          "title": "Avian influenza detected at two Yakima County dairy farms",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac962038b674169bceebcaffb2b0b0d&url=https%3a%2f%2fwww.yakimaherald.com%2fnews%2flocal%2favian-influenza-detected-at-two-yakima-county-dairy-farms%2farticle_7dc797b5-e06a-487e-93b2-c403a1258a7b.html&c=17984205846308169122&mkt=en-us",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-08T16:45:00.000Z"
         }
       ]
     },
     {
-      "fingerprint": "7d9ab7b76fb8da12c2369b41cefe723bb5142ec1",
+      "fingerprint": "2a492ce9013294ded020bfdd788e2b36467cbe47",
       "disease": "грипп птиц",
       "country": "Суринам",
       "distance_km": null,
       "level": "не определено",
       "verdict": "probable",
-      "ai_summary": "Гайана усилила мониторинг и предприняла меры по предотвращению вспышки гриппа птиц",
+      "ai_summary": "В Гайане усилены меры по предотвращению вспышки гриппа птиц после сообщений о заболевании в Суринаме",
       "source_id": "bing-world-ai",
       "title": "Guyana steps up bird flu surveillance amid outbreak in Suriname",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb0a20fc804c6e99979e2d53c5ea58&url=https%3a%2f%2fwww.jamaicaobserver.com%2f2026%2f10%2f09%2fguyana-steps-bird-flu-surveillance-amid-outbreak-suriname%2f&c=3724265399978386093&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbace1c7f04e1095be782c58d52e24&url=https%3a%2f%2fwww.jamaicaobserver.com%2f2026%2f10%2f09%2fguyana-steps-bird-flu-surveillance-amid-outbreak-suriname%2f&c=3724265399978386093&mkt=en-us",
       "published_at": "2026-10-09T08:41:00.000Z",
-      "created_at": "2026-10-11 04:40:39",
-      "ai_at": "2026-10-11 04:40:42",
-      "dup_count": 6,
+      "created_at": "2026-10-11 16:40:49",
+      "ai_at": "2026-10-11 16:40:57",
+      "dup_count": 7,
       "dups": [
+        {
+          "title": "Guyana steps up bird flu surveillance amid outbreak in Suriname",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb0a20fc804c6e99979e2d53c5ea58&url=https%3a%2f%2fwww.jamaicaobserver.com%2f2026%2f10%2f09%2fguyana-steps-bird-flu-surveillance-amid-outbreak-suriname%2f&c=3724265399978386093&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-09T08:41:00.000Z"
+        },
         {
           "title": "Guyana steps up bird flu surveillance amid outbreak in Suriname",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acac22e475845898196454ced5c52dd&url=https%3a%2f%2fwww.jamaicaobserver.com%2f2026%2f10%2f09%2fguyana-steps-bird-flu-surveillance-amid-outbreak-suriname%2f&c=3724265399978386093&mkt=en-us",
@@ -158,7 +180,7 @@
       "published_at": "2026-10-09T07:35:00.000Z",
       "created_at": "2026-10-11 10:40:40",
       "ai_at": "2026-10-11 10:40:47",
-      "dup_count": 42,
+      "dup_count": 37,
       "dups": [
         {
           "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
