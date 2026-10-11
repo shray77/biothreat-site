@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-11T08:40:43.833Z",
+  "generated_at": "2026-10-11T10:41:24.167Z",
   "items": [
     {
       "fingerprint": "480d22c6518718c06663719ba1de777c73f8aa9f",
@@ -145,21 +145,27 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "b49f4eacaebc543f8b89d85fe710d7bb79660dc4",
+      "fingerprint": "6bb1a8292a66152784c743a5b1ed56e45f588741",
       "disease": "африканская чума свиней",
       "country": "Намибия",
       "distance_km": 6500,
       "level": "фон",
       "verdict": "confirmed",
-      "ai_summary": "Подтверждено 17 случаев африканской чумы свиней на 17 фермах в регионе //Кхарас",
+      "ai_summary": "В регионе //Кхарас подтверждены 17 ферм с африканской чумой свиней.",
       "source_id": "bing-world-fmd",
       "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb0a1e5f9241af925a368738128665&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb4c21802141cb8bba8a50c6d532e3&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
       "published_at": "2026-10-09T07:35:00.000Z",
-      "created_at": "2026-10-11 04:40:39",
-      "ai_at": "2026-10-11 04:40:46",
+      "created_at": "2026-10-11 10:40:40",
+      "ai_at": "2026-10-11 10:40:47",
       "dup_count": 42,
       "dups": [
+        {
+          "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb0a1e5f9241af925a368738128665&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-09T07:35:00.000Z"
+        },
         {
           "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acac22c221b4cf9a1ab73dae4380aa1&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
@@ -204,19 +210,13 @@
         },
         {
           "title": "EU Temporarily Suspends Namibian Meat Imports After Foot-and-Mouth Disease Outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb4c21802141cb8bba8a50c6d532e3&url=https%3a%2f%2fwww.ecofinagency.com%2fnews-industry%2f0810-59566-eu-temporarily-suspends-namibian-meat-imports-after-foot-and-mouth-disease-outbreak&c=13435839415304782338&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-08T06:23:00.000Z"
+        },
+        {
+          "title": "EU Temporarily Suspends Namibian Meat Imports After Foot-and-Mouth Disease Outbreak",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb0a1e5f9241af925a368738128665&url=https%3a%2f%2fwww.ecofinagency.com%2fnews-industry%2f0810-59566-eu-temporarily-suspends-namibian-meat-imports-after-foot-and-mouth-disease-outbreak&c=13435839415304782338&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-08T06:23:00.000Z"
-        },
-        {
-          "title": "EU Temporarily Suspends Namibian Meat Imports After Foot-and-Mouth Disease Outbreak",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acac22c221b4cf9a1ab73dae4380aa1&url=https%3a%2f%2fwww.ecofinagency.com%2fnews-industry%2f0810-59566-eu-temporarily-suspends-namibian-meat-imports-after-foot-and-mouth-disease-outbreak&c=13435839415304782338&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-08T06:23:00.000Z"
-        },
-        {
-          "title": "EU Temporarily Suspends Namibian Meat Imports After Foot-and-Mouth Disease Outbreak",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aca7d8daeed41e5990f853ddd17589a&url=https%3a%2f%2fwww.ecofinagency.com%2fnews-industry%2f0810-59566-eu-temporarily-suspends-namibian-meat-imports-after-foot-and-mouth-disease-outbreak&c=13435839415304782338&mkt=en-us",
           "source_id": "bing-world-fmd",
           "published_at": "2026-10-08T06:23:00.000Z"
         }
