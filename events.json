@@ -1,7 +1,85 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-11T18:41:00.205Z",
+  "generated_at": "2026-10-11T20:42:09.807Z",
   "items": [
+    {
+      "fingerprint": "947a5eac9a99aa37706403412bf3a236da6dfdfd",
+      "disease": "африканская чума свиней",
+      "country": "Намибия",
+      "distance_km": 6500,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "Обвинения в причастности к вспышке африканской чумы свиней в Намибии опровергает Лоу",
+      "source_id": "bing-world-fmd",
+      "title": "Louw denies link to FMD outbreak, calls allegations ‘entirely false’",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe6c48c7b4d32bfeda621e480e3ae&url=https%3a%2f%2fobserver24.com.na%2flouw-denies-link-to-fmd-outbreak-calls-allegations-entirely-false%2f&c=14629772383922440791&mkt=en-us",
+      "published_at": "2026-10-11T09:35:00.000Z",
+      "created_at": "2026-10-11 20:40:38",
+      "ai_at": "2026-10-11 20:40:47",
+      "dup_count": 35,
+      "dups": [
+        {
+          "title": "Namibia detects foot-and-mouth disease in second region",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe6c48c7b4d32bfeda621e480e3ae&url=https%3a%2f%2fenglish.news.cn%2f20261011%2fd19a67574c3746d2a5ba7f45c01fc8de%2fc.html&c=3674799154940641389&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-11T01:19:00.000Z"
+        },
+        {
+          "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe6c48c7b4d32bfeda621e480e3ae&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-09T07:35:00.000Z"
+        },
+        {
+          "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb4c21802141cb8bba8a50c6d532e3&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-09T07:35:00.000Z"
+        },
+        {
+          "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb0a1e5f9241af925a368738128665&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-09T07:35:00.000Z"
+        },
+        {
+          "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acac22c221b4cf9a1ab73dae4380aa1&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-09T07:35:00.000Z"
+        },
+        {
+          "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aca7d8daeed41e5990f853ddd17589a&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-09T07:35:00.000Z"
+        },
+        {
+          "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aca453e6b4d46db87209414e6801375&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-09T07:35:00.000Z"
+        },
+        {
+          "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9f0d2f3bd46a19c6100769c9b9700&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-09T07:35:00.000Z"
+        },
+        {
+          "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac99c6944204b42b05fe11d336926ec&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-09T00:15:00.000Z"
+        },
+        {
+          "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac96202ff224b0d9a51d794b485f87f&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-09T00:15:00.000Z"
+        }
+      ]
+    },
     {
       "fingerprint": "58cd61fb331b2780aba4ab2525e35bf9e820e5e5",
       "disease": "нодулярный дерматит",
@@ -32,7 +110,7 @@
       "published_at": "2026-10-10T10:20:00.000Z",
       "created_at": "2026-10-10 18:40:51",
       "ai_at": "2026-10-10 18:40:55",
-      "dup_count": 32,
+      "dup_count": 33,
       "dups": [
         {
           "title": "Avian influenza confirmed in dairy cattle in Washington for the first time",
@@ -97,21 +175,27 @@
       ]
     },
     {
-      "fingerprint": "2a492ce9013294ded020bfdd788e2b36467cbe47",
+      "fingerprint": "ab83b2e086fdbfc45f296f56b0dba47132dd646b",
       "disease": "грипп птиц",
       "country": "Суринам",
       "distance_km": null,
       "level": "не определено",
       "verdict": "probable",
-      "ai_summary": "В Гайане усилены меры по предотвращению вспышки гриппа птиц после сообщений о заболевании в Суринаме",
+      "ai_summary": "Власти Гайаны усилили наблюдение за птицами и приняли меры предосторожности из-за вспышки гриппа птиц в Суринаме",
       "source_id": "bing-world-ai",
       "title": "Guyana steps up bird flu surveillance amid outbreak in Suriname",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbace1c7f04e1095be782c58d52e24&url=https%3a%2f%2fwww.jamaicaobserver.com%2f2026%2f10%2f09%2fguyana-steps-bird-flu-surveillance-amid-outbreak-suriname%2f&c=3724265399978386093&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe6c6e778455c80ce0fba22426eb2&url=https%3a%2f%2fwww.jamaicaobserver.com%2f2026%2f10%2f09%2fguyana-steps-bird-flu-surveillance-amid-outbreak-suriname%2f&c=3724265399978386093&mkt=en-us",
       "published_at": "2026-10-09T08:41:00.000Z",
-      "created_at": "2026-10-11 16:40:49",
-      "ai_at": "2026-10-11 16:40:57",
-      "dup_count": 7,
+      "created_at": "2026-10-11 20:40:38",
+      "ai_at": "2026-10-11 20:40:57",
+      "dup_count": 8,
       "dups": [
+        {
+          "title": "Guyana steps up bird flu surveillance amid outbreak in Suriname",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbace1c7f04e1095be782c58d52e24&url=https%3a%2f%2fwww.jamaicaobserver.com%2f2026%2f10%2f09%2fguyana-steps-bird-flu-surveillance-amid-outbreak-suriname%2f&c=3724265399978386093&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-09T08:41:00.000Z"
+        },
         {
           "title": "Guyana steps up bird flu surveillance amid outbreak in Suriname",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb0a20fc804c6e99979e2d53c5ea58&url=https%3a%2f%2fwww.jamaicaobserver.com%2f2026%2f10%2f09%2fguyana-steps-bird-flu-surveillance-amid-outbreak-suriname%2f&c=3724265399978386093&mkt=en-us",
@@ -165,84 +249,6 @@
       "created_at": "2026-10-10 08:40:46",
       "ai_at": "2026-10-10 08:40:51",
       "dup_count": 1
-    },
-    {
-      "fingerprint": "6bb1a8292a66152784c743a5b1ed56e45f588741",
-      "disease": "африканская чума свиней",
-      "country": "Намибия",
-      "distance_km": 6500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В регионе //Кхарас подтверждены 17 ферм с африканской чумой свиней.",
-      "source_id": "bing-world-fmd",
-      "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb4c21802141cb8bba8a50c6d532e3&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
-      "published_at": "2026-10-09T07:35:00.000Z",
-      "created_at": "2026-10-11 10:40:40",
-      "ai_at": "2026-10-11 10:40:47",
-      "dup_count": 37,
-      "dups": [
-        {
-          "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb0a1e5f9241af925a368738128665&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-09T07:35:00.000Z"
-        },
-        {
-          "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acac22c221b4cf9a1ab73dae4380aa1&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-09T07:35:00.000Z"
-        },
-        {
-          "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aca7d8daeed41e5990f853ddd17589a&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-09T07:35:00.000Z"
-        },
-        {
-          "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aca453e6b4d46db87209414e6801375&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-09T07:35:00.000Z"
-        },
-        {
-          "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9f0d2f3bd46a19c6100769c9b9700&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-09T07:35:00.000Z"
-        },
-        {
-          "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac99c6944204b42b05fe11d336926ec&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-09T00:15:00.000Z"
-        },
-        {
-          "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac96202ff224b0d9a51d794b485f87f&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-09T00:15:00.000Z"
-        },
-        {
-          "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac90fe20dbd41a1993a05a05e0c3917&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-09T00:15:00.000Z"
-        },
-        {
-          "title": "EU Temporarily Suspends Namibian Meat Imports After Foot-and-Mouth Disease Outbreak",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb4c21802141cb8bba8a50c6d532e3&url=https%3a%2f%2fwww.ecofinagency.com%2fnews-industry%2f0810-59566-eu-temporarily-suspends-namibian-meat-imports-after-foot-and-mouth-disease-outbreak&c=13435839415304782338&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-08T06:23:00.000Z"
-        },
-        {
-          "title": "EU Temporarily Suspends Namibian Meat Imports After Foot-and-Mouth Disease Outbreak",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb0a1e5f9241af925a368738128665&url=https%3a%2f%2fwww.ecofinagency.com%2fnews-industry%2f0810-59566-eu-temporarily-suspends-namibian-meat-imports-after-foot-and-mouth-disease-outbreak&c=13435839415304782338&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-08T06:23:00.000Z"
-        }
-      ]
     },
     {
       "fingerprint": "6de6d73ad182d880dc2129c260e892998cb4f38b",
@@ -338,6 +344,22 @@
       "published_at": "2026-10-09T01:53:00.000Z",
       "created_at": "2026-10-09 22:40:38",
       "ai_at": "2026-10-09 22:40:47",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "04ef448ec47f5b82dfbda54b11994fad8da4a4cc",
+      "disease": "грипп птиц",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "В США выявлен грипп птиц на двух фермах в Вашингтоне.",
+      "source_id": "bing-world-ai",
+      "title": "Avian influenza detected at two Yakima County dairy farms",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe6c6e778455c80ce0fba22426eb2&url=https%3a%2f%2fwww.yakimaherald.com%2fnews%2flocal%2favian-influenza-detected-at-two-yakima-county-dairy-farms%2farticle_7dc797b5-e06a-487e-93b2-c403a1258a7b.html&c=17984205846308169122&mkt=en-us",
+      "published_at": "2026-10-08T16:45:00.000Z",
+      "created_at": "2026-10-11 20:40:38",
+      "ai_at": "2026-10-11 20:41:06",
       "dup_count": 1
     },
     {
@@ -517,6 +539,22 @@
       "dup_count": 1
     },
     {
+      "fingerprint": "4c6da2072e2182d1762ce205c92c79e5a8b46d42",
+      "disease": "грипп птиц",
+      "country": "Индия",
+      "distance_km": 3000,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "В Бенгалуру выявлена вспышка гриппа птиц, птиц и яйца были уничтожены, созданы зоны заражения и наблюдения",
+      "source_id": "bing-world-ai",
+      "title": "\"h5n1-outbreak\"",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe6c6e778455c80ce0fba22426eb2&url=https%3a%2f%2ftelanganatoday.com%2ftag%2fh5n1-outbreak&c=2446720626337276409&mkt=en-us",
+      "published_at": "2026-10-07T17:00:00.000Z",
+      "created_at": "2026-10-11 20:40:38",
+      "ai_at": "2026-10-11 20:41:22",
+      "dup_count": 1
+    },
+    {
       "fingerprint": "2c94e8b53ee0df046723367d3b3ddcaf19d4d737",
       "disease": "оспа овец и коз",
       "country": "Румыния",
@@ -562,38 +600,6 @@
       "published_at": "2026-10-07T06:32:00.000Z",
       "created_at": "2026-10-09 10:40:39",
       "ai_at": "2026-10-09 10:41:00",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "87e165022cd8edac97bab6247088e93c041a1572",
-      "disease": "нодулярный дерматит",
-      "country": "Намибия",
-      "distance_km": 6500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В //Кхарасском регионе Намибии зафиксирована вспышка напластной болезни, власти строгают меры по ее локализации.",
-      "source_id": "bing-world-fmd",
-      "title": "Namibia Moves to Contain Outbreak as EU Suspends Meat Imports",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6dd28a5ad46bcb39622fe900dd3de&url=https%3a%2f%2fallafrica.com%2fview%2fgroup%2fmain%2fmain%2fid%2f00098362.html&c=800740393134333902&mkt=en-us",
-      "published_at": "2026-10-07T00:14:00.000Z",
-      "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 11:38:20",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "b8f0fe53d9d2a3db213722c6c4947a8bf5a4354f",
-      "disease": "ящур",
-      "country": "Намибия",
-      "distance_km": 6500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В //Kharas-ской области Намибии выявлена вспышка ящура",
-      "source_id": "bing-world-fmd",
-      "title": "Namibia Moves to Contain Outbreak as EU Suspends Meat Imports",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb31058466db8b8c5248e004285&url=https%3a%2f%2fallafrica.com%2fview%2fgroup%2fmain%2fmain%2fid%2f00098362.html&c=800740393134333902&mkt=en-us",
-      "published_at": "2026-10-07T00:14:00.000Z",
-      "created_at": "2026-10-07 17:36:33",
-      "ai_at": "2026-10-07 17:36:36",
       "dup_count": 1
     }
   ]
