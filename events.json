@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-11T02:41:55.238Z",
+  "generated_at": "2026-10-11T04:41:51.048Z",
   "items": [
     {
       "fingerprint": "480d22c6518718c06663719ba1de777c73f8aa9f",
@@ -16,13 +16,19 @@
       "published_at": "2026-10-10T10:20:00.000Z",
       "created_at": "2026-10-10 18:40:51",
       "ai_at": "2026-10-10 18:40:55",
-      "dup_count": 27,
+      "dup_count": 29,
       "dups": [
         {
           "title": "Avian influenza confirmed in dairy cattle in Washington for the first time",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac962038b674169bceebcaffb2b0b0d&url=https%3a%2f%2fwww.dvm360.com%2fview%2favian-influenza-confirmed-in-dairy-cattle-in-washington-for-the-first-time&c=13268844438775985935&mkt=en-us",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-09T14:03:00.000Z"
+        },
+        {
+          "title": "Avian influenza confirmed in dairy cattle in Washington for the first time",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb0a20fc804c6e99979e2d53c5ea58&url=https%3a%2f%2fwww.dvm360.com%2fview%2favian-influenza-confirmed-in-dairy-cattle-in-washington-for-the-first-time&c=13268844438775985935&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-08T17:00:00.000Z"
         },
         {
           "title": "Avian influenza confirmed in dairy cattle in Washington for the first time",
@@ -71,31 +77,31 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac962038b674169bceebcaffb2b0b0d&url=https%3a%2f%2fwww.yakimaherald.com%2fnews%2flocal%2favian-influenza-detected-at-two-yakima-county-dairy-farms%2farticle_7dc797b5-e06a-487e-93b2-c403a1258a7b.html&c=17984205846308169122&mkt=en-us",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-08T16:45:00.000Z"
-        },
-        {
-          "title": "Avian influenza detected at two Yakima County dairy farms",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac90fe443cf42f2a2dc8d35df04aa6b&url=https%3a%2f%2fwww.yakimaherald.com%2fnews%2flocal%2favian-influenza-detected-at-two-yakima-county-dairy-farms%2farticle_7dc797b5-e06a-487e-93b2-c403a1258a7b.html&c=17984205846308169122&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-08T16:45:00.000Z"
         }
       ]
     },
     {
-      "fingerprint": "8268f323bbeac36ad26f916cf933b3749fe57736",
+      "fingerprint": "7d9ab7b76fb8da12c2369b41cefe723bb5142ec1",
       "disease": "грипп птиц",
       "country": "Суринам",
       "distance_km": null,
       "level": "не определено",
       "verdict": "probable",
-      "ai_summary": "В Суринаме зафиксирована вспышка гриппа птиц, что побудило правительство Гайаны усилить мониторинг и предпринять меры предосторожности",
+      "ai_summary": "Гайана усилила мониторинг и предприняла меры по предотвращению вспышки гриппа птиц",
       "source_id": "bing-world-ai",
       "title": "Guyana steps up bird flu surveillance amid outbreak in Suriname",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acac22e475845898196454ced5c52dd&url=https%3a%2f%2fwww.jamaicaobserver.com%2f2026%2f10%2f09%2fguyana-steps-bird-flu-surveillance-amid-outbreak-suriname%2f&c=3724265399978386093&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb0a20fc804c6e99979e2d53c5ea58&url=https%3a%2f%2fwww.jamaicaobserver.com%2f2026%2f10%2f09%2fguyana-steps-bird-flu-surveillance-amid-outbreak-suriname%2f&c=3724265399978386093&mkt=en-us",
       "published_at": "2026-10-09T08:41:00.000Z",
-      "created_at": "2026-10-11 00:40:38",
-      "ai_at": "2026-10-11 00:40:45",
-      "dup_count": 5,
+      "created_at": "2026-10-11 04:40:39",
+      "ai_at": "2026-10-11 04:40:42",
+      "dup_count": 6,
       "dups": [
+        {
+          "title": "Guyana steps up bird flu surveillance amid outbreak in Suriname",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acac22e475845898196454ced5c52dd&url=https%3a%2f%2fwww.jamaicaobserver.com%2f2026%2f10%2f09%2fguyana-steps-bird-flu-surveillance-amid-outbreak-suriname%2f&c=3724265399978386093&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-09T08:41:00.000Z"
+        },
         {
           "title": "Guyana steps up bird flu surveillance amid outbreak in Suriname",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aca7d8f76de481ea0952f6a4784930e&url=https%3a%2f%2fwww.jamaicaobserver.com%2f2026%2f10%2f09%2fguyana-steps-bird-flu-surveillance-amid-outbreak-suriname%2f&c=3724265399978386093&mkt=en-us",
@@ -139,21 +145,27 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "d19dba03b3b5a49c3b1568e12caf60c74574bcee",
+      "fingerprint": "b49f4eacaebc543f8b89d85fe710d7bb79660dc4",
       "disease": "африканская чума свиней",
       "country": "Намибия",
       "distance_km": 6500,
       "level": "фон",
       "verdict": "confirmed",
-      "ai_summary": "В регионе //Кхарас подтверждено 17 случаев африканской чумы свиней на 6 октября 2026 года.",
+      "ai_summary": "Подтверждено 17 случаев африканской чумы свиней на 17 фермах в регионе //Кхарас",
       "source_id": "bing-world-fmd",
       "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acac22c221b4cf9a1ab73dae4380aa1&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb0a1e5f9241af925a368738128665&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
       "published_at": "2026-10-09T07:35:00.000Z",
-      "created_at": "2026-10-11 00:40:38",
-      "ai_at": "2026-10-11 00:40:49",
-      "dup_count": 44,
+      "created_at": "2026-10-11 04:40:39",
+      "ai_at": "2026-10-11 04:40:46",
+      "dup_count": 42,
       "dups": [
+        {
+          "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acac22c221b4cf9a1ab73dae4380aa1&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-09T07:35:00.000Z"
+        },
         {
           "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aca7d8daeed41e5990f853ddd17589a&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
@@ -192,6 +204,12 @@
         },
         {
           "title": "EU Temporarily Suspends Namibian Meat Imports After Foot-and-Mouth Disease Outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb0a1e5f9241af925a368738128665&url=https%3a%2f%2fwww.ecofinagency.com%2fnews-industry%2f0810-59566-eu-temporarily-suspends-namibian-meat-imports-after-foot-and-mouth-disease-outbreak&c=13435839415304782338&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-08T06:23:00.000Z"
+        },
+        {
+          "title": "EU Temporarily Suspends Namibian Meat Imports After Foot-and-Mouth Disease Outbreak",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acac22c221b4cf9a1ab73dae4380aa1&url=https%3a%2f%2fwww.ecofinagency.com%2fnews-industry%2f0810-59566-eu-temporarily-suspends-namibian-meat-imports-after-foot-and-mouth-disease-outbreak&c=13435839415304782338&mkt=en-us",
           "source_id": "bing-world-fmd",
           "published_at": "2026-10-08T06:23:00.000Z"
@@ -201,20 +219,24 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aca7d8daeed41e5990f853ddd17589a&url=https%3a%2f%2fwww.ecofinagency.com%2fnews-industry%2f0810-59566-eu-temporarily-suspends-namibian-meat-imports-after-foot-and-mouth-disease-outbreak&c=13435839415304782338&mkt=en-us",
           "source_id": "bing-world-fmd",
           "published_at": "2026-10-08T06:23:00.000Z"
-        },
-        {
-          "title": "EU Temporarily Suspends Namibian Meat Imports After Foot-and-Mouth Disease Outbreak",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aca453e6b4d46db87209414e6801375&url=https%3a%2f%2fwww.ecofinagency.com%2fnews-industry%2f0810-59566-eu-temporarily-suspends-namibian-meat-imports-after-foot-and-mouth-disease-outbreak&c=13435839415304782338&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-08T06:23:00.000Z"
-        },
-        {
-          "title": "EU Temporarily Suspends Namibian Meat Imports After Foot-and-Mouth Disease Outbreak",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9f0d2f3bd46a19c6100769c9b9700&url=https%3a%2f%2fwww.ecofinagency.com%2fnews-industry%2f0810-59566-eu-temporarily-suspends-namibian-meat-imports-after-foot-and-mouth-disease-outbreak&c=13435839415304782338&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-08T06:23:00.000Z"
         }
       ]
+    },
+    {
+      "fingerprint": "6de6d73ad182d880dc2129c260e892998cb4f38b",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Вспышки африканской чумы свиней зафиксированы в 10 регионах мира.",
+      "source_id": "bing-world-asf",
+      "title": "African Swine Fever Situation Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb0a1f9ba244cf95e3bacb856c9f4f&url=https%3a%2f%2fglobalriskatlas.com%2fen%2fafrican-swine-fever-situation-update%2f&c=17383024710182895256&mkt=en-us",
+      "published_at": "2026-10-09T01:53:00.000Z",
+      "created_at": "2026-10-11 04:40:39",
+      "ai_at": "2026-10-11 04:40:49",
+      "dup_count": 1
     },
     {
       "fingerprint": "e2e21de062608a355bd80318279d02345365a624",
@@ -294,6 +316,22 @@
       "published_at": "2026-10-09T01:53:00.000Z",
       "created_at": "2026-10-09 22:40:38",
       "ai_at": "2026-10-09 22:40:47",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "c6f37a11eb6d44851e1b1fee44b3e1476b548f60",
+      "disease": "грипп птиц",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "В штате Вашингтон обнаружены случаи гриппа птиц на двух молочных фермах.",
+      "source_id": "bing-world-ai",
+      "title": "Avian influenza detected at two Yakima County dairy farms",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb0a20fc804c6e99979e2d53c5ea58&url=https%3a%2f%2fwww.yakimaherald.com%2fnews%2flocal%2favian-influenza-detected-at-two-yakima-county-dairy-farms%2farticle_7dc797b5-e06a-487e-93b2-c403a1258a7b.html&c=17984205846308169122&mkt=en-us",
+      "published_at": "2026-10-08T16:45:00.000Z",
+      "created_at": "2026-10-11 04:40:39",
+      "ai_at": "2026-10-11 04:40:55",
       "dup_count": 1
     },
     {
@@ -534,36 +572,6 @@
       "published_at": "2026-10-07T00:14:00.000Z",
       "created_at": "2026-10-07 17:36:33",
       "ai_at": "2026-10-07 17:36:36",
-      "dup_count": 3,
-      "dups": [
-        {
-          "title": "President Nandi-Ndaitwah addresses foot-and-mouth disease outbreak and calls for national cooperation",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac769c998b540a0b913cb57c2d08ee3&url=https%3a%2f%2fwww.msn.com%2fen-xl%2fmoney%2fgeneral%2fpresident-nandi-ndaitwah-addresses-foot-and-mouth-disease-outbreak-and-calls-for-national-cooperation%2far-AA2dIo4j&c=6359919209810789798&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-06T21:02:04.000Z"
-        },
-        {
-          "title": "President Nandi-Ndaitwah addresses foot-and-mouth disease outbreak and calls for national cooperation",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac66cb31058466db8b8c5248e004285&url=https%3a%2f%2fwww.msn.com%2fen-xl%2fmoney%2fgeneral%2fpresident-nandi-ndaitwah-addresses-foot-and-mouth-disease-outbreak-and-calls-for-national-cooperation%2far-AA2dIo4j&c=6359919209810789798&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-06T21:02:04.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "e6dbb6b65aacfe4d4146b63352b9df5875a696e8",
-      "disease": "ботулизм",
-      "country": "Намибия",
-      "distance_km": 6500,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "Президент Намибии обратилась с призывом к национальному сотрудничеству в связи с вспышкой ботулизма.",
-      "source_id": "bing-world-fmd",
-      "title": "President Nandi-Ndaitwah addresses foot-and-mouth disease outbreak and calls for national cooperation",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6dd28a5ad46bcb39622fe900dd3de&url=https%3a%2f%2fwww.msn.com%2fen-xl%2fmoney%2fgeneral%2fpresident-nandi-ndaitwah-addresses-foot-and-mouth-disease-outbreak-and-calls-for-national-cooperation%2far-AA2dIo4j&c=6359919209810789798&mkt=en-us",
-      "published_at": "2026-10-06T21:02:04.000Z",
-      "created_at": "2026-10-08 11:38:10",
-      "ai_at": "2026-10-08 11:38:27",
       "dup_count": 1
     }
   ]
