@@ -1,7 +1,39 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-12T14:40:56.328Z",
+  "generated_at": "2026-10-12T16:42:15.827Z",
   "items": [
+    {
+      "fingerprint": "51bcb72e9b852bfffdfca925dc8e8eaaff5579cd",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-asf",
+      "title": "Surveillance, vaccines vital to curb African swine fever spread",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accf923d6b34f8e8000433369e5d05e&url=https%3a%2f%2fwww.nationalhogfarmer.com%2flivestock-management%2fsurveillance-vaccines-vital-to-curb-african-swine-fever-spread&c=6311290302330769000&mkt=en-us",
+      "published_at": "2026-10-12T06:38:00.000Z",
+      "created_at": "2026-10-12 16:40:59",
+      "ai_at": "2026-10-12 16:41:01",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "2b47e7ab7710705cf126da5628c57f9eb035d74b",
+      "disease": null,
+      "country": "Намибия",
+      "distance_km": 6500,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "Мясное корпорация Намибии выплатила фермерам 31 миллион долларов, несмотря на вспышку АФС.",
+      "source_id": "bing-world-fmd",
+      "title": "Meatco pays farmers N$31 million despite FMD outbreak",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accf9228fe9427982e98995d73c5aca&url=https%3a%2f%2fwww.msn.com%2fen-xl%2fafrica%2ftop-stories%2fmeatco-pays-farmers-n-31-million-despite-fmd-outbreak%2far-AA2e58QZ&c=14962473058524093876&mkt=en-us",
+      "published_at": "2026-10-12T06:04:58.000Z",
+      "created_at": "2026-10-12 16:40:59",
+      "ai_at": "2026-10-12 16:41:06",
+      "dup_count": 1
+    },
     {
       "fingerprint": "cbad0c2abe75df904b6971e6dbb600c4c9310723",
       "disease": null,
@@ -35,26 +67,44 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "a17c7f3363abc0e750f4c223e84b581dc2f6b518",
+      "fingerprint": "4e5c4b137a4e2b6016b538851dadca9bbe19a263",
       "disease": "африканская чума свиней",
       "country": "Намибия",
       "distance_km": 6500,
       "level": "фон",
       "verdict": "confirmed",
-      "ai_summary": "В Намибии зафиксирована вспышка африканской чумы свиней во второй области, введены меры по вакцинации и ограничения передвижения скота и продуктов",
+      "ai_summary": "Намибия подтвердила второй случай африканской чумы свиней в регионе Замбези",
       "source_id": "bing-world-fmd",
       "title": "Namibia detects foot-and-mouth disease outbreak in second region",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accafe05bbb40d3a0b992230a638f51&url=https%3a%2f%2fwww.anews.com.tr%2fworld%2f2026%2f10%2f12%2fnamibia-detects-foot-and-mouth-disease-outbreak-in-second-region&c=16155028055125751287&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accf9228fe9427982e98995d73c5aca&url=https%3a%2f%2fwww.anews.com.tr%2fworld%2f2026%2f10%2f12%2fnamibia-detects-foot-and-mouth-disease-outbreak-in-second-region&c=16155028055125751287&mkt=en-us",
       "published_at": "2026-10-12T00:09:00.000Z",
-      "created_at": "2026-10-12 10:40:39",
-      "ai_at": "2026-10-12 10:40:44",
-      "dup_count": 33,
+      "created_at": "2026-10-12 16:40:59",
+      "ai_at": "2026-10-12 16:41:10",
+      "dup_count": 30,
       "dups": [
+        {
+          "title": "Namibia detects foot-and-mouth disease outbreak in second region",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accafe05bbb40d3a0b992230a638f51&url=https%3a%2f%2fwww.anews.com.tr%2fworld%2f2026%2f10%2f12%2fnamibia-detects-foot-and-mouth-disease-outbreak-in-second-region&c=16155028055125751287&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-12T00:09:00.000Z"
+        },
+        {
+          "title": "Judge slams CPBN as FMD breaks in Zambezi …Fence construction continues despite tender dispute as Namibia confirms new outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accf9228fe9427982e98995d73c5aca&url=https%3a%2f%2fobserver24.com.na%2fjudge-slams-cpbn-as-fmd-breaks-in-zambezi-fence-construction-continues-despite-tender-dispute-as-namibia-confirms-new-outbreak%2f&c=15992230499245096546&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-11T17:49:00.000Z"
+        },
         {
           "title": "Judge slams CPBN as FMD breaks in Zambezi …Fence construction continues despite tender dispute as Namibia confirms new outbreak",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accafe05bbb40d3a0b992230a638f51&url=https%3a%2f%2fobserver24.com.na%2fjudge-slams-cpbn-as-fmd-breaks-in-zambezi-fence-construction-continues-despite-tender-dispute-as-namibia-confirms-new-outbreak%2f&c=15992230499245096546&mkt=en-us",
           "source_id": "bing-world-fmd",
           "published_at": "2026-10-11T17:49:00.000Z"
+        },
+        {
+          "title": "Namibia detects foot-and-mouth disease in second region",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accf9228fe9427982e98995d73c5aca&url=https%3a%2f%2fenglish.news.cn%2f20261011%2fd19a67574c3746d2a5ba7f45c01fc8de%2fc.html&c=3674799154940641389&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-11T15:19:00.000Z"
         },
         {
           "title": "Namibia detects foot-and-mouth disease in second region",
@@ -82,52 +132,40 @@
         },
         {
           "title": "Louw denies link to FMD outbreak, calls allegations ‘entirely false’",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accf9228fe9427982e98995d73c5aca&url=https%3a%2f%2fobserver24.com.na%2flouw-denies-link-to-fmd-outbreak-calls-allegations-entirely-false%2f&c=14629772383922440791&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-11T09:35:00.000Z"
+        },
+        {
+          "title": "Louw denies link to FMD outbreak, calls allegations ‘entirely false’",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accafe05bbb40d3a0b992230a638f51&url=https%3a%2f%2fobserver24.com.na%2flouw-denies-link-to-fmd-outbreak-calls-allegations-entirely-false%2f&c=14629772383922440791&mkt=en-us",
           "source_id": "bing-world-fmd",
           "published_at": "2026-10-11T09:35:00.000Z"
-        },
-        {
-          "title": "Louw denies link to FMD outbreak, calls allegations ‘entirely false’",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc233371d64856835fe40ca26a35a4&url=https%3a%2f%2fobserver24.com.na%2flouw-denies-link-to-fmd-outbreak-calls-allegations-entirely-false%2f&c=14629772383922440791&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-11T09:35:00.000Z"
-        },
-        {
-          "title": "Louw denies link to FMD outbreak, calls allegations ‘entirely false’",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe6c48c7b4d32bfeda621e480e3ae&url=https%3a%2f%2fobserver24.com.na%2flouw-denies-link-to-fmd-outbreak-calls-allegations-entirely-false%2f&c=14629772383922440791&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-11T09:35:00.000Z"
-        },
-        {
-          "title": "Namibia detects foot-and-mouth disease in second region",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe6c48c7b4d32bfeda621e480e3ae&url=https%3a%2f%2fenglish.news.cn%2f20261011%2fd19a67574c3746d2a5ba7f45c01fc8de%2fc.html&c=3674799154940641389&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-11T01:19:00.000Z"
-        },
-        {
-          "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accafe05bbb40d3a0b992230a638f51&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-09T07:35:00.000Z"
         }
       ]
     },
     {
-      "fingerprint": "4c40492bbdab3ee3c9f39e58481bffb9da9352a2",
+      "fingerprint": "a14da166f224a61cc864390095966534f823197f",
       "disease": "африканская чума свиней",
       "country": "Кипр",
       "distance_km": null,
       "level": "не определено",
       "verdict": "confirmed",
-      "ai_summary": "Планы Кипра по уничтожению 3000 животных из-за африканской чумы свиней",
+      "ai_summary": "Планируется уничтожение 3 000 животных из-за вспышки африканской чумы свиней на Кипре.",
       "source_id": "bing-world-fmd",
       "title": "Cyprus plans to cull 3,000 animals over foot-and-mouth disease — Cyprus Mail",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accafe05bbb40d3a0b992230a638f51&url=https%3a%2f%2fua.news%2fen%2fagro%2fna-kipri-planuiut-znishchiti-3-tisiachi-tvarin-cherez-iashchur-cyprus-mail&c=9527174984941550966&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accf9228fe9427982e98995d73c5aca&url=https%3a%2f%2fua.news%2fen%2fagro%2fna-kipri-planuiut-znishchiti-3-tisiachi-tvarin-cherez-iashchur-cyprus-mail&c=9527174984941550966&mkt=en-us",
       "published_at": "2026-10-11T21:34:00.000Z",
-      "created_at": "2026-10-12 10:40:39",
-      "ai_at": "2026-10-12 10:40:48",
-      "dup_count": 2,
+      "created_at": "2026-10-12 16:40:59",
+      "ai_at": "2026-10-12 16:41:23",
+      "dup_count": 3,
       "dups": [
+        {
+          "title": "Cyprus plans to cull 3,000 animals over foot-and-mouth disease — Cyprus Mail",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accafe05bbb40d3a0b992230a638f51&url=https%3a%2f%2fua.news%2fen%2fagro%2fna-kipri-planuiut-znishchiti-3-tisiachi-tvarin-cherez-iashchur-cyprus-mail&c=9527174984941550966&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-11T21:34:00.000Z"
+        },
         {
           "title": "Cyprus plans to cull 3,000 animals over foot-and-mouth disease — Cyprus Mail",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc74af9ab3458cbd5c3a77158c3089&url=https%3a%2f%2fua.news%2fen%2fagro%2fna-kipri-planuiut-znishchiti-3-tisiachi-tvarin-cherez-iashchur-cyprus-mail&c=9527174984941550966&mkt=en-us",
