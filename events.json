@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-12T20:41:36.205Z",
+  "generated_at": "2026-10-12T22:42:40.568Z",
   "items": [
+    {
+      "fingerprint": "8437bcc2e6eb0526e821ff40fc21c402c73070e0",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Различие вирусов африканской чумы свиней затрудняет разработку вакцин.",
+      "source_id": "bing-world-asf",
+      "title": "Surveillance, vaccines vital to curb African swine fever spread",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd588d3f334f7393be91159d85d3a4&url=https%3a%2f%2fwww.nationalhogfarmer.com%2flivestock-management%2fsurveillance-vaccines-vital-to-curb-african-swine-fever-spread&c=6311290302330769000&mkt=en-us",
+      "published_at": "2026-10-12T06:38:00.000Z",
+      "created_at": "2026-10-12 22:40:38",
+      "ai_at": "2026-10-12 22:40:43",
+      "dup_count": 1
+    },
     {
       "fingerprint": "51bcb72e9b852bfffdfca925dc8e8eaaff5579cd",
       "disease": null,
@@ -99,26 +115,38 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "4e5c4b137a4e2b6016b538851dadca9bbe19a263",
+      "fingerprint": "c22e5c548eab023ce4ab7c0b2e5c1fb7fbd799a0",
       "disease": "африканская чума свиней",
       "country": "Намибия",
       "distance_km": 6500,
       "level": "фон",
       "verdict": "confirmed",
-      "ai_summary": "Намибия подтвердила второй случай африканской чумы свиней в регионе Замбези",
+      "ai_summary": "В Намибии зафиксирована вторая вспышка африканской чумы свиней в регионе Замбези",
       "source_id": "bing-world-fmd",
       "title": "Namibia detects foot-and-mouth disease outbreak in second region",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accf9228fe9427982e98995d73c5aca&url=https%3a%2f%2fwww.anews.com.tr%2fworld%2f2026%2f10%2f12%2fnamibia-detects-foot-and-mouth-disease-outbreak-in-second-region&c=16155028055125751287&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd588b569446f8b7721aa728ac200c&url=https%3a%2f%2fwww.anews.com.tr%2fworld%2f2026%2f10%2f12%2fnamibia-detects-foot-and-mouth-disease-outbreak-in-second-region&c=16155028055125751287&mkt=en-us",
       "published_at": "2026-10-12T00:09:00.000Z",
-      "created_at": "2026-10-12 16:40:59",
-      "ai_at": "2026-10-12 16:41:10",
-      "dup_count": 28,
+      "created_at": "2026-10-12 22:40:38",
+      "ai_at": "2026-10-12 22:40:49",
+      "dup_count": 32,
       "dups": [
+        {
+          "title": "Namibia detects foot-and-mouth disease outbreak in second region",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accf9228fe9427982e98995d73c5aca&url=https%3a%2f%2fwww.anews.com.tr%2fworld%2f2026%2f10%2f12%2fnamibia-detects-foot-and-mouth-disease-outbreak-in-second-region&c=16155028055125751287&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-12T00:09:00.000Z"
+        },
         {
           "title": "Namibia detects foot-and-mouth disease outbreak in second region",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accafe05bbb40d3a0b992230a638f51&url=https%3a%2f%2fwww.anews.com.tr%2fworld%2f2026%2f10%2f12%2fnamibia-detects-foot-and-mouth-disease-outbreak-in-second-region&c=16155028055125751287&mkt=en-us",
           "source_id": "bing-world-fmd",
           "published_at": "2026-10-12T00:09:00.000Z"
+        },
+        {
+          "title": "Judge slams CPBN as FMD breaks in Zambezi …Fence construction continues despite tender dispute as Namibia confirms new outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd588b569446f8b7721aa728ac200c&url=https%3a%2f%2fobserver24.com.na%2fjudge-slams-cpbn-as-fmd-breaks-in-zambezi-fence-construction-continues-despite-tender-dispute-as-namibia-confirms-new-outbreak%2f&c=15992230499245096546&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-11T17:49:00.000Z"
         },
         {
           "title": "Judge slams CPBN as FMD breaks in Zambezi …Fence construction continues despite tender dispute as Namibia confirms new outbreak",
@@ -131,6 +159,12 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accafe05bbb40d3a0b992230a638f51&url=https%3a%2f%2fobserver24.com.na%2fjudge-slams-cpbn-as-fmd-breaks-in-zambezi-fence-construction-continues-despite-tender-dispute-as-namibia-confirms-new-outbreak%2f&c=15992230499245096546&mkt=en-us",
           "source_id": "bing-world-fmd",
           "published_at": "2026-10-11T17:49:00.000Z"
+        },
+        {
+          "title": "Namibia detects foot-and-mouth disease in second region",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd588b569446f8b7721aa728ac200c&url=https%3a%2f%2fenglish.news.cn%2f20261011%2fd19a67574c3746d2a5ba7f45c01fc8de%2fc.html&c=3674799154940641389&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-11T15:19:00.000Z"
         },
         {
           "title": "Namibia detects foot-and-mouth disease in second region",
@@ -155,26 +189,24 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc233371d64856835fe40ca26a35a4&url=https%3a%2f%2fenglish.news.cn%2f20261011%2fd19a67574c3746d2a5ba7f45c01fc8de%2fc.html&c=3674799154940641389&mkt=en-us",
           "source_id": "bing-world-fmd",
           "published_at": "2026-10-11T15:19:00.000Z"
-        },
-        {
-          "title": "Namibia detects foot-and-mouth disease outbreak in second region",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc74af9ab3458cbd5c3a77158c3089&url=https%3a%2f%2fwww.anews.com.tr%2fworld%2f2026%2f10%2f12%2fnamibia-detects-foot-and-mouth-disease-outbreak-in-second-region&c=16155028055125751287&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-11T10:08:00.000Z"
-        },
-        {
-          "title": "Louw denies link to FMD outbreak, calls allegations ‘entirely false’",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accf9228fe9427982e98995d73c5aca&url=https%3a%2f%2fobserver24.com.na%2flouw-denies-link-to-fmd-outbreak-calls-allegations-entirely-false%2f&c=14629772383922440791&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-11T09:35:00.000Z"
-        },
-        {
-          "title": "Louw denies link to FMD outbreak, calls allegations ‘entirely false’",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accafe05bbb40d3a0b992230a638f51&url=https%3a%2f%2fobserver24.com.na%2flouw-denies-link-to-fmd-outbreak-calls-allegations-entirely-false%2f&c=14629772383922440791&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-11T09:35:00.000Z"
         }
       ]
+    },
+    {
+      "fingerprint": "f071c8a15e4c3535e809593145a4bc491ce21eaa",
+      "disease": "болезнь копытных",
+      "country": "Кипр",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "Планируется уничтожение 3000 животных из-за заболевания болезнью копытных",
+      "source_id": "bing-world-fmd",
+      "title": "Cyprus plans to cull 3,000 animals over foot-and-mouth disease — Cyprus Mail",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd588b569446f8b7721aa728ac200c&url=https%3a%2f%2fua.news%2fen%2fagro%2fna-kipri-planuiut-znishchiti-3-tisiachi-tvarin-cherez-iashchur-cyprus-mail&c=9527174984941550966&mkt=en-us",
+      "published_at": "2026-10-11T21:34:00.000Z",
+      "created_at": "2026-10-12 22:40:38",
+      "ai_at": "2026-10-12 22:40:56",
+      "dup_count": 1
     },
     {
       "fingerprint": "a14da166f224a61cc864390095966534f823197f",
@@ -205,6 +237,22 @@
           "published_at": "2026-10-11T21:34:00.000Z"
         }
       ]
+    },
+    {
+      "fingerprint": "75882a93c56bc181f08c66f9424cec1bf535afa6",
+      "disease": null,
+      "country": "Намибия",
+      "distance_km": 6500,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "Мясоперерабатывающая корпорация Намибии выплатила фермерам N$31 миллион, несмотря на вспышку ФМД.",
+      "source_id": "bing-world-fmd",
+      "title": "Meatco pays farmers N$31 million despite FMD outbreak",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd588b569446f8b7721aa728ac200c&url=https%3a%2f%2feconomist.com.na%2fmeatco-pays-farmers-n31-million-despite-fmd-outbreak%2f&c=10274887045863171972&mkt=en-us",
+      "published_at": "2026-10-11T17:00:00.000Z",
+      "created_at": "2026-10-12 22:40:38",
+      "ai_at": "2026-10-12 22:41:09",
+      "dup_count": 1
     },
     {
       "fingerprint": "bca9d4667398adcafcd39518978fb231f4f6f5f6",
@@ -292,6 +340,22 @@
       "published_at": "2026-10-11T05:15:00.000Z",
       "created_at": "2026-10-12 06:40:44",
       "ai_at": "2026-10-12 06:41:07",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "bdb2087b208b5afb0da31378c5249f437aa6fdbc",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-fmd",
+      "title": "Severe Hand, Foot and Mouth Disease Outbreak in Vietnam Traced to a Single Introduction of Enterovirus A71 Subgenogroup B5",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd588b569446f8b7721aa728ac200c&url=https%3a%2f%2fbioengineer.org%2fsevere-hand-foot-and-mouth-disease-outbreak-in-vietnam-traced-to-a-single-introduction-of-enterovirus-a71-subgenogroup-b5%2f&c=1417583370398440805&mkt=en-us",
+      "published_at": "2026-10-11T01:06:00.000Z",
+      "created_at": "2026-10-12 22:40:38",
+      "ai_at": "2026-10-12 22:41:25",
       "dup_count": 1
     },
     {
@@ -704,134 +768,6 @@
       "published_at": "2026-10-08T16:45:00.000Z",
       "created_at": "2026-10-10 14:40:43",
       "ai_at": "2026-10-10 14:41:02",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "0c18b6f62b8c34e9c150893bd256ba9c72a25846",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Детектирован грипп птиц на двух молочных фермах округа Якима",
-      "source_id": "bing-world-ai",
-      "title": "Avian influenza detected at two Yakima County dairy farms",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac84ae0b77f4c3db0a8df8261d6aec2&url=https%3a%2f%2fwww.yakimaherald.com%2fnews%2flocal%2favian-influenza-detected-at-two-yakima-county-dairy-farms%2farticle_7dc797b5-e06a-487e-93b2-c403a1258a7b.html&c=17984205846308169122&mkt=en-us",
-      "published_at": "2026-10-08T16:45:00.000Z",
-      "created_at": "2026-10-09 02:40:39",
-      "ai_at": "2026-10-09 02:40:44",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "123645e56647a725d76098ad6ac51b7490129aaf",
-      "disease": "нодулярный дерматит",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-lsd",
-      "title": "Livestock disease test wins $2m in federal backing",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aca616fb57d4dbeb275e5f924b9f057&url=https%3a%2f%2fpetnews.com.au%2flivestock-disease-test-wins-2m-in-federal-backing%2f&c=6515758475245743656&mkt=en-us",
-      "published_at": "2026-10-08T15:30:00.000Z",
-      "created_at": "2026-10-10 16:40:51",
-      "ai_at": "2026-10-10 16:40:55",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "47676601c3a3b46442e90ece44f3f47e5b8d4f69",
-      "disease": "нодулярный дерматит",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Разработчик Avicena Systems получил $2 миллиона на создание теста, который может обнаруживать грипп птиц и нодулярный дерматит за 15 минут с помощью технологии ",
-      "source_id": "bing-world-lsd",
-      "title": "Livestock disease test wins $2m in federal backing",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aca0cfb93e14f229cca84ba84e203c5&url=https%3a%2f%2fpetnews.com.au%2flivestock-disease-test-wins-2m-in-federal-backing%2f&c=6515758475245743656&mkt=en-us",
-      "published_at": "2026-10-08T15:30:00.000Z",
-      "created_at": "2026-10-10 10:40:40",
-      "ai_at": "2026-10-10 10:40:45",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "36efc932efea1ae8778fd9ebb2876a69998f8e91",
-      "disease": "нодулярный дерматит",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Новая технология для быстрого выявления птичьего гриппа и нодулярного дерматита",
-      "source_id": "bing-world-lsd",
-      "title": "Livestock disease test wins $2m in federal backing",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9b87af296413ea3b7fdedb95baaa6&url=https%3a%2f%2fpetnews.com.au%2flivestock-disease-test-wins-2m-in-federal-backing%2f&c=6515758475245743656&mkt=en-us",
-      "published_at": "2026-10-08T15:30:00.000Z",
-      "created_at": "2026-10-10 04:40:38",
-      "ai_at": "2026-10-10 04:40:43",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "b163d80c35157704a38574c2b8000f3b0cbd48a2",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-lsd",
-      "title": "Livestock disease test wins $2m in federal backing",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac96200086b4e429b3d697a8ff651ee&url=https%3a%2f%2fpetnews.com.au%2flivestock-disease-test-wins-2m-in-federal-backing%2f&c=6515758475245743656&mkt=en-us",
-      "published_at": "2026-10-08T15:30:00.000Z",
-      "created_at": "2026-10-09 22:40:38",
-      "ai_at": "2026-10-09 22:40:55",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "795db9f912ef92c39681ca3c511b25f1b630b8d8",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-lsd",
-      "title": "Livestock disease test wins $2m in federal backing",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8f3a75fb0451ba7a5e2b3a6c9ba6d&url=https%3a%2f%2fpetnews.com.au%2flivestock-disease-test-wins-2m-in-federal-backing%2f&c=6515758475245743656&mkt=en-us",
-      "published_at": "2026-10-08T15:30:00.000Z",
-      "created_at": "2026-10-09 14:40:39",
-      "ai_at": "2026-10-09 14:40:42",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "d4f5d166540175e33550ce60b007e032e696381b",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Компания Avicena Systems получила $2 миллиона на разработку теста на грипп птиц и нодулярный дерматит, который сможет выявить болезнь за 15 минут.",
-      "source_id": "bing-world-lsd",
-      "title": "Livestock disease test wins $2m in federal backing",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac82ea9b88944e8ab787d3ca961efd8&url=https%3a%2f%2fpetnews.com.au%2flivestock-disease-test-wins-2m-in-federal-backing%2f&c=6515758475245743656&mkt=en-us",
-      "published_at": "2026-10-08T15:30:00.000Z",
-      "created_at": "2026-10-09 00:40:38",
-      "ai_at": "2026-10-09 00:40:43",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "ca90c9cbbf5ed874bcfe0c7ea5176ebb263e653a",
-      "disease": null,
-      "country": "Россия",
-      "distance_km": 0,
-      "level": "граница",
-      "verdict": "probable",
-      "ai_summary": "Россия объявила чрезвычайное положение из-за опасений по поводу африканской чумы свиней",
-      "source_id": "bing-world-fmd",
-      "title": "Russia declares 'state of emergency' as disease spreads in two other nations",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8c17bfc0a4e85be77eb5c5e7b36ff&url=https%3a%2f%2fwww.dailystar.co.uk%2fnews%2flatest-news%2frussia-declares-state-emergency-disease-37753112&c=16495200820949134145&mkt=en-us",
-      "published_at": "2026-10-08T14:02:00.000Z",
-      "created_at": "2026-10-09 10:40:39",
-      "ai_at": "2026-10-09 10:40:45",
       "dup_count": 1
     }
   ]
