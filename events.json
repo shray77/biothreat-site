@@ -1,28 +1,46 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-11T22:41:20.619Z",
+  "generated_at": "2026-10-12T00:42:00.905Z",
   "items": [
     {
-      "fingerprint": "947a5eac9a99aa37706403412bf3a236da6dfdfd",
+      "fingerprint": "164df6a947c0547ad90db2be2d1ff243ad19fc4b",
       "disease": "африканская чума свиней",
       "country": "Намибия",
       "distance_km": 6500,
       "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "Обвинения в причастности к вспышке африканской чумы свиней в Намибии опровергает Лоу",
+      "verdict": "confirmed",
+      "ai_summary": "В Намибии выявлен африканская чума свиней во второй регионе",
       "source_id": "bing-world-fmd",
-      "title": "Louw denies link to FMD outbreak, calls allegations ‘entirely false’",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe6c48c7b4d32bfeda621e480e3ae&url=https%3a%2f%2fobserver24.com.na%2flouw-denies-link-to-fmd-outbreak-calls-allegations-entirely-false%2f&c=14629772383922440791&mkt=en-us",
-      "published_at": "2026-10-11T09:35:00.000Z",
-      "created_at": "2026-10-11 20:40:38",
-      "ai_at": "2026-10-11 20:40:47",
-      "dup_count": 35,
+      "title": "Namibia detects foot-and-mouth disease in second region",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc233371d64856835fe40ca26a35a4&url=https%3a%2f%2fenglish.news.cn%2f20261011%2fd19a67574c3746d2a5ba7f45c01fc8de%2fc.html&c=3674799154940641389&mkt=en-us",
+      "published_at": "2026-10-11T15:19:00.000Z",
+      "created_at": "2026-10-12 00:40:38",
+      "ai_at": "2026-10-12 00:40:46",
+      "dup_count": 31,
       "dups": [
+        {
+          "title": "Louw denies link to FMD outbreak, calls allegations ‘entirely false’",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc233371d64856835fe40ca26a35a4&url=https%3a%2f%2fobserver24.com.na%2flouw-denies-link-to-fmd-outbreak-calls-allegations-entirely-false%2f&c=14629772383922440791&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-11T09:35:00.000Z"
+        },
+        {
+          "title": "Louw denies link to FMD outbreak, calls allegations ‘entirely false’",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe6c48c7b4d32bfeda621e480e3ae&url=https%3a%2f%2fobserver24.com.na%2flouw-denies-link-to-fmd-outbreak-calls-allegations-entirely-false%2f&c=14629772383922440791&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-11T09:35:00.000Z"
+        },
         {
           "title": "Namibia detects foot-and-mouth disease in second region",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe6c48c7b4d32bfeda621e480e3ae&url=https%3a%2f%2fenglish.news.cn%2f20261011%2fd19a67574c3746d2a5ba7f45c01fc8de%2fc.html&c=3674799154940641389&mkt=en-us",
           "source_id": "bing-world-fmd",
           "published_at": "2026-10-11T01:19:00.000Z"
+        },
+        {
+          "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc233371d64856835fe40ca26a35a4&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-09T07:35:00.000Z"
         },
         {
           "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
@@ -59,24 +77,6 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aca453e6b4d46db87209414e6801375&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
           "source_id": "bing-world-fmd",
           "published_at": "2026-10-09T07:35:00.000Z"
-        },
-        {
-          "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9f0d2f3bd46a19c6100769c9b9700&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-09T07:35:00.000Z"
-        },
-        {
-          "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac99c6944204b42b05fe11d336926ec&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-09T00:15:00.000Z"
-        },
-        {
-          "title": "FMD outbreak: 17 farms confirmed infected in //Kharas",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac96202ff224b0d9a51d794b485f87f&url=https%3a%2f%2fwww.namibiansun.com%2flocal-news%2ffmd-outbreak-17-farms-confirmed-infected-in-kharas-nmh019727-1-24233&c=1179215140205991697&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-09T00:15:00.000Z"
         }
       ]
     },
@@ -110,13 +110,19 @@
       "published_at": "2026-10-10T10:20:00.000Z",
       "created_at": "2026-10-10 18:40:51",
       "ai_at": "2026-10-10 18:40:55",
-      "dup_count": 33,
+      "dup_count": 36,
       "dups": [
         {
           "title": "Avian influenza confirmed in dairy cattle in Washington for the first time",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac962038b674169bceebcaffb2b0b0d&url=https%3a%2f%2fwww.dvm360.com%2fview%2favian-influenza-confirmed-in-dairy-cattle-in-washington-for-the-first-time&c=13268844438775985935&mkt=en-us",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-09T14:03:00.000Z"
+        },
+        {
+          "title": "Avian influenza confirmed in dairy cattle in Washington for the first time",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc233551a441b58932b1dac5ed9a86&url=https%3a%2f%2fwww.dvm360.com%2fview%2favian-influenza-confirmed-in-dairy-cattle-in-washington-for-the-first-time&c=13268844438775985935&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-08T17:00:00.000Z"
         },
         {
           "title": "Avian influenza confirmed in dairy cattle in Washington for the first time",
@@ -162,34 +168,34 @@
         },
         {
           "title": "Avian influenza detected at two Yakima County dairy farms",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbace1c7f04e1095be782c58d52e24&url=https%3a%2f%2fwww.yakimaherald.com%2fnews%2flocal%2favian-influenza-detected-at-two-yakima-county-dairy-farms%2farticle_7dc797b5-e06a-487e-93b2-c403a1258a7b.html&c=17984205846308169122&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-08T16:45:00.000Z"
-        },
-        {
-          "title": "Avian influenza detected at two Yakima County dairy farms",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac9f0d4e54a46f88c696a7786beec5c&url=https%3a%2f%2fwww.yakimaherald.com%2fnews%2flocal%2favian-influenza-detected-at-two-yakima-county-dairy-farms%2farticle_7dc797b5-e06a-487e-93b2-c403a1258a7b.html&c=17984205846308169122&mkt=en-us",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc233551a441b58932b1dac5ed9a86&url=https%3a%2f%2fwww.yakimaherald.com%2fnews%2flocal%2favian-influenza-detected-at-two-yakima-county-dairy-farms%2farticle_7dc797b5-e06a-487e-93b2-c403a1258a7b.html&c=17984205846308169122&mkt=en-us",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-08T16:45:00.000Z"
         }
       ]
     },
     {
-      "fingerprint": "ab83b2e086fdbfc45f296f56b0dba47132dd646b",
+      "fingerprint": "5b39fdbf51bdd7680c36ef3471af2c463a8be0c4",
       "disease": "грипп птиц",
       "country": "Суринам",
       "distance_km": null,
       "level": "не определено",
       "verdict": "probable",
-      "ai_summary": "Власти Гайаны усилили наблюдение за птицами и приняли меры предосторожности из-за вспышки гриппа птиц в Суринаме",
+      "ai_summary": "Власти Гайаны усиливают наблюдение и принимают защитные меры для предотвращения вспышки гриппа птиц в Суринаме",
       "source_id": "bing-world-ai",
       "title": "Guyana steps up bird flu surveillance amid outbreak in Suriname",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe6c6e778455c80ce0fba22426eb2&url=https%3a%2f%2fwww.jamaicaobserver.com%2f2026%2f10%2f09%2fguyana-steps-bird-flu-surveillance-amid-outbreak-suriname%2f&c=3724265399978386093&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc233551a441b58932b1dac5ed9a86&url=https%3a%2f%2fwww.jamaicaobserver.com%2f2026%2f10%2f09%2fguyana-steps-bird-flu-surveillance-amid-outbreak-suriname%2f&c=3724265399978386093&mkt=en-us",
       "published_at": "2026-10-09T08:41:00.000Z",
-      "created_at": "2026-10-11 20:40:38",
-      "ai_at": "2026-10-11 20:40:57",
-      "dup_count": 8,
+      "created_at": "2026-10-12 00:40:38",
+      "ai_at": "2026-10-12 00:40:58",
+      "dup_count": 9,
       "dups": [
+        {
+          "title": "Guyana steps up bird flu surveillance amid outbreak in Suriname",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe6c6e778455c80ce0fba22426eb2&url=https%3a%2f%2fwww.jamaicaobserver.com%2f2026%2f10%2f09%2fguyana-steps-bird-flu-surveillance-amid-outbreak-suriname%2f&c=3724265399978386093&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-09T08:41:00.000Z"
+        },
         {
           "title": "Guyana steps up bird flu surveillance amid outbreak in Suriname",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbace1c7f04e1095be782c58d52e24&url=https%3a%2f%2fwww.jamaicaobserver.com%2f2026%2f10%2f09%2fguyana-steps-bird-flu-surveillance-amid-outbreak-suriname%2f&c=3724265399978386093&mkt=en-us",
@@ -248,6 +254,22 @@
       "published_at": "2026-10-09T08:41:00.000Z",
       "created_at": "2026-10-10 08:40:46",
       "ai_at": "2026-10-10 08:40:51",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "0d2bea69048fa8335f00f3aab072052f7de1322e",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-asf",
+      "title": "African Swine Fever Situation Update",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc2334be2c4ea38353e7ea9b07f467&url=https%3a%2f%2fglobalriskatlas.com%2fen%2fafrican-swine-fever-situation-update%2f&c=17383024710182895256&mkt=en-us",
+      "published_at": "2026-10-09T01:53:00.000Z",
+      "created_at": "2026-10-12 00:40:38",
+      "ai_at": "2026-10-12 00:41:03",
       "dup_count": 1
     },
     {
@@ -539,20 +561,28 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "4c6da2072e2182d1762ce205c92c79e5a8b46d42",
+      "fingerprint": "5d010dd4a6adaafbc8fbc8e68e06a99f0e584c4d",
       "disease": "грипп птиц",
       "country": "Индия",
       "distance_km": 3000,
       "level": "фон",
       "verdict": "confirmed",
-      "ai_summary": "В Бенгалуру выявлена вспышка гриппа птиц, птиц и яйца были уничтожены, созданы зоны заражения и наблюдения",
+      "ai_summary": "Вспышка гриппа птиц в районе Хесарагатта провела на уничтожение птиц и яиц, создание зон заражения и мониторинга.",
       "source_id": "bing-world-ai",
       "title": "\"h5n1-outbreak\"",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe6c6e778455c80ce0fba22426eb2&url=https%3a%2f%2ftelanganatoday.com%2ftag%2fh5n1-outbreak&c=2446720626337276409&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc233551a441b58932b1dac5ed9a86&url=https%3a%2f%2ftelanganatoday.com%2ftag%2fh5n1-outbreak&c=2446720626337276409&mkt=en-us",
       "published_at": "2026-10-07T17:00:00.000Z",
-      "created_at": "2026-10-11 20:40:38",
-      "ai_at": "2026-10-11 20:41:22",
-      "dup_count": 1
+      "created_at": "2026-10-12 00:40:38",
+      "ai_at": "2026-10-12 00:41:21",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "\"h5n1-outbreak\"",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbe6c6e778455c80ce0fba22426eb2&url=https%3a%2f%2ftelanganatoday.com%2ftag%2fh5n1-outbreak&c=2446720626337276409&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-07T17:00:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "2c94e8b53ee0df046723367d3b3ddcaf19d4d737",
@@ -568,38 +598,6 @@
       "published_at": "2026-10-07T06:33:00.000Z",
       "created_at": "2026-10-09 06:40:43",
       "ai_at": "2026-10-09 06:41:03",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "36bd8ccad02c16310a4dd5466e04bc15bf1ecb51",
-      "disease": "овца и коз",
-      "country": "Румыния",
-      "distance_km": 700,
-      "level": "повышенная",
-      "verdict": "confirmed",
-      "ai_summary": "В Одесской области из-за вспышки овечьей оспы введены ограничения на выпас скота",
-      "source_id": "bing-world-ai",
-      "title": "Livestock grazing has been restricted in the Odesa region due to a smallpox outbreak in Romania",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac84ae0b77f4c3db0a8df8261d6aec2&url=https%3a%2f%2fua.news%2fen%2fhealth%2fna-odeshchini-obmezhili-vipas-khudobi-cherez-spalakh-vispi-v-rumuniyi&c=10944610671369528490&mkt=en-us",
-      "published_at": "2026-10-07T06:33:00.000Z",
-      "created_at": "2026-10-09 02:40:39",
-      "ai_at": "2026-10-09 02:41:01",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "cc6539e7d47eef467034c33b96d11f3b771d195d",
-      "disease": "эпизоотическое геморрагическое заболевание",
-      "country": "США",
-      "distance_km": 5000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В Висконсине подтверждено эпизоотическое геморрагическое заболевание у скота в округе Вокеша, это первое зафиксированное заражение с 2013 года.",
-      "source_id": "bing-world-fmd",
-      "title": "Wisconsin Confirms EHD in Cattle Amid Deer Outbreak",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8c17bfc0a4e85be77eb5c5e7b36ff&url=https%3a%2f%2fwww.dairyherd.com%2fnews%2fwisconsin-confirms-ehd-cattle-amid-deer-outbreak&c=14548997230013760013&mkt=en-us",
-      "published_at": "2026-10-07T06:32:00.000Z",
-      "created_at": "2026-10-09 10:40:39",
-      "ai_at": "2026-10-09 10:41:00",
       "dup_count": 1
     }
   ]
