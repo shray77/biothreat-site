@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-13T14:42:22.218Z",
+  "generated_at": "2026-10-13T16:42:07.131Z",
   "items": [
     {
       "fingerprint": "227806524b7d7b114b2e65c16ef67be627c627af",
@@ -40,7 +40,7 @@
       "published_at": "2026-10-13T04:38:00.000Z",
       "created_at": "2026-10-13 14:41:05",
       "ai_at": "2026-10-13 14:41:19",
-      "dup_count": 35,
+      "dup_count": 34,
       "dups": [
         {
           "title": "Namibia confirms foot-and-mouth disease in second region",
@@ -318,6 +318,22 @@
       "published_at": "2026-10-12T02:30:00.000Z",
       "created_at": "2026-10-12 12:40:39",
       "ai_at": "2026-10-12 12:40:44",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "f495f0e2d5387677e6c110653d1bcd98f4df7f36",
+      "disease": "нодулярный дерматит",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Разработано кандидатное вакцину против вируса нодулярного дерматита",
+      "source_id": "bing-world-lsd",
+      "title": "Computational Vaccine Design Targets Lumpy Skin Disease Virus",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace55fc43d64300aed5da205c832eeb&url=https%3a%2f%2fbioengineer.org%2fcomputational-vaccine-design-targets-lumpy-skin-disease-virus%2f&c=8661805783030120835&mkt=en-us",
+      "published_at": "2026-10-12T02:11:00.000Z",
+      "created_at": "2026-10-13 16:40:52",
+      "ai_at": "2026-10-13 16:40:57",
       "dup_count": 1
     },
     {
