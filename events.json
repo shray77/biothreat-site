@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-13T02:41:53.932Z",
+  "generated_at": "2026-10-13T04:41:51.815Z",
   "items": [
     {
       "fingerprint": "392653499ae3a8ed132866196daeb3c90c99f9f4",
@@ -112,6 +112,22 @@
       "published_at": "2026-10-12T02:30:00.000Z",
       "created_at": "2026-10-12 12:40:39",
       "ai_at": "2026-10-12 12:40:44",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "e57bf6362c055b8d308be0ff6b7089e2a37c1417",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Разработан вакцинный кандидат от болезни нодулярного дерматита",
+      "source_id": "bing-world-lsd",
+      "title": "Computational Vaccine Design Targets Lumpy Skin Disease Virus",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acda13fd1b349a0aa03783cb32a67fc&url=https%3a%2f%2fbioengineer.org%2fcomputational-vaccine-design-targets-lumpy-skin-disease-virus%2f&c=8661805783030120835&mkt=en-us",
+      "published_at": "2026-10-12T02:11:00.000Z",
+      "created_at": "2026-10-13 04:40:38",
+      "ai_at": "2026-10-13 04:40:42",
       "dup_count": 1
     },
     {
@@ -445,21 +461,27 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "d82fece7abce5f4437900e39a1dfa1a0f45a29b8",
+      "fingerprint": "681f977a8cb5bc31bee53d0f06fcecc9303acb9e",
       "disease": "нодулярный дерматит",
       "country": "Франция",
       "distance_km": 2500,
       "level": "фон",
       "verdict": "probable",
-      "ai_summary": "Протесты французских фермеров усилились в связи с вспышкой нодулярного дерматита у скота",
+      "ai_summary": "Уплотнение кожи среди скота привело к усилению протестов французских фермеров.",
       "source_id": "bing-world-lsd",
       "title": "Farmers' protests",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc74ac90c642f3b43c58ac3c01d857&url=https%3a%2f%2fwww.lemonde.fr%2fen%2ffrench-farmers-protests%2f&c=8172835141637647689&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acda13fd1b349a0aa03783cb32a67fc&url=https%3a%2f%2fwww.lemonde.fr%2fen%2ffrench-farmers-protests%2f&c=8172835141637647689&mkt=en-us",
       "published_at": "2026-10-10T17:00:00.000Z",
-      "created_at": "2026-10-12 06:40:44",
-      "ai_at": "2026-10-12 06:41:13",
-      "dup_count": 2,
+      "created_at": "2026-10-13 04:40:38",
+      "ai_at": "2026-10-13 04:40:46",
+      "dup_count": 3,
       "dups": [
+        {
+          "title": "Farmers' protests",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc74ac90c642f3b43c58ac3c01d857&url=https%3a%2f%2fwww.lemonde.fr%2fen%2ffrench-farmers-protests%2f&c=8172835141637647689&mkt=en-us",
+          "source_id": "bing-world-lsd",
+          "published_at": "2026-10-10T17:00:00.000Z"
+        },
         {
           "title": "Farmers' protests",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbacdebcad405d87ca7130a9d366e8&url=https%3a%2f%2fwww.lemonde.fr%2fen%2ffrench-farmers-protests%2f&c=8172835141637647689&mkt=en-us",
@@ -482,7 +504,7 @@
       "published_at": "2026-10-10T10:20:00.000Z",
       "created_at": "2026-10-10 18:40:51",
       "ai_at": "2026-10-10 18:40:55",
-      "dup_count": 10,
+      "dup_count": 8,
       "dups": [
         {
           "title": "Avian influenza confirmed in dairy cattle in Washington for the first time",
@@ -523,18 +545,6 @@
         {
           "title": "Avian influenza confirmed in dairy cattle in Washington for the first time",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acbace1c7f04e1095be782c58d52e24&url=https%3a%2f%2fwww.dvm360.com%2fview%2favian-influenza-confirmed-in-dairy-cattle-in-washington-for-the-first-time&c=13268844438775985935&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-08T17:00:00.000Z"
-        },
-        {
-          "title": "Avian influenza confirmed in dairy cattle in Washington for the first time",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb0a20fc804c6e99979e2d53c5ea58&url=https%3a%2f%2fwww.dvm360.com%2fview%2favian-influenza-confirmed-in-dairy-cattle-in-washington-for-the-first-time&c=13268844438775985935&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-08T17:00:00.000Z"
-        },
-        {
-          "title": "Avian influenza confirmed in dairy cattle in Washington for the first time",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acac22e475845898196454ced5c52dd&url=https%3a%2f%2fwww.dvm360.com%2fview%2favian-influenza-confirmed-in-dairy-cattle-in-washington-for-the-first-time&c=13268844438775985935&mkt=en-us",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-08T17:00:00.000Z"
         }
