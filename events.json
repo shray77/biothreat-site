@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-14T14:42:35.405Z",
+  "generated_at": "2026-10-14T16:42:05.513Z",
   "items": [
+    {
+      "fingerprint": "be882070b840dbbb265669deb8ff87b8ed53ca4f",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "WHO Health Emergencies EPI-WIN webinar: Understanding Influenza A(H9N2): current risks, One Health action and pandemic preparedness",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfa742fecb41b185f06c4de1fc410e&url=https%3a%2f%2fwww.who.int%2fnews-room%2fevents%2fdetail%2f2026%2f10%2f14%2fdefault-calendar%2fwho-health-emergencies-epi-win-webinar-understanding-influenza-a(h9n2)-current-risks-one-health-action-and-pandemic-preparedness&c=14835575689701157448&mkt=en-us",
+      "published_at": "2026-10-14T04:29:00.000Z",
+      "created_at": "2026-10-14 16:40:50",
+      "ai_at": "2026-10-14 16:40:55",
+      "dup_count": 1
+    },
     {
       "fingerprint": "b53ad967b17d49477669ec411d9b76743fa32f5c",
       "disease": "африканская чума свиней",
@@ -33,42 +49,60 @@
       ]
     },
     {
-      "fingerprint": "81e57cfa72e00d529ab6ac73156d348b6195f642",
-      "disease": "африканская чума свиней",
-      "country": "Великобритания",
-      "distance_km": 2500,
+      "fingerprint": "2466a25f5c55caccfa41589955d6d57474b17105",
+      "disease": "фут-мут",
+      "country": "ЮАР",
+      "distance_km": 7000,
       "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "Британское Агентство по животноводству заказало обновление экономического анализа потенциального вспышки африканской чумы свиней",
-      "source_id": "bing-world-asf",
-      "title": "UK's AHDB commissions updated economic impact study of a potential African swine fever outbreak",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf7dcc89b34507b87bd120fa7f17da&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fuks-ahdb-commissions-updated-economic-impact-study-of-a-potential-african-swine-fever-outbreak&c=12636286766164585809&mkt=en-us",
-      "published_at": "2026-10-13T17:00:00.000Z",
-      "created_at": "2026-10-14 14:41:02",
-      "ai_at": "2026-10-14 14:41:15",
+      "verdict": "confirmed",
+      "ai_summary": "Подтверждено заражение куду коровья болезни в Национальном парке Эллисруэ, принимаются меры биосекуритета",
+      "source_id": "bing-world-fmd",
+      "title": "Addo Elephant National Park confirms foot-and-mouth disease in kudu",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfa7423ba54bddbf44b4bf87fcad22&url=https%3a%2f%2fwww.getaway.co.za%2fnews%2faddo-elephant-national-park-confirms-foot-and-mouth-disease-in-kudu%2f&c=17937582689731627634&mkt=en-us",
+      "published_at": "2026-10-13T23:30:00.000Z",
+      "created_at": "2026-10-14 16:40:50",
+      "ai_at": "2026-10-14 16:41:01",
       "dup_count": 1
     },
     {
-      "fingerprint": "a3269a2cc4f1c5fc390bd165e073135bbcb57824",
+      "fingerprint": "1afe03f78d70ae189cfe10d20ca072c028f72b8b",
       "disease": "африканская чума свиней",
       "country": "Намибия",
       "distance_km": 6500,
       "level": "фон",
       "verdict": "confirmed",
-      "ai_summary": "В Намибии вспышка африканской чумы свиней угрожает доходам фермеров и нарушает поставки мяса.",
+      "ai_summary": "В Намибии начато обязательное вакцинационное мероприятие для борьбы с эпидемией африканской чумы свиней.",
       "source_id": "bing-world-fmd",
-      "title": "Namibia battles cattle disease outbreak as EU suspends several meat imports",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf52f1e5de4d40911f4eb6f5aeee48&url=https%3a%2f%2fwww.yahoo.com%2fnews%2fworld%2farticles%2fnamibia-battles-cattle-disease-outbreak-010746293.html&c=12566086496046464699&mkt=en-us",
-      "published_at": "2026-10-13T17:00:00.000Z",
-      "created_at": "2026-10-14 10:41:01",
-      "ai_at": "2026-10-14 10:41:14",
-      "dup_count": 28,
+      "title": "Namibia embarks on compulsory mass vaccination drive to contain FMD outbreak",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfa7423ba54bddbf44b4bf87fcad22&url=https%3a%2f%2fenglish.news.cn%2f..%2f20261014%2f956f8754567a459593dba67df5572b57%2fc.html&c=6042262910296500566&mkt=en-us",
+      "published_at": "2026-10-13T23:18:00.000Z",
+      "created_at": "2026-10-14 16:40:50",
+      "ai_at": "2026-10-14 16:41:06",
+      "dup_count": 24,
       "dups": [
+        {
+          "title": "Namibia battles cattle disease outbreak as EU suspends several meat imports",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfa7423ba54bddbf44b4bf87fcad22&url=https%3a%2f%2fwww.yahoo.com%2fnews%2fworld%2farticles%2fnamibia-battles-cattle-disease-outbreak-010746293.html&c=12566086496046464699&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-13T17:00:00.000Z"
+        },
+        {
+          "title": "Namibia battles cattle disease outbreak as EU suspends several meat imports",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf52f1e5de4d40911f4eb6f5aeee48&url=https%3a%2f%2fwww.yahoo.com%2fnews%2fworld%2farticles%2fnamibia-battles-cattle-disease-outbreak-010746293.html&c=12566086496046464699&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-13T17:00:00.000Z"
+        },
         {
           "title": "Namibia battles cattle disease outbreak as EU suspends several meat imports",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acefec2878749c19690238d25e38fc7&url=https%3a%2f%2fwww.yahoo.com%2fnews%2fworld%2farticles%2fnamibia-battles-cattle-disease-outbreak-010746293.html&c=12566086496046464699&mkt=en-us",
           "source_id": "bing-world-fmd",
           "published_at": "2026-10-13T17:00:00.000Z"
+        },
+        {
+          "title": "Foot-and-mouth disease spreads to Namibia’s Zambezi Region",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfa7423ba54bddbf44b4bf87fcad22&url=https%3a%2f%2fwww.africanews.com%2f2026%2f10%2f13%2ffoot-and-mouth-disease-spreads-to-namibias-zambezi-region%2f&c=6854696359061300906&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-13T04:50:00.000Z"
         },
         {
           "title": "Foot-and-mouth disease spreads to Namibia’s Zambezi Region",
@@ -102,29 +136,27 @@
         },
         {
           "title": "Namibia confirms foot-and-mouth disease in second region",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf52f1e5de4d40911f4eb6f5aeee48&url=https%3a%2f%2fwww.ghanaweb.com%2fGhanaHomePage%2fafrica%2fNamibia-confirms-foot-and-mouth-disease-in-second-region-2056459&c=2844101029269202539&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-13T03:18:00.000Z"
-        },
-        {
-          "title": "Namibia confirms foot-and-mouth disease in second region",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acefec2878749c19690238d25e38fc7&url=https%3a%2f%2fwww.ghanaweb.com%2fGhanaHomePage%2fafrica%2fNamibia-confirms-foot-and-mouth-disease-in-second-region-2056459&c=2844101029269202539&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-13T03:18:00.000Z"
-        },
-        {
-          "title": "Namibia confirms foot-and-mouth disease in second region",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aceb96e2ff64bc8aaeb23d0b0205d06&url=https%3a%2f%2fwww.ghanaweb.com%2fGhanaHomePage%2fafrica%2fNamibia-confirms-foot-and-mouth-disease-in-second-region-2056459&c=2844101029269202539&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-13T03:18:00.000Z"
-        },
-        {
-          "title": "Namibia confirms foot-and-mouth disease in second region",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace749f4f6b43ff814e1fce0dbd62c0&url=https%3a%2f%2fwww.ghanaweb.com%2fGhanaHomePage%2fafrica%2fNamibia-confirms-foot-and-mouth-disease-in-second-region-2056459&c=2844101029269202539&mkt=en-us",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfa7423ba54bddbf44b4bf87fcad22&url=https%3a%2f%2fwww.ghanaweb.com%2fGhanaHomePage%2fafrica%2fNamibia-confirms-foot-and-mouth-disease-in-second-region-2056459&c=2844101029269202539&mkt=en-us",
           "source_id": "bing-world-fmd",
           "published_at": "2026-10-13T03:18:00.000Z"
         }
       ]
+    },
+    {
+      "fingerprint": "81e57cfa72e00d529ab6ac73156d348b6195f642",
+      "disease": "африканская чума свиней",
+      "country": "Великобритания",
+      "distance_km": 2500,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "Британское Агентство по животноводству заказало обновление экономического анализа потенциального вспышки африканской чумы свиней",
+      "source_id": "bing-world-asf",
+      "title": "UK's AHDB commissions updated economic impact study of a potential African swine fever outbreak",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf7dcc89b34507b87bd120fa7f17da&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fuks-ahdb-commissions-updated-economic-impact-study-of-a-potential-african-swine-fever-outbreak&c=12636286766164585809&mkt=en-us",
+      "published_at": "2026-10-13T17:00:00.000Z",
+      "created_at": "2026-10-14 14:41:02",
+      "ai_at": "2026-10-14 14:41:15",
+      "dup_count": 1
     },
     {
       "fingerprint": "17849614272d49e2d40bba6226aa1507482970cc",
@@ -253,6 +285,22 @@
       ]
     },
     {
+      "fingerprint": "92e516500ab674651dc3710ae10462237b5edf37",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Multiple birds die at city zoos amid bird flu outbreak, officials say",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfa742fecb41b185f06c4de1fc410e&url=https%3a%2f%2fny1.com%2fnyc%2fall-boroughs%2fnews%2f2025%2f02%2f08%2f15-birds-die-of-bird-flu-at-city-zoos--officials-say&c=5111605619314766813&mkt=en-us",
+      "published_at": "2026-10-13T09:13:00.000Z",
+      "created_at": "2026-10-14 16:40:50",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
       "fingerprint": "bd2f929907764c8f4dd199f21ba590b86635a8b5",
       "disease": "грипп птиц",
       "country": "США",
@@ -266,6 +314,22 @@
       "published_at": "2026-10-13T09:13:00.000Z",
       "created_at": "2026-10-14 10:41:01",
       "ai_at": "2026-10-14 10:41:24",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "541edad4c1bc48d477672669aadcec577264a9c4",
+      "disease": "эбола",
+      "country": "ДР Конго",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "В ДР Конго зарегистрировано 9066 случаев эболы и 4381 смерть.",
+      "source_id": "bing-world-ai",
+      "title": "Ebola cases top 9,000 in DR Congo outbreak",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfa742fecb41b185f06c4de1fc410e&url=https%3a%2f%2fwww.cidrap.umn.edu%2febola%2febola-cases-top-9000-dr-congo-outbreak&c=4544819000251996539&mkt=en-us",
+      "published_at": "2026-10-13T07:17:00.000Z",
+      "created_at": "2026-10-14 16:40:50",
+      "ai_at": "2026-10-14 16:41:14",
       "dup_count": 1
     },
     {
@@ -317,21 +381,27 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "45cf511dd9b5dca4e7193afd7e6a67f9d3226f10",
+      "fingerprint": "de18b908ee96fb6fc709db01c1a991537be39778",
       "disease": "африканская чума свиней",
       "country": "ЮАР",
       "distance_km": 7000,
       "level": "фон",
       "verdict": "confirmed",
-      "ai_summary": "Зафиксирована африканская чума свиней в куду в национальном парке Эллифант",
+      "ai_summary": "Подтверждена африканская чума свиней в национальном парке",
       "source_id": "bing-world-fmd",
       "title": "Foot-and-mouth disease confirmed in kudu at Addo Elephant National Park",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf52f1e5de4d40911f4eb6f5aeee48&url=https%3a%2f%2fnovanews.co.za%2ffoot-and-mouth-disease-confirmed-in-kudu-at-addo-elephant-national-park%2f&c=16559880733431485475&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfa7423ba54bddbf44b4bf87fcad22&url=https%3a%2f%2fnovanews.co.za%2ffoot-and-mouth-disease-confirmed-in-kudu-at-addo-elephant-national-park%2f&c=16559880733431485475&mkt=en-us",
       "published_at": "2026-10-13T06:08:00.000Z",
-      "created_at": "2026-10-14 10:41:01",
-      "ai_at": "2026-10-14 10:41:34",
-      "dup_count": 4,
+      "created_at": "2026-10-14 16:40:50",
+      "ai_at": "2026-10-14 16:41:19",
+      "dup_count": 5,
       "dups": [
+        {
+          "title": "Foot-and-mouth disease confirmed in kudu at Addo Elephant National Park",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf52f1e5de4d40911f4eb6f5aeee48&url=https%3a%2f%2fnovanews.co.za%2ffoot-and-mouth-disease-confirmed-in-kudu-at-addo-elephant-national-park%2f&c=16559880733431485475&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-13T06:08:00.000Z"
+        },
         {
           "title": "Foot-and-mouth disease confirmed in kudu at Addo Elephant National Park",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acefec2878749c19690238d25e38fc7&url=https%3a%2f%2fnovanews.co.za%2ffoot-and-mouth-disease-confirmed-in-kudu-at-addo-elephant-national-park%2f&c=16559880733431485475&mkt=en-us",
@@ -382,13 +452,19 @@
       "published_at": "2026-10-13T06:08:00.000Z",
       "created_at": "2026-10-13 18:40:38",
       "ai_at": "2026-10-13 18:40:47",
-      "dup_count": 5,
+      "dup_count": 6,
       "dups": [
         {
           "title": "Foot-and-mouth disease confirmed in kudu at Addo Elephant National Park",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace39cc1fc447b0b85f47815c64e965&url=https%3a%2f%2fnovanews.co.za%2ffoot-and-mouth-disease-confirmed-in-kudu-at-addo-elephant-national-park%2f&c=16559880733431485475&mkt=en-us",
           "source_id": "bing-world-fmd",
           "published_at": "2026-10-13T06:08:00.000Z"
+        },
+        {
+          "title": "FMD outbreak hits Addo Elephant National Park",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfa7423ba54bddbf44b4bf87fcad22&url=https%3a%2f%2fwww.algoafm.co.za%2flocal%2ffmd-outbreak-hits-addo-elephant-national-park&c=3123812362662940095&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-13T04:39:00.000Z"
         },
         {
           "title": "FMD outbreak hits Addo Elephant National Park",
@@ -407,6 +483,60 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace39cc1fc447b0b85f47815c64e965&url=https%3a%2f%2fwww.algoafm.co.za%2flocal%2ffmd-outbreak-hits-addo-elephant-national-park&c=3123812362662940095&mkt=en-us",
           "source_id": "bing-world-fmd",
           "published_at": "2026-10-13T04:39:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "889ff47b18f7bfc86c88715b29ede338020b8d7b",
+      "disease": "грипп птиц",
+      "country": "Индонезия",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "В Индонезию отправили 150 000 доз вакцины от птичьего гриппа в связи с вспышкой, унесшей жизни 3763 птиц",
+      "source_id": "bing-world-ai",
+      "title": "Indonesia sends 150,000 bird flu vaccine doses to South Sulawesi as outbreak kills 3,763 birds",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfa742fecb41b185f06c4de1fc410e&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2findonesia-sends-150000-bird-flu-vaccine-doses-to-south-sulawesi-as-outbreak-kills-3763-birds&c=623367267253923919&mkt=en-us",
+      "published_at": "2026-10-12T17:01:00.000Z",
+      "created_at": "2026-10-14 16:40:50",
+      "ai_at": "2026-10-14 16:41:40",
+      "dup_count": 7,
+      "dups": [
+        {
+          "title": "Indonesia sends 150,000 bird flu vaccine doses to South Sulawesi as outbreak kills 3,763 birds",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf52ef549e416e8922c405801183d4&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2findonesia-sends-150000-bird-flu-vaccine-doses-to-south-sulawesi-as-outbreak-kills-3763-birds&c=623367267253923919&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-12T17:01:00.000Z"
+        },
+        {
+          "title": "Indonesia sends 150,000 bird flu vaccine doses to South Sulawesi as outbreak kills 3,763 birds",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acefec103fb44b4a362f9c192849c4c&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2findonesia-sends-150000-bird-flu-vaccine-doses-to-south-sulawesi-as-outbreak-kills-3763-birds&c=623367267253923919&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-12T17:01:00.000Z"
+        },
+        {
+          "title": "Indonesia sends 150,000 bird flu vaccine doses to South Sulawesi as outbreak kills 3,763 birds",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aceb96c02254c928cee4348fd40a61c&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2findonesia-sends-150000-bird-flu-vaccine-doses-to-south-sulawesi-as-outbreak-kills-3763-birds&c=623367267253923919&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-12T17:01:00.000Z"
+        },
+        {
+          "title": "Indonesia sends 150,000 bird flu vaccine doses to South Sulawesi as outbreak kills 3,763 birds",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace749d76d34edd9cbf11e208870a93&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2findonesia-sends-150000-bird-flu-vaccine-doses-to-south-sulawesi-as-outbreak-kills-3763-birds&c=623367267253923919&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-12T17:01:00.000Z"
+        },
+        {
+          "title": "Indonesia sends 150,000 bird flu vaccine doses to South Sulawesi as outbreak kills 3,763 birds",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace39c980c047c5bd7f5c82b3922467&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2findonesia-sends-150000-bird-flu-vaccine-doses-to-south-sulawesi-as-outbreak-kills-3763-birds&c=623367267253923919&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-12T17:01:00.000Z"
+        },
+        {
+          "title": "Indonesia sends 150,000 bird flu vaccine doses to South Sulawesi as outbreak kills 3,763 birds",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace0166b8734f38958fb081d221e44c&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2findonesia-sends-150000-bird-flu-vaccine-doses-to-south-sulawesi-as-outbreak-kills-3763-birds&c=623367267253923919&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-12T17:01:00.000Z"
         }
       ]
     },
@@ -466,54 +596,6 @@
           "title": "Lesotho explores dairy-board revival after foot-and-mouth disease",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace749f4f6b43ff814e1fce0dbd62c0&url=https%3a%2f%2fdairynews.today%2fnews%2flesotho_explores_dairy_board_revival_after_foot_and_mouth_disease_8596423.html&c=14947381352391580718&mkt=en-us",
           "source_id": "bing-world-fmd",
-          "published_at": "2026-10-12T17:01:00.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "96b0f2a4c225779d26dc61c427e45f5aec9cc84b",
-      "disease": "грипп птиц",
-      "country": "Индонезия",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "В Индонезию отправили 150 000 доз вакцины от птичьего гриппа",
-      "source_id": "bing-world-ai",
-      "title": "Indonesia sends 150,000 bird flu vaccine doses to South Sulawesi as outbreak kills 3,763 birds",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf52ef549e416e8922c405801183d4&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2findonesia-sends-150000-bird-flu-vaccine-doses-to-south-sulawesi-as-outbreak-kills-3763-birds&c=623367267253923919&mkt=en-us",
-      "published_at": "2026-10-12T17:01:00.000Z",
-      "created_at": "2026-10-14 10:41:01",
-      "ai_at": "2026-10-14 10:42:09",
-      "dup_count": 6,
-      "dups": [
-        {
-          "title": "Indonesia sends 150,000 bird flu vaccine doses to South Sulawesi as outbreak kills 3,763 birds",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acefec103fb44b4a362f9c192849c4c&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2findonesia-sends-150000-bird-flu-vaccine-doses-to-south-sulawesi-as-outbreak-kills-3763-birds&c=623367267253923919&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-12T17:01:00.000Z"
-        },
-        {
-          "title": "Indonesia sends 150,000 bird flu vaccine doses to South Sulawesi as outbreak kills 3,763 birds",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aceb96c02254c928cee4348fd40a61c&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2findonesia-sends-150000-bird-flu-vaccine-doses-to-south-sulawesi-as-outbreak-kills-3763-birds&c=623367267253923919&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-12T17:01:00.000Z"
-        },
-        {
-          "title": "Indonesia sends 150,000 bird flu vaccine doses to South Sulawesi as outbreak kills 3,763 birds",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace749d76d34edd9cbf11e208870a93&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2findonesia-sends-150000-bird-flu-vaccine-doses-to-south-sulawesi-as-outbreak-kills-3763-birds&c=623367267253923919&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-12T17:01:00.000Z"
-        },
-        {
-          "title": "Indonesia sends 150,000 bird flu vaccine doses to South Sulawesi as outbreak kills 3,763 birds",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace39c980c047c5bd7f5c82b3922467&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2findonesia-sends-150000-bird-flu-vaccine-doses-to-south-sulawesi-as-outbreak-kills-3763-birds&c=623367267253923919&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-12T17:01:00.000Z"
-        },
-        {
-          "title": "Indonesia sends 150,000 bird flu vaccine doses to South Sulawesi as outbreak kills 3,763 birds",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace0166b8734f38958fb081d221e44c&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2findonesia-sends-150000-bird-flu-vaccine-doses-to-south-sulawesi-as-outbreak-kills-3763-birds&c=623367267253923919&mkt=en-us",
-          "source_id": "bing-world-ai",
           "published_at": "2026-10-12T17:01:00.000Z"
         }
       ]
@@ -692,6 +774,22 @@
       "published_at": "2026-10-12T06:04:58.000Z",
       "created_at": "2026-10-12 16:40:59",
       "ai_at": "2026-10-12 16:41:06",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "97dab6fa4843801dd48f49344f33749e502c97f7",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Understanding timings can help poultry growers prepare for ‘host-adapted’ avian influenza",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfa742fecb41b185f06c4de1fc410e&url=https%3a%2f%2fwww.magnoliareporter.com%2fnews_and_business%2fregional_news%2farticle_d6d79232-16f0-461f-bf03-685e41ac8394.html&c=2417038259164670692&mkt=en-us",
+      "published_at": "2026-10-12T02:30:00.000Z",
+      "created_at": "2026-10-14 16:40:50",
+      "ai_at": "2026-10-14 16:41:42",
       "dup_count": 1
     },
     {
@@ -981,62 +1079,6 @@
       "created_at": "2026-10-13 14:41:05",
       "ai_at": "2026-10-13 14:41:42",
       "dup_count": 1
-    },
-    {
-      "fingerprint": "c09b2a7bbb4a0b776d0861feb9f37f85761c9f9c",
-      "disease": "болезнь свиного повора",
-      "country": "Кипр",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "Планы по уничтожению 3 000 животных из-за вспышки болезни свиного повора на Кипре.",
-      "source_id": "bing-world-fmd",
-      "title": "Cyprus plans to cull 3,000 animals over foot-and-mouth disease — Cyprus Mail",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acefec2878749c19690238d25e38fc7&url=https%3a%2f%2fua.news%2fen%2fagro%2fna-kipri-planuiut-znishchiti-3-tisiachi-tvarin-cherez-iashchur-cyprus-mail&c=9527174984941550966&mkt=en-us",
-      "published_at": "2026-10-11T21:34:00.000Z",
-      "created_at": "2026-10-14 04:40:58",
-      "ai_at": "2026-10-14 04:41:53",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "721d25bb8a91d242b5626a6479db38ac6ee0879b",
-      "disease": "грипп птиц",
-      "country": "Кипр",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "Планы Кипра уничтожить 3,000 животных из-за вспышки гриппа птиц",
-      "source_id": "bing-world-fmd",
-      "title": "Cyprus plans to cull 3,000 animals over foot-and-mouth disease — Cyprus Mail",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aceb96e2ff64bc8aaeb23d0b0205d06&url=https%3a%2f%2fua.news%2fen%2fagro%2fna-kipri-planuiut-znishchiti-3-tisiachi-tvarin-cherez-iashchur-cyprus-mail&c=9527174984941550966&mkt=en-us",
-      "published_at": "2026-10-11T21:34:00.000Z",
-      "created_at": "2026-10-14 00:40:57",
-      "ai_at": "2026-10-14 00:42:11",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "c3aaea56cb283d40a76ba8bead82a9433eda194b",
-      "disease": "ящур",
-      "country": "Кипр",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "Планируется уничтожение 3 000 животных на Кипре в связи с вспышкой бешенства свиней",
-      "source_id": "bing-world-fmd",
-      "title": "Cyprus plans to cull 3,000 animals over foot-and-mouth disease — Cyprus Mail",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace749f4f6b43ff814e1fce0dbd62c0&url=https%3a%2f%2fua.news%2fen%2fagro%2fna-kipri-planuiut-znishchiti-3-tisiachi-tvarin-cherez-iashchur-cyprus-mail&c=9527174984941550966&mkt=en-us",
-      "published_at": "2026-10-11T21:34:00.000Z",
-      "created_at": "2026-10-13 18:40:38",
-      "ai_at": "2026-10-13 18:41:29",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Cyprus plans to cull 3,000 animals over foot-and-mouth disease — Cyprus Mail",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace39cc1fc447b0b85f47815c64e965&url=https%3a%2f%2fua.news%2fen%2fagro%2fna-kipri-planuiut-znishchiti-3-tisiachi-tvarin-cherez-iashchur-cyprus-mail&c=9527174984941550966&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-11T21:34:00.000Z"
-        }
-      ]
     }
   ]
 }
