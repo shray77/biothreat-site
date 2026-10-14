@@ -1,7 +1,53 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-14T12:41:09.864Z",
+  "generated_at": "2026-10-14T14:42:35.405Z",
   "items": [
+    {
+      "fingerprint": "b53ad967b17d49477669ec411d9b76743fa32f5c",
+      "disease": "африканская чума свиней",
+      "country": "Вьетнам",
+      "distance_km": 1600,
+      "level": "наблюдение",
+      "verdict": "confirmed",
+      "ai_summary": "Вьетнам: люди выбрасывают тела свиней с африканской чумой в окружающую среду",
+      "source_id": "bing-world-asf",
+      "title": "Pork carcasses thrown into the environment by African swine fever, local authorities will handle them strictly",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf7dcc89b34507b87bd120fa7f17da&url=https%3a%2f%2fnews.laodong.vn%2fmoi-truong%2fxac-lon-bi-dich-ta-lon-chau-phi-vut-ra-moi-truong-dia-phuong-se-xu-ly-nghiem-1782753.ldo&c=15053267701413599410&mkt=en-us",
+      "published_at": "2026-10-14T04:21:00.000Z",
+      "created_at": "2026-10-14 14:41:02",
+      "ai_at": "2026-10-14 14:41:11",
+      "dup_count": 3,
+      "dups": [
+        {
+          "title": "Pork carcasses thrown into the environment by African swine fever, local authorities will handle them strictly",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf1ab70b0a428a80f08aa39d6514ce&url=https%3a%2f%2fnews.laodong.vn%2fmoi-truong%2fxac-lon-bi-dich-ta-lon-chau-phi-vut-ra-moi-truong-dia-phuong-se-xu-ly-nghiem-1782753.ldo&c=15053267701413599410&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-13T14:21:00.000Z"
+        },
+        {
+          "title": "AVAC Ships 100,000 ASF Vaccine Doses to Philippines as Commercial Rollout Begins",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf7dcc89b34507b87bd120fa7f17da&url=https%3a%2f%2fwww.porkbusiness.com%2fnews%2favac-ships-100-000-asf-vaccine-doses-philippines-commercial-rollout-begins&c=1113333674186209537&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-13T02:40:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "81e57cfa72e00d529ab6ac73156d348b6195f642",
+      "disease": "африканская чума свиней",
+      "country": "Великобритания",
+      "distance_km": 2500,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "Британское Агентство по животноводству заказало обновление экономического анализа потенциального вспышки африканской чумы свиней",
+      "source_id": "bing-world-asf",
+      "title": "UK's AHDB commissions updated economic impact study of a potential African swine fever outbreak",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf7dcc89b34507b87bd120fa7f17da&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fuks-ahdb-commissions-updated-economic-impact-study-of-a-potential-african-swine-fever-outbreak&c=12636286766164585809&mkt=en-us",
+      "published_at": "2026-10-13T17:00:00.000Z",
+      "created_at": "2026-10-14 14:41:02",
+      "ai_at": "2026-10-14 14:41:15",
+      "dup_count": 1
+    },
     {
       "fingerprint": "a3269a2cc4f1c5fc390bd165e073135bbcb57824",
       "disease": "африканская чума свиней",
@@ -16,7 +62,7 @@
       "published_at": "2026-10-13T17:00:00.000Z",
       "created_at": "2026-10-14 10:41:01",
       "ai_at": "2026-10-14 10:41:14",
-      "dup_count": 29,
+      "dup_count": 28,
       "dups": [
         {
           "title": "Namibia battles cattle disease outbreak as EU suspends several meat imports",
@@ -97,6 +143,22 @@
       "dup_count": 1
     },
     {
+      "fingerprint": "90e701a1375cb3d022ccc88c3187b753ce882908",
+      "disease": "африканская чума свиней",
+      "country": "Нигерия",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "В Нигерии вспышка африканской чумы свиней принесла потери свыше 5 миллиардов нафты",
+      "source_id": "bing-world-asf",
+      "title": "Ogun pig farmers lose N5bn to African swine fever",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf7dcc89b34507b87bd120fa7f17da&url=https%3a%2f%2fpunchng.com%2fogun-pig-farmers-lose-n5bn-to-african-swine-fever%2f&c=1463928609652772263&mkt=en-us",
+      "published_at": "2026-10-13T16:08:00.000Z",
+      "created_at": "2026-10-14 14:41:02",
+      "ai_at": "2026-10-14 14:41:24",
+      "dup_count": 1
+    },
+    {
       "fingerprint": "1633a856813328ac4a05a228090483f389147b4c",
       "disease": null,
       "country": null,
@@ -145,22 +207,6 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "17007387b633e6b74a5cf0f6ed23ece129709938",
-      "disease": "африканская чума свиней",
-      "country": "Вьетнам",
-      "distance_km": 1600,
-      "level": "наблюдение",
-      "verdict": "confirmed",
-      "ai_summary": "Вьетнам: люди бросают в природу тела свиней с африканской чумой свиней",
-      "source_id": "bing-world-asf",
-      "title": "Pork carcasses thrown into the environment by African swine fever, local authorities will handle them strictly",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf1ab70b0a428a80f08aa39d6514ce&url=https%3a%2f%2fnews.laodong.vn%2fmoi-truong%2fxac-lon-bi-dich-ta-lon-chau-phi-vut-ra-moi-truong-dia-phuong-se-xu-ly-nghiem-1782753.ldo&c=15053267701413599410&mkt=en-us",
-      "published_at": "2026-10-13T14:21:00.000Z",
-      "created_at": "2026-10-14 06:41:00",
-      "ai_at": "2026-10-14 06:41:15",
-      "dup_count": 1
-    },
-    {
       "fingerprint": "98baf4d32e7979d4225eb20e2489bf9bc4b1e6cb",
       "disease": null,
       "country": null,
@@ -177,21 +223,27 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "15f7da601c8a827adfbc53974dc85e0c84a8f16d",
+      "fingerprint": "95b6953486e2ecb57dac70ba5d1db74444894674",
       "disease": "африканская чума свиней",
       "country": "Индия",
       "distance_km": 3000,
       "level": "фон",
       "verdict": "confirmed",
-      "ai_summary": "Двумя районам Дхемаджи присвоен статус очага африканской чумы свиней, запрещен вынос свиней на рынок, перевозка и убой свиней в радиусе 1 км, введены более стро",
+      "ai_summary": "В округе Дхемаджи объявлены две зоны заражения африканской чумой свиней",
       "source_id": "bing-world-asf",
       "title": "Two Dhemaji areas declared infected zones after ASF outbreak",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf1ab70b0a428a80f08aa39d6514ce&url=https%3a%2f%2ftimesofindia.indiatimes.com%2fcity%2fguwahati%2ftwo-dhemaji-areas-declared-infected-zones-after-asf-outbreak%2farticleshow%2f134924746.cms&c=17455089736888110503&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf7dcc89b34507b87bd120fa7f17da&url=https%3a%2f%2ftimesofindia.indiatimes.com%2fcity%2fguwahati%2ftwo-dhemaji-areas-declared-infected-zones-after-asf-outbreak%2farticleshow%2f134924746.cms&c=17455089736888110503&mkt=en-us",
       "published_at": "2026-10-13T11:00:00.000Z",
-      "created_at": "2026-10-14 06:41:00",
-      "ai_at": "2026-10-14 06:41:23",
-      "dup_count": 2,
+      "created_at": "2026-10-14 14:41:02",
+      "ai_at": "2026-10-14 14:41:29",
+      "dup_count": 3,
       "dups": [
+        {
+          "title": "Two Dhemaji areas declared infected zones after ASF outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf1ab70b0a428a80f08aa39d6514ce&url=https%3a%2f%2ftimesofindia.indiatimes.com%2fcity%2fguwahati%2ftwo-dhemaji-areas-declared-infected-zones-after-asf-outbreak%2farticleshow%2f134924746.cms&c=17455089736888110503&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-13T11:00:00.000Z"
+        },
         {
           "title": "Two Dhemaji areas declared infected zones after ASF outbreak",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aceb96f84624b8da8c256099eb81109&url=https%3a%2f%2ftimesofindia.indiatimes.com%2fcity%2fguwahati%2ftwo-dhemaji-areas-declared-infected-zones-after-asf-outbreak%2farticleshow%2f134924746.cms&c=17455089736888110503&mkt=en-us",
@@ -359,6 +411,30 @@
       ]
     },
     {
+      "fingerprint": "046bd89de99506e035f5d6130ee16e28e3529047",
+      "disease": "нодулярный дерматит",
+      "country": "Франция",
+      "distance_km": 2500,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "В Франции активизировались протесты фермеров, связанные с вспышкой нодулярного дерматита у скота.",
+      "source_id": "bing-world-lsd",
+      "title": "Farmers' protests",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf7dcde5d945e2ac22b9d358c4d340&url=https%3a%2f%2fwww.lemonde.fr%2fen%2ffrench-farmers-protests%2f&c=8172835141637647689&mkt=en-us",
+      "published_at": "2026-10-12T17:01:00.000Z",
+      "created_at": "2026-10-14 14:41:02",
+      "ai_at": "2026-10-14 14:41:42",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Farmers' protests",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aceb96be3404976acbc12e8368e575a&url=https%3a%2f%2fwww.lemonde.fr%2fen%2ffrench-farmers-protests%2f&c=8172835141637647689&mkt=en-us",
+          "source_id": "bing-world-lsd",
+          "published_at": "2026-10-12T17:01:00.000Z"
+        }
+      ]
+    },
+    {
       "fingerprint": "f104ac4bd6860e76d1f0ec8082a4770ebe2b6c24",
       "disease": "африканская чума свиней",
       "country": "Лесото",
@@ -443,22 +519,6 @@
       ]
     },
     {
-      "fingerprint": "5e15a183e908d8ced2bea2b753ca0e19a5034e22",
-      "disease": "нодулярный дерматит",
-      "country": "Франция",
-      "distance_km": 2500,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "Повышение напряженности среди французских фермеров, вызвано вспышкой нодулярного дерматита у скота",
-      "source_id": "bing-world-lsd",
-      "title": "Farmers' protests",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aceb96be3404976acbc12e8368e575a&url=https%3a%2f%2fwww.lemonde.fr%2fen%2ffrench-farmers-protests%2f&c=8172835141637647689&mkt=en-us",
-      "published_at": "2026-10-12T17:01:00.000Z",
-      "created_at": "2026-10-14 00:40:57",
-      "ai_at": "2026-10-14 00:41:46",
-      "dup_count": 1
-    },
-    {
       "fingerprint": "f8b4e7e7925d9063edd8301a0f1c1fa412946402",
       "disease": "болезнь КДС",
       "country": "Лесото",
@@ -472,6 +532,22 @@
       "published_at": "2026-10-12T17:01:00.000Z",
       "created_at": "2026-10-13 14:41:05",
       "ai_at": "2026-10-13 14:41:28",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "4157c8eec136bb3bc5772feebf150c8a72ddc13b",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Развитие вакцин для борьбы с африканской чумой свиней осложняется разнообразием вирусов этой болезни",
+      "source_id": "bing-world-asf",
+      "title": "Surveillance, vaccines vital to curb African swine fever spread",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf7dcc89b34507b87bd120fa7f17da&url=https%3a%2f%2fwww.nationalhogfarmer.com%2flivestock-management%2fsurveillance-vaccines-vital-to-curb-african-swine-fever-spread&c=6311290302330769000&mkt=en-us",
+      "published_at": "2026-10-12T06:38:00.000Z",
+      "created_at": "2026-10-14 14:41:02",
+      "ai_at": "2026-10-14 14:41:46",
       "dup_count": 1
     },
     {
@@ -763,6 +839,22 @@
       "dup_count": 1
     },
     {
+      "fingerprint": "883a925cef1fb065ac2e20333dbfdb368259dc71",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-lsd",
+      "title": "Computational Vaccine Design Targets Lumpy Skin Disease Virus",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf7dcde5d945e2ac22b9d358c4d340&url=https%3a%2f%2fbioengineer.org%2fcomputational-vaccine-design-targets-lumpy-skin-disease-virus%2f&c=8661805783030120835&mkt=en-us",
+      "published_at": "2026-10-12T02:11:00.000Z",
+      "created_at": "2026-10-14 14:41:02",
+      "ai_at": "2026-10-14 14:41:49",
+      "dup_count": 1
+    },
+    {
       "fingerprint": "3ab1fc1f1df40999f19ecd86ff14822d59974b84",
       "disease": "нодулярный дерматит",
       "country": null,
@@ -945,80 +1037,6 @@
           "published_at": "2026-10-11T21:34:00.000Z"
         }
       ]
-    },
-    {
-      "fingerprint": "87b5d91d89d2cf598c87a38a169e456e0203ce0b",
-      "disease": "африканская чума свиней",
-      "country": "Кипр",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "Планы Кипра по уничтожению 3000 животных из-за африканской чумы свиней",
-      "source_id": "bing-world-fmd",
-      "title": "Cyprus plans to cull 3,000 animals over foot-and-mouth disease — Cyprus Mail",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace016b6b144fb0830835c97c0040d0&url=https%3a%2f%2fua.news%2fen%2fagro%2fna-kipri-planuiut-znishchiti-3-tisiachi-tvarin-cherez-iashchur-cyprus-mail&c=9527174984941550966&mkt=en-us",
-      "published_at": "2026-10-11T21:34:00.000Z",
-      "created_at": "2026-10-13 10:40:43",
-      "ai_at": "2026-10-13 10:41:16",
-      "dup_count": 5,
-      "dups": [
-        {
-          "title": "Cyprus plans to cull 3,000 animals over foot-and-mouth disease — Cyprus Mail",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd90e2562e4030bb5b9de949ad3178&url=https%3a%2f%2fua.news%2fen%2fagro%2fna-kipri-planuiut-znishchiti-3-tisiachi-tvarin-cherez-iashchur-cyprus-mail&c=9527174984941550966&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-11T21:34:00.000Z"
-        },
-        {
-          "title": "Cyprus plans to cull 3,000 animals over foot-and-mouth disease — Cyprus Mail",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accf9228fe9427982e98995d73c5aca&url=https%3a%2f%2fua.news%2fen%2fagro%2fna-kipri-planuiut-znishchiti-3-tisiachi-tvarin-cherez-iashchur-cyprus-mail&c=9527174984941550966&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-11T21:34:00.000Z"
-        },
-        {
-          "title": "Cyprus plans to cull 3,000 animals over foot-and-mouth disease — Cyprus Mail",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6accafe05bbb40d3a0b992230a638f51&url=https%3a%2f%2fua.news%2fen%2fagro%2fna-kipri-planuiut-znishchiti-3-tisiachi-tvarin-cherez-iashchur-cyprus-mail&c=9527174984941550966&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-11T21:34:00.000Z"
-        },
-        {
-          "title": "Cyprus plans to cull 3,000 animals over foot-and-mouth disease — Cyprus Mail",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acc74af9ab3458cbd5c3a77158c3089&url=https%3a%2f%2fua.news%2fen%2fagro%2fna-kipri-planuiut-znishchiti-3-tisiachi-tvarin-cherez-iashchur-cyprus-mail&c=9527174984941550966&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-11T21:34:00.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "f071c8a15e4c3535e809593145a4bc491ce21eaa",
-      "disease": "болезнь копытных",
-      "country": "Кипр",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "Планируется уничтожение 3000 животных из-за заболевания болезнью копытных",
-      "source_id": "bing-world-fmd",
-      "title": "Cyprus plans to cull 3,000 animals over foot-and-mouth disease — Cyprus Mail",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd588b569446f8b7721aa728ac200c&url=https%3a%2f%2fua.news%2fen%2fagro%2fna-kipri-planuiut-znishchiti-3-tisiachi-tvarin-cherez-iashchur-cyprus-mail&c=9527174984941550966&mkt=en-us",
-      "published_at": "2026-10-11T21:34:00.000Z",
-      "created_at": "2026-10-12 22:40:38",
-      "ai_at": "2026-10-12 22:40:56",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "dcf03fde5540d21020bc8987d62992475389278a",
-      "disease": null,
-      "country": "Намибия",
-      "distance_km": 6500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": null,
-      "source_id": "bing-world-fmd",
-      "title": "Judge slams CPBN as FMD breaks in Zambezi …Fence construction continues despite tender dispute as Namibia confirms new outbreak",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace016b6b144fb0830835c97c0040d0&url=https%3a%2f%2fobserver24.com.na%2fjudge-slams-cpbn-as-fmd-breaks-in-zambezi-fence-construction-continues-despite-tender-dispute-as-namibia-confirms-new-outbreak%2f&c=15992230499245096546&mkt=en-us",
-      "published_at": "2026-10-11T17:49:00.000Z",
-      "created_at": "2026-10-13 10:40:43",
-      "ai_at": "2026-10-13 10:41:19",
-      "dup_count": 1
     }
   ]
 }
