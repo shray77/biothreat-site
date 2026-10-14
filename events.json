@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-14T18:41:57.892Z",
+  "generated_at": "2026-10-14T20:41:26.187Z",
   "items": [
+    {
+      "fingerprint": "2c0d1246dcfbeadfaf587dde76eb7929a3bc92fd",
+      "disease": "нодулярный дерматит",
+      "country": "Индия",
+      "distance_km": 3000,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "Центральная группа оценивает меры по контролю за ЛДС в районах Самбы, Кашмира и Джамму",
+      "source_id": "bing-world-lsd",
+      "title": "Central team reviews measures to control Lumpy Skin Disease in J&K",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfdf77184d4778bf959d5bbe9038aa&url=https%3a%2f%2fwww.greaterkashmir.com%2fjammu%2fcentral-team-reviews-measures-to-control-lumpy-skin-disease-in-jk-12676652&c=12829558389035851839&mkt=en-us",
+      "published_at": "2026-10-14T11:15:00.000Z",
+      "created_at": "2026-10-14 20:40:54",
+      "ai_at": "2026-10-14 20:41:02",
+      "dup_count": 1
+    },
     {
       "fingerprint": "224a71e643f4ac4fd2e66ff29442cb79109f2f6d",
       "disease": "африканская чума свиней",
@@ -975,6 +991,22 @@
       "dup_count": 1
     },
     {
+      "fingerprint": "8ddc83568442d52425ac26ef3c387962ffc0494e",
+      "disease": "нодулярный дерматит",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-lsd",
+      "title": "Computational Vaccine Design Targets Lumpy Skin Disease Virus",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfdf77184d4778bf959d5bbe9038aa&url=https%3a%2f%2fbioengineer.org%2fcomputational-vaccine-design-targets-lumpy-skin-disease-virus%2f&c=8661805783030120835&mkt=en-us",
+      "published_at": "2026-10-12T02:11:00.000Z",
+      "created_at": "2026-10-14 20:40:54",
+      "ai_at": "2026-10-14 20:41:06",
+      "dup_count": 1
+    },
+    {
       "fingerprint": "883a925cef1fb065ac2e20333dbfdb368259dc71",
       "disease": null,
       "country": null,
@@ -1052,38 +1084,6 @@
       "published_at": "2026-10-12T02:11:00.000Z",
       "created_at": "2026-10-13 10:40:43",
       "ai_at": "2026-10-13 10:41:05",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "e57bf6362c055b8d308be0ff6b7089e2a37c1417",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Разработан вакцинный кандидат от болезни нодулярного дерматита",
-      "source_id": "bing-world-lsd",
-      "title": "Computational Vaccine Design Targets Lumpy Skin Disease Virus",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acda13fd1b349a0aa03783cb32a67fc&url=https%3a%2f%2fbioengineer.org%2fcomputational-vaccine-design-targets-lumpy-skin-disease-virus%2f&c=8661805783030120835&mkt=en-us",
-      "published_at": "2026-10-12T02:11:00.000Z",
-      "created_at": "2026-10-13 04:40:38",
-      "ai_at": "2026-10-13 04:40:42",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "ac679928ca16b5f5ac28e4057f0120663a2e0fe2",
-      "disease": "нодулярный дерматит",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-lsd",
-      "title": "Computational Vaccine Design Targets Lumpy Skin Disease Virus",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acd3c7ce3394e8fb4f7f65cfeb38cd5&url=https%3a%2f%2fbioengineer.org%2fcomputational-vaccine-design-targets-lumpy-skin-disease-virus%2f&c=8661805783030120835&mkt=en-us",
-      "published_at": "2026-10-12T02:11:00.000Z",
-      "created_at": "2026-10-12 20:40:38",
-      "ai_at": "2026-10-12 20:40:42",
       "dup_count": 1
     }
   ]
