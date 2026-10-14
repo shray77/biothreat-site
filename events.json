@@ -1,7 +1,31 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-14T16:42:05.513Z",
+  "generated_at": "2026-10-14T18:41:57.892Z",
   "items": [
+    {
+      "fingerprint": "224a71e643f4ac4fd2e66ff29442cb79109f2f6d",
+      "disease": "африканская чума свиней",
+      "country": "Нигерия",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "Пиг фермеры в штате Огун потеряли более 5 миллиардов нAIR на вспышке африканской чумы свиней.",
+      "source_id": "bing-world-asf",
+      "title": "Ogun pig farmers lose N5bn to African swine fever",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfc2d4b3cb4492bef1fe4be21a7882&url=https%3a%2f%2fpunchng.com%2fogun-pig-farmers-lose-n5bn-to-african-swine-fever%2f&c=1463928609652772263&mkt=en-us",
+      "published_at": "2026-10-14T06:10:00.000Z",
+      "created_at": "2026-10-14 18:40:51",
+      "ai_at": "2026-10-14 18:40:56",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Ogun pig farmers lose N5bn to African swine fever",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf7dcc89b34507b87bd120fa7f17da&url=https%3a%2f%2fpunchng.com%2fogun-pig-farmers-lose-n5bn-to-african-swine-fever%2f&c=1463928609652772263&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-13T16:08:00.000Z"
+        }
+      ]
+    },
     {
       "fingerprint": "be882070b840dbbb265669deb8ff87b8ed53ca4f",
       "disease": null,
@@ -78,7 +102,7 @@
       "published_at": "2026-10-13T23:18:00.000Z",
       "created_at": "2026-10-14 16:40:50",
       "ai_at": "2026-10-14 16:41:06",
-      "dup_count": 24,
+      "dup_count": 22,
       "dups": [
         {
           "title": "Namibia battles cattle disease outbreak as EU suspends several meat imports",
@@ -143,6 +167,22 @@
       ]
     },
     {
+      "fingerprint": "5542450da2bfd91b5efbb2ed2ae414494ed23a17",
+      "disease": null,
+      "country": "Великобритания",
+      "distance_km": 2500,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-asf",
+      "title": "UK's AHDB commissions updated economic impact study of a potential African swine fever outbreak",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfc2d4b3cb4492bef1fe4be21a7882&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fuks-ahdb-commissions-updated-economic-impact-study-of-a-potential-african-swine-fever-outbreak&c=12636286766164585809&mkt=en-us",
+      "published_at": "2026-10-13T17:00:00.000Z",
+      "created_at": "2026-10-14 18:40:51",
+      "ai_at": "2026-10-14 18:41:03",
+      "dup_count": 1
+    },
+    {
       "fingerprint": "81e57cfa72e00d529ab6ac73156d348b6195f642",
       "disease": "африканская чума свиней",
       "country": "Великобритания",
@@ -172,22 +212,6 @@
       "published_at": "2026-10-13T17:00:00.000Z",
       "created_at": "2026-10-14 06:41:00",
       "ai_at": "2026-10-14 06:41:06",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "90e701a1375cb3d022ccc88c3187b753ce882908",
-      "disease": "африканская чума свиней",
-      "country": "Нигерия",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "В Нигерии вспышка африканской чумы свиней принесла потери свыше 5 миллиардов нафты",
-      "source_id": "bing-world-asf",
-      "title": "Ogun pig farmers lose N5bn to African swine fever",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf7dcc89b34507b87bd120fa7f17da&url=https%3a%2f%2fpunchng.com%2fogun-pig-farmers-lose-n5bn-to-african-swine-fever%2f&c=1463928609652772263&mkt=en-us",
-      "published_at": "2026-10-13T16:08:00.000Z",
-      "created_at": "2026-10-14 14:41:02",
-      "ai_at": "2026-10-14 14:41:24",
       "dup_count": 1
     },
     {
@@ -255,21 +279,27 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "95b6953486e2ecb57dac70ba5d1db74444894674",
+      "fingerprint": "988ddd51d33fd9a772484b84a1e42bf6d1eb440a",
       "disease": "африканская чума свиней",
       "country": "Индия",
       "distance_km": 3000,
       "level": "фон",
       "verdict": "confirmed",
-      "ai_summary": "В округе Дхемаджи объявлены две зоны заражения африканской чумой свиней",
+      "ai_summary": "Дехемаи объявляет два очага заражения ASF, запрещает продажу, перевозку и убой свиней в радиусе 1 км, вводит усиленные правила перемещения в зонах 10 км.",
       "source_id": "bing-world-asf",
       "title": "Two Dhemaji areas declared infected zones after ASF outbreak",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf7dcc89b34507b87bd120fa7f17da&url=https%3a%2f%2ftimesofindia.indiatimes.com%2fcity%2fguwahati%2ftwo-dhemaji-areas-declared-infected-zones-after-asf-outbreak%2farticleshow%2f134924746.cms&c=17455089736888110503&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfc2d4b3cb4492bef1fe4be21a7882&url=https%3a%2f%2ftimesofindia.indiatimes.com%2fcity%2fguwahati%2ftwo-dhemaji-areas-declared-infected-zones-after-asf-outbreak%2farticleshow%2f134924746.cms&c=17455089736888110503&mkt=en-us",
       "published_at": "2026-10-13T11:00:00.000Z",
-      "created_at": "2026-10-14 14:41:02",
-      "ai_at": "2026-10-14 14:41:29",
-      "dup_count": 3,
+      "created_at": "2026-10-14 18:40:51",
+      "ai_at": "2026-10-14 18:41:25",
+      "dup_count": 4,
       "dups": [
+        {
+          "title": "Two Dhemaji areas declared infected zones after ASF outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf7dcc89b34507b87bd120fa7f17da&url=https%3a%2f%2ftimesofindia.indiatimes.com%2fcity%2fguwahati%2ftwo-dhemaji-areas-declared-infected-zones-after-asf-outbreak%2farticleshow%2f134924746.cms&c=17455089736888110503&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-13T11:00:00.000Z"
+        },
         {
           "title": "Two Dhemaji areas declared infected zones after ASF outbreak",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf1ab70b0a428a80f08aa39d6514ce&url=https%3a%2f%2ftimesofindia.indiatimes.com%2fcity%2fguwahati%2ftwo-dhemaji-areas-declared-infected-zones-after-asf-outbreak%2farticleshow%2f134924746.cms&c=17455089736888110503&mkt=en-us",
@@ -286,35 +316,27 @@
     },
     {
       "fingerprint": "92e516500ab674651dc3710ae10462237b5edf37",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "Multiple birds die at city zoos amid bird flu outbreak, officials say",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfa742fecb41b185f06c4de1fc410e&url=https%3a%2f%2fny1.com%2fnyc%2fall-boroughs%2fnews%2f2025%2f02%2f08%2f15-birds-die-of-bird-flu-at-city-zoos--officials-say&c=5111605619314766813&mkt=en-us",
-      "published_at": "2026-10-13T09:13:00.000Z",
-      "created_at": "2026-10-14 16:40:50",
-      "ai_at": null,
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "bd2f929907764c8f4dd199f21ba590b86635a8b5",
       "disease": "грипп птиц",
       "country": "США",
       "distance_km": 5000,
       "level": "фон",
       "verdict": "confirmed",
-      "ai_summary": "Скончались три утки в городском зоопарке в Куинсе, а 12 птиц в зоопарке Бронкса, возможно, контактировали с вирусом",
+      "ai_summary": "В зоопарке Куинз погибли три утки от гриппа птиц, а в Бронкском зоопарке 12 птиц, вероятно, подцепили вирус.",
       "source_id": "bing-world-ai",
       "title": "Multiple birds die at city zoos amid bird flu outbreak, officials say",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf52ef549e416e8922c405801183d4&url=https%3a%2f%2fny1.com%2fnyc%2fall-boroughs%2fnews%2f2025%2f02%2f08%2f15-birds-die-of-bird-flu-at-city-zoos--officials-say&c=5111605619314766813&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfa742fecb41b185f06c4de1fc410e&url=https%3a%2f%2fny1.com%2fnyc%2fall-boroughs%2fnews%2f2025%2f02%2f08%2f15-birds-die-of-bird-flu-at-city-zoos--officials-say&c=5111605619314766813&mkt=en-us",
       "published_at": "2026-10-13T09:13:00.000Z",
-      "created_at": "2026-10-14 10:41:01",
-      "ai_at": "2026-10-14 10:41:24",
-      "dup_count": 1
+      "created_at": "2026-10-14 16:40:50",
+      "ai_at": "2026-10-14 18:41:57",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Multiple birds die at city zoos amid bird flu outbreak, officials say",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf52ef549e416e8922c405801183d4&url=https%3a%2f%2fny1.com%2fnyc%2fall-boroughs%2fnews%2f2025%2f02%2f08%2f15-birds-die-of-bird-flu-at-city-zoos--officials-say&c=5111605619314766813&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-13T09:13:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "541edad4c1bc48d477672669aadcec577264a9c4",
@@ -614,6 +636,22 @@
       "published_at": "2026-10-12T17:01:00.000Z",
       "created_at": "2026-10-13 14:41:05",
       "ai_at": "2026-10-13 14:41:28",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "da7462f0fcdc1ecc18ae10c926bab6c98cff75a0",
+      "disease": "африканская чума свиней",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Различие штаммов африканской чумы свиней затрудняет разработку вакцин",
+      "source_id": "bing-world-asf",
+      "title": "Surveillance, vaccines vital to curb African swine fever spread",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfc2d4b3cb4492bef1fe4be21a7882&url=https%3a%2f%2fwww.nationalhogfarmer.com%2flivestock-management%2fsurveillance-vaccines-vital-to-curb-african-swine-fever-spread&c=6311290302330769000&mkt=en-us",
+      "published_at": "2026-10-12T06:38:00.000Z",
+      "created_at": "2026-10-14 18:40:51",
+      "ai_at": "2026-10-14 18:41:29",
       "dup_count": 1
     },
     {
@@ -1046,38 +1084,6 @@
       "published_at": "2026-10-12T02:11:00.000Z",
       "created_at": "2026-10-12 20:40:38",
       "ai_at": "2026-10-12 20:40:42",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "c675ed98221aae5b6026933198aab06fecd5005d",
-      "disease": "нодулярный дерматит",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Разработано кандидатное вакцину против нодулярного дерматита",
-      "source_id": "bing-world-lsd",
-      "title": "Computational Vaccine Design Targets Lumpy Skin Disease Virus",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acccc31c1464c9a8fcc6e746f212391&url=https%3a%2f%2fbioengineer.org%2fcomputational-vaccine-design-targets-lumpy-skin-disease-virus%2f&c=8661805783030120835&mkt=en-us",
-      "published_at": "2026-10-12T02:11:00.000Z",
-      "created_at": "2026-10-12 12:40:39",
-      "ai_at": "2026-10-12 12:40:46",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "693c0e5298b9e9d934f18f7dc56655c886363541",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "WHO Health Emergencies EPI-WIN webinar: Understanding Influenza A(H9N2): current risks, One Health action and pandemic preparedness",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace39c980c047c5bd7f5c82b3922467&url=https%3a%2f%2fwww.who.int%2fnews-room%2fevents%2fdetail%2f2026%2f10%2f14%2fdefault-calendar%2fwho-health-emergencies-epi-win-webinar-understanding-influenza-a(h9n2)-current-risks-one-health-action-and-pandemic-preparedness&c=14835575689701157448&mkt=en-us",
-      "published_at": "2026-10-12T00:17:00.000Z",
-      "created_at": "2026-10-13 14:41:05",
-      "ai_at": "2026-10-13 14:41:42",
       "dup_count": 1
     }
   ]
