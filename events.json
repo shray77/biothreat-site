@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-15T18:42:17.520Z",
+  "generated_at": "2026-10-15T20:41:28.343Z",
   "items": [
     {
       "fingerprint": "f944cdddd9554783e87fa1a746fb46547dcc4ac2",
@@ -642,52 +642,26 @@
     },
     {
       "fingerprint": "353f46f606d1cc8b6265786207f9ef91ea808aaa",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "Avian influenza strikes Peruvian laying hen flock",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad11d5328ba49e1ba8fb477de493bb0&url=https%3a%2f%2fwww.wattagnet.com%2fpoultry-meat%2fdiseases-health%2favian-influenza%2fnews%2f15837398%2favian-influenza-strikes-peruvian-laying-hen-flock&c=3807795964977581813&mkt=en-us",
-      "published_at": "2026-10-13T17:00:00.000Z",
-      "created_at": "2026-10-15 18:40:51",
-      "ai_at": null,
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "86f2b70cf987c27917f91b8855c8f1cdeadfb5be",
-      "disease": null,
-      "country": "Великобритания",
-      "distance_km": 2500,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-asf",
-      "title": "UK's AHDB commissions updated economic impact study of a potential African swine fever outbreak",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0e1de3e2b4f639597abe125ab1fa5&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fuks-ahdb-commissions-updated-economic-impact-study-of-a-potential-african-swine-fever-outbreak&c=12636286766164585809&mkt=en-us",
-      "published_at": "2026-10-13T17:00:00.000Z",
-      "created_at": "2026-10-15 14:41:10",
-      "ai_at": "2026-10-15 14:42:41",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "5eb43bec5b30e6c153d43fca094f83d412828c68",
       "disease": "грипп птиц",
       "country": "Перу",
       "distance_km": null,
       "level": "не определено",
       "verdict": "confirmed",
-      "ai_summary": "Подтверждена вспышка высокопатогенного гриппа H5N1 у тёлочках в Перу, погибло 3000 птиц.",
+      "ai_summary": "Подтверждена вспышка гриппа у перуанских несушек",
       "source_id": "bing-world-ai",
       "title": "Avian influenza strikes Peruvian laying hen flock",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0e1dd2e2c464282f63b7539030099&url=https%3a%2f%2fwww.wattagnet.com%2fpoultry-meat%2fdiseases-health%2favian-influenza%2fnews%2f15837398%2favian-influenza-strikes-peruvian-laying-hen-flock&c=3807795964977581813&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad11d5328ba49e1ba8fb477de493bb0&url=https%3a%2f%2fwww.wattagnet.com%2fpoultry-meat%2fdiseases-health%2favian-influenza%2fnews%2f15837398%2favian-influenza-strikes-peruvian-laying-hen-flock&c=3807795964977581813&mkt=en-us",
       "published_at": "2026-10-13T17:00:00.000Z",
-      "created_at": "2026-10-15 14:41:10",
-      "ai_at": "2026-10-15 14:42:45",
-      "dup_count": 4,
+      "created_at": "2026-10-15 18:40:51",
+      "ai_at": "2026-10-15 20:40:55",
+      "dup_count": 5,
       "dups": [
+        {
+          "title": "Avian influenza strikes Peruvian laying hen flock",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0e1dd2e2c464282f63b7539030099&url=https%3a%2f%2fwww.wattagnet.com%2fpoultry-meat%2fdiseases-health%2favian-influenza%2fnews%2f15837398%2favian-influenza-strikes-peruvian-laying-hen-flock&c=3807795964977581813&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-13T17:00:00.000Z"
+        },
         {
           "title": "Avian influenza strikes Peruvian laying hen flock",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0885ea6994ccdbff645ebc5422eb6&url=https%3a%2f%2fwww.wattagnet.com%2fpoultry-meat%2fdiseases-health%2favian-influenza%2fnews%2f15837398%2favian-influenza-strikes-peruvian-laying-hen-flock&c=3807795964977581813&mkt=en-us",
@@ -707,6 +681,22 @@
           "published_at": "2026-10-13T17:00:00.000Z"
         }
       ]
+    },
+    {
+      "fingerprint": "86f2b70cf987c27917f91b8855c8f1cdeadfb5be",
+      "disease": null,
+      "country": "Великобритания",
+      "distance_km": 2500,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-asf",
+      "title": "UK's AHDB commissions updated economic impact study of a potential African swine fever outbreak",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0e1de3e2b4f639597abe125ab1fa5&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fuks-ahdb-commissions-updated-economic-impact-study-of-a-potential-african-swine-fever-outbreak&c=12636286766164585809&mkt=en-us",
+      "published_at": "2026-10-13T17:00:00.000Z",
+      "created_at": "2026-10-15 14:41:10",
+      "ai_at": "2026-10-15 14:42:41",
+      "dup_count": 1
     },
     {
       "fingerprint": "04963b5f3a2dedbaa49dfcb6105a49de37364c1d",
