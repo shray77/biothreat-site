@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-15T08:42:21.339Z",
+  "generated_at": "2026-10-15T10:42:04.726Z",
   "items": [
     {
       "fingerprint": "6358a57741f1dee6d26ee7efa9a4f59987aa05cc",
@@ -16,7 +16,7 @@
       "published_at": "2026-10-15T00:03:00.000Z",
       "created_at": "2026-10-15 08:40:51",
       "ai_at": "2026-10-15 08:40:56",
-      "dup_count": 10,
+      "dup_count": 11,
       "dups": [
         {
           "title": "Bird flu outbreak confirmed in geese across Reno-Sparks",
@@ -53,6 +53,12 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acff5e5f8c6401294faf1e8175372eb&url=https%3a%2f%2fwww.2news.com%2fnews%2flocal%2foutbreak-of-bird-flu-found-in-flocks-of-geese-in-the-reno-sparks-area%2farticle_963a5c2e-8b54-4882-a149-39952f91d336.html&c=12424277241318416235&mkt=en-us",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-14T13:09:00.000Z"
+        },
+        {
+          "title": "Multiple birds die at city zoos amid bird flu outbreak, officials say",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0885ea6994ccdbff645ebc5422eb6&url=https%3a%2f%2fny1.com%2fnyc%2fall-boroughs%2fnews%2f2025%2f02%2f08%2f15-birds-die-of-bird-flu-at-city-zoos--officials-say&c=5111605619314766813&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-13T09:13:00.000Z"
         },
         {
           "title": "Multiple birds die at city zoos amid bird flu outbreak, officials say",
@@ -352,7 +358,7 @@
       "published_at": "2026-10-14T15:51:00.000Z",
       "created_at": "2026-10-15 08:40:51",
       "ai_at": "2026-10-15 08:41:27",
-      "dup_count": 6,
+      "dup_count": 4,
       "dups": [
         {
           "title": "Foot-and-mouth disease confirmed in kudu at Addo Elephant National Park",
@@ -369,18 +375,6 @@
         {
           "title": "FMD outbreak hits Addo Elephant National Park",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acff5e5587c4894bc46b93b6de6bd32&url=https%3a%2f%2fwww.algoafm.co.za%2flocal%2ffmd-outbreak-hits-addo-elephant-national-park&c=3123812362662940095&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-13T04:39:00.000Z"
-        },
-        {
-          "title": "FMD outbreak hits Addo Elephant National Park",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfa7423ba54bddbf44b4bf87fcad22&url=https%3a%2f%2fwww.algoafm.co.za%2flocal%2ffmd-outbreak-hits-addo-elephant-national-park&c=3123812362662940095&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-13T04:39:00.000Z"
-        },
-        {
-          "title": "FMD outbreak hits Addo Elephant National Park",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf52f1e5de4d40911f4eb6f5aeee48&url=https%3a%2f%2fwww.algoafm.co.za%2flocal%2ffmd-outbreak-hits-addo-elephant-national-park&c=3123812362662940095&mkt=en-us",
           "source_id": "bing-world-fmd",
           "published_at": "2026-10-13T04:39:00.000Z"
         }
@@ -411,26 +405,38 @@
       ]
     },
     {
-      "fingerprint": "d010dff2050baac1617933a9d7633ae595afe922",
+      "fingerprint": "ebf09046258c51933b1863599463c87f5abf109e",
       "disease": "нодулярный дерматит",
       "country": "Индия",
       "distance_km": 3000,
       "level": "фон",
       "verdict": "probable",
-      "ai_summary": "Центральная команда оценила меры по контролю нодулярного дерматита в округах Сamba, Kathua и Jammu.",
+      "ai_summary": "Центральная группа проверила меры по контролю над LSD в районах Самба, Катхуа и Джамму",
       "source_id": "bing-world-lsd",
       "title": "Central team reviews measures to control Lumpy Skin Disease in J&K",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad033f5fcdb4bbd85c8a92eb3b69de3&url=https%3a%2f%2fwww.greaterkashmir.com%2fjammu%2fcentral-team-reviews-measures-to-control-lumpy-skin-disease-in-jk-12676652&c=12829558389035851839&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad09c30fe85406884b7401fcb6bfbf7&url=https%3a%2f%2fwww.greaterkashmir.com%2fjammu%2fcentral-team-reviews-measures-to-control-lumpy-skin-disease-in-jk-12676652&c=12829558389035851839&mkt=en-us",
       "published_at": "2026-10-14T11:15:00.000Z",
-      "created_at": "2026-10-15 02:41:02",
-      "ai_at": "2026-10-15 02:41:26",
-      "dup_count": 2,
+      "created_at": "2026-10-15 10:40:54",
+      "ai_at": "2026-10-15 10:40:58",
+      "dup_count": 4,
       "dups": [
+        {
+          "title": "Central team reviews measures to control Lumpy Skin Disease in J&K",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad033f5fcdb4bbd85c8a92eb3b69de3&url=https%3a%2f%2fwww.greaterkashmir.com%2fjammu%2fcentral-team-reviews-measures-to-control-lumpy-skin-disease-in-jk-12676652&c=12829558389035851839&mkt=en-us",
+          "source_id": "bing-world-lsd",
+          "published_at": "2026-10-14T11:15:00.000Z"
+        },
         {
           "title": "Central team reviews measures to control Lumpy Skin Disease in J&K",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfdf77184d4778bf959d5bbe9038aa&url=https%3a%2f%2fwww.greaterkashmir.com%2fjammu%2fcentral-team-reviews-measures-to-control-lumpy-skin-disease-in-jk-12676652&c=12829558389035851839&mkt=en-us",
           "source_id": "bing-world-lsd",
           "published_at": "2026-10-14T11:15:00.000Z"
+        },
+        {
+          "title": "Central team reviews lumpy skin disease situation in J&K",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad09c30fe85406884b7401fcb6bfbf7&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fcentral-team-reviews-lumpy-skin-disease-situation-in-j-k%2far-AA2efaoZ&c=9238261648386648823&mkt=en-us",
+          "source_id": "bing-world-lsd",
+          "published_at": "2026-10-13T22:42:32.000Z"
         }
       ]
     },
@@ -720,18 +726,18 @@
     },
     {
       "fingerprint": "ef8173b20088effa61f0040053d36a412f92472c",
-      "disease": null,
-      "country": null,
+      "disease": "африканская чума свиней",
+      "country": "Дхемаджи",
       "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "Дхемаджи объявляет две зоны заражения ASF, запрещает продажу, транспортировку и убой свиней в радиусе 1 км, вводит усиленные правила перемещения в радиусе 10 км",
       "source_id": "bing-world-asf",
       "title": "Two Dhemaji areas declared infected zones after ASF outbreak",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0886585f340cf950e58d2ac1fa669&url=https%3a%2f%2ftimesofindia.indiatimes.com%2fcity%2fguwahati%2ftwo-dhemaji-areas-declared-infected-zones-after-asf-outbreak%2farticleshow%2f134924746.cms&c=17455089736888110503&mkt=en-us",
       "published_at": "2026-10-13T11:00:00.000Z",
       "created_at": "2026-10-15 08:40:51",
-      "ai_at": null,
+      "ai_at": "2026-10-15 10:41:25",
       "dup_count": 1
     },
     {
@@ -783,53 +789,27 @@
       ]
     },
     {
-      "fingerprint": "9b53692f4884c827350be3fa242e6162005303d8",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "Multiple birds die at city zoos amid bird flu outbreak, officials say",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0885ea6994ccdbff645ebc5422eb6&url=https%3a%2f%2fny1.com%2fnyc%2fall-boroughs%2fnews%2f2025%2f02%2f08%2f15-birds-die-of-bird-flu-at-city-zoos--officials-say&c=5111605619314766813&mkt=en-us",
-      "published_at": "2026-10-13T09:13:00.000Z",
-      "created_at": "2026-10-15 08:40:51",
-      "ai_at": null,
-      "dup_count": 1
-    },
-    {
       "fingerprint": "706575abdca5621cb5b12aa8e55d6f1433f04ff7",
-      "disease": null,
-      "country": null,
+      "disease": "эбола",
+      "country": "Демократическая Республика Конго",
       "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "В Демократической Республике Конго зарегистрировано более 9 тыс. случаев эболы, 4,381 погибших.",
       "source_id": "bing-world-ai",
       "title": "Ebola cases top 9,000 in DR Congo outbreak",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0885ea6994ccdbff645ebc5422eb6&url=https%3a%2f%2fwww.cidrap.umn.edu%2febola%2febola-cases-top-9000-dr-congo-outbreak&c=4544819000251996539&mkt=en-us",
       "published_at": "2026-10-13T07:17:00.000Z",
       "created_at": "2026-10-15 08:40:51",
-      "ai_at": null,
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "95891ca9aa19ccc0b2b735bcf67157918a720e71",
-      "disease": "эбола",
-      "country": "Демократическая Республика Конго",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Количество случаев эболы в ДР Конго достигло 9 066, число жертв - 4 381",
-      "source_id": "bing-world-ai",
-      "title": "Ebola cases top 9,000 in DR Congo outbreak",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad033f9f57d430cadad808c4ed6d952&url=https%3a%2f%2fwww.cidrap.umn.edu%2febola%2febola-cases-top-9000-dr-congo-outbreak&c=4544819000251996539&mkt=en-us",
-      "published_at": "2026-10-13T07:17:00.000Z",
-      "created_at": "2026-10-15 02:41:02",
-      "ai_at": "2026-10-15 02:41:54",
-      "dup_count": 3,
+      "ai_at": "2026-10-15 10:41:32",
+      "dup_count": 4,
       "dups": [
+        {
+          "title": "Ebola cases top 9,000 in DR Congo outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad033f9f57d430cadad808c4ed6d952&url=https%3a%2f%2fwww.cidrap.umn.edu%2febola%2febola-cases-top-9000-dr-congo-outbreak&c=4544819000251996539&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-13T07:17:00.000Z"
+        },
         {
           "title": "Ebola cases top 9,000 in DR Congo outbreak",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acff5e5f8c6401294faf1e8175372eb&url=https%3a%2f%2fwww.cidrap.umn.edu%2febola%2febola-cases-top-9000-dr-congo-outbreak&c=4544819000251996539&mkt=en-us",
@@ -894,18 +874,18 @@
     },
     {
       "fingerprint": "3f2543999ba1b10f1dae1546e7dbe6c7e7c6651c",
-      "disease": null,
+      "disease": "африканская чума свиней",
       "country": null,
       "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "Подтверждена африканская чума свиней среди куду в национальном парке Addo Elephant National Park.",
       "source_id": "bing-world-fmd",
       "title": "Foot-and-mouth disease confirmed in kudu at Addo Elephant National Park",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0885e4de743c4bac0542983ba9748&url=https%3a%2f%2fnovanews.co.za%2ffoot-and-mouth-disease-confirmed-in-kudu-at-addo-elephant-national-park%2f&c=16559880733431485475&mkt=en-us",
       "published_at": "2026-10-13T06:08:00.000Z",
       "created_at": "2026-10-15 08:40:51",
-      "ai_at": null,
+      "ai_at": "2026-10-15 10:41:36",
       "dup_count": 1
     },
     {
