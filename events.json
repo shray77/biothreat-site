@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-16T08:42:06.705Z",
+  "generated_at": "2026-10-16T10:42:16.130Z",
   "items": [
     {
       "fingerprint": "e562fdb8aeb7a9125a4dd3371fb0335d6c28d259",
@@ -19,21 +19,27 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "36cb9fff8357bf614235e1b149782053ffb062d9",
+      "fingerprint": "b8d8cef5f37bfcc1ff191e7ebc2011fe9c0c778f",
       "disease": "африканская чума свиней",
       "country": "ЮАР",
       "distance_km": 7000,
       "level": "фон",
       "verdict": "confirmed",
-      "ai_summary": "В ЮАР подтверждена вспышка африканской чумы свиней в районе Виллирсдорп",
+      "ai_summary": "В Южной Африке выявлена вспышка африканской чумы свиней. Приняты срочные меры - убийство свиней и запрет перевозок.",
       "source_id": "bing-world-asf",
       "title": "African Swine Fever outbreak confirmed in Villiersdorp",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1aeca10584a2fadf21bd8b6f0e57d&url=https%3a%2f%2fnovanews.co.za%2fhermanustimes%2fafrican-swine-fever-outbreak-confirmed-in-villiersdorp%2f&c=16172928960758055797&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1f181a48d4e46a17a9c2eee91bb19&url=https%3a%2f%2fnovanews.co.za%2fhermanustimes%2fafrican-swine-fever-outbreak-confirmed-in-villiersdorp%2f&c=16172928960758055797&mkt=en-us",
       "published_at": "2026-10-15T08:00:00.000Z",
-      "created_at": "2026-10-16 06:40:54",
-      "ai_at": "2026-10-16 06:41:01",
-      "dup_count": 8,
+      "created_at": "2026-10-16 10:40:53",
+      "ai_at": "2026-10-16 10:41:00",
+      "dup_count": 10,
       "dups": [
+        {
+          "title": "African Swine Fever outbreak confirmed in Villiersdorp",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1aeca10584a2fadf21bd8b6f0e57d&url=https%3a%2f%2fnovanews.co.za%2fhermanustimes%2fafrican-swine-fever-outbreak-confirmed-in-villiersdorp%2f&c=16172928960758055797&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-15T08:00:00.000Z"
+        },
         {
           "title": "African Swine Fever outbreak confirmed in Villiersdorp",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693f56944b43b2d5d41a9449cf1b&url=https%3a%2f%2fnovanews.co.za%2fhermanustimes%2fafrican-swine-fever-outbreak-confirmed-in-villiersdorp%2f&c=16172928960758055797&mkt=en-us",
@@ -45,6 +51,12 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad11d54da9d472887bd0544328b1e93&url=https%3a%2f%2fnovanews.co.za%2fhermanustimes%2fafrican-swine-fever-outbreak-confirmed-in-villiersdorp%2f&c=16172928960758055797&mkt=en-us",
           "source_id": "bing-world-asf",
           "published_at": "2026-10-15T08:00:00.000Z"
+        },
+        {
+          "title": "Officials sound alert as FMD outbreak confirmed at Addo elephant park",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1f180e1184df4ba5b5acc8591531f&url=https%3a%2f%2ftheherald.co.za%2fnews%2f2026-10-15-officials-sound-alert-as-fmd-outbreak-confirmed-at-addo-elephant-park%2f&c=13881138910774664064&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-14T23:01:00.000Z"
         },
         {
           "title": "Officials sound alert as FMD outbreak confirmed at Addo elephant park",
@@ -92,8 +104,14 @@
       "published_at": "2026-10-15T06:04:53.000Z",
       "created_at": "2026-10-15 14:41:10",
       "ai_at": "2026-10-15 14:41:15",
-      "dup_count": 19,
+      "dup_count": 22,
       "dups": [
+        {
+          "title": "Judge slams CPBN as FMD breaks in Zambezi …Fence construction continues despite tender dispute as Namibia confirms new outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1f180e1184df4ba5b5acc8591531f&url=https%3a%2f%2fobserver24.com.na%2fjudge-slams-cpbn-as-fmd-breaks-in-zambezi-fence-construction-continues-despite-tender-dispute-as-namibia-confirms-new-outbreak%2f&c=15992230499245096546&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-14T23:54:00.000Z"
+        },
         {
           "title": "Judge slams CPBN as FMD breaks in Zambezi …Fence construction continues despite tender dispute as Namibia confirms new outbreak",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1aec97682462b94f15129771b2ecb&url=https%3a%2f%2fobserver24.com.na%2fjudge-slams-cpbn-as-fmd-breaks-in-zambezi-fence-construction-continues-despite-tender-dispute-as-namibia-confirms-new-outbreak%2f&c=15992230499245096546&mkt=en-us",
@@ -119,6 +137,12 @@
           "published_at": "2026-10-14T23:54:00.000Z"
         },
         {
+          "title": "Mass vaccination drive launched to contain FMD outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1f180e1184df4ba5b5acc8591531f&url=https%3a%2f%2feconomist.com.na%2fmass-vaccination-drive-launched-to-contain-fmd-outbreak%2f&c=11435589149089037058&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-14T17:00:00.000Z"
+        },
+        {
           "title": "Namibia confirms foot-and-mouth disease in Zambezi region, its second outbreak area",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1aec97682462b94f15129771b2ecb&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fnamibia-confirms-foot-and-mouth-disease-in-zambezi-region-its-second-outbreak-area&c=7151597622655820949&mkt=en-us",
           "source_id": "bing-world-fmd",
@@ -141,20 +165,40 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad11d5375324117ae8425ac1a6676c9&url=https%3a%2f%2feconomist.com.na%2fmass-vaccination-drive-launched-to-contain-fmd-outbreak%2f&c=11435589149089037058&mkt=en-us",
           "source_id": "bing-world-fmd",
           "published_at": "2026-10-14T17:00:00.000Z"
-        },
-        {
-          "title": "Namibia confirms foot-and-mouth disease in Zambezi region, its second outbreak area",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad11d5375324117ae8425ac1a6676c9&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fnamibia-confirms-foot-and-mouth-disease-in-zambezi-region-its-second-outbreak-area&c=7151597622655820949&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-14T17:00:00.000Z"
-        },
-        {
-          "title": "Namibia confirms foot-and-mouth disease in Zambezi region, its second outbreak area",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0e1dd8781455e95079792d12d080e&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fnamibia-confirms-foot-and-mouth-disease-in-zambezi-region-its-second-outbreak-area&c=7151597622655820949&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-14T17:00:00.000Z"
         }
       ]
+    },
+    {
+      "fingerprint": "ae1e8d275e29806a76e3b97c31a6dffc00b059f5",
+      "disease": null,
+      "country": "Южная Корея",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Южная Корея устанавливает четырёхуровневую биосовместимость на крупных фермах для несушек для предотвращения перебоев в поставках яиц в случае вспышки высокопат",
+      "source_id": "bing-world-ai",
+      "title": "S. Korea rolls out 4-tier biosecurity net at egg farms to head off AI outbreak",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1f17f64e64bee92714275537dd5cc&url=https%3a%2f%2fbiz.heraldcorp.com%2farticle%2f10903067&c=4694544203931024663&mkt=en-us",
+      "published_at": "2026-10-15T04:01:00.000Z",
+      "created_at": "2026-10-16 10:40:53",
+      "ai_at": "2026-10-16 10:41:06",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "45310d0c19c19e165e7b719d230b7552e2017cc3",
+      "disease": null,
+      "country": "Южная Корея",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Южная Корея усиливает биозащиту на птицефабриках",
+      "source_id": "bing-world-fmd",
+      "title": "S. Korea rolls out 4-tier biosecurity net at egg farms to head off AI outbreak",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1f180e1184df4ba5b5acc8591531f&url=https%3a%2f%2fbiz.heraldcorp.com%2farticle%2f10903067&c=4694544203931024663&mkt=en-us",
+      "published_at": "2026-10-15T04:01:00.000Z",
+      "created_at": "2026-10-16 10:40:53",
+      "ai_at": "2026-10-16 10:41:10",
+      "dup_count": 1
     },
     {
       "fingerprint": "2c82e49f2ca3cf5562a081f62c319232eb876505",
@@ -249,6 +293,22 @@
       "dup_count": 1
     },
     {
+      "fingerprint": "9f49ef7042a90c0e99d0289760c7965137e6bf7f",
+      "disease": "грипп птиц",
+      "country": "Вашингтон",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "Зафиксированы первые случаи высокопатогенного птицемогильного гриппа в молочных фермах в штате Вашингтон",
+      "source_id": "bing-world-ai",
+      "title": "First cases of highly pathogenic avian influenza in dairy cows in Washington State",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1f17f64e64bee92714275537dd5cc&url=https%3a%2f%2fwww.foodagribusiness.world%2fdairy%2ffirst-cases-of-highly-pathogenic-avian-influenza-in-washington-state&c=2232692904613275067&mkt=en-us",
+      "published_at": "2026-10-15T00:03:00.000Z",
+      "created_at": "2026-10-16 10:40:53",
+      "ai_at": "2026-10-16 10:41:15",
+      "dup_count": 1
+    },
+    {
       "fingerprint": "2bb565bf32a679c7967a078b184af442dd0deaad",
       "disease": "грипп птиц",
       "country": "США",
@@ -262,7 +322,7 @@
       "published_at": "2026-10-15T00:03:00.000Z",
       "created_at": "2026-10-16 06:40:54",
       "ai_at": "2026-10-16 06:41:16",
-      "dup_count": 19,
+      "dup_count": 21,
       "dups": [
         {
           "title": "First cases of highly pathogenic avian influenza in dairy cows in Washington State",
@@ -287,6 +347,12 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0885ea6994ccdbff645ebc5422eb6&url=https%3a%2f%2fwww.foodagribusiness.world%2fdairy%2ffirst-cases-of-highly-pathogenic-avian-influenza-in-washington-state&c=2232692904613275067&mkt=en-us",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-15T00:03:00.000Z"
+        },
+        {
+          "title": "Bird flu outbreak confirmed in geese across Reno-Sparks",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1f17f64e64bee92714275537dd5cc&url=https%3a%2f%2fthisisreno.com%2f2026%2f10%2freno-sparks-geese-virus%2f&c=5980225152807756141&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-14T14:09:00.000Z"
         },
         {
           "title": "Bird flu outbreak confirmed in geese across Reno-Sparks",
@@ -317,31 +383,31 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0885ea6994ccdbff645ebc5422eb6&url=https%3a%2f%2fthisisreno.com%2f2026%2f10%2freno-sparks-geese-virus%2f&c=5980225152807756141&mkt=en-us",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-14T14:09:00.000Z"
-        },
-        {
-          "title": "Bird flu outbreak confirmed in geese across Reno-Sparks",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad033f9f57d430cadad808c4ed6d952&url=https%3a%2f%2fthisisreno.com%2f2026%2f10%2freno-sparks-geese-virus%2f&c=5980225152807756141&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-14T14:09:00.000Z"
         }
       ]
     },
     {
-      "fingerprint": "810cea3d2d4d66f78c13bad107ad33a3e54abb2a",
+      "fingerprint": "1f6f446c02c7123cb4767477ae43cd4bf1d6374b",
       "disease": "африканская чума свиней",
       "country": "Нигерия",
       "distance_km": null,
       "level": "не определено",
       "verdict": "confirmed",
-      "ai_summary": "Пиг фермеры в Нигерии сообщают о потере 5 миллиардов на африканской чуме свиней и просят государственную помощь.",
+      "ai_summary": "В Нигерии произошла вспышка африканской чумы свиней, от которой пострадали свиноководы.",
       "source_id": "bing-world-asf",
       "title": "Ogun Pig Farmers Report N5bn Losses to Swine Fever, Seek Government Aid.",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1aeca10584a2fadf21bd8b6f0e57d&url=https%3a%2f%2fremotv.com.ng%2fogun-pig-farmers-report-n5bn-losses-to-swine-fever-seek-government-aid%2f&c=11668165486984175520&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1f181a48d4e46a17a9c2eee91bb19&url=https%3a%2f%2fremotv.com.ng%2fogun-pig-farmers-report-n5bn-losses-to-swine-fever-seek-government-aid%2f&c=11668165486984175520&mkt=en-us",
       "published_at": "2026-10-14T23:22:00.000Z",
-      "created_at": "2026-10-16 06:40:54",
-      "ai_at": "2026-10-16 06:41:26",
+      "created_at": "2026-10-16 10:40:53",
+      "ai_at": "2026-10-16 10:41:23",
       "dup_count": 19,
       "dups": [
+        {
+          "title": "Ogun Pig Farmers Report N5bn Losses to Swine Fever, Seek Government Aid.",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1aeca10584a2fadf21bd8b6f0e57d&url=https%3a%2f%2fremotv.com.ng%2fogun-pig-farmers-report-n5bn-losses-to-swine-fever-seek-government-aid%2f&c=11668165486984175520&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-14T23:22:00.000Z"
+        },
         {
           "title": "Ogun Pig Farmers Report N5bn Losses to Swine Fever, Seek Government Aid.",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693f56944b43b2d5d41a9449cf1b&url=https%3a%2f%2fremotv.com.ng%2fogun-pig-farmers-report-n5bn-losses-to-swine-fever-seek-government-aid%2f&c=11668165486984175520&mkt=en-us",
@@ -359,6 +425,12 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0e1de3e2b4f639597abe125ab1fa5&url=https%3a%2f%2fremotv.com.ng%2fogun-pig-farmers-report-n5bn-losses-to-swine-fever-seek-government-aid%2f&c=11668165486984175520&mkt=en-us",
           "source_id": "bing-world-asf",
           "published_at": "2026-10-14T23:22:00.000Z"
+        },
+        {
+          "title": "Swine fever: Ogun alerts FG as farmers lose N5bn",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1f181a48d4e46a17a9c2eee91bb19&url=https%3a%2f%2fwww.msn.com%2fen-xl%2fmoney%2feconomy%2fswine-fever-ogun-alerts-fg-as-farmers-lose-n5bn%2far-AA2efN2r&c=10870376637689578037&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-14T17:01:54.000Z"
         },
         {
           "title": "Swine fever: Ogun alerts FG as farmers lose N5bn",
@@ -389,18 +461,6 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0886585f340cf950e58d2ac1fa669&url=https%3a%2f%2fwww.msn.com%2fen-xl%2fmoney%2fgovernment-support-and-welfare%2fswine-fever-ogun-alerts-fg-as-farmers-lose-n5bn%2far-AA2efN2r&c=16604245710742282716&mkt=en-us",
           "source_id": "bing-world-asf",
           "published_at": "2026-10-14T17:01:54.000Z"
-        },
-        {
-          "title": "Ogun Pig Farmers Report N5bn Losses to Swine Fever, Seek Government Aid.",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0886585f340cf950e58d2ac1fa669&url=https%3a%2f%2fremotv.com.ng%2fogun-pig-farmers-report-n5bn-losses-to-swine-fever-seek-government-aid%2f&c=11668165486984175520&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-14T17:00:00.000Z"
-        },
-        {
-          "title": "Swine fever: Ogun alerts FG as farmers lose N5bn",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0500c2b4140dfbac01d643bd8d756&url=https%3a%2f%2fpunchng.com%2fswine-fever-ogun-alerts-fg-as-farmers-lose-n5bn%2f&c=8032339170984698702&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-14T09:20:00.000Z"
         }
       ]
     },
@@ -531,166 +591,6 @@
           "published_at": "2026-10-14T11:15:00.000Z"
         }
       ]
-    },
-    {
-      "fingerprint": "eb1bb9f080ef8524e47996a7fd2ff5e1017e1909",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "WHO Health Emergencies EPI-WIN webinar: Understanding Influenza A(H9N2): current risks, One Health action and pandemic preparedness",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1aec935364c2a87889be7d2e6c866&url=https%3a%2f%2fwww.who.int%2fnews-room%2fevents%2fdetail%2f2026%2f10%2f14%2fdefault-calendar%2fwho-health-emergencies-epi-win-webinar-understanding-influenza-a(h9n2)-current-risks-one-health-action-and-pandemic-preparedness&c=14835575689701157448&mkt=en-us",
-      "published_at": "2026-10-14T04:29:00.000Z",
-      "created_at": "2026-10-16 06:40:54",
-      "ai_at": "2026-10-16 06:42:14",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "6db58620c9bb57b71a56f91b9c6066a4a49f378a",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "WHO Health Emergencies EPI-WIN webinar: Understanding Influenza A(H9N2): current risks, One Health action and pandemic preparedness",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693eed0e4162b061556a5b806490&url=https%3a%2f%2fwww.who.int%2fnews-room%2fevents%2fdetail%2f2026%2f10%2f14%2fdefault-calendar%2fwho-health-emergencies-epi-win-webinar-understanding-influenza-a(h9n2)-current-risks-one-health-action-and-pandemic-preparedness&c=14835575689701157448&mkt=en-us",
-      "published_at": "2026-10-14T04:29:00.000Z",
-      "created_at": "2026-10-16 00:40:53",
-      "ai_at": "2026-10-16 00:42:10",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "bf38e89021902320215037dd5539387ed50f0621",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Вебинар World Health Organization по актуальности и подготовке к пандемии гриппа A(H9N2)",
-      "source_id": "bing-world-ai",
-      "title": "WHO Health Emergencies EPI-WIN webinar: Understanding Influenza A(H9N2): current risks, One Health action and pandemic preparedness",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad11d5328ba49e1ba8fb477de493bb0&url=https%3a%2f%2fwww.who.int%2fnews-room%2fevents%2fdetail%2f2026%2f10%2f14%2fdefault-calendar%2fwho-health-emergencies-epi-win-webinar-understanding-influenza-a(h9n2)-current-risks-one-health-action-and-pandemic-preparedness&c=14835575689701157448&mkt=en-us",
-      "published_at": "2026-10-14T04:29:00.000Z",
-      "created_at": "2026-10-15 18:40:51",
-      "ai_at": "2026-10-15 18:42:07",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "ea3804cc0e275ff333a924906fc3e9eab6d711ac",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "WHO Health Emergencies EPI-WIN webinar: Understanding Influenza A(H9N2): current risks, One Health action and pandemic preparedness",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0e1dd2e2c464282f63b7539030099&url=https%3a%2f%2fwww.who.int%2fnews-room%2fevents%2fdetail%2f2026%2f10%2f14%2fdefault-calendar%2fwho-health-emergencies-epi-win-webinar-understanding-influenza-a(h9n2)-current-risks-one-health-action-and-pandemic-preparedness&c=14835575689701157448&mkt=en-us",
-      "published_at": "2026-10-14T04:29:00.000Z",
-      "created_at": "2026-10-15 14:41:10",
-      "ai_at": "2026-10-15 14:42:33",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "5aa68519a94dd95f334cab3ab1a5ea44a611868c",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "WHO Health Emergencies EPI-WIN webinar: Understanding Influenza A(H9N2): current risks, One Health action and pandemic preparedness",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0885ea6994ccdbff645ebc5422eb6&url=https%3a%2f%2fwww.who.int%2fnews-room%2fevents%2fdetail%2f2026%2f10%2f14%2fdefault-calendar%2fwho-health-emergencies-epi-win-webinar-understanding-influenza-a(h9n2)-current-risks-one-health-action-and-pandemic-preparedness&c=14835575689701157448&mkt=en-us",
-      "published_at": "2026-10-14T04:29:00.000Z",
-      "created_at": "2026-10-15 08:40:51",
-      "ai_at": "2026-10-15 08:41:57",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "95e324cf61617a6c1f0849a7f80e20adb614515e",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "WHO Health Emergencies EPI-WIN webinar: Understanding Influenza A(H9N2): current risks, One Health action and pandemic preparedness",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad033f9f57d430cadad808c4ed6d952&url=https%3a%2f%2fwww.who.int%2fnews-room%2fevents%2fdetail%2f2026%2f10%2f14%2fdefault-calendar%2fwho-health-emergencies-epi-win-webinar-understanding-influenza-a(h9n2)-current-risks-one-health-action-and-pandemic-preparedness&c=14835575689701157448&mkt=en-us",
-      "published_at": "2026-10-14T04:29:00.000Z",
-      "created_at": "2026-10-15 02:41:02",
-      "ai_at": "2026-10-15 02:41:30",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "6c22cdbdbeb78ff768343d42de4030323771b08f",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Вебинар World Health Organization (ВОЗ) о гриппе A(H9N2) и стратегии борьбы с ним.",
-      "source_id": "bing-world-ai",
-      "title": "WHO Health Emergencies EPI-WIN webinar: Understanding Influenza A(H9N2): current risks, One Health action and pandemic preparedness",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acff5e5f8c6401294faf1e8175372eb&url=https%3a%2f%2fwww.who.int%2fnews-room%2fevents%2fdetail%2f2026%2f10%2f14%2fdefault-calendar%2fwho-health-emergencies-epi-win-webinar-understanding-influenza-a(h9n2)-current-risks-one-health-action-and-pandemic-preparedness&c=14835575689701157448&mkt=en-us",
-      "published_at": "2026-10-14T04:29:00.000Z",
-      "created_at": "2026-10-14 22:40:52",
-      "ai_at": "2026-10-14 22:41:16",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "be882070b840dbbb265669deb8ff87b8ed53ca4f",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "WHO Health Emergencies EPI-WIN webinar: Understanding Influenza A(H9N2): current risks, One Health action and pandemic preparedness",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfa742fecb41b185f06c4de1fc410e&url=https%3a%2f%2fwww.who.int%2fnews-room%2fevents%2fdetail%2f2026%2f10%2f14%2fdefault-calendar%2fwho-health-emergencies-epi-win-webinar-understanding-influenza-a(h9n2)-current-risks-one-health-action-and-pandemic-preparedness&c=14835575689701157448&mkt=en-us",
-      "published_at": "2026-10-14T04:29:00.000Z",
-      "created_at": "2026-10-14 16:40:50",
-      "ai_at": "2026-10-14 16:40:55",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "eb43387b4781cadb923a424adad2244cf4eff261",
-      "disease": "африканская чума свиней",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Вьетнам: люди случаются случаи безответственного обращения с телами свиней, зараженных африканской чумой свиней.",
-      "source_id": "bing-world-asf",
-      "title": "Pork carcasses thrown into the environment by African swine fever, local authorities will handle them strictly",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1aeca10584a2fadf21bd8b6f0e57d&url=https%3a%2f%2fnews.laodong.vn%2fmoi-truong%2fxac-lon-bi-dich-ta-lon-chau-phi-vut-ra-moi-truong-dia-phuong-se-xu-ly-nghiem-1782753.ldo&c=15053267701413599410&mkt=en-us",
-      "published_at": "2026-10-14T04:21:00.000Z",
-      "created_at": "2026-10-16 06:40:54",
-      "ai_at": "2026-10-16 06:42:21",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "7040a4e01cd824a0d55917068f93d83b7a856d0a",
-      "disease": "африканская чума свиней",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "В Винь Тюи сообщают о безответственном обращении с заболевшими свиньями, которые бросают в окружающую среду.",
-      "source_id": "bing-world-asf",
-      "title": "Pork carcasses thrown into the environment by African swine fever, local authorities will handle them strictly",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693f56944b43b2d5d41a9449cf1b&url=https%3a%2f%2fnews.laodong.vn%2fmoi-truong%2fxac-lon-bi-dich-ta-lon-chau-phi-vut-ra-moi-truong-dia-phuong-se-xu-ly-nghiem-1782753.ldo&c=15053267701413599410&mkt=en-us",
-      "published_at": "2026-10-14T04:21:00.000Z",
-      "created_at": "2026-10-16 00:40:53",
-      "ai_at": "2026-10-16 00:42:13",
-      "dup_count": 1
     }
   ]
 }
