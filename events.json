@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-16T10:42:16.130Z",
+  "generated_at": "2026-10-16T12:42:25.753Z",
   "items": [
     {
       "fingerprint": "e562fdb8aeb7a9125a4dd3371fb0335d6c28d259",
@@ -400,7 +400,7 @@
       "published_at": "2026-10-14T23:22:00.000Z",
       "created_at": "2026-10-16 10:40:53",
       "ai_at": "2026-10-16 10:41:23",
-      "dup_count": 19,
+      "dup_count": 18,
       "dups": [
         {
           "title": "Ogun Pig Farmers Report N5bn Losses to Swine Fever, Seek Government Aid.",
@@ -545,21 +545,27 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "7d01de13be457a8fc6f94b6b2d17a1e64d38eff6",
+      "fingerprint": "508e2de347fa4f4a3f851de6997c3850e41dae72",
       "disease": "нодулярный дерматит",
       "country": "Индия",
       "distance_km": 3000,
       "level": "фон",
       "verdict": "probable",
-      "ai_summary": "Центральная группа специалистов оценила меры по контролю нодулярного дерматита в округах Сamba, Kathua и Jammu",
+      "ai_summary": "Центральная команда оценивает меры по контролю над заболеванием нодулярным дерматитом в районе Джамму и Кашмира.",
       "source_id": "bing-world-lsd",
       "title": "Central team reviews measures to control Lumpy Skin Disease in J&K",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1bda526964c8498ef22c892e56cc3&url=https%3a%2f%2fwww.greaterkashmir.com%2fjammu%2fcentral-team-reviews-measures-to-control-lumpy-skin-disease-in-jk-12676652&c=12829558389035851839&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2120d1d6146258ba4c310b521d2e3&url=https%3a%2f%2fwww.greaterkashmir.com%2fjammu%2fcentral-team-reviews-measures-to-control-lumpy-skin-disease-in-jk-12676652&c=12829558389035851839&mkt=en-us",
       "published_at": "2026-10-14T11:15:00.000Z",
-      "created_at": "2026-10-16 06:40:54",
-      "ai_at": "2026-10-16 06:42:05",
-      "dup_count": 6,
+      "created_at": "2026-10-16 12:40:55",
+      "ai_at": "2026-10-16 12:41:00",
+      "dup_count": 7,
       "dups": [
+        {
+          "title": "Central team reviews measures to control Lumpy Skin Disease in J&K",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1bda526964c8498ef22c892e56cc3&url=https%3a%2f%2fwww.greaterkashmir.com%2fjammu%2fcentral-team-reviews-measures-to-control-lumpy-skin-disease-in-jk-12676652&c=12829558389035851839&mkt=en-us",
+          "source_id": "bing-world-lsd",
+          "published_at": "2026-10-14T11:15:00.000Z"
+        },
         {
           "title": "Central team reviews measures to control Lumpy Skin Disease in J&K",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693bd2e84111aa52467f9630877e&url=https%3a%2f%2fwww.greaterkashmir.com%2fjammu%2fcentral-team-reviews-measures-to-control-lumpy-skin-disease-in-jk-12676652&c=12829558389035851839&mkt=en-us",
