@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-16T00:42:18.674Z",
+  "generated_at": "2026-10-16T02:42:00.665Z",
   "items": [
     {
       "fingerprint": "e562fdb8aeb7a9125a4dd3371fb0335d6c28d259",
@@ -104,8 +104,14 @@
       "published_at": "2026-10-15T06:04:53.000Z",
       "created_at": "2026-10-15 14:41:10",
       "ai_at": "2026-10-15 14:41:15",
-      "dup_count": 16,
+      "dup_count": 17,
       "dups": [
+        {
+          "title": "Judge slams CPBN as FMD breaks in Zambezi …Fence construction continues despite tender dispute as Namibia confirms new outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693e3d3246b6b9fce73a61f2e8a5&url=https%3a%2f%2fobserver24.com.na%2fjudge-slams-cpbn-as-fmd-breaks-in-zambezi-fence-construction-continues-despite-tender-dispute-as-namibia-confirms-new-outbreak%2f&c=15992230499245096546&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-14T23:54:00.000Z"
+        },
         {
           "title": "Judge slams CPBN as FMD breaks in Zambezi …Fence construction continues despite tender dispute as Namibia confirms new outbreak",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad11d5375324117ae8425ac1a6676c9&url=https%3a%2f%2fobserver24.com.na%2fjudge-slams-cpbn-as-fmd-breaks-in-zambezi-fence-construction-continues-despite-tender-dispute-as-namibia-confirms-new-outbreak%2f&c=15992230499245096546&mkt=en-us",
@@ -157,12 +163,6 @@
         {
           "title": "Namibia embarks on compulsory mass vaccination drive to contain FMD outbreak",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693e3d3246b6b9fce73a61f2e8a5&url=https%3a%2f%2fenglish.news.cn%2f..%2f20261014%2f956f8754567a459593dba67df5572b57%2fc.html&c=6042262910296500566&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-14T13:18:00.000Z"
-        },
-        {
-          "title": "Namibia embarks on compulsory mass vaccination drive to contain FMD outbreak",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad11d5375324117ae8425ac1a6676c9&url=https%3a%2f%2fenglish.news.cn%2f..%2f20261014%2f956f8754567a459593dba67df5572b57%2fc.html&c=6042262910296500566&mkt=en-us",
           "source_id": "bing-world-fmd",
           "published_at": "2026-10-14T13:18:00.000Z"
         }
@@ -315,22 +315,6 @@
           "published_at": "2026-10-14T13:09:00.000Z"
         }
       ]
-    },
-    {
-      "fingerprint": "3fd9ea34ec3089e13a151c98cb16ce9cb89b86be",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
-      "source_id": "bing-world-fmd",
-      "title": "Judge slams CPBN as FMD breaks in Zambezi …Fence construction continues despite tender dispute as Namibia confirms new outbreak",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693e3d3246b6b9fce73a61f2e8a5&url=https%3a%2f%2fobserver24.com.na%2fjudge-slams-cpbn-as-fmd-breaks-in-zambezi-fence-construction-continues-despite-tender-dispute-as-namibia-confirms-new-outbreak%2f&c=15992230499245096546&mkt=en-us",
-      "published_at": "2026-10-14T23:54:00.000Z",
-      "created_at": "2026-10-16 00:40:53",
-      "ai_at": null,
-      "dup_count": 1
     },
     {
       "fingerprint": "d3c94a0534073dfb95384eb5771e397a861bf4dc",
@@ -719,15 +703,15 @@
       "disease": null,
       "country": null,
       "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Руководящая группа оценивает ситуацию с нодулярным дерматитом в Джамму и Кашмире",
       "source_id": "bing-world-lsd",
       "title": "Central team reviews lumpy skin disease situation in J&K",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693bd2e84111aa52467f9630877e&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fcentral-team-reviews-lumpy-skin-disease-situation-in-j-k%2far-AA2efaoZ&c=9238261648386648823&mkt=en-us",
       "published_at": "2026-10-13T22:42:32.000Z",
       "created_at": "2026-10-16 00:40:53",
-      "ai_at": null,
+      "ai_at": "2026-10-16 02:40:58",
       "dup_count": 1
     },
     {
@@ -749,33 +733,33 @@
     {
       "fingerprint": "98806bc0bc828d1243b759bc5c111a7131206ac7",
       "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
+      "country": "Великобритания",
+      "distance_km": 2500,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "Великобритания провела анализ потенциального экономического воздействия африканской чумы свиней на свиноводство",
       "source_id": "bing-world-asf",
       "title": "UK's AHDB commissions updated economic impact study of a potential African swine fever outbreak",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693f56944b43b2d5d41a9449cf1b&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fuks-ahdb-commissions-updated-economic-impact-study-of-a-potential-african-swine-fever-outbreak&c=12636286766164585809&mkt=en-us",
       "published_at": "2026-10-13T17:00:00.000Z",
       "created_at": "2026-10-16 00:40:53",
-      "ai_at": null,
+      "ai_at": "2026-10-16 02:41:10",
       "dup_count": 1
     },
     {
       "fingerprint": "2fdd6bc25112e3373101980b4d991d58cf406a0c",
-      "disease": null,
-      "country": null,
+      "disease": "грипп птиц",
+      "country": "Перу",
       "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "Зафиксирована вспышка птичьего гриппа в Перу.",
       "source_id": "bing-world-ai",
       "title": "Avian influenza strikes Peruvian laying hen flock",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693eed0e4162b061556a5b806490&url=https%3a%2f%2fwww.wattagnet.com%2fpoultry-meat%2fdiseases-health%2favian-influenza%2fnews%2f15837398%2favian-influenza-strikes-peruvian-laying-hen-flock&c=3807795964977581813&mkt=en-us",
       "published_at": "2026-10-13T17:00:00.000Z",
       "created_at": "2026-10-16 00:40:53",
-      "ai_at": null,
+      "ai_at": "2026-10-16 02:41:14",
       "dup_count": 1
     }
   ]
