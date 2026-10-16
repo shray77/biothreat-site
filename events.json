@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-16T04:40:52.774Z",
+  "generated_at": "2026-10-16T06:42:28.191Z",
   "items": [
     {
       "fingerprint": "e562fdb8aeb7a9125a4dd3371fb0335d6c28d259",
@@ -19,26 +19,38 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "88895b9bb9cdcd40dc832e44d3b9043e94db4425",
+      "fingerprint": "36cb9fff8357bf614235e1b149782053ffb062d9",
       "disease": "африканская чума свиней",
       "country": "ЮАР",
       "distance_km": 7000,
       "level": "фон",
       "verdict": "confirmed",
-      "ai_summary": "В ЮАР подтверждена вспышка африканской чумы свиней: в Villiersdorp начата массовая стерилизация свиней и запрещен транспорт.",
+      "ai_summary": "В ЮАР подтверждена вспышка африканской чумы свиней в районе Виллирсдорп",
       "source_id": "bing-world-asf",
       "title": "African Swine Fever outbreak confirmed in Villiersdorp",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693f56944b43b2d5d41a9449cf1b&url=https%3a%2f%2fnovanews.co.za%2fhermanustimes%2fafrican-swine-fever-outbreak-confirmed-in-villiersdorp%2f&c=16172928960758055797&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1aeca10584a2fadf21bd8b6f0e57d&url=https%3a%2f%2fnovanews.co.za%2fhermanustimes%2fafrican-swine-fever-outbreak-confirmed-in-villiersdorp%2f&c=16172928960758055797&mkt=en-us",
       "published_at": "2026-10-15T08:00:00.000Z",
-      "created_at": "2026-10-16 00:40:53",
-      "ai_at": "2026-10-16 00:41:02",
-      "dup_count": 10,
+      "created_at": "2026-10-16 06:40:54",
+      "ai_at": "2026-10-16 06:41:01",
+      "dup_count": 8,
       "dups": [
+        {
+          "title": "African Swine Fever outbreak confirmed in Villiersdorp",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693f56944b43b2d5d41a9449cf1b&url=https%3a%2f%2fnovanews.co.za%2fhermanustimes%2fafrican-swine-fever-outbreak-confirmed-in-villiersdorp%2f&c=16172928960758055797&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-15T08:00:00.000Z"
+        },
         {
           "title": "African Swine Fever outbreak confirmed in Villiersdorp",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad11d54da9d472887bd0544328b1e93&url=https%3a%2f%2fnovanews.co.za%2fhermanustimes%2fafrican-swine-fever-outbreak-confirmed-in-villiersdorp%2f&c=16172928960758055797&mkt=en-us",
           "source_id": "bing-world-asf",
           "published_at": "2026-10-15T08:00:00.000Z"
+        },
+        {
+          "title": "Officials sound alert as FMD outbreak confirmed at Addo elephant park",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1aec97682462b94f15129771b2ecb&url=https%3a%2f%2ftheherald.co.za%2fnews%2f2026-10-15-officials-sound-alert-as-fmd-outbreak-confirmed-at-addo-elephant-park%2f&c=13881138910774664064&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-14T23:01:00.000Z"
         },
         {
           "title": "Officials sound alert as FMD outbreak confirmed at Addo elephant park",
@@ -63,30 +75,6 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad033fa8b104592b4539f49abc30f18&url=https%3a%2f%2fenglish.pravda.ru%2fnews%2fworld%2f170013-foot-and-mouth-disease-addo-kudu%2f&c=14348296151362688652&mkt=en-us",
           "source_id": "bing-world-fmd",
           "published_at": "2026-10-14T15:51:00.000Z"
-        },
-        {
-          "title": "Addo Elephant National Park confirms foot-and-mouth disease in kudu",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693e3d3246b6b9fce73a61f2e8a5&url=https%3a%2f%2fwww.getaway.co.za%2fnews%2faddo-elephant-national-park-confirms-foot-and-mouth-disease-in-kudu%2f&c=17937582689731627634&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-13T23:30:00.000Z"
-        },
-        {
-          "title": "Addo Elephant National Park confirms foot-and-mouth disease in kudu",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0885e4de743c4bac0542983ba9748&url=https%3a%2f%2fwww.getaway.co.za%2fnews%2faddo-elephant-national-park-confirms-foot-and-mouth-disease-in-kudu%2f&c=17937582689731627634&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-13T23:30:00.000Z"
-        },
-        {
-          "title": "Addo Elephant National Park confirms foot-and-mouth disease in kudu",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad033fa8b104592b4539f49abc30f18&url=https%3a%2f%2fwww.getaway.co.za%2fnews%2faddo-elephant-national-park-confirms-foot-and-mouth-disease-in-kudu%2f&c=17937582689731627634&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-13T23:30:00.000Z"
-        },
-        {
-          "title": "Addo Elephant National Park confirms foot-and-mouth disease in kudu",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acff5e5587c4894bc46b93b6de6bd32&url=https%3a%2f%2fwww.getaway.co.za%2fnews%2faddo-elephant-national-park-confirms-foot-and-mouth-disease-in-kudu%2f&c=17937582689731627634&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-13T23:30:00.000Z"
         }
       ]
     },
@@ -104,8 +92,14 @@
       "published_at": "2026-10-15T06:04:53.000Z",
       "created_at": "2026-10-15 14:41:10",
       "ai_at": "2026-10-15 14:41:15",
-      "dup_count": 17,
+      "dup_count": 19,
       "dups": [
+        {
+          "title": "Judge slams CPBN as FMD breaks in Zambezi …Fence construction continues despite tender dispute as Namibia confirms new outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1aec97682462b94f15129771b2ecb&url=https%3a%2f%2fobserver24.com.na%2fjudge-slams-cpbn-as-fmd-breaks-in-zambezi-fence-construction-continues-despite-tender-dispute-as-namibia-confirms-new-outbreak%2f&c=15992230499245096546&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-14T23:54:00.000Z"
+        },
         {
           "title": "Judge slams CPBN as FMD breaks in Zambezi …Fence construction continues despite tender dispute as Namibia confirms new outbreak",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693e3d3246b6b9fce73a61f2e8a5&url=https%3a%2f%2fobserver24.com.na%2fjudge-slams-cpbn-as-fmd-breaks-in-zambezi-fence-construction-continues-despite-tender-dispute-as-namibia-confirms-new-outbreak%2f&c=15992230499245096546&mkt=en-us",
@@ -123,6 +117,12 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0e1dd8781455e95079792d12d080e&url=https%3a%2f%2fobserver24.com.na%2fjudge-slams-cpbn-as-fmd-breaks-in-zambezi-fence-construction-continues-despite-tender-dispute-as-namibia-confirms-new-outbreak%2f&c=15992230499245096546&mkt=en-us",
           "source_id": "bing-world-fmd",
           "published_at": "2026-10-14T23:54:00.000Z"
+        },
+        {
+          "title": "Namibia confirms foot-and-mouth disease in Zambezi region, its second outbreak area",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1aec97682462b94f15129771b2ecb&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fnamibia-confirms-foot-and-mouth-disease-in-zambezi-region-its-second-outbreak-area&c=7151597622655820949&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-14T17:00:00.000Z"
         },
         {
           "title": "Mass vaccination drive launched to contain FMD outbreak",
@@ -153,37 +153,31 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0e1dd8781455e95079792d12d080e&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fnamibia-confirms-foot-and-mouth-disease-in-zambezi-region-its-second-outbreak-area&c=7151597622655820949&mkt=en-us",
           "source_id": "bing-world-fmd",
           "published_at": "2026-10-14T17:00:00.000Z"
-        },
-        {
-          "title": "Namibia confirms foot-and-mouth disease in Zambezi region, its second outbreak area",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0885e4de743c4bac0542983ba9748&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fnamibia-confirms-foot-and-mouth-disease-in-zambezi-region-its-second-outbreak-area&c=7151597622655820949&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-14T17:00:00.000Z"
-        },
-        {
-          "title": "Namibia embarks on compulsory mass vaccination drive to contain FMD outbreak",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693e3d3246b6b9fce73a61f2e8a5&url=https%3a%2f%2fenglish.news.cn%2f..%2f20261014%2f956f8754567a459593dba67df5572b57%2fc.html&c=6042262910296500566&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-14T13:18:00.000Z"
         }
       ]
     },
     {
-      "fingerprint": "b9e98d5b6a31d67408c965141d2c89d8e39616bb",
+      "fingerprint": "2c82e49f2ca3cf5562a081f62c319232eb876505",
       "disease": "грипп птиц",
       "country": "Южная Корея",
       "distance_km": null,
       "level": "не определено",
       "verdict": "probable",
-      "ai_summary": "Южная Корея вводит четырехуровневую биозащиту на птицефабриках для предотвращения вспышек гриппа птиц.",
+      "ai_summary": "Южная Корея усиливает меры биосовместимости при производстве яиц",
       "source_id": "bing-world-fmd",
       "title": "S. Korea rolls out 4-tier biosecurity net at egg farms to head off AI outbreak",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693e3d3246b6b9fce73a61f2e8a5&url=https%3a%2f%2fbiz.heraldcorp.com%2farticle%2f10903067&c=4694544203931024663&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1aec97682462b94f15129771b2ecb&url=https%3a%2f%2fbiz.heraldcorp.com%2farticle%2f10903067&c=4694544203931024663&mkt=en-us",
       "published_at": "2026-10-15T04:01:00.000Z",
-      "created_at": "2026-10-16 00:40:53",
-      "ai_at": "2026-10-16 00:41:06",
-      "dup_count": 7,
+      "created_at": "2026-10-16 06:40:54",
+      "ai_at": "2026-10-16 06:41:06",
+      "dup_count": 8,
       "dups": [
+        {
+          "title": "S. Korea rolls out 4-tier biosecurity net at egg farms to head off AI outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693e3d3246b6b9fce73a61f2e8a5&url=https%3a%2f%2fbiz.heraldcorp.com%2farticle%2f10903067&c=4694544203931024663&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-15T04:01:00.000Z"
+        },
         {
           "title": "S. Korea rolls out 4-tier biosecurity net at egg farms to head off AI outbreak",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693eed0e4162b061556a5b806490&url=https%3a%2f%2fbiz.heraldcorp.com%2farticle%2f10903067&c=4694544203931024663&mkt=en-us",
@@ -223,6 +217,22 @@
       ]
     },
     {
+      "fingerprint": "719889c9c406e69319d7efd87f38f32190609ccd",
+      "disease": "грипп птиц",
+      "country": "Соединенные Штаты",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Южная Корея вводит четырехуровневую систему биозащиты при производстве яиц для предотвращения перебоев в поставках из-за Highly Pathogenic Avian Influenza",
+      "source_id": "bing-world-ai",
+      "title": "S. Korea rolls out 4-tier biosecurity net at egg farms to head off AI outbreak",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1aec935364c2a87889be7d2e6c866&url=https%3a%2f%2fbiz.heraldcorp.com%2farticle%2f10903067&c=4694544203931024663&mkt=en-us",
+      "published_at": "2026-10-15T04:01:00.000Z",
+      "created_at": "2026-10-16 06:40:54",
+      "ai_at": "2026-10-16 06:41:11",
+      "dup_count": 1
+    },
+    {
       "fingerprint": "b14bd010383155f21544c600ba7b870f74891f8d",
       "disease": "грипп птиц",
       "country": "Корея, Южная",
@@ -239,21 +249,27 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "fddb73befb82f59b604b53b15a6b76dbba518901",
+      "fingerprint": "2bb565bf32a679c7967a078b184af442dd0deaad",
       "disease": "грипп птиц",
       "country": "США",
       "distance_km": 5000,
       "level": "фон",
       "verdict": "confirmed",
-      "ai_summary": "Появились первые случаи высокопатогенного avi influenza в молочном скоте в штате Вашингтон",
+      "ai_summary": "Подтверждены первые случаи высокопатогенного авиарной гриппа у молочных коров в штате Вашингтон",
       "source_id": "bing-world-ai",
       "title": "First cases of highly pathogenic avian influenza in dairy cows in Washington State",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693eed0e4162b061556a5b806490&url=https%3a%2f%2fwww.foodagribusiness.world%2fdairy%2ffirst-cases-of-highly-pathogenic-avian-influenza-in-washington-state&c=2232692904613275067&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1aec935364c2a87889be7d2e6c866&url=https%3a%2f%2fwww.foodagribusiness.world%2fdairy%2ffirst-cases-of-highly-pathogenic-avian-influenza-in-washington-state&c=2232692904613275067&mkt=en-us",
       "published_at": "2026-10-15T00:03:00.000Z",
-      "created_at": "2026-10-16 00:40:53",
-      "ai_at": "2026-10-16 00:41:16",
-      "dup_count": 16,
+      "created_at": "2026-10-16 06:40:54",
+      "ai_at": "2026-10-16 06:41:16",
+      "dup_count": 19,
       "dups": [
+        {
+          "title": "First cases of highly pathogenic avian influenza in dairy cows in Washington State",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693eed0e4162b061556a5b806490&url=https%3a%2f%2fwww.foodagribusiness.world%2fdairy%2ffirst-cases-of-highly-pathogenic-avian-influenza-in-washington-state&c=2232692904613275067&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-15T00:03:00.000Z"
+        },
         {
           "title": "First cases of highly pathogenic avian influenza in dairy cows in Washington State",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad11d5328ba49e1ba8fb477de493bb0&url=https%3a%2f%2fwww.foodagribusiness.world%2fdairy%2ffirst-cases-of-highly-pathogenic-avian-influenza-in-washington-state&c=2232692904613275067&mkt=en-us",
@@ -271,6 +287,12 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0885ea6994ccdbff645ebc5422eb6&url=https%3a%2f%2fwww.foodagribusiness.world%2fdairy%2ffirst-cases-of-highly-pathogenic-avian-influenza-in-washington-state&c=2232692904613275067&mkt=en-us",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-15T00:03:00.000Z"
+        },
+        {
+          "title": "Bird flu outbreak confirmed in geese across Reno-Sparks",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1aec935364c2a87889be7d2e6c866&url=https%3a%2f%2fthisisreno.com%2f2026%2f10%2freno-sparks-geese-virus%2f&c=5980225152807756141&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-14T14:09:00.000Z"
         },
         {
           "title": "Bird flu outbreak confirmed in geese across Reno-Sparks",
@@ -301,37 +323,31 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad033f9f57d430cadad808c4ed6d952&url=https%3a%2f%2fthisisreno.com%2f2026%2f10%2freno-sparks-geese-virus%2f&c=5980225152807756141&mkt=en-us",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-14T14:09:00.000Z"
-        },
-        {
-          "title": "Bird flu outbreak confirmed in geese across Reno-Sparks",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acff5e5f8c6401294faf1e8175372eb&url=https%3a%2f%2fthisisreno.com%2f2026%2f10%2freno-sparks-geese-virus%2f&c=5980225152807756141&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-14T14:09:00.000Z"
-        },
-        {
-          "title": "Outbreak of Bird Flu found in flocks of geese in the Reno-Sparks area",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693eed0e4162b061556a5b806490&url=https%3a%2f%2fwww.2news.com%2fnews%2flocal%2foutbreak-of-bird-flu-found-in-flocks-of-geese-in-the-reno-sparks-area%2farticle_963a5c2e-8b54-4882-a149-39952f91d336.html&c=12424277241318416235&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-14T13:09:00.000Z"
         }
       ]
     },
     {
-      "fingerprint": "d3c94a0534073dfb95384eb5771e397a861bf4dc",
+      "fingerprint": "810cea3d2d4d66f78c13bad107ad33a3e54abb2a",
       "disease": "африканская чума свиней",
       "country": "Нигерия",
       "distance_km": null,
       "level": "не определено",
       "verdict": "confirmed",
-      "ai_summary": "В Нигерии произошла вспышка африканской чумы свиней, причинившая ущерб на 5 млрд. нигерийских нAIR.",
+      "ai_summary": "Пиг фермеры в Нигерии сообщают о потере 5 миллиардов на африканской чуме свиней и просят государственную помощь.",
       "source_id": "bing-world-asf",
       "title": "Ogun Pig Farmers Report N5bn Losses to Swine Fever, Seek Government Aid.",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693f56944b43b2d5d41a9449cf1b&url=https%3a%2f%2fremotv.com.ng%2fogun-pig-farmers-report-n5bn-losses-to-swine-fever-seek-government-aid%2f&c=11668165486984175520&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1aeca10584a2fadf21bd8b6f0e57d&url=https%3a%2f%2fremotv.com.ng%2fogun-pig-farmers-report-n5bn-losses-to-swine-fever-seek-government-aid%2f&c=11668165486984175520&mkt=en-us",
       "published_at": "2026-10-14T23:22:00.000Z",
-      "created_at": "2026-10-16 00:40:53",
-      "ai_at": "2026-10-16 00:41:21",
-      "dup_count": 16,
+      "created_at": "2026-10-16 06:40:54",
+      "ai_at": "2026-10-16 06:41:26",
+      "dup_count": 19,
       "dups": [
+        {
+          "title": "Ogun Pig Farmers Report N5bn Losses to Swine Fever, Seek Government Aid.",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693f56944b43b2d5d41a9449cf1b&url=https%3a%2f%2fremotv.com.ng%2fogun-pig-farmers-report-n5bn-losses-to-swine-fever-seek-government-aid%2f&c=11668165486984175520&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-14T23:22:00.000Z"
+        },
         {
           "title": "Ogun Pig Farmers Report N5bn Losses to Swine Fever, Seek Government Aid.",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad11d54da9d472887bd0544328b1e93&url=https%3a%2f%2fremotv.com.ng%2fogun-pig-farmers-report-n5bn-losses-to-swine-fever-seek-government-aid%2f&c=11668165486984175520&mkt=en-us",
@@ -343,6 +359,12 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0e1de3e2b4f639597abe125ab1fa5&url=https%3a%2f%2fremotv.com.ng%2fogun-pig-farmers-report-n5bn-losses-to-swine-fever-seek-government-aid%2f&c=11668165486984175520&mkt=en-us",
           "source_id": "bing-world-asf",
           "published_at": "2026-10-14T23:22:00.000Z"
+        },
+        {
+          "title": "Swine fever: Ogun alerts FG as farmers lose N5bn",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1aeca10584a2fadf21bd8b6f0e57d&url=https%3a%2f%2fwww.msn.com%2fen-xl%2fmoney%2feconomy%2fswine-fever-ogun-alerts-fg-as-farmers-lose-n5bn%2far-AA2efN2r&c=10870376637689578037&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-14T17:01:54.000Z"
         },
         {
           "title": "Swine fever: Ogun alerts FG as farmers lose N5bn",
@@ -379,18 +401,6 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0500c2b4140dfbac01d643bd8d756&url=https%3a%2f%2fpunchng.com%2fswine-fever-ogun-alerts-fg-as-farmers-lose-n5bn%2f&c=8032339170984698702&mkt=en-us",
           "source_id": "bing-world-asf",
           "published_at": "2026-10-14T09:20:00.000Z"
-        },
-        {
-          "title": "Ogun pig farmers lose N5bn to African swine fever",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693f56944b43b2d5d41a9449cf1b&url=https%3a%2f%2fpunchng.com%2fogun-pig-farmers-lose-n5bn-to-african-swine-fever%2f&c=1463928609652772263&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-14T06:10:00.000Z"
-        },
-        {
-          "title": "Ogun pig farmers lose N5bn to African swine fever",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad11d54da9d472887bd0544328b1e93&url=https%3a%2f%2fpunchng.com%2fogun-pig-farmers-lose-n5bn-to-african-swine-fever%2f&c=1463928609652772263&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-14T06:10:00.000Z"
         }
       ]
     },
@@ -408,8 +418,14 @@
       "published_at": "2026-10-14T23:01:00.000Z",
       "created_at": "2026-10-15 18:40:51",
       "ai_at": "2026-10-15 18:41:29",
-      "dup_count": 5,
+      "dup_count": 6,
       "dups": [
+        {
+          "title": "Foot-and-mouth disease confirmed in kudu at South Africa's Addo Elephant National Park",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1aec97682462b94f15129771b2ecb&url=https%3a%2f%2fenglish.pravda.ru%2fnews%2fworld%2f170013-foot-and-mouth-disease-addo-kudu%2f&c=14348296151362688652&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-14T15:51:00.000Z"
+        },
         {
           "title": "Foot-and-mouth disease confirmed in kudu at South Africa's Addo Elephant National Park",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693e3d3246b6b9fce73a61f2e8a5&url=https%3a%2f%2fenglish.pravda.ru%2fnews%2fworld%2f170013-foot-and-mouth-disease-addo-kudu%2f&c=14348296151362688652&mkt=en-us",
@@ -450,62 +466,46 @@
       "published_at": "2026-10-14T20:08:00.000Z",
       "created_at": "2026-10-15 08:40:51",
       "ai_at": "2026-10-15 08:41:05",
-      "dup_count": 7,
-      "dups": [
-        {
-          "title": "Pork carcasses thrown into the environment by African swine fever, local authorities will handle them strictly",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad11d54da9d472887bd0544328b1e93&url=https%3a%2f%2fnews.laodong.vn%2fmoi-truong%2fxac-lon-bi-dich-ta-lon-chau-phi-vut-ra-moi-truong-dia-phuong-se-xu-ly-nghiem-1782753.ldo&c=15053267701413599410&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-14T04:21:00.000Z"
-        },
-        {
-          "title": "Pork carcasses thrown into the environment by African swine fever, local authorities will handle them strictly",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0e1de3e2b4f639597abe125ab1fa5&url=https%3a%2f%2fnews.laodong.vn%2fmoi-truong%2fxac-lon-bi-dich-ta-lon-chau-phi-vut-ra-moi-truong-dia-phuong-se-xu-ly-nghiem-1782753.ldo&c=15053267701413599410&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-14T04:21:00.000Z"
-        },
-        {
-          "title": "Pork carcasses thrown into the environment by African swine fever, local authorities will handle them strictly",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0886585f340cf950e58d2ac1fa669&url=https%3a%2f%2fnews.laodong.vn%2fmoi-truong%2fxac-lon-bi-dich-ta-lon-chau-phi-vut-ra-moi-truong-dia-phuong-se-xu-ly-nghiem-1782753.ldo&c=15053267701413599410&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-14T04:21:00.000Z"
-        },
-        {
-          "title": "Pork carcasses thrown into the environment by African swine fever, local authorities will handle them strictly",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0500c2b4140dfbac01d643bd8d756&url=https%3a%2f%2fnews.laodong.vn%2fmoi-truong%2fxac-lon-bi-dich-ta-lon-chau-phi-vut-ra-moi-truong-dia-phuong-se-xu-ly-nghiem-1782753.ldo&c=15053267701413599410&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-14T04:21:00.000Z"
-        },
-        {
-          "title": "Pork carcasses thrown into the environment by African swine fever, local authorities will handle them strictly",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acffb94ef1d4ce98899e8c2fe2aeab2&url=https%3a%2f%2fnews.laodong.vn%2fmoi-truong%2fxac-lon-bi-dich-ta-lon-chau-phi-vut-ra-moi-truong-dia-phuong-se-xu-ly-nghiem-1782753.ldo&c=15053267701413599410&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-14T04:21:00.000Z"
-        },
-        {
-          "title": "Pork carcasses thrown into the environment by African swine fever, local authorities will handle them strictly",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf7dcc89b34507b87bd120fa7f17da&url=https%3a%2f%2fnews.laodong.vn%2fmoi-truong%2fxac-lon-bi-dich-ta-lon-chau-phi-vut-ra-moi-truong-dia-phuong-se-xu-ly-nghiem-1782753.ldo&c=15053267701413599410&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-14T04:21:00.000Z"
-        }
-      ]
+      "dup_count": 1
     },
     {
-      "fingerprint": "b62ef60b7ee91349a1ce2492d3b908ef866438a1",
+      "fingerprint": "12f26b192fa6eea1588e1de1791727c62e7d6f96",
+      "disease": "болезнь ньюкасла",
+      "country": "Намибия",
+      "distance_km": 6500,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "В Намибии начата массовая вакцинация в связи с эпидемией болезни ньюкасла",
+      "source_id": "bing-world-fmd",
+      "title": "Mass vaccination drive launched to contain FMD outbreak",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1aec97682462b94f15129771b2ecb&url=https%3a%2f%2feconomist.com.na%2fmass-vaccination-drive-launched-to-contain-fmd-outbreak%2f&c=11435589149089037058&mkt=en-us",
+      "published_at": "2026-10-14T17:00:00.000Z",
+      "created_at": "2026-10-16 06:40:54",
+      "ai_at": "2026-10-16 06:41:38",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "7d01de13be457a8fc6f94b6b2d17a1e64d38eff6",
       "disease": "нодулярный дерматит",
       "country": "Индия",
       "distance_km": 3000,
       "level": "фон",
       "verdict": "probable",
-      "ai_summary": "Центральная группа оценивает меры по контролю над ЛСД в Джамму и Кашмире.",
+      "ai_summary": "Центральная группа специалистов оценила меры по контролю нодулярного дерматита в округах Сamba, Kathua и Jammu",
       "source_id": "bing-world-lsd",
       "title": "Central team reviews measures to control Lumpy Skin Disease in J&K",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693bd2e84111aa52467f9630877e&url=https%3a%2f%2fwww.greaterkashmir.com%2fjammu%2fcentral-team-reviews-measures-to-control-lumpy-skin-disease-in-jk-12676652&c=12829558389035851839&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1bda526964c8498ef22c892e56cc3&url=https%3a%2f%2fwww.greaterkashmir.com%2fjammu%2fcentral-team-reviews-measures-to-control-lumpy-skin-disease-in-jk-12676652&c=12829558389035851839&mkt=en-us",
       "published_at": "2026-10-14T11:15:00.000Z",
-      "created_at": "2026-10-16 00:40:53",
-      "ai_at": "2026-10-16 00:42:02",
+      "created_at": "2026-10-16 06:40:54",
+      "ai_at": "2026-10-16 06:42:05",
       "dup_count": 6,
       "dups": [
+        {
+          "title": "Central team reviews measures to control Lumpy Skin Disease in J&K",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693bd2e84111aa52467f9630877e&url=https%3a%2f%2fwww.greaterkashmir.com%2fjammu%2fcentral-team-reviews-measures-to-control-lumpy-skin-disease-in-jk-12676652&c=12829558389035851839&mkt=en-us",
+          "source_id": "bing-world-lsd",
+          "published_at": "2026-10-14T11:15:00.000Z"
+        },
         {
           "title": "Central team reviews measures to control Lumpy Skin Disease in J&K",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0f8c9ec9b48dead38678b816b18cc&url=https%3a%2f%2fwww.greaterkashmir.com%2fjammu%2fcentral-team-reviews-measures-to-control-lumpy-skin-disease-in-jk-12676652&c=12829558389035851839&mkt=en-us",
@@ -529,14 +529,24 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfdf77184d4778bf959d5bbe9038aa&url=https%3a%2f%2fwww.greaterkashmir.com%2fjammu%2fcentral-team-reviews-measures-to-control-lumpy-skin-disease-in-jk-12676652&c=12829558389035851839&mkt=en-us",
           "source_id": "bing-world-lsd",
           "published_at": "2026-10-14T11:15:00.000Z"
-        },
-        {
-          "title": "Central team reviews lumpy skin disease situation in J&K",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad09c30fe85406884b7401fcb6bfbf7&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fcentral-team-reviews-lumpy-skin-disease-situation-in-j-k%2far-AA2efaoZ&c=9238261648386648823&mkt=en-us",
-          "source_id": "bing-world-lsd",
-          "published_at": "2026-10-13T22:42:32.000Z"
         }
       ]
+    },
+    {
+      "fingerprint": "eb1bb9f080ef8524e47996a7fd2ff5e1017e1909",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "WHO Health Emergencies EPI-WIN webinar: Understanding Influenza A(H9N2): current risks, One Health action and pandemic preparedness",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1aec935364c2a87889be7d2e6c866&url=https%3a%2f%2fwww.who.int%2fnews-room%2fevents%2fdetail%2f2026%2f10%2f14%2fdefault-calendar%2fwho-health-emergencies-epi-win-webinar-understanding-influenza-a(h9n2)-current-risks-one-health-action-and-pandemic-preparedness&c=14835575689701157448&mkt=en-us",
+      "published_at": "2026-10-14T04:29:00.000Z",
+      "created_at": "2026-10-16 06:40:54",
+      "ai_at": "2026-10-16 06:42:14",
+      "dup_count": 1
     },
     {
       "fingerprint": "6db58620c9bb57b71a56f91b9c6066a4a49f378a",
@@ -651,6 +661,22 @@
       "dup_count": 1
     },
     {
+      "fingerprint": "eb43387b4781cadb923a424adad2244cf4eff261",
+      "disease": "африканская чума свиней",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Вьетнам: люди случаются случаи безответственного обращения с телами свиней, зараженных африканской чумой свиней.",
+      "source_id": "bing-world-asf",
+      "title": "Pork carcasses thrown into the environment by African swine fever, local authorities will handle them strictly",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1aeca10584a2fadf21bd8b6f0e57d&url=https%3a%2f%2fnews.laodong.vn%2fmoi-truong%2fxac-lon-bi-dich-ta-lon-chau-phi-vut-ra-moi-truong-dia-phuong-se-xu-ly-nghiem-1782753.ldo&c=15053267701413599410&mkt=en-us",
+      "published_at": "2026-10-14T04:21:00.000Z",
+      "created_at": "2026-10-16 06:40:54",
+      "ai_at": "2026-10-16 06:42:21",
+      "dup_count": 1
+    },
+    {
       "fingerprint": "7040a4e01cd824a0d55917068f93d83b7a856d0a",
       "disease": "африканская чума свиней",
       "country": null,
@@ -664,102 +690,6 @@
       "published_at": "2026-10-14T04:21:00.000Z",
       "created_at": "2026-10-16 00:40:53",
       "ai_at": "2026-10-16 00:42:13",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "7a7b65cd021a0114bdf8bf2fb68f396edb5ac59c",
-      "disease": "грипп птиц",
-      "country": "Южно-Африканская Республика",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "Подтверждено присутствие африканской чумы свиней в национальном парке Addo Elephant National Park.",
-      "source_id": "bing-world-fmd",
-      "title": "Foot-and-mouth disease confirmed in kudu at South Africa's Addo Elephant National Park",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acff5e5587c4894bc46b93b6de6bd32&url=https%3a%2f%2fenglish.pravda.ru%2fnews%2fworld%2f170013-foot-and-mouth-disease-addo-kudu%2f&c=14348296151362688652&mkt=en-us",
-      "published_at": "2026-10-14T01:50:00.000Z",
-      "created_at": "2026-10-14 22:40:52",
-      "ai_at": "2026-10-14 22:41:24",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "2466a25f5c55caccfa41589955d6d57474b17105",
-      "disease": "фут-мут",
-      "country": "ЮАР",
-      "distance_km": 7000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Подтверждено заражение куду коровья болезни в Национальном парке Эллисруэ, принимаются меры биосекуритета",
-      "source_id": "bing-world-fmd",
-      "title": "Addo Elephant National Park confirms foot-and-mouth disease in kudu",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acfa7423ba54bddbf44b4bf87fcad22&url=https%3a%2f%2fwww.getaway.co.za%2fnews%2faddo-elephant-national-park-confirms-foot-and-mouth-disease-in-kudu%2f&c=17937582689731627634&mkt=en-us",
-      "published_at": "2026-10-13T23:30:00.000Z",
-      "created_at": "2026-10-14 16:40:50",
-      "ai_at": "2026-10-14 16:41:01",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "ad345e1682c7579d3b914976bfdbd27eefd50a1b",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Руководящая группа оценивает ситуацию с нодулярным дерматитом в Джамму и Кашмире",
-      "source_id": "bing-world-lsd",
-      "title": "Central team reviews lumpy skin disease situation in J&K",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693bd2e84111aa52467f9630877e&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fcentral-team-reviews-lumpy-skin-disease-situation-in-j-k%2far-AA2efaoZ&c=9238261648386648823&mkt=en-us",
-      "published_at": "2026-10-13T22:42:32.000Z",
-      "created_at": "2026-10-16 00:40:53",
-      "ai_at": "2026-10-16 02:40:58",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "9d9f643e4ebbbed364cad72a86b34dcd52c7d2ca",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Центральная команда оценивает ситуацию с нодулярным дерматитом в Джамму и Кашмире",
-      "source_id": "bing-world-lsd",
-      "title": "Central team reviews lumpy skin disease situation in J&K",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad033f5fcdb4bbd85c8a92eb3b69de3&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fcentral-team-reviews-lumpy-skin-disease-situation-in-j-k%2far-AA2efaoZ&c=9238261648386648823&mkt=en-us",
-      "published_at": "2026-10-13T22:42:32.000Z",
-      "created_at": "2026-10-15 02:41:02",
-      "ai_at": "2026-10-15 02:41:38",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "98806bc0bc828d1243b759bc5c111a7131206ac7",
-      "disease": null,
-      "country": "Великобритания",
-      "distance_km": 2500,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "Великобритания провела анализ потенциального экономического воздействия африканской чумы свиней на свиноводство",
-      "source_id": "bing-world-asf",
-      "title": "UK's AHDB commissions updated economic impact study of a potential African swine fever outbreak",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693f56944b43b2d5d41a9449cf1b&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fuks-ahdb-commissions-updated-economic-impact-study-of-a-potential-african-swine-fever-outbreak&c=12636286766164585809&mkt=en-us",
-      "published_at": "2026-10-13T17:00:00.000Z",
-      "created_at": "2026-10-16 00:40:53",
-      "ai_at": "2026-10-16 02:41:10",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "2fdd6bc25112e3373101980b4d991d58cf406a0c",
-      "disease": "грипп птиц",
-      "country": "Перу",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "Зафиксирована вспышка птичьего гриппа в Перу.",
-      "source_id": "bing-world-ai",
-      "title": "Avian influenza strikes Peruvian laying hen flock",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693eed0e4162b061556a5b806490&url=https%3a%2f%2fwww.wattagnet.com%2fpoultry-meat%2fdiseases-health%2favian-influenza%2fnews%2f15837398%2favian-influenza-strikes-peruvian-laying-hen-flock&c=3807795964977581813&mkt=en-us",
-      "published_at": "2026-10-13T17:00:00.000Z",
-      "created_at": "2026-10-16 00:40:53",
-      "ai_at": "2026-10-16 02:41:14",
       "dup_count": 1
     }
   ]
