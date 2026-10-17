@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-17T12:42:21.934Z",
+  "generated_at": "2026-10-17T14:42:21.159Z",
   "items": [
+    {
+      "fingerprint": "bf8de98d9ea35c8bb1ae54aa4d3565faba4a2fd1",
+      "disease": "африканская чума свиней",
+      "country": "Андаманские острова",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "В Ахинских островах подтвержден случай африканской чумы свиней, запрещены перемещения свиней и свиного мяса.",
+      "source_id": "bing-world-asf",
+      "title": "African Swine Fever Outbreak: Andaman Bans Pig and Pork Movement Across Islands",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad37fa233a74329956ba8d8de91a664&url=https%3a%2f%2fthewaveandaman.com%2fafrican-swine-fever-andaman-pig-pork-ban%2f&c=3469735746004664532&mkt=en-us",
+      "published_at": "2026-10-16T17:00:00.000Z",
+      "created_at": "2026-10-17 14:40:58",
+      "ai_at": "2026-10-17 14:41:05",
+      "dup_count": 1
+    },
     {
       "fingerprint": "a27094b5ff25f13778ceff4d62040cbd62ac175c",
       "disease": "африканская чума свиней",
@@ -48,19 +64,13 @@
       "published_at": "2026-10-16T14:46:00.000Z",
       "created_at": "2026-10-17 10:40:58",
       "ai_at": "2026-10-17 10:41:11",
-      "dup_count": 3,
+      "dup_count": 2,
       "dups": [
         {
           "title": "Vietnam's Vinh Long culls 357 pigs as African swine fever hits six communes and wards",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2baab4d164c54b6d6ac12da49957f&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fvietnams-vinh-long-culls-357-pigs-as-african-swine-fever-hits-six-communes-and-wards&c=334395903619174506&mkt=en-us",
           "source_id": "bing-world-asf",
           "published_at": "2026-10-15T10:08:00.000Z"
-        },
-        {
-          "title": "Vietnam's Vinh Long culls 357 pigs as African swine fever hits six communes and wards",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0886585f340cf950e58d2ac1fa669&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fvietnams-vinh-long-culls-357-pigs-as-african-swine-fever-hits-six-communes-and-wards&c=334395903619174506&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-14T20:08:00.000Z"
         }
       ]
     },
@@ -191,51 +201,27 @@
       ]
     },
     {
-      "fingerprint": "35bca846611f20c03f19e67b311a408371724a0f",
-      "disease": "африканская чума свиней",
-      "country": "Южно-Африканская Республика",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "Подтверждена африканская чума свиней у куду в национальном парке Эллисра в Восточном Кейпе",
-      "source_id": "bing-world-fmd",
-      "title": "Foot-and-mouth disease detected in kudu at Addo Elephant National Park",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad33cbfbe5c4073a6fef061d6712b22&url=https%3a%2f%2fwww.timeslive.co.za%2fnews%2fsouth-africa%2f2026-10-16-foot-and-mouth-disease-detected-in-kudu-at-addo-elephant-national-park%2f&c=13740396691131782329&mkt=en-us",
-      "published_at": "2026-10-16T09:37:00.000Z",
-      "created_at": "2026-10-17 10:40:58",
-      "ai_at": "2026-10-17 10:41:28",
-      "dup_count": 3,
-      "dups": [
-        {
-          "title": "Foot-and-mouth disease detected in kudu at Addo Elephant National Park",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad270fd9c0d4758be88331444bfa6a6&url=https%3a%2f%2fwww.timeslive.co.za%2fnews%2fsouth-africa%2f2026-10-16-foot-and-mouth-disease-detected-in-kudu-at-addo-elephant-national-park%2f&c=13740396691131782329&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-16T09:37:00.000Z"
-        },
-        {
-          "title": "Officials sound alert as FMD outbreak confirmed at Addo elephant park",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad11d5375324117ae8425ac1a6676c9&url=https%3a%2f%2ftheherald.co.za%2fnews%2f2026-10-15-officials-sound-alert-as-fmd-outbreak-confirmed-at-addo-elephant-park%2f&c=13881138910774664064&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-14T23:01:00.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "df379f09f40f4fefdfa4c8d35f8267157efeffa3",
+      "fingerprint": "80bbf03c7b698ab862ec20fb32db0ae307189e63",
       "disease": "африканская чума свиней",
       "country": "ЮАР",
       "distance_km": 7000,
       "level": "фон",
       "verdict": "confirmed",
-      "ai_summary": null,
+      "ai_summary": "Появилась африканская чума свиней у куду в национальном парке Addo Elephant National Park в Восточном Капе",
       "source_id": "bing-world-fmd",
       "title": "Foot-and-mouth disease detected in kudu at Addo Elephant National Park",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad300298fe94d9688352310a5d9748f&url=https%3a%2f%2fwww.timeslive.co.za%2fnews%2fsouth-africa%2f2026-10-16-foot-and-mouth-disease-detected-in-kudu-at-addo-elephant-national-park%2f&c=13740396691131782329&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad37fa263574bd993ce42e0c5135523&url=https%3a%2f%2fwww.timeslive.co.za%2fnews%2fsouth-africa%2f2026-10-16-foot-and-mouth-disease-detected-in-kudu-at-addo-elephant-national-park%2f&c=13740396691131782329&mkt=en-us",
       "published_at": "2026-10-16T09:37:00.000Z",
-      "created_at": "2026-10-17 06:40:58",
-      "ai_at": "2026-10-17 06:41:06",
-      "dup_count": 19,
+      "created_at": "2026-10-17 14:40:58",
+      "ai_at": "2026-10-17 14:41:13",
+      "dup_count": 20,
       "dups": [
+        {
+          "title": "Foot-and-mouth disease detected in kudu at Addo Elephant National Park",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad300298fe94d9688352310a5d9748f&url=https%3a%2f%2fwww.timeslive.co.za%2fnews%2fsouth-africa%2f2026-10-16-foot-and-mouth-disease-detected-in-kudu-at-addo-elephant-national-park%2f&c=13740396691131782329&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-16T09:37:00.000Z"
+        },
         {
           "title": "Foot-and-mouth disease detected in kudu at Addo Elephant National Park",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2baaa66274485b42e42d900bff940&url=https%3a%2f%2fwww.timeslive.co.za%2fnews%2fsouth-africa%2f2026-10-16-foot-and-mouth-disease-detected-in-kudu-at-addo-elephant-national-park%2f&c=13740396691131782329&mkt=en-us",
@@ -289,14 +275,60 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad11d54da9d472887bd0544328b1e93&url=https%3a%2f%2fnovanews.co.za%2fhermanustimes%2fafrican-swine-fever-outbreak-confirmed-in-villiersdorp%2f&c=16172928960758055797&mkt=en-us",
           "source_id": "bing-world-asf",
           "published_at": "2026-10-15T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "35bca846611f20c03f19e67b311a408371724a0f",
+      "disease": "африканская чума свиней",
+      "country": "Южно-Африканская Республика",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "Подтверждена африканская чума свиней у куду в национальном парке Эллисра в Восточном Кейпе",
+      "source_id": "bing-world-fmd",
+      "title": "Foot-and-mouth disease detected in kudu at Addo Elephant National Park",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad33cbfbe5c4073a6fef061d6712b22&url=https%3a%2f%2fwww.timeslive.co.za%2fnews%2fsouth-africa%2f2026-10-16-foot-and-mouth-disease-detected-in-kudu-at-addo-elephant-national-park%2f&c=13740396691131782329&mkt=en-us",
+      "published_at": "2026-10-16T09:37:00.000Z",
+      "created_at": "2026-10-17 10:40:58",
+      "ai_at": "2026-10-17 10:41:28",
+      "dup_count": 4,
+      "dups": [
+        {
+          "title": "Foot-and-mouth disease detected in kudu at Addo Elephant National Park",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad270fd9c0d4758be88331444bfa6a6&url=https%3a%2f%2fwww.timeslive.co.za%2fnews%2fsouth-africa%2f2026-10-16-foot-and-mouth-disease-detected-in-kudu-at-addo-elephant-national-park%2f&c=13740396691131782329&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-16T09:37:00.000Z"
         },
         {
           "title": "Officials sound alert as FMD outbreak confirmed at Addo elephant park",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad33cbfbe5c4073a6fef061d6712b22&url=https%3a%2f%2ftheherald.co.za%2fnews%2f2026-10-15-officials-sound-alert-as-fmd-outbreak-confirmed-at-addo-elephant-park%2f&c=13881138910774664064&mkt=en-us",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad37fa263574bd993ce42e0c5135523&url=https%3a%2f%2ftheherald.co.za%2fnews%2f2026-10-15-officials-sound-alert-as-fmd-outbreak-confirmed-at-addo-elephant-park%2f&c=13881138910774664064&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-14T23:01:00.000Z"
+        },
+        {
+          "title": "Officials sound alert as FMD outbreak confirmed at Addo elephant park",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad11d5375324117ae8425ac1a6676c9&url=https%3a%2f%2ftheherald.co.za%2fnews%2f2026-10-15-officials-sound-alert-as-fmd-outbreak-confirmed-at-addo-elephant-park%2f&c=13881138910774664064&mkt=en-us",
           "source_id": "bing-world-fmd",
           "published_at": "2026-10-14T23:01:00.000Z"
         }
       ]
+    },
+    {
+      "fingerprint": "783cc962b422e49dde4d1022750e87d16e111e33",
+      "disease": "африканская чума свиней",
+      "country": "Британия",
+      "distance_km": 2500,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "В Великобритании осталось неурегулированных 1501 вспышка африканской чумы свиней",
+      "source_id": "bing-world-fmd",
+      "title": "FMD may no longer be headline news, but 1 501 outbreaks remain unresolved",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad37fa263574bd993ce42e0c5135523&url=https%3a%2f%2fwww.farmersweekly.co.za%2fagri-news%2fsouth-africa%2ffmd-may-no-longer-be-headline-news-but-1-501-outbreaks-remain-unresolved%2f&c=13770827312148288787&mkt=en-us",
+      "published_at": "2026-10-16T05:59:00.000Z",
+      "created_at": "2026-10-17 14:40:58",
+      "ai_at": "2026-10-17 14:41:18",
+      "dup_count": 1
     },
     {
       "fingerprint": "7d9c1cfc587ad021c52f1826b40c3dd866813e22",
@@ -488,8 +520,14 @@
       "published_at": "2026-10-15T06:04:53.000Z",
       "created_at": "2026-10-15 14:41:10",
       "ai_at": "2026-10-15 14:41:15",
-      "dup_count": 14,
+      "dup_count": 11,
       "dups": [
+        {
+          "title": "Judge slams CPBN as FMD breaks in Zambezi …Fence construction continues despite tender dispute as Namibia confirms new outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad37fa263574bd993ce42e0c5135523&url=https%3a%2f%2fobserver24.com.na%2fjudge-slams-cpbn-as-fmd-breaks-in-zambezi-fence-construction-continues-despite-tender-dispute-as-namibia-confirms-new-outbreak%2f&c=15992230499245096546&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-14T23:54:00.000Z"
+        },
         {
           "title": "Judge slams CPBN as FMD breaks in Zambezi …Fence construction continues despite tender dispute as Namibia confirms new outbreak",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad33cbfbe5c4073a6fef061d6712b22&url=https%3a%2f%2fobserver24.com.na%2fjudge-slams-cpbn-as-fmd-breaks-in-zambezi-fence-construction-continues-despite-tender-dispute-as-namibia-confirms-new-outbreak%2f&c=15992230499245096546&mkt=en-us",
@@ -543,12 +581,6 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad0e1dd8781455e95079792d12d080e&url=https%3a%2f%2fobserver24.com.na%2fjudge-slams-cpbn-as-fmd-breaks-in-zambezi-fence-construction-continues-despite-tender-dispute-as-namibia-confirms-new-outbreak%2f&c=15992230499245096546&mkt=en-us",
           "source_id": "bing-world-fmd",
           "published_at": "2026-10-14T23:54:00.000Z"
-        },
-        {
-          "title": "Namibia confirms foot-and-mouth disease in Zambezi region, its second outbreak area",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad33cbfbe5c4073a6fef061d6712b22&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fnamibia-confirms-foot-and-mouth-disease-in-zambezi-region-its-second-outbreak-area&c=7151597622655820949&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-14T20:48:00.000Z"
         }
       ]
     },
