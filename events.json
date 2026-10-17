@@ -1,7 +1,31 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-17T14:42:21.159Z",
+  "generated_at": "2026-10-17T16:41:16.194Z",
   "items": [
+    {
+      "fingerprint": "9e419ad15e2478e49e6e956f12ec9aebab430a70",
+      "disease": "африканская чума свиней",
+      "country": "Индия",
+      "distance_km": 3000,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "В Кашмире выявлены родственные штаммы чумы свиней в скоте",
+      "source_id": "bing-world-lsd",
+      "title": "Kashmir Cattle FMD Virus Strains Show Genetic Links With UK Samples, Study Finds",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad39bbaea814f09a2bac31fe9c587fc&url=https%3a%2f%2fkashmirlife.net%2fkashmir-cattle-fmd-virus-strains-show-genetic-links-with-uk-samples-study-finds-457021%2f&c=11692607608929701996&mkt=en-us",
+      "published_at": "2026-10-17T04:42:00.000Z",
+      "created_at": "2026-10-17 16:40:58",
+      "ai_at": "2026-10-17 16:41:01",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "African Swine Fever Outbreak: Andaman Bans Pig and Pork Movement Across Islands",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad33cbfe4294d6291d642a93f52a3fe&url=https%3a%2f%2fthewaveandaman.com%2fafrican-swine-fever-andaman-pig-pork-ban%2f&c=3469735746004664532&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-16T17:00:00.000Z"
+        }
+      ]
+    },
     {
       "fingerprint": "bf8de98d9ea35c8bb1ae54aa4d3565faba4a2fd1",
       "disease": "африканская чума свиней",
@@ -16,22 +40,6 @@
       "published_at": "2026-10-16T17:00:00.000Z",
       "created_at": "2026-10-17 14:40:58",
       "ai_at": "2026-10-17 14:41:05",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "a27094b5ff25f13778ceff4d62040cbd62ac175c",
-      "disease": "африканская чума свиней",
-      "country": "Индия",
-      "distance_km": 3000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "На островах Андаманского моря зафиксирована африканская чума свиней, введены запреты на перемещение свиней и свинины.",
-      "source_id": "bing-world-asf",
-      "title": "African Swine Fever Outbreak: Andaman Bans Pig and Pork Movement Across Islands",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad33cbfe4294d6291d642a93f52a3fe&url=https%3a%2f%2fthewaveandaman.com%2fafrican-swine-fever-andaman-pig-pork-ban%2f&c=3469735746004664532&mkt=en-us",
-      "published_at": "2026-10-16T17:00:00.000Z",
-      "created_at": "2026-10-17 10:40:58",
-      "ai_at": "2026-10-17 10:41:03",
       "dup_count": 1
     },
     {
@@ -91,6 +99,30 @@
       "dup_count": 1
     },
     {
+      "fingerprint": "66825a4f5fa6a985db914187edf80bea9dded797",
+      "disease": "нодулярный дерматит",
+      "country": "Индия",
+      "distance_km": 3000,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "В Индии выдали рекомендации по выявлению и предотвращению нодулярного дерматита у скота.",
+      "source_id": "bing-world-lsd",
+      "title": "Lumpy Skin Disease: Ganderbal Admin Issues Advisory, Urges Early Reporting of Suspected Cases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad39bbaea814f09a2bac31fe9c587fc&url=https%3a%2f%2fkashmirlife.net%2flumpy-skin-disease-ganderbal-admin-issues-advisory-urges-early-reporting-of-suspected-cases-456991%2f&c=17555364472291973131&mkt=en-us",
+      "published_at": "2026-10-16T14:39:00.000Z",
+      "created_at": "2026-10-17 16:40:58",
+      "ai_at": "2026-10-17 16:41:06",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Lumpy Skin Disease: Ganderbal Admin Issues Advisory, Urges Early Reporting of Suspected Cases",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2d6bddb324af7959941a0f5000ed8&url=https%3a%2f%2fkashmirlife.net%2flumpy-skin-disease-ganderbal-admin-issues-advisory-urges-early-reporting-of-suspected-cases-456991%2f&c=17555364472291973131&mkt=en-us",
+          "source_id": "bing-world-lsd",
+          "published_at": "2026-10-16T14:39:00.000Z"
+        }
+      ]
+    },
+    {
       "fingerprint": "cc67b5ba0d9f067b6e94ef0c7237fbfba934d9ab",
       "disease": "нодулярный дерматит",
       "country": null,
@@ -104,22 +136,6 @@
       "published_at": "2026-10-16T14:39:00.000Z",
       "created_at": "2026-10-17 10:40:58",
       "ai_at": "2026-10-17 10:41:19",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "f5b3de0cdbaefd18da54012f5cecc70b387af177",
-      "disease": "нодулярный дерматит",
-      "country": "Индия",
-      "distance_km": 3000,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "В округе Гандербал выдано предупреждение о вспышке болезни нодулярный дерматит среди скота",
-      "source_id": "bing-world-lsd",
-      "title": "Lumpy Skin Disease: Ganderbal Admin Issues Advisory, Urges Early Reporting of Suspected Cases",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2d6bddb324af7959941a0f5000ed8&url=https%3a%2f%2fkashmirlife.net%2flumpy-skin-disease-ganderbal-admin-issues-advisory-urges-early-reporting-of-suspected-cases-456991%2f&c=17555364472291973131&mkt=en-us",
-      "published_at": "2026-10-16T14:39:00.000Z",
-      "created_at": "2026-10-17 02:40:29",
-      "ai_at": "2026-10-17 02:40:33",
       "dup_count": 1
     },
     {
@@ -214,7 +230,7 @@
       "published_at": "2026-10-16T09:37:00.000Z",
       "created_at": "2026-10-17 14:40:58",
       "ai_at": "2026-10-17 14:41:13",
-      "dup_count": 20,
+      "dup_count": 18,
       "dups": [
         {
           "title": "Foot-and-mouth disease detected in kudu at Addo Elephant National Park",
