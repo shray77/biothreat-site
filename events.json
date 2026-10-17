@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-17T00:41:42.606Z",
+  "generated_at": "2026-10-17T02:42:02.828Z",
   "items": [
+    {
+      "fingerprint": "f5b3de0cdbaefd18da54012f5cecc70b387af177",
+      "disease": "нодулярный дерматит",
+      "country": "Индия",
+      "distance_km": 3000,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "В округе Гандербал выдано предупреждение о вспышке болезни нодулярный дерматит среди скота",
+      "source_id": "bing-world-lsd",
+      "title": "Lumpy Skin Disease: Ganderbal Admin Issues Advisory, Urges Early Reporting of Suspected Cases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2d6bddb324af7959941a0f5000ed8&url=https%3a%2f%2fkashmirlife.net%2flumpy-skin-disease-ganderbal-admin-issues-advisory-urges-early-reporting-of-suspected-cases-456991%2f&c=17555364472291973131&mkt=en-us",
+      "published_at": "2026-10-16T14:39:00.000Z",
+      "created_at": "2026-10-17 02:40:29",
+      "ai_at": "2026-10-17 02:40:33",
+      "dup_count": 1
+    },
     {
       "fingerprint": "caa4ca5ebb628bf6faf590486296248b5d23cca3",
       "disease": "грипп птиц",
@@ -160,7 +176,7 @@
       "published_at": "2026-10-16T09:37:00.000Z",
       "created_at": "2026-10-16 20:40:14",
       "ai_at": "2026-10-16 20:40:19",
-      "dup_count": 7,
+      "dup_count": 6,
       "dups": [
         {
           "title": "Officials sound alert as FMD outbreak confirmed at Addo elephant park",
@@ -189,12 +205,6 @@
         {
           "title": "Foot-and-mouth disease confirmed in kudu at South Africa's Addo Elephant National Park",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693e3d3246b6b9fce73a61f2e8a5&url=https%3a%2f%2fenglish.pravda.ru%2fnews%2fworld%2f170013-foot-and-mouth-disease-addo-kudu%2f&c=14348296151362688652&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-14T15:51:00.000Z"
-        },
-        {
-          "title": "Foot-and-mouth disease confirmed in kudu at South Africa's Addo Elephant National Park",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad11d5375324117ae8425ac1a6676c9&url=https%3a%2f%2fenglish.pravda.ru%2fnews%2fworld%2f170013-foot-and-mouth-disease-addo-kudu%2f&c=14348296151362688652&mkt=en-us",
           "source_id": "bing-world-fmd",
           "published_at": "2026-10-14T15:51:00.000Z"
         }
