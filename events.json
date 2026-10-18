@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-18T04:42:18.525Z",
+  "generated_at": "2026-10-18T06:41:29.681Z",
   "items": [
     {
       "fingerprint": "dcfde585dbaad81055a1e734dc9cec06fc6dad86",
@@ -46,18 +46,18 @@
     },
     {
       "fingerprint": "a78b55bcbfd92e9d3e2a4cefe3bdda342e4698cc",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
+      "disease": "чума ногтей и половых органов",
+      "country": "Пакистан",
+      "distance_km": 2300,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "Правительство Пакистана установило «нулевую» политику для выявления чумы ногтей и половых органов",
       "source_id": "bing-world-fmd",
       "title": "Punjab adopts zero-tolerance policy for concealment of foot-and-mouth disease outbreaks",
       "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad44482a7134aca96779b7f50d7b1ab&url=https%3a%2f%2fminutemirror.com.pk%2fpunjab-adopts-zero-tolerance-policy-for-concealment-of-foot-and-mouth-disease-outbreaks-646530%2f&c=16325183360031870546&mkt=en-us",
       "published_at": "2026-10-17T08:56:00.000Z",
       "created_at": "2026-10-18 04:40:58",
-      "ai_at": null,
+      "ai_at": "2026-10-18 06:41:26",
       "dup_count": 1
     },
     {
@@ -106,7 +106,7 @@
       "published_at": "2026-10-17T06:33:00.000Z",
       "created_at": "2026-10-18 04:40:58",
       "ai_at": "2026-10-18 04:41:09",
-      "dup_count": 17,
+      "dup_count": 15,
       "dups": [
         {
           "title": "Washington: Human avian influenza case reported in Yakima County",
@@ -171,21 +171,27 @@
       ]
     },
     {
-      "fingerprint": "fc7f3dea26f29b25dc290f53a6f05dc04881051f",
+      "fingerprint": "cf470877e16117214da59d965049789fc52afeb7",
       "disease": "африканская чума свиней",
       "country": "Индия",
       "distance_km": 3000,
       "level": "фон",
       "verdict": "probable",
-      "ai_summary": "Исследование показало, что штаммы африканской чумы свиней, обнаруженные в Кашмире, близко родственны друг другу и одному из штаммов из Великобритании.",
+      "ai_summary": "Ученые установили генетическую связь штаммов африканской чумы свиней в Кашмире с образцами из Великобритании.",
       "source_id": "bing-world-lsd",
       "title": "Kashmir Cattle FMD Virus Strains Show Genetic Links With UK Samples, Study Finds",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad40bd927fd4d79a3d376b4395b1b8d&url=https%3a%2f%2fkashmirlife.net%2fkashmir-cattle-fmd-virus-strains-show-genetic-links-with-uk-samples-study-finds-457021%2f&c=11692607608929701996&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4609a326b41e499a89d4c9f20dfbe&url=https%3a%2f%2fkashmirlife.net%2fkashmir-cattle-fmd-virus-strains-show-genetic-links-with-uk-samples-study-finds-457021%2f&c=11692607608929701996&mkt=en-us",
       "published_at": "2026-10-17T04:42:00.000Z",
-      "created_at": "2026-10-18 00:40:58",
-      "ai_at": "2026-10-18 00:41:15",
-      "dup_count": 6,
+      "created_at": "2026-10-18 06:40:58",
+      "ai_at": "2026-10-18 06:41:04",
+      "dup_count": 7,
       "dups": [
+        {
+          "title": "Kashmir Cattle FMD Virus Strains Show Genetic Links With UK Samples, Study Finds",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad40bd927fd4d79a3d376b4395b1b8d&url=https%3a%2f%2fkashmirlife.net%2fkashmir-cattle-fmd-virus-strains-show-genetic-links-with-uk-samples-study-finds-457021%2f&c=11692607608929701996&mkt=en-us",
+          "source_id": "bing-world-lsd",
+          "published_at": "2026-10-17T04:42:00.000Z"
+        },
         {
           "title": "Kashmir Cattle FMD Virus Strains Show Genetic Links With UK Samples, Study Finds",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad39bbaea814f09a2bac31fe9c587fc&url=https%3a%2f%2fkashmirlife.net%2fkashmir-cattle-fmd-virus-strains-show-genetic-links-with-uk-samples-study-finds-457021%2f&c=11692607608929701996&mkt=en-us",
@@ -281,6 +287,36 @@
       "dup_count": 1
     },
     {
+      "fingerprint": "12c829046cba073851a7751750e3813976e9c326",
+      "disease": "нодулярный дерматит",
+      "country": "Индия",
+      "distance_km": 3000,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "Власти Индии по делам животноводства предупреждают о вспышке нодулярного дерматита и просит владельцев скота сообщать о подозрительных случаях.",
+      "source_id": "bing-world-lsd",
+      "title": "Lumpy Skin Disease: Ganderbal Admin Issues Advisory, Urges Early Reporting of Suspected Cases",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4609a326b41e499a89d4c9f20dfbe&url=https%3a%2f%2fkashmirlife.net%2flumpy-skin-disease-ganderbal-admin-issues-advisory-urges-early-reporting-of-suspected-cases-456991%2f&c=17555364472291973131&mkt=en-us",
+      "published_at": "2026-10-16T14:39:00.000Z",
+      "created_at": "2026-10-18 06:40:58",
+      "ai_at": "2026-10-18 06:41:09",
+      "dup_count": 3,
+      "dups": [
+        {
+          "title": "Lumpy Skin Disease: Ganderbal Admin Issues Advisory, Urges Early Reporting of Suspected Cases",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad39bbaea814f09a2bac31fe9c587fc&url=https%3a%2f%2fkashmirlife.net%2flumpy-skin-disease-ganderbal-admin-issues-advisory-urges-early-reporting-of-suspected-cases-456991%2f&c=17555364472291973131&mkt=en-us",
+          "source_id": "bing-world-lsd",
+          "published_at": "2026-10-16T14:39:00.000Z"
+        },
+        {
+          "title": "Lumpy Skin Disease: Ganderbal Admin Issues Advisory, Urges Early Reporting of Suspected Cases",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2d6bddb324af7959941a0f5000ed8&url=https%3a%2f%2fkashmirlife.net%2flumpy-skin-disease-ganderbal-admin-issues-advisory-urges-early-reporting-of-suspected-cases-456991%2f&c=17555364472291973131&mkt=en-us",
+          "source_id": "bing-world-lsd",
+          "published_at": "2026-10-16T14:39:00.000Z"
+        }
+      ]
+    },
+    {
       "fingerprint": "425b6b292e41f819290ba62eb9f1d1e753a8228d",
       "disease": "нодулярный дерматит",
       "country": null,
@@ -295,30 +331,6 @@
       "created_at": "2026-10-18 00:40:58",
       "ai_at": "2026-10-18 00:41:28",
       "dup_count": 1
-    },
-    {
-      "fingerprint": "66825a4f5fa6a985db914187edf80bea9dded797",
-      "disease": "нодулярный дерматит",
-      "country": "Индия",
-      "distance_km": 3000,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "В Индии выдали рекомендации по выявлению и предотвращению нодулярного дерматита у скота.",
-      "source_id": "bing-world-lsd",
-      "title": "Lumpy Skin Disease: Ganderbal Admin Issues Advisory, Urges Early Reporting of Suspected Cases",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad39bbaea814f09a2bac31fe9c587fc&url=https%3a%2f%2fkashmirlife.net%2flumpy-skin-disease-ganderbal-admin-issues-advisory-urges-early-reporting-of-suspected-cases-456991%2f&c=17555364472291973131&mkt=en-us",
-      "published_at": "2026-10-16T14:39:00.000Z",
-      "created_at": "2026-10-17 16:40:58",
-      "ai_at": "2026-10-17 16:41:06",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Lumpy Skin Disease: Ganderbal Admin Issues Advisory, Urges Early Reporting of Suspected Cases",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2d6bddb324af7959941a0f5000ed8&url=https%3a%2f%2fkashmirlife.net%2flumpy-skin-disease-ganderbal-admin-issues-advisory-urges-early-reporting-of-suspected-cases-456991%2f&c=17555364472291973131&mkt=en-us",
-          "source_id": "bing-world-lsd",
-          "published_at": "2026-10-16T14:39:00.000Z"
-        }
-      ]
     },
     {
       "fingerprint": "cc67b5ba0d9f067b6e94ef0c7237fbfba934d9ab",
