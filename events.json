@@ -1,23 +1,29 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-18T16:41:45.411Z",
+  "generated_at": "2026-10-18T18:42:44.947Z",
   "items": [
     {
-      "fingerprint": "4be444a8cf1c79c12a57ba6c026a072d771ee5a9",
+      "fingerprint": "790458a000d0d35618287626436e0a2045a17dba",
       "disease": "африканская чума свиней",
       "country": "Вьетнам",
       "distance_km": 1600,
       "level": "наблюдение",
       "verdict": "confirmed",
-      "ai_summary": "В провинции Нге Ань зафиксировано более 30 вспышек африканской чумы свиней, уничтожено свыше 7,5 тыс. свиней.",
+      "ai_summary": "В Вьетнаме обнаружено свыше 30 вспышек африканской чумы свиней, уничтожены около 7,5 тысяч свиней.",
       "source_id": "bing-world-asf",
       "title": "Nghe An urgently responds to African swine fever",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4c5ea0ca54fe0b036bfceee84d677&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fnghe-an-khan-truong-ung-pho-dich-ta-lon-chau-phi-1784962.ldo&c=8284585927354453727&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5095f41e74eceb5b8499dc80d0cd9&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fnghe-an-khan-truong-ung-pho-dich-ta-lon-chau-phi-1784962.ldo&c=8284585927354453727&mkt=en-us",
       "published_at": "2026-10-18T01:18:00.000Z",
-      "created_at": "2026-10-18 14:40:58",
-      "ai_at": "2026-10-18 14:41:04",
-      "dup_count": 6,
+      "created_at": "2026-10-18 18:40:58",
+      "ai_at": "2026-10-18 18:41:03",
+      "dup_count": 7,
       "dups": [
+        {
+          "title": "Nghe An urgently responds to African swine fever",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4c5ea0ca54fe0b036bfceee84d677&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fnghe-an-khan-truong-ung-pho-dich-ta-lon-chau-phi-1784962.ldo&c=8284585927354453727&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T01:18:00.000Z"
+        },
         {
           "title": "Nghe An urgently responds to African swine fever",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad44482f1c84e7a9a4dce3d2e43c7c6&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fnghe-an-khan-truong-ung-pho-dich-ta-lon-chau-phi-1784962.ldo&c=8284585927354453727&mkt=en-us",
@@ -51,20 +57,28 @@
       ]
     },
     {
-      "fingerprint": "21b9aeb21ec4cf4cf17d9d351df0afa5fdd93072",
+      "fingerprint": "8f3c5ea9e0bc84b00a827992b26ce1c99f86e01b",
       "disease": "африканская чума свиней",
       "country": "Нигерия",
       "distance_km": null,
       "level": "не определено",
       "verdict": "probable",
-      "ai_summary": "Власти Нигерии предупреждают свиноводов о вспышке африканской чумы свиней",
+      "ai_summary": "Власти Нигерии предупреждают свиноводов следовать международным мерам для предотвращения вспышки африканской чумы свиней",
       "source_id": "bing-world-asf",
       "title": "Ogun Govt Cautions Pig Farmers On Swine Fever Outbreak",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4c5ea0ca54fe0b036bfceee84d677&url=https%3a%2f%2fleadership.ng%2fogun-govt-cautions-pig-farmers-on-swine-fever-outbreak%2f&c=17208508200252399562&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5095f41e74eceb5b8499dc80d0cd9&url=https%3a%2f%2fleadership.ng%2fogun-govt-cautions-pig-farmers-on-swine-fever-outbreak%2f&c=17208508200252399562&mkt=en-us",
       "published_at": "2026-10-17T21:58:00.000Z",
-      "created_at": "2026-10-18 14:40:58",
-      "ai_at": "2026-10-18 14:41:08",
-      "dup_count": 1
+      "created_at": "2026-10-18 18:40:58",
+      "ai_at": "2026-10-18 18:41:09",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Ogun Govt Cautions Pig Farmers On Swine Fever Outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4c5ea0ca54fe0b036bfceee84d677&url=https%3a%2f%2fleadership.ng%2fogun-govt-cautions-pig-farmers-on-swine-fever-outbreak%2f&c=17208508200252399562&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-17T21:58:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "34b51e56653c0c73d82030aec70f5cea9cf9a2bc",
@@ -80,7 +94,7 @@
       "published_at": "2026-10-17T17:00:00.000Z",
       "created_at": "2026-10-18 14:40:58",
       "ai_at": "2026-10-18 14:41:15",
-      "dup_count": 11,
+      "dup_count": 12,
       "dups": [
         {
           "title": "Kashmir Cattle FMD Virus Strains Show Genetic Links With UK Samples, Study Finds",
@@ -105,6 +119,12 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad39bbaea814f09a2bac31fe9c587fc&url=https%3a%2f%2fkashmirlife.net%2fkashmir-cattle-fmd-virus-strains-show-genetic-links-with-uk-samples-study-finds-457021%2f&c=11692607608929701996&mkt=en-us",
           "source_id": "bing-world-lsd",
           "published_at": "2026-10-17T04:42:00.000Z"
+        },
+        {
+          "title": "African Swine Fever Outbreak: Andaman Bans Pig and Pork Movement Across Islands",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5095f41e74eceb5b8499dc80d0cd9&url=https%3a%2f%2fthewaveandaman.com%2fafrican-swine-fever-andaman-pig-pork-ban%2f&c=3469735746004664532&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-16T17:00:00.000Z"
         },
         {
           "title": "African Swine Fever Outbreak: Andaman Bans Pig and Pork Movement Across Islands",
@@ -135,14 +155,24 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3ca106663441a96ce565d156c165b&url=https%3a%2f%2fthewaveandaman.com%2fafrican-swine-fever-andaman-pig-pork-ban%2f&c=3469735746004664532&mkt=en-us",
           "source_id": "bing-world-asf",
           "published_at": "2026-10-16T17:00:00.000Z"
-        },
-        {
-          "title": "African Swine Fever Outbreak: Andaman Bans Pig and Pork Movement Across Islands",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad33cbfe4294d6291d642a93f52a3fe&url=https%3a%2f%2fthewaveandaman.com%2fafrican-swine-fever-andaman-pig-pork-ban%2f&c=3469735746004664532&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-16T17:00:00.000Z"
         }
       ]
+    },
+    {
+      "fingerprint": "21a4354f4a1d24d79cc527d5537ebf3a235b831d",
+      "disease": "африканская чума свиней",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Правительство Пенджаба заявило о нулевой толерантности к сокрытию или непредоставлению информации о вспышках африканской чумы свиней",
+      "source_id": "bing-world-fmd",
+      "title": "Punjab adopts zero-tolerance policy for concealment of foot-and-mouth disease outbreaks",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5095ffba74d49a5f3ead59168918b&url=https%3a%2f%2fminutemirror.com.pk%2fpunjab-adopts-zero-tolerance-policy-for-concealment-of-foot-and-mouth-disease-outbreaks-646530%2f&c=16325183360031870546&mkt=en-us",
+      "published_at": "2026-10-17T08:56:00.000Z",
+      "created_at": "2026-10-18 18:40:58",
+      "ai_at": "2026-10-18 18:41:16",
+      "dup_count": 1
     },
     {
       "fingerprint": "27d90ef138e860f5723948818aad9f7b95563f99",
@@ -209,21 +239,27 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "52f0a9d471296cf1091189ce31ee93f07e259c7e",
+      "fingerprint": "faf8340db5acb4921c1d768cc0b040e48db84ecb",
       "disease": "грипп птиц",
       "country": "США",
       "distance_km": 5000,
       "level": "фон",
       "verdict": "confirmed",
-      "ai_summary": "Зафиксирован случай гриппа птиц у жителя округа Якима в штате Вашингтон.",
+      "ai_summary": "Зафиксирован случай заражения гриппом птиц в американском штате Вашингтон",
       "source_id": "bing-world-ai",
       "title": "Washington: Human avian influenza case reported in Yakima County",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4448321f64451a116e44b139c7686&url=https%3a%2f%2foutbreaknewstoday.substack.com%2fp%2fwashington-human-avian-influenza&c=1780436491715969343&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad509601db249c783b1dc53aaeb75ca&url=https%3a%2f%2foutbreaknewstoday.substack.com%2fp%2fwashington-human-avian-influenza&c=1780436491715969343&mkt=en-us",
       "published_at": "2026-10-17T06:33:00.000Z",
-      "created_at": "2026-10-18 04:40:58",
-      "ai_at": "2026-10-18 04:41:09",
-      "dup_count": 7,
+      "created_at": "2026-10-18 18:40:58",
+      "ai_at": "2026-10-18 18:41:19",
+      "dup_count": 8,
       "dups": [
+        {
+          "title": "Washington: Human avian influenza case reported in Yakima County",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4448321f64451a116e44b139c7686&url=https%3a%2f%2foutbreaknewstoday.substack.com%2fp%2fwashington-human-avian-influenza&c=1780436491715969343&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-17T06:33:00.000Z"
+        },
         {
           "title": "Washington: Human avian influenza case reported in Yakima County",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad40bdd08734b15bdcdc47651bc253a&url=https%3a%2f%2foutbreaknewstoday.substack.com%2fp%2fwashington-human-avian-influenza&c=1780436491715969343&mkt=en-us",
@@ -409,21 +445,27 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "e81a4691bf3ab80928d2a37ac720658f7df8e7ba",
+      "fingerprint": "464226f15e1f92eacc8ea277b62c28fe4fbc75db",
       "disease": "африканская чума свиней",
       "country": "Южно-Африканская Республика",
       "distance_km": null,
       "level": "не определено",
       "verdict": "confirmed",
-      "ai_summary": "Болезнь обнаружена в антилопах-нуки в заповеднике Addo Elephant National Park в Восточной Капской провинции после второго раунда диагностических тестов.",
+      "ai_summary": "Зафиксирована африканская чума свиней у куду в парке Addo Elephant National Park в Восточном Капе.",
       "source_id": "bing-world-fmd",
       "title": "Foot-and-mouth disease detected in kudu at Addo Elephant National Park",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4c5e9c0544b01bdb79e030b7db900&url=https%3a%2f%2fwww.timeslive.co.za%2fnews%2fsouth-africa%2f2026-10-16-foot-and-mouth-disease-detected-in-kudu-at-addo-elephant-national-park%2f&c=13740396691131782329&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5095ffba74d49a5f3ead59168918b&url=https%3a%2f%2fwww.timeslive.co.za%2fnews%2fsouth-africa%2f2026-10-16-foot-and-mouth-disease-detected-in-kudu-at-addo-elephant-national-park%2f&c=13740396691131782329&mkt=en-us",
       "published_at": "2026-10-16T09:37:00.000Z",
-      "created_at": "2026-10-18 14:40:58",
-      "ai_at": "2026-10-18 14:41:54",
-      "dup_count": 5,
+      "created_at": "2026-10-18 18:40:58",
+      "ai_at": "2026-10-18 18:41:34",
+      "dup_count": 6,
       "dups": [
+        {
+          "title": "Foot-and-mouth disease detected in kudu at Addo Elephant National Park",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4c5e9c0544b01bdb79e030b7db900&url=https%3a%2f%2fwww.timeslive.co.za%2fnews%2fsouth-africa%2f2026-10-16-foot-and-mouth-disease-detected-in-kudu-at-addo-elephant-national-park%2f&c=13740396691131782329&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-16T09:37:00.000Z"
+        },
         {
           "title": "Foot-and-mouth disease detected in kudu at Addo Elephant National Park",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3ca0f35a948c49fd95e23a0911889&url=https%3a%2f%2fwww.timeslive.co.za%2fnews%2fsouth-africa%2f2026-10-16-foot-and-mouth-disease-detected-in-kudu-at-addo-elephant-national-park%2f&c=13740396691131782329&mkt=en-us",
@@ -543,6 +585,22 @@
           "published_at": "2026-10-15T08:00:00.000Z"
         }
       ]
+    },
+    {
+      "fingerprint": "28abfa4f8d13056b59f136f1a56ab6f049b3ec20",
+      "disease": "африканская чума свиней",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-fmd",
+      "title": "FMD may no longer be headline news, but 1 501 outbreaks remain unresolved",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5095ffba74d49a5f3ead59168918b&url=https%3a%2f%2fwww.farmersweekly.co.za%2fagri-news%2fsouth-africa%2ffmd-may-no-longer-be-headline-news-but-1-501-outbreaks-remain-unresolved%2f&c=13770827312148288787&mkt=en-us",
+      "published_at": "2026-10-16T05:59:00.000Z",
+      "created_at": "2026-10-18 18:40:58",
+      "ai_at": "2026-10-18 18:41:38",
+      "dup_count": 1
     },
     {
       "fingerprint": "cb63a849d08ae7315c6b533952c8e76cca0efdc7",
@@ -817,21 +875,27 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "b470bad5541a2a9eebbf200a9ada765bddd89181",
+      "fingerprint": "0f0a635d4acfe45b1fc5c9c036be3d88f828b495",
       "disease": "грипп птиц",
       "country": "Южная Корея",
       "distance_km": null,
       "level": "не определено",
       "verdict": "probable",
-      "ai_summary": "Южная Корея устанавливает четырехступенчатую систему биобезопасности на фермах-яйцеводческих для предотвращения перебоев в поставках яиц из-за высокопатогенного",
+      "ai_summary": "Южная Корея усиливает меры по борьбе с гриппом птиц на птицефабриках",
       "source_id": "bing-world-fmd",
       "title": "S. Korea rolls out 4-tier biosecurity net at egg farms to head off AI outbreak",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4c5e9c0544b01bdb79e030b7db900&url=https%3a%2f%2fbiz.heraldcorp.com%2farticle%2f10903067&c=4694544203931024663&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5095ffba74d49a5f3ead59168918b&url=https%3a%2f%2fbiz.heraldcorp.com%2farticle%2f10903067&c=4694544203931024663&mkt=en-us",
       "published_at": "2026-10-15T04:01:00.000Z",
-      "created_at": "2026-10-18 14:40:58",
-      "ai_at": "2026-10-18 14:42:09",
-      "dup_count": 13,
+      "created_at": "2026-10-18 18:40:58",
+      "ai_at": "2026-10-18 18:41:49",
+      "dup_count": 10,
       "dups": [
+        {
+          "title": "S. Korea rolls out 4-tier biosecurity net at egg farms to head off AI outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4c5e9c0544b01bdb79e030b7db900&url=https%3a%2f%2fbiz.heraldcorp.com%2farticle%2f10903067&c=4694544203931024663&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-15T04:01:00.000Z"
+        },
         {
           "title": "S. Korea rolls out 4-tier biosecurity net at egg farms to head off AI outbreak",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad40bdd08734b15bdcdc47651bc253a&url=https%3a%2f%2fbiz.heraldcorp.com%2farticle%2f10903067&c=4694544203931024663&mkt=en-us",
@@ -878,18 +942,6 @@
           "title": "S. Korea rolls out 4-tier biosecurity net at egg farms to head off AI outbreak",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad22e3db55a431a8996233fc89a0772&url=https%3a%2f%2fbiz.heraldcorp.com%2farticle%2f10903067&c=4694544203931024663&mkt=en-us",
           "source_id": "bing-world-ai",
-          "published_at": "2026-10-15T04:01:00.000Z"
-        },
-        {
-          "title": "S. Korea rolls out 4-tier biosecurity net at egg farms to head off AI outbreak",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1aec97682462b94f15129771b2ecb&url=https%3a%2f%2fbiz.heraldcorp.com%2farticle%2f10903067&c=4694544203931024663&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-15T04:01:00.000Z"
-        },
-        {
-          "title": "S. Korea rolls out 4-tier biosecurity net at egg farms to head off AI outbreak",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693e3d3246b6b9fce73a61f2e8a5&url=https%3a%2f%2fbiz.heraldcorp.com%2farticle%2f10903067&c=4694544203931024663&mkt=en-us",
-          "source_id": "bing-world-fmd",
           "published_at": "2026-10-15T04:01:00.000Z"
         }
       ]
@@ -972,70 +1024,6 @@
       "published_at": "2026-10-15T04:01:00.000Z",
       "created_at": "2026-10-16 20:40:14",
       "ai_at": "2026-10-16 20:40:46",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "9526d14e3d0997df98b2f0766156c2d587fcdf40",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Южная Корея усиливает биологическую безопасность на яйце-перлерах для предотвращения отмены поставок яиц при вспышке высокопатогенного птичьего гриппа.",
-      "source_id": "bing-world-fmd",
-      "title": "S. Korea rolls out 4-tier biosecurity net at egg farms to head off AI outbreak",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad22e3c44a74203a6dec965de97f490&url=https%3a%2f%2fbiz.heraldcorp.com%2farticle%2f10903067&c=4694544203931024663&mkt=en-us",
-      "published_at": "2026-10-15T04:01:00.000Z",
-      "created_at": "2026-10-16 14:41:01",
-      "ai_at": "2026-10-16 14:41:32",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "ae1e8d275e29806a76e3b97c31a6dffc00b059f5",
-      "disease": null,
-      "country": "Южная Корея",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Южная Корея устанавливает четырёхуровневую биосовместимость на крупных фермах для несушек для предотвращения перебоев в поставках яиц в случае вспышки высокопат",
-      "source_id": "bing-world-ai",
-      "title": "S. Korea rolls out 4-tier biosecurity net at egg farms to head off AI outbreak",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1f17f64e64bee92714275537dd5cc&url=https%3a%2f%2fbiz.heraldcorp.com%2farticle%2f10903067&c=4694544203931024663&mkt=en-us",
-      "published_at": "2026-10-15T04:01:00.000Z",
-      "created_at": "2026-10-16 10:40:53",
-      "ai_at": "2026-10-16 10:41:06",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "45310d0c19c19e165e7b719d230b7552e2017cc3",
-      "disease": null,
-      "country": "Южная Корея",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Южная Корея усиливает биозащиту на птицефабриках",
-      "source_id": "bing-world-fmd",
-      "title": "S. Korea rolls out 4-tier biosecurity net at egg farms to head off AI outbreak",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1f180e1184df4ba5b5acc8591531f&url=https%3a%2f%2fbiz.heraldcorp.com%2farticle%2f10903067&c=4694544203931024663&mkt=en-us",
-      "published_at": "2026-10-15T04:01:00.000Z",
-      "created_at": "2026-10-16 10:40:53",
-      "ai_at": "2026-10-16 10:41:10",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "719889c9c406e69319d7efd87f38f32190609ccd",
-      "disease": "грипп птиц",
-      "country": "Соединенные Штаты",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Южная Корея вводит четырехуровневую систему биозащиты при производстве яиц для предотвращения перебоев в поставках из-за Highly Pathogenic Avian Influenza",
-      "source_id": "bing-world-ai",
-      "title": "S. Korea rolls out 4-tier biosecurity net at egg farms to head off AI outbreak",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1aec935364c2a87889be7d2e6c866&url=https%3a%2f%2fbiz.heraldcorp.com%2farticle%2f10903067&c=4694544203931024663&mkt=en-us",
-      "published_at": "2026-10-15T04:01:00.000Z",
-      "created_at": "2026-10-16 06:40:54",
-      "ai_at": "2026-10-16 06:41:11",
       "dup_count": 1
     }
   ]
