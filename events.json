@@ -1,23 +1,41 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-19T04:40:58.330Z",
+  "generated_at": "2026-10-19T06:42:36.276Z",
   "items": [
     {
-      "fingerprint": "3375b5ebcbc9ec44ad4280db0ebe73f2cf4a6c71",
+      "fingerprint": "6cd9ef684c4110b21ffa89e70a6fae9158178202",
       "disease": "африканская чума свиней",
       "country": "Индия",
       "distance_km": 3000,
       "level": "фон",
       "verdict": "confirmed",
-      "ai_summary": "Руководитель администрации Андаманских и Никобарских островов провел собрание по вопросам борьбы с африканской чумой свиней.",
+      "ai_summary": "В Индии введены ограничения на передвижение свиней после выявления африканской чумы свиней на Андаманских и Никобарских островах",
       "source_id": "bing-world-asf",
-      "title": "Chief Secretary Reviews African Swine Fever Outbreak, Directs Coordinated Containment Measures",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad55ff500b8435b854c4c84d32eeb6f&url=https%3a%2f%2fnicobartimes.com%2flocal-news%2fchief-secretary-reviews-african-swine-fever-outbreak-directs-coordinated-containment-measures%2f&c=14558495638381467601&mkt=en-us",
-      "published_at": "2026-10-18T15:44:00.000Z",
-      "created_at": "2026-10-19 00:40:58",
-      "ai_at": "2026-10-19 00:41:03",
-      "dup_count": 15,
+      "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a7a65c684c0e85c42f56c98eafe1&url=https%3a%2f%2fthewaveandaman.com%2fafrican-swine-fever-pig-movement-ban-task-forces-islands%2f&c=10019437764613060175&mkt=en-us",
+      "published_at": "2026-10-18T16:59:00.000Z",
+      "created_at": "2026-10-19 06:40:58",
+      "ai_at": "2026-10-19 06:41:03",
+      "dup_count": 20,
       "dups": [
+        {
+          "title": "Chief Secretary Reviews African Swine Fever Outbreak, Directs Coordinated Containment Measures",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a7a65c684c0e85c42f56c98eafe1&url=https%3a%2f%2fnicobartimes.com%2flocal-news%2fchief-secretary-reviews-african-swine-fever-outbreak-directs-coordinated-containment-measures%2f&c=14558495638381467601&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T15:44:00.000Z"
+        },
+        {
+          "title": "Chief Secretary Reviews African Swine Fever Outbreak, Directs Coordinated Containment Measures",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad55ff500b8435b854c4c84d32eeb6f&url=https%3a%2f%2fnicobartimes.com%2flocal-news%2fchief-secretary-reviews-african-swine-fever-outbreak-directs-coordinated-containment-measures%2f&c=14558495638381467601&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T15:44:00.000Z"
+        },
+        {
+          "title": "Assam: Tinsukia administration imposes 30-day pork ban in Sadiya after ASF outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a7a65c684c0e85c42f56c98eafe1&url=https%3a%2f%2fnenow.in%2fnorth-east-news%2fassam%2fassam-tinsukia-administration-imposes-30-day-pork-ban-in-sadiya-after-asf-outbreak.html&c=2496608065140647339&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-17T17:00:00.000Z"
+        },
         {
           "title": "Assam: Tinsukia administration imposes 30-day pork ban in Sadiya after ASF outbreak",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4c5ea0ca54fe0b036bfceee84d677&url=https%3a%2f%2fnenow.in%2fnorth-east-news%2fassam%2fassam-tinsukia-administration-imposes-30-day-pork-ban-in-sadiya-after-asf-outbreak.html&c=2496608065140647339&mkt=en-us",
@@ -59,43 +77,37 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad39bbaea814f09a2bac31fe9c587fc&url=https%3a%2f%2fkashmirlife.net%2fkashmir-cattle-fmd-virus-strains-show-genetic-links-with-uk-samples-study-finds-457021%2f&c=11692607608929701996&mkt=en-us",
           "source_id": "bing-world-lsd",
           "published_at": "2026-10-17T04:42:00.000Z"
-        },
-        {
-          "title": "African Swine Fever Outbreak: Andaman Bans Pig and Pork Movement Across Islands",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5095f41e74eceb5b8499dc80d0cd9&url=https%3a%2f%2fthewaveandaman.com%2fafrican-swine-fever-andaman-pig-pork-ban%2f&c=3469735746004664532&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-16T17:00:00.000Z"
-        },
-        {
-          "title": "African Swine Fever Outbreak: Andaman Bans Pig and Pork Movement Across Islands",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4c5ea0ca54fe0b036bfceee84d677&url=https%3a%2f%2fthewaveandaman.com%2fafrican-swine-fever-andaman-pig-pork-ban%2f&c=3469735746004664532&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-16T17:00:00.000Z"
-        },
-        {
-          "title": "African Swine Fever confirmed in pigs in some parts of Sri Vijaya Puram and at Arong, Car Nicobar: Movement of pigs & pork products banned across the Islands",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4c5ea0ca54fe0b036bfceee84d677&url=https%3a%2f%2fandamansheekha.com%2f164677%2f&c=9303299076021916696&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-16T17:00:00.000Z"
         }
       ]
     },
     {
-      "fingerprint": "1a60b1a75a2127da628c1dfb14ae01d820aae51b",
+      "fingerprint": "f13eaa4d55b432500fe1c35a4fc3e9dfe0aae9c0",
       "disease": "африканская чума свиней",
       "country": "Вьетнам",
       "distance_km": 1600,
       "level": "наблюдение",
       "verdict": "confirmed",
-      "ai_summary": "В Вьетнаме в провинции Нге Ан зафиксировано более 30 вспышек африканской чумы свиней, уничтожено свыше 7,5 тыс. свиней.",
+      "ai_summary": "В Вьетнаме усилили меры по борьбе с африканской чумой свиней",
       "source_id": "bing-world-asf",
-      "title": "Nghe An urgently responds to African swine fever",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad55ff500b8435b854c4c84d32eeb6f&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fnghe-an-khan-truong-ung-pho-dich-ta-lon-chau-phi-1784962.ldo&c=8284585927354453727&mkt=en-us",
-      "published_at": "2026-10-18T01:18:00.000Z",
-      "created_at": "2026-10-19 00:40:58",
-      "ai_at": "2026-10-19 00:41:07",
-      "dup_count": 8,
+      "title": "Vietnam's Nghe An province tightens controls as African swine fever persists",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a7a65c684c0e85c42f56c98eafe1&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fvietnam-s-nghe-an-province-tightens-controls-as-african-swine-fever-persists&c=1890184905632616400&mkt=en-us",
+      "published_at": "2026-10-18T16:59:00.000Z",
+      "created_at": "2026-10-19 06:40:58",
+      "ai_at": "2026-10-19 06:41:07",
+      "dup_count": 10,
       "dups": [
+        {
+          "title": "Nghe An urgently responds to African swine fever",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a7a65c684c0e85c42f56c98eafe1&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fnghe-an-khan-truong-ung-pho-dich-ta-lon-chau-phi-1784962.ldo&c=8284585927354453727&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T01:18:00.000Z"
+        },
+        {
+          "title": "Nghe An urgently responds to African swine fever",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad55ff500b8435b854c4c84d32eeb6f&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fnghe-an-khan-truong-ung-pho-dich-ta-lon-chau-phi-1784962.ldo&c=8284585927354453727&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T01:18:00.000Z"
+        },
         {
           "title": "Nghe An urgently responds to African swine fever",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5095f41e74eceb5b8499dc80d0cd9&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fnghe-an-khan-truong-ung-pho-dich-ta-lon-chau-phi-1784962.ldo&c=8284585927354453727&mkt=en-us",
@@ -139,6 +151,22 @@
           "published_at": "2026-10-15T10:08:00.000Z"
         }
       ]
+    },
+    {
+      "fingerprint": "4588ed126810339ab1c4f9ba36c5a5eb71459f97",
+      "disease": null,
+      "country": "Нигерия",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Власти Нигерии предупреждают свиноводов о вспышке свиного гриппа.",
+      "source_id": "bing-world-asf",
+      "title": "Ogun Govt Cautions Pig Farmers On Swine Fever Outbreak",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a7a65c684c0e85c42f56c98eafe1&url=https%3a%2f%2fleadership.ng%2fogun-govt-cautions-pig-farmers-on-swine-fever-outbreak%2f&c=17208508200252399562&mkt=en-us",
+      "published_at": "2026-10-17T21:58:00.000Z",
+      "created_at": "2026-10-19 06:40:58",
+      "ai_at": "2026-10-19 06:41:20",
+      "dup_count": 1
     },
     {
       "fingerprint": "ad85ede24d41e1c75d0d277525e19cd95f04e11c",
@@ -187,21 +215,43 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "51513faf9b9909151e93448a7f87a9e7f1dbef9b",
+      "fingerprint": "8614f2b459a455b5f782b64f394921c53f91a3f7",
+      "disease": null,
+      "country": "США",
+      "distance_km": 5000,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "Потвёрдили случай птичьего гриппа у человека в штате Вашингтон.",
+      "source_id": "bing-world-ai",
+      "title": "Washington: Human avian influenza case reported in Yakima County",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a7a789484ae1b9c2cc485dc0d97a&url=https%3a%2f%2foutbreaknewstoday.substack.com%2fp%2fwashington-human-avian-influenza&c=1780436491715969343&mkt=en-us",
+      "published_at": "2026-10-17T13:33:00.000Z",
+      "created_at": "2026-10-19 06:40:58",
+      "ai_at": "2026-10-19 06:41:31",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "a1141c1a03632eae19dcd90fde235d72f28ea67f",
       "disease": "африканская чума свиней",
       "country": "Пакистан",
       "distance_km": 2300,
       "level": "фон",
       "verdict": "probable",
-      "ai_summary": "Правительство Пенджаба объявило, что будет строго наказывать за сокрытие случаев африканской чумы свиней",
+      "ai_summary": "Правительство Пенджаба ужесточило наказания для тех, кто не сообщает о вспышках африканской чумы свиней",
       "source_id": "bing-world-fmd",
       "title": "Punjab adopts zero-tolerance policy for concealment of foot-and-mouth disease outbreaks",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad55ff456554d6ebe72a45b4898a81a&url=https%3a%2f%2fminutemirror.com.pk%2fpunjab-adopts-zero-tolerance-policy-for-concealment-of-foot-and-mouth-disease-outbreaks-646530%2f&c=16325183360031870546&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a7a6716e4d9fa12ae362dd05c05b&url=https%3a%2f%2fminutemirror.com.pk%2fpunjab-adopts-zero-tolerance-policy-for-concealment-of-foot-and-mouth-disease-outbreaks-646530%2f&c=16325183360031870546&mkt=en-us",
       "published_at": "2026-10-17T08:56:00.000Z",
-      "created_at": "2026-10-19 00:40:58",
-      "ai_at": "2026-10-19 00:41:22",
-      "dup_count": 2,
+      "created_at": "2026-10-19 06:40:58",
+      "ai_at": "2026-10-19 06:41:35",
+      "dup_count": 3,
       "dups": [
+        {
+          "title": "Punjab adopts zero-tolerance policy for concealment of foot-and-mouth disease outbreaks",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad55ff456554d6ebe72a45b4898a81a&url=https%3a%2f%2fminutemirror.com.pk%2fpunjab-adopts-zero-tolerance-policy-for-concealment-of-foot-and-mouth-disease-outbreaks-646530%2f&c=16325183360031870546&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-17T08:56:00.000Z"
+        },
         {
           "title": "Punjab adopts zero-tolerance policy for concealment of foot-and-mouth disease outbreaks",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3ca0f35a948c49fd95e23a0911889&url=https%3a%2f%2fminutemirror.com.pk%2fpunjab-adopts-zero-tolerance-policy-for-concealment-of-foot-and-mouth-disease-outbreaks-646530%2f&c=16325183360031870546&mkt=en-us",
@@ -288,7 +338,7 @@
       "published_at": "2026-10-17T06:33:00.000Z",
       "created_at": "2026-10-18 18:40:58",
       "ai_at": "2026-10-18 18:41:19",
-      "dup_count": 8,
+      "dup_count": 9,
       "dups": [
         {
           "title": "Washington: Human avian influenza case reported in Yakima County",
@@ -301,6 +351,12 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad40bdd08734b15bdcdc47651bc253a&url=https%3a%2f%2foutbreaknewstoday.substack.com%2fp%2fwashington-human-avian-influenza&c=1780436491715969343&mkt=en-us",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-17T06:33:00.000Z"
+        },
+        {
+          "title": "Animal welfare groups criticize response to bird flu outbreak at Utah mink farm",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a7a789484ae1b9c2cc485dc0d97a&url=https%3a%2f%2fwww.postregister.com%2ffreeaccess%2fanimal-welfare-groups-criticize-response-to-bird-flu-outbreak-at-utah-mink-farm%2farticle_94aa8796-b8ee-4581-b7f0-bfff4a1c5ac6.html&c=202141486893274637&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-16T12:20:00.000Z"
         },
         {
           "title": "Animal welfare groups criticize response to bird flu outbreak at Utah mink farm",
@@ -529,6 +585,54 @@
       "dup_count": 1
     },
     {
+      "fingerprint": "a31c6235d6924c69a006bbebfdef271c5d3db169",
+      "disease": "африканская чума свиней",
+      "country": "Южно-Африканская Республика",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "В национальном парке Addo Elephant National Park обнаружена африканская чума свиней у куду.",
+      "source_id": "bing-world-fmd",
+      "title": "Foot-and-mouth disease detected in kudu at Addo Elephant National Park",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a7a6716e4d9fa12ae362dd05c05b&url=https%3a%2f%2fwww.timeslive.co.za%2fnews%2fsouth-africa%2f2026-10-16-foot-and-mouth-disease-detected-in-kudu-at-addo-elephant-national-park%2f&c=13740396691131782329&mkt=en-us",
+      "published_at": "2026-10-16T09:37:00.000Z",
+      "created_at": "2026-10-19 06:40:58",
+      "ai_at": "2026-10-19 06:42:01",
+      "dup_count": 6,
+      "dups": [
+        {
+          "title": "Foot-and-mouth disease detected in kudu at Addo Elephant National Park",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5095ffba74d49a5f3ead59168918b&url=https%3a%2f%2fwww.timeslive.co.za%2fnews%2fsouth-africa%2f2026-10-16-foot-and-mouth-disease-detected-in-kudu-at-addo-elephant-national-park%2f&c=13740396691131782329&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-16T09:37:00.000Z"
+        },
+        {
+          "title": "Foot-and-mouth disease detected in kudu at Addo Elephant National Park",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4c5e9c0544b01bdb79e030b7db900&url=https%3a%2f%2fwww.timeslive.co.za%2fnews%2fsouth-africa%2f2026-10-16-foot-and-mouth-disease-detected-in-kudu-at-addo-elephant-national-park%2f&c=13740396691131782329&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-16T09:37:00.000Z"
+        },
+        {
+          "title": "Foot-and-mouth disease detected in kudu at Addo Elephant National Park",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3ca0f35a948c49fd95e23a0911889&url=https%3a%2f%2fwww.timeslive.co.za%2fnews%2fsouth-africa%2f2026-10-16-foot-and-mouth-disease-detected-in-kudu-at-addo-elephant-national-park%2f&c=13740396691131782329&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-16T09:37:00.000Z"
+        },
+        {
+          "title": "Foot-and-mouth disease detected in kudu at Addo Elephant National Park",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad33cbfbe5c4073a6fef061d6712b22&url=https%3a%2f%2fwww.timeslive.co.za%2fnews%2fsouth-africa%2f2026-10-16-foot-and-mouth-disease-detected-in-kudu-at-addo-elephant-national-park%2f&c=13740396691131782329&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-16T09:37:00.000Z"
+        },
+        {
+          "title": "Foot-and-mouth disease detected in kudu at Addo Elephant National Park",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad270fd9c0d4758be88331444bfa6a6&url=https%3a%2f%2fwww.timeslive.co.za%2fnews%2fsouth-africa%2f2026-10-16-foot-and-mouth-disease-detected-in-kudu-at-addo-elephant-national-park%2f&c=13740396691131782329&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-16T09:37:00.000Z"
+        }
+      ]
+    },
+    {
       "fingerprint": "ccdb5a34ab401ef7f1924a202f1a6eec71648612",
       "disease": "африканская чума свиней",
       "country": "ЮАР",
@@ -542,7 +646,7 @@
       "published_at": "2026-10-16T09:37:00.000Z",
       "created_at": "2026-10-19 00:40:58",
       "ai_at": "2026-10-19 00:41:37",
-      "dup_count": 15,
+      "dup_count": 5,
       "dups": [
         {
           "title": "Foot-and-mouth disease detected in kudu at Addo Elephant National Park",
@@ -567,96 +671,6 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2baaa66274485b42e42d900bff940&url=https%3a%2f%2fwww.timeslive.co.za%2fnews%2fsouth-africa%2f2026-10-16-foot-and-mouth-disease-detected-in-kudu-at-addo-elephant-national-park%2f&c=13740396691131782329&mkt=en-us",
           "source_id": "bing-world-fmd",
           "published_at": "2026-10-16T09:37:00.000Z"
-        },
-        {
-          "title": "African Swine Fever outbreak confirmed in Villiersdorp",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad40bdc97494cb2895ba2ab2fc7a51f&url=https%3a%2f%2fnovanews.co.za%2fhermanustimes%2fafrican-swine-fever-outbreak-confirmed-in-villiersdorp%2f&c=16172928960758055797&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-15T08:00:00.000Z"
-        },
-        {
-          "title": "African Swine Fever outbreak confirmed in Villiersdorp",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3ca106663441a96ce565d156c165b&url=https%3a%2f%2fnovanews.co.za%2fhermanustimes%2fafrican-swine-fever-outbreak-confirmed-in-villiersdorp%2f&c=16172928960758055797&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-15T08:00:00.000Z"
-        },
-        {
-          "title": "African Swine Fever outbreak confirmed in Villiersdorp",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad33cbfe4294d6291d642a93f52a3fe&url=https%3a%2f%2fnovanews.co.za%2fhermanustimes%2fafrican-swine-fever-outbreak-confirmed-in-villiersdorp%2f&c=16172928960758055797&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-15T08:00:00.000Z"
-        },
-        {
-          "title": "African Swine Fever outbreak confirmed in Villiersdorp",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2baab4d164c54b6d6ac12da49957f&url=https%3a%2f%2fnovanews.co.za%2fhermanustimes%2fafrican-swine-fever-outbreak-confirmed-in-villiersdorp%2f&c=16172928960758055797&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-15T08:00:00.000Z"
-        },
-        {
-          "title": "African Swine Fever outbreak confirmed in Villiersdorp",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad270febf6c4db7ac926ac55a98f32f&url=https%3a%2f%2fnovanews.co.za%2fhermanustimes%2fafrican-swine-fever-outbreak-confirmed-in-villiersdorp%2f&c=16172928960758055797&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-15T08:00:00.000Z"
-        },
-        {
-          "title": "African Swine Fever outbreak confirmed in Villiersdorp",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad22e3d45824572a684619435bda925&url=https%3a%2f%2fnovanews.co.za%2fhermanustimes%2fafrican-swine-fever-outbreak-confirmed-in-villiersdorp%2f&c=16172928960758055797&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-15T08:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "464226f15e1f92eacc8ea277b62c28fe4fbc75db",
-      "disease": "африканская чума свиней",
-      "country": "Южно-Африканская Республика",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "Зафиксирована африканская чума свиней у куду в парке Addo Elephant National Park в Восточном Капе.",
-      "source_id": "bing-world-fmd",
-      "title": "Foot-and-mouth disease detected in kudu at Addo Elephant National Park",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5095ffba74d49a5f3ead59168918b&url=https%3a%2f%2fwww.timeslive.co.za%2fnews%2fsouth-africa%2f2026-10-16-foot-and-mouth-disease-detected-in-kudu-at-addo-elephant-national-park%2f&c=13740396691131782329&mkt=en-us",
-      "published_at": "2026-10-16T09:37:00.000Z",
-      "created_at": "2026-10-18 18:40:58",
-      "ai_at": "2026-10-18 18:41:34",
-      "dup_count": 7,
-      "dups": [
-        {
-          "title": "Foot-and-mouth disease detected in kudu at Addo Elephant National Park",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4c5e9c0544b01bdb79e030b7db900&url=https%3a%2f%2fwww.timeslive.co.za%2fnews%2fsouth-africa%2f2026-10-16-foot-and-mouth-disease-detected-in-kudu-at-addo-elephant-national-park%2f&c=13740396691131782329&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-16T09:37:00.000Z"
-        },
-        {
-          "title": "Foot-and-mouth disease detected in kudu at Addo Elephant National Park",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3ca0f35a948c49fd95e23a0911889&url=https%3a%2f%2fwww.timeslive.co.za%2fnews%2fsouth-africa%2f2026-10-16-foot-and-mouth-disease-detected-in-kudu-at-addo-elephant-national-park%2f&c=13740396691131782329&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-16T09:37:00.000Z"
-        },
-        {
-          "title": "Foot-and-mouth disease detected in kudu at Addo Elephant National Park",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad33cbfbe5c4073a6fef061d6712b22&url=https%3a%2f%2fwww.timeslive.co.za%2fnews%2fsouth-africa%2f2026-10-16-foot-and-mouth-disease-detected-in-kudu-at-addo-elephant-national-park%2f&c=13740396691131782329&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-16T09:37:00.000Z"
-        },
-        {
-          "title": "Foot-and-mouth disease detected in kudu at Addo Elephant National Park",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad270fd9c0d4758be88331444bfa6a6&url=https%3a%2f%2fwww.timeslive.co.za%2fnews%2fsouth-africa%2f2026-10-16-foot-and-mouth-disease-detected-in-kudu-at-addo-elephant-national-park%2f&c=13740396691131782329&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-16T09:37:00.000Z"
-        },
-        {
-          "title": "African Swine Fever outbreak confirmed in Villiersdorp",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad55ff500b8435b854c4c84d32eeb6f&url=https%3a%2f%2fnovanews.co.za%2fhermanustimes%2fafrican-swine-fever-outbreak-confirmed-in-villiersdorp%2f&c=16172928960758055797&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-15T08:00:00.000Z"
-        },
-        {
-          "title": "African Swine Fever outbreak confirmed in Villiersdorp",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4c5ea0ca54fe0b036bfceee84d677&url=https%3a%2f%2fnovanews.co.za%2fhermanustimes%2fafrican-swine-fever-outbreak-confirmed-in-villiersdorp%2f&c=16172928960758055797&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-15T08:00:00.000Z"
         }
       ]
     },
@@ -853,6 +867,22 @@
       "dup_count": 1
     },
     {
+      "fingerprint": "4debde2c7117b3656f127b3f7b66ec547ca635d9",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Alaska study finds pertussis vaccine is extremely protective during statewide outbreak",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a7a789484ae1b9c2cc485dc0d97a&url=https%3a%2f%2fwww.cidrap.umn.edu%2fpertussis%2falaska-study-finds-pertussis-vaccine-extremely-protective-during-statewide-outbreak&c=13970503698361985737&mkt=en-us",
+      "published_at": "2026-10-16T05:39:00.000Z",
+      "created_at": "2026-10-19 06:40:58",
+      "ai_at": "2026-10-19 06:42:06",
+      "dup_count": 1
+    },
+    {
       "fingerprint": "ba05d4e2e4e31439bca5a678a3b1a62b8c6855b1",
       "disease": "бешенство",
       "country": null,
@@ -946,22 +976,6 @@
       "published_at": "2026-10-15T09:23:00.000Z",
       "created_at": "2026-10-17 20:40:58",
       "ai_at": "2026-10-17 20:41:39",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "e562fdb8aeb7a9125a4dd3371fb0335d6c28d259",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Зафиксировано повышение активности заболевания у детей в школах Гонконга",
-      "source_id": "bing-world-fmd",
-      "title": "Hand, foot & mouth disease outbreaks surge in Hong Kong schools",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad1693e3d3246b6b9fce73a61f2e8a5&url=https%3a%2f%2fwww.dimsumdaily.hk%2fhand-foot-mouth-disease-outbreaks-surge-in-hong-kong-schools%2f&c=7603356501373140621&mkt=en-us",
-      "published_at": "2026-10-15T09:23:00.000Z",
-      "created_at": "2026-10-16 00:40:53",
-      "ai_at": "2026-10-16 00:40:58",
       "dup_count": 1
     }
   ]
