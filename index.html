@@ -49,6 +49,7 @@
   .live { display: flex; align-items: center; gap: 8px; color: var(--muted); font-size: 13px; font-family: var(--mono); }
   .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--faint); flex: none; }
   .dot.ok { background: var(--accent); box-shadow: 0 0 8px rgba(251,191,36,.7); }
+  .dot.err { background: var(--faint); box-shadow: none; }
 
   .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px; margin: 24px 0 8px; }
   .stat { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px; }
@@ -202,7 +203,7 @@ const timeAgo = (iso) => {
   return Math.floor(h / 24) + " дн назад";
 };
 const fmtDT = (s) => s ? new Date(s.includes("T") ? s : s.replace(" ", "T") + "Z").toLocaleDateString("ru-RU", { day: "numeric", month: "short" }) : "—";
-const esc = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+const esc = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#39;");
 const VERDICT_RU = { confirmed: "подтверждено", probable: "вероятно", noise: "шум", pending: "ждёт ИИ" };
 
 /* Центроиды стран (приблизительные, для кругов на карте — не для навигации) */
@@ -329,10 +330,10 @@ function card(it) {
       <div class="badges"><span class="lvl ${lvlCls}">${lvlLabel}</span><span class="verdict ${v}">${VERDICT_RU[v]}</span></div>
       <span class="pub">${fmtDT(it.published_at)}</span>
     </div>
-    <h2><a href="${it.url}" target="_blank" rel="noopener">${esc(it.title)}</a></h2>
+    <h2><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></h2>
     ${it.ai_summary ? `<p class="ai-sum">${esc(it.ai_summary)}</p>` : ""}
     ${fields ? `<div class="fields">${fields}</div>` : ""}
-    <div class="card-foot"><a href="${it.url}" target="_blank" rel="noopener">первоисточник ↗</a>${it.dup_count > 1 ? `<span title="эта вспышка пришла из нескольких фидов — на карте одна точка">+${it.dup_count - 1} из других фидов</span>` : ""}<span>${esc(it.source_id.replace("bing-world-", "world: ").replace("bing-", ""))}</span><span>${fmtDT(it.created_at)}</span></div>
+    <div class="card-foot"><a href="${esc(it.url)}" target="_blank" rel="noopener">первоисточник ↗</a>${it.dup_count > 1 ? `<span title="эта вспышка пришла из нескольких фидов — на карте одна точка">+${it.dup_count - 1} из других фидов</span>` : ""}<span>${esc(it.source_id.replace("bing-world-", "world: ").replace("bing-", ""))}</span><span>${fmtDT(it.created_at)}</span></div>
   </article>`;
 }
 
@@ -396,7 +397,7 @@ async function refresh() {
     ALL = j.items || [];
     renderMeta(j); renderChips(); render();
   } catch (e) {
-    document.getElementById("meta").innerHTML = `<span class="dot ok"></span><span>events.json недоступен</span>`;
+    document.getElementById("meta").innerHTML = `<span class="dot err"></span><span>events.json недоступен</span>`;
   }
 }
 document.getElementById("q").oninput = (e) => { q = e.target.value.toLowerCase().trim(); render(); };
