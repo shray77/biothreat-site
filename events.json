@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-19T18:41:33.308Z",
+  "generated_at": "2026-10-19T20:41:05.270Z",
   "items": [
     {
       "fingerprint": "bac51cc4bbe7baeafa9a4c1a63747119efb8bb9c",
@@ -614,36 +614,26 @@
     },
     {
       "fingerprint": "1f2b6944dbb48916fc1f4c921f10b88cc9538dc1",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
-      "source_id": "bing-world-lsd",
-      "title": "Lumpy Skin Disease: Ganderbal Admin Issues Advisory, Urges Early Reporting of Suspected Cases",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad657157c814f0ab1d4002943825d12&url=https%3a%2f%2fkashmirlife.net%2flumpy-skin-disease-ganderbal-admin-issues-advisory-urges-early-reporting-of-suspected-cases-456991%2f&c=17555364472291973131&mkt=en-us",
-      "published_at": "2026-10-16T14:39:00.000Z",
-      "created_at": "2026-10-19 18:40:58",
-      "ai_at": null,
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "72d64849ebe2bc5583baa1d2770a9e236a7e593e",
       "disease": "нодулярный дерматит",
       "country": "Индия",
       "distance_km": 3000,
       "level": "фон",
       "verdict": "probable",
-      "ai_summary": "В Индии предупреждают о заболевании нодулярным дерматитом скота и просumentят сообщать о подозрительных случаях.",
+      "ai_summary": "Управление по животноводству в Гандервале выпустило общественное предупреждение по лямблиозу, призывая владельцев скота немедленно сообщать о подозрительных слу",
       "source_id": "bing-world-lsd",
       "title": "Lumpy Skin Disease: Ganderbal Admin Issues Advisory, Urges Early Reporting of Suspected Cases",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ea61435c45bc85c30799d80032e8&url=https%3a%2f%2fkashmirlife.net%2flumpy-skin-disease-ganderbal-admin-issues-advisory-urges-early-reporting-of-suspected-cases-456991%2f&c=17555364472291973131&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad657157c814f0ab1d4002943825d12&url=https%3a%2f%2fkashmirlife.net%2flumpy-skin-disease-ganderbal-admin-issues-advisory-urges-early-reporting-of-suspected-cases-456991%2f&c=17555364472291973131&mkt=en-us",
       "published_at": "2026-10-16T14:39:00.000Z",
-      "created_at": "2026-10-19 10:40:58",
-      "ai_at": "2026-10-19 10:41:45",
-      "dup_count": 6,
+      "created_at": "2026-10-19 18:40:58",
+      "ai_at": "2026-10-19 20:41:05",
+      "dup_count": 7,
       "dups": [
+        {
+          "title": "Lumpy Skin Disease: Ganderbal Admin Issues Advisory, Urges Early Reporting of Suspected Cases",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ea61435c45bc85c30799d80032e8&url=https%3a%2f%2fkashmirlife.net%2flumpy-skin-disease-ganderbal-admin-issues-advisory-urges-early-reporting-of-suspected-cases-456991%2f&c=17555364472291973131&mkt=en-us",
+          "source_id": "bing-world-lsd",
+          "published_at": "2026-10-16T14:39:00.000Z"
+        },
         {
           "title": "Lumpy Skin Disease: Ganderbal Admin Issues Advisory, Urges Early Reporting of Suspected Cases",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad51cda42834999abc70e8c640737cb&url=https%3a%2f%2fkashmirlife.net%2flumpy-skin-disease-ganderbal-admin-issues-advisory-urges-early-reporting-of-suspected-cases-456991%2f&c=17555364472291973131&mkt=en-us",
