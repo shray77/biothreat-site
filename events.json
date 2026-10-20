@@ -1,21 +1,69 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-20T12:40:21.201Z",
+  "generated_at": "2026-10-20T18:40:39.302Z",
   "items": [
     {
-      "fingerprint": "c64bd7c7e22470cb60df128e10ef63dabb280b20",
+      "fingerprint": "472b7a4144291076e65cb45c730eebcb73ddacee",
+      "disease": "грипп птиц",
+      "country": "Великобритания",
+      "distance_km": 2500,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "Власти напоминают о соблюдении правил для сдерживания вспышки птичьего гриппа в графстве Нортумберленд.",
+      "source_id": "bing-world-ai",
+      "title": "Public urged to follow rules to help contain bird flu outbreak in Northumberland",
+      "url": "https://www.northumberlandgazette.co.uk/news/politics/council/public-urged-to-follow-rules-to-help-contain-bird-flu-outbreak-in-northumberland-9299833",
+      "published_at": "2026-10-20T10:44:00.000Z",
+      "created_at": "2026-10-20 18:40:16",
+      "ai_at": "2026-10-20 18:40:20",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Bird flu outbreak in Northumberland confirmed with 10km surveillance zone now in place",
+          "url": "https://www.msn.com/en-gb/lifestyle/other/bird-flu-outbreak-in-northumberland-confirmed-with-10km-surveillance-zone-now-in-place/ar-AA2fFmAC",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-20T10:12:40.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "56d91b782b21a1c4817a6f26ad018fbfaaf4c3bd",
       "disease": "болезнь ньюкасла",
       "country": "Бразилия",
       "distance_km": 8000,
       "level": "фон",
       "verdict": "confirmed",
-      "ai_summary": "В Бразилии выявлен случай болезни ньюкасла на птицеводческом предприятии",
+      "ai_summary": "Появилась вспышка заболевания птиц болезнью ньюкасла в южной части Бразилии.",
       "source_id": "bing-world-ai",
-      "title": "Mexico halts poultry imports from Brazil after Newcastle disease outbreak",
-      "url": "https://mx.ibtimes.com/mexico-halts-brazil-poultry-imports-3099",
-      "published_at": "2026-10-19T17:55:00.000Z",
-      "created_at": "2026-10-20 06:40:14",
-      "ai_at": "2026-10-20 06:40:18",
+      "title": "Outbreak of Newcastle disease confirmed in South Brazil",
+      "url": "https://agenciabrasil.ebc.com.br/en/saude/noticia/2026-10/outbreak-newcastle-disease-confirmed-south-brazil",
+      "published_at": "2026-10-20T07:39:00.000Z",
+      "created_at": "2026-10-20 18:40:16",
+      "ai_at": "2026-10-20 18:40:30",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Mexico halts poultry imports from Brazil after Newcastle disease outbreak",
+          "url": "https://mx.ibtimes.com/mexico-halts-brazil-poultry-imports-3099",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-19T17:55:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "9aecfab6f8e0a4e1062333f10a7ad59ebe7e3122",
+      "disease": "грипп птиц",
+      "country": "Англия",
+      "distance_km": 2500,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "В Англии зафиксирован первый случай птичьего гриппа в текущем сезоне",
+      "source_id": "bing-world-ai",
+      "title": "First avian influenza case of the season confirmed in England",
+      "url": "https://www.nfuonline.com/news/first-avian-influenza-case-of-the-season-confirmed-in-england/",
+      "published_at": "2026-10-19T17:00:00.000Z",
+      "created_at": "2026-10-20 18:40:16",
+      "ai_at": "2026-10-20 18:40:35",
       "dup_count": 1
     },
     {
@@ -48,7 +96,7 @@
       "published_at": "2026-10-19T14:36:00.000Z",
       "created_at": "2026-10-19 22:14:34",
       "ai_at": "2026-10-19 22:14:39",
-      "dup_count": 7,
+      "dup_count": 8,
       "dups": [
         {
           "title": "Highly pathogenic avian influenza found in Barron County",
@@ -67,6 +115,12 @@
           "url": "https://madison.com/article_4e0f3bac-0592-5cc2-93de-12999c390300.html",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-18T22:00:00.000Z"
+        },
+        {
+          "title": "Multiple birds die at city zoos amid bird flu outbreak, officials say",
+          "url": "https://ny1.com/nyc/all-boroughs/news/2025/02/08/15-birds-die-of-bird-flu-at-city-zoos--officials-say",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-17T12:00:00.000Z"
         },
         {
           "title": "Washington: Human avian influenza case reported in Yakima County",
@@ -118,7 +172,7 @@
       "published_at": "2026-10-18T16:59:00.000Z",
       "created_at": "2026-10-20 06:40:14",
       "ai_at": "2026-10-20 06:40:40",
-      "dup_count": 42,
+      "dup_count": 37,
       "dups": [
         {
           "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
