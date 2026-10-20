@@ -1,7 +1,39 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-20T00:40:32.382Z",
+  "generated_at": "2026-10-20T06:41:41.379Z",
   "items": [
+    {
+      "fingerprint": "c64bd7c7e22470cb60df128e10ef63dabb280b20",
+      "disease": "болезнь ньюкасла",
+      "country": "Бразилия",
+      "distance_km": 8000,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "В Бразилии выявлен случай болезни ньюкасла на птицеводческом предприятии",
+      "source_id": "bing-world-ai",
+      "title": "Mexico halts poultry imports from Brazil after Newcastle disease outbreak",
+      "url": "https://mx.ibtimes.com/mexico-halts-brazil-poultry-imports-3099",
+      "published_at": "2026-10-19T17:55:00.000Z",
+      "created_at": "2026-10-20 06:40:14",
+      "ai_at": "2026-10-20 06:40:18",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "3fe313e9ca1e2dd1105534e8a2ba8030c242c00c",
+      "disease": "африканская чума свиней",
+      "country": "Южно-Африканская Республика",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Южноафриканские и намибийские организации по животноводству предлагают проведение рассмотрения видов для импорта животных в целях уменьшения рисков по африканск",
+      "source_id": "bing-world-fmd",
+      "title": "SA and Namibia reevaluate livestock trade after FMD outbreak",
+      "url": "https://www.foodformzansi.co.za/sa-and-namibia-reevaluate-livestock-trade-after-fmd-outbreak/",
+      "published_at": "2026-10-19T17:00:00.000Z",
+      "created_at": "2026-10-20 06:40:14",
+      "ai_at": "2026-10-20 06:40:26",
+      "dup_count": 1
+    },
     {
       "fingerprint": "ac5bf2169b05cf1004bc952b95b007727920c3e8",
       "disease": "грипп птиц",
@@ -16,8 +48,14 @@
       "published_at": "2026-10-19T14:36:00.000Z",
       "created_at": "2026-10-19 22:14:34",
       "ai_at": "2026-10-19 22:14:39",
-      "dup_count": 7,
+      "dup_count": 6,
       "dups": [
+        {
+          "title": "Highly pathogenic avian influenza found in Barron County",
+          "url": "https://www.wdio.com/top-stories/highly-pathogenic-avian-influenza-found-in-barron-county/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-19T14:22:00.000Z"
+        },
         {
           "title": "Highly pathogenic avian influenza found in Barron County",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c7eca44e282eefe9fbbdf6790&url=https%3a%2f%2fwww.wdio.com%2ftop-stories%2fhighly-pathogenic-avian-influenza-found-in-barron-county%2f&c=11127009982934696702&mkt=en-us",
@@ -41,18 +79,178 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad40bdd08734b15bdcdc47651bc253a&url=https%3a%2f%2foutbreaknewstoday.substack.com%2fp%2fwashington-human-avian-influenza&c=1780436491715969343&mkt=en-us",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-17T06:33:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "6e9e9e8cde64127b14e58ce821756c55fb7a130c",
+      "disease": "африканская чума свиней",
+      "country": "Намибия",
+      "distance_km": 6500,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "В Намибии рассматривают меры по уменьшению распространения африканской чумы свиней",
+      "source_id": "bing-world-fmd",
+      "title": "Namibia, South Africa livestock industries seek interim trade measures amid FMD outbreak",
+      "url": "https://observer24.com.na/namibia-south-africa-livestock-industries-seek-interim-trade-measures-amid-fmd-outbreak/",
+      "published_at": "2026-10-18T21:48:00.000Z",
+      "created_at": "2026-10-20 06:40:14",
+      "ai_at": "2026-10-20 06:40:37",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "8698e6ec56f8bff06db184aadf75dac48f9d9f21",
+      "disease": "африканская чума свиней",
+      "country": "Индия",
+      "distance_km": 3000,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "Администратор проверил ситуацию после подтверждения вспышки африканской свиной чумы.",
+      "source_id": "bing-world-asf",
+      "title": "Chief Secretary Reviews Situation Following Confirmation of African Swine Fever Outbreak; Directs Coordinated Containment Measures",
+      "url": "https://andamansheekha.com/164760/",
+      "published_at": "2026-10-18T16:59:00.000Z",
+      "created_at": "2026-10-20 06:40:14",
+      "ai_at": "2026-10-20 06:40:40",
+      "dup_count": 43,
+      "dups": [
+        {
+          "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
+          "url": "https://thewaveandaman.com/african-swine-fever-pig-movement-ban-task-forces-islands/",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T16:59:00.000Z"
         },
         {
-          "title": "Animal welfare groups criticize response to bird flu outbreak at Utah mink farm",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a7a789484ae1b9c2cc485dc0d97a&url=https%3a%2f%2fwww.postregister.com%2ffreeaccess%2fanimal-welfare-groups-criticize-response-to-bird-flu-outbreak-at-utah-mink-farm%2farticle_94aa8796-b8ee-4581-b7f0-bfff4a1c5ac6.html&c=202141486893274637&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-16T12:20:00.000Z"
+          "title": "District Administration, South Andaman Intensifies Measures to Contain African Swine Fever",
+          "url": "https://andamansheekha.com/164758/",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T16:59:00.000Z"
         },
         {
-          "title": "Animal welfare groups criticize response to bird flu outbreak at Utah mink farm",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad40bdd08734b15bdcdc47651bc253a&url=https%3a%2f%2fwww.postregister.com%2ffreeaccess%2fanimal-welfare-groups-criticize-response-to-bird-flu-outbreak-at-utah-mink-farm%2farticle_94aa8796-b8ee-4581-b7f0-bfff4a1c5ac6.html&c=202141486893274637&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-16T12:20:00.000Z"
+          "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c6fd24df6833a2ec3763e997d&url=https%3a%2f%2fthewaveandaman.com%2fafrican-swine-fever-pig-movement-ban-task-forces-islands%2f&c=10019437764613060175&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T16:59:00.000Z"
+        },
+        {
+          "title": "District Administration, South Andaman Intensifies Measures to Contain African Swine Fever",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c6fd24df6833a2ec3763e997d&url=https%3a%2f%2fandamansheekha.com%2f164758%2f&c=13284402854791656180&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T16:59:00.000Z"
+        },
+        {
+          "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad63ebf750c46528406697d54ab29a5&url=https%3a%2f%2fthewaveandaman.com%2fafrican-swine-fever-pig-movement-ban-task-forces-islands%2f&c=10019437764613060175&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T16:59:00.000Z"
+        },
+        {
+          "title": "District Administration, South Andaman Intensifies Measures to Contain African Swine Fever",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad63ebf750c46528406697d54ab29a5&url=https%3a%2f%2fandamansheekha.com%2f164758%2f&c=13284402854791656180&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T16:59:00.000Z"
+        },
+        {
+          "title": "District Administration, South Andaman Intensifies Measures to Contain African Swine Fever",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ea62dec4440085a7685d20791a55&url=https%3a%2f%2fandamansheekha.com%2f164758%2f&c=13284402854791656180&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T16:59:00.000Z"
+        },
+        {
+          "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ea62dec4440085a7685d20791a55&url=https%3a%2f%2fthewaveandaman.com%2fafrican-swine-fever-pig-movement-ban-task-forces-islands%2f&c=10019437764613060175&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T16:59:00.000Z"
+        },
+        {
+          "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a7a65c684c0e85c42f56c98eafe1&url=https%3a%2f%2fthewaveandaman.com%2fafrican-swine-fever-pig-movement-ban-task-forces-islands%2f&c=10019437764613060175&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T16:59:00.000Z"
+        },
+        {
+          "title": "Chief Secretary Reviews African Swine Fever Outbreak, Directs Coordinated Containment Measures",
+          "url": "https://nicobartimes.com/local-news/chief-secretary-reviews-african-swine-fever-outbreak-directs-coordinated-containment-measures/",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T15:44:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "4b140ef4515ba1fabce06965c0b6d7f8b6892d47",
+      "disease": "африканская чума свиней",
+      "country": "Вьетнам",
+      "distance_km": 1600,
+      "level": "наблюдение",
+      "verdict": "probable",
+      "ai_summary": "В провинции Нге Ан усилены меры для борьбы с африканской чумой свиней",
+      "source_id": "bing-world-asf",
+      "title": "Vietnam's Nghe An province tightens controls as African swine fever persists",
+      "url": "https://www.efeedlink.com/articles/vietnam-s-nghe-an-province-tightens-controls-as-african-swine-fever-persists",
+      "published_at": "2026-10-18T16:59:00.000Z",
+      "created_at": "2026-10-20 06:40:14",
+      "ai_at": "2026-10-20 06:40:55",
+      "dup_count": 16,
+      "dups": [
+        {
+          "title": "Vietnam's Nghe An province tightens controls as African swine fever persists",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c6fd24df6833a2ec3763e997d&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fvietnam-s-nghe-an-province-tightens-controls-as-african-swine-fever-persists&c=1890184905632616400&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T16:59:00.000Z"
+        },
+        {
+          "title": "Vietnam's Nghe An province tightens controls as African swine fever persists",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad63ebf750c46528406697d54ab29a5&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fvietnam-s-nghe-an-province-tightens-controls-as-african-swine-fever-persists&c=1890184905632616400&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T16:59:00.000Z"
+        },
+        {
+          "title": "Vietnam's Nghe An province tightens controls as African swine fever persists",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ea62dec4440085a7685d20791a55&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fvietnam-s-nghe-an-province-tightens-controls-as-african-swine-fever-persists&c=1890184905632616400&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T16:59:00.000Z"
+        },
+        {
+          "title": "Vietnam's Nghe An province tightens controls as African swine fever persists",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a7a65c684c0e85c42f56c98eafe1&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fvietnam-s-nghe-an-province-tightens-controls-as-african-swine-fever-persists&c=1890184905632616400&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T16:59:00.000Z"
+        },
+        {
+          "title": "Nghe An urgently responds to African swine fever",
+          "url": "https://news.laodong.vn/xa-hoi/nghe-an-khan-truong-ung-pho-dich-ta-lon-chau-phi-1784962.ldo",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T01:18:00.000Z"
+        },
+        {
+          "title": "Nghe An urgently responds to African swine fever",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c6fd24df6833a2ec3763e997d&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fnghe-an-khan-truong-ung-pho-dich-ta-lon-chau-phi-1784962.ldo&c=8284585927354453727&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T01:18:00.000Z"
+        },
+        {
+          "title": "Nghe An urgently responds to African swine fever",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad63ebf750c46528406697d54ab29a5&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fnghe-an-khan-truong-ung-pho-dich-ta-lon-chau-phi-1784962.ldo&c=8284585927354453727&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T01:18:00.000Z"
+        },
+        {
+          "title": "Nghe An urgently responds to African swine fever",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ea62dec4440085a7685d20791a55&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fnghe-an-khan-truong-ung-pho-dich-ta-lon-chau-phi-1784962.ldo&c=8284585927354453727&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T01:18:00.000Z"
+        },
+        {
+          "title": "Nghe An urgently responds to African swine fever",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a7a65c684c0e85c42f56c98eafe1&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fnghe-an-khan-truong-ung-pho-dich-ta-lon-chau-phi-1784962.ldo&c=8284585927354453727&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T01:18:00.000Z"
+        },
+        {
+          "title": "Nghe An urgently responds to African swine fever",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad55ff500b8435b854c4c84d32eeb6f&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fnghe-an-khan-truong-ung-pho-dich-ta-lon-chau-phi-1784962.ldo&c=8284585927354453727&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T01:18:00.000Z"
         }
       ]
     },
@@ -105,231 +303,27 @@
       ]
     },
     {
-      "fingerprint": "fe420ea6a8047d394b3e08765cf58ccff40df289",
-      "disease": "африканская чума свиней",
-      "country": "Шри-Ланка",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "В Шри-Ланке введены ограничения на передвижение свиней после выявления африканской чумы свиней на двух островах.",
-      "source_id": "bing-world-asf",
-      "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c6fd24df6833a2ec3763e997d&url=https%3a%2f%2fthewaveandaman.com%2fafrican-swine-fever-pig-movement-ban-task-forces-islands%2f&c=10019437764613060175&mkt=en-us",
-      "published_at": "2026-10-18T16:59:00.000Z",
-      "created_at": "2026-10-19 22:14:34",
-      "ai_at": "2026-10-19 22:14:50",
-      "dup_count": 7,
-      "dups": [
-        {
-          "title": "African Swine Fever Outbreak: Andaman Bans Pig and Pork Movement Across Islands",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad63ebf750c46528406697d54ab29a5&url=https%3a%2f%2fthewaveandaman.com%2fafrican-swine-fever-andaman-pig-pork-ban%2f&c=3469735746004664532&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-16T17:00:00.000Z"
-        },
-        {
-          "title": "African Swine Fever Outbreak: Andaman Bans Pig and Pork Movement Across Islands",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad55ff500b8435b854c4c84d32eeb6f&url=https%3a%2f%2fthewaveandaman.com%2fafrican-swine-fever-andaman-pig-pork-ban%2f&c=3469735746004664532&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-16T17:00:00.000Z"
-        },
-        {
-          "title": "African Swine Fever confirmed in pigs in some parts of Sri Vijaya Puram and at Arong, Car Nicobar: Movement of pigs & pork products banned across the Islands",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad55ff500b8435b854c4c84d32eeb6f&url=https%3a%2f%2fandamansheekha.com%2f164677%2f&c=9303299076021916696&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-16T17:00:00.000Z"
-        },
-        {
-          "title": "African Swine Fever confirmed in pigs in some parts of Sri Vijaya Puram and at Arong, Car Nicobar: Movement of pigs & pork products banned across the Islands",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad40bdc97494cb2895ba2ab2fc7a51f&url=https%3a%2f%2fandamansheekha.com%2f164677%2f&c=9303299076021916696&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-16T17:00:00.000Z"
-        },
-        {
-          "title": "African Swine Fever confirmed in pigs in some parts of Sri Vijaya Puram and at Arong, Car Nicobar: Movement of pigs & pork products banned across the Islands",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3ca106663441a96ce565d156c165b&url=https%3a%2f%2fandamansheekha.com%2f164677%2f&c=9303299076021916696&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-16T17:00:00.000Z"
-        },
-        {
-          "title": "African Swine Fever confirmed in pigs in some parts of Sri Vijaya Puram and at Arong, Car Nicobar: Movement of pigs & pork products banned across the Islands",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad33cbfe4294d6291d642a93f52a3fe&url=https%3a%2f%2fandamansheekha.com%2f164677%2f&c=9303299076021916696&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-16T17:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "200058e2dcae60bd6e2f86f88e845499c4221596",
-      "disease": "африканская чума свиней",
-      "country": "Индия",
-      "distance_km": 3000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Администрация округа Саут Андаман усилила меры по борьбе с африканской чумой свиней.",
-      "source_id": "bing-world-asf",
-      "title": "District Administration, South Andaman Intensifies Measures to Contain African Swine Fever",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c6fd24df6833a2ec3763e997d&url=https%3a%2f%2fandamansheekha.com%2f164758%2f&c=13284402854791656180&mkt=en-us",
-      "published_at": "2026-10-18T16:59:00.000Z",
-      "created_at": "2026-10-19 22:14:34",
-      "ai_at": "2026-10-19 22:14:57",
-      "dup_count": 33,
-      "dups": [
-        {
-          "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad63ebf750c46528406697d54ab29a5&url=https%3a%2f%2fthewaveandaman.com%2fafrican-swine-fever-pig-movement-ban-task-forces-islands%2f&c=10019437764613060175&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "District Administration, South Andaman Intensifies Measures to Contain African Swine Fever",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad63ebf750c46528406697d54ab29a5&url=https%3a%2f%2fandamansheekha.com%2f164758%2f&c=13284402854791656180&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "District Administration, South Andaman Intensifies Measures to Contain African Swine Fever",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ea62dec4440085a7685d20791a55&url=https%3a%2f%2fandamansheekha.com%2f164758%2f&c=13284402854791656180&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ea62dec4440085a7685d20791a55&url=https%3a%2f%2fthewaveandaman.com%2fafrican-swine-fever-pig-movement-ban-task-forces-islands%2f&c=10019437764613060175&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a7a65c684c0e85c42f56c98eafe1&url=https%3a%2f%2fthewaveandaman.com%2fafrican-swine-fever-pig-movement-ban-task-forces-islands%2f&c=10019437764613060175&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "Chief Secretary Reviews African Swine Fever Outbreak, Directs Coordinated Containment Measures",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a7a65c684c0e85c42f56c98eafe1&url=https%3a%2f%2fnicobartimes.com%2flocal-news%2fchief-secretary-reviews-african-swine-fever-outbreak-directs-coordinated-containment-measures%2f&c=14558495638381467601&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T15:44:00.000Z"
-        },
-        {
-          "title": "Chief Secretary Reviews African Swine Fever Outbreak, Directs Coordinated Containment Measures",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad55ff500b8435b854c4c84d32eeb6f&url=https%3a%2f%2fnicobartimes.com%2flocal-news%2fchief-secretary-reviews-african-swine-fever-outbreak-directs-coordinated-containment-measures%2f&c=14558495638381467601&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T15:44:00.000Z"
-        },
-        {
-          "title": "Assam: Tinsukia administration imposes 30-day pork ban in Sadiya after ASF outbreak",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a7a65c684c0e85c42f56c98eafe1&url=https%3a%2f%2fnenow.in%2fnorth-east-news%2fassam%2fassam-tinsukia-administration-imposes-30-day-pork-ban-in-sadiya-after-asf-outbreak.html&c=2496608065140647339&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-17T17:00:00.000Z"
-        },
-        {
-          "title": "Assam: Tinsukia administration imposes 30-day pork ban in Sadiya after ASF outbreak",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad55ff500b8435b854c4c84d32eeb6f&url=https%3a%2f%2fnenow.in%2fnorth-east-news%2fassam%2fassam-tinsukia-administration-imposes-30-day-pork-ban-in-sadiya-after-asf-outbreak.html&c=2496608065140647339&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-17T17:00:00.000Z"
-        },
-        {
-          "title": "Assam: Tinsukia administration imposes 30-day pork ban in Sadiya after ASF outbreak",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4c5ea0ca54fe0b036bfceee84d677&url=https%3a%2f%2fnenow.in%2fnorth-east-news%2fassam%2fassam-tinsukia-administration-imposes-30-day-pork-ban-in-sadiya-after-asf-outbreak.html&c=2496608065140647339&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-17T17:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "375ea7a87b5d854d6df7698bcb54be64a1b1e18b",
-      "disease": "африканская чума свиней",
-      "country": "Вьетнам",
-      "distance_km": 1600,
-      "level": "наблюдение",
-      "verdict": "probable",
-      "ai_summary": "Вьетнам усиливает меры по борьбе с африканской чумой свиней",
-      "source_id": "bing-world-asf",
-      "title": "Vietnam's Nghe An province tightens controls as African swine fever persists",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c6fd24df6833a2ec3763e997d&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fvietnam-s-nghe-an-province-tightens-controls-as-african-swine-fever-persists&c=1890184905632616400&mkt=en-us",
-      "published_at": "2026-10-18T16:59:00.000Z",
-      "created_at": "2026-10-19 22:14:34",
-      "ai_at": "2026-10-19 22:15:04",
-      "dup_count": 15,
-      "dups": [
-        {
-          "title": "Vietnam's Nghe An province tightens controls as African swine fever persists",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad63ebf750c46528406697d54ab29a5&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fvietnam-s-nghe-an-province-tightens-controls-as-african-swine-fever-persists&c=1890184905632616400&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "Vietnam's Nghe An province tightens controls as African swine fever persists",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ea62dec4440085a7685d20791a55&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fvietnam-s-nghe-an-province-tightens-controls-as-african-swine-fever-persists&c=1890184905632616400&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "Vietnam's Nghe An province tightens controls as African swine fever persists",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a7a65c684c0e85c42f56c98eafe1&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fvietnam-s-nghe-an-province-tightens-controls-as-african-swine-fever-persists&c=1890184905632616400&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "Nghe An urgently responds to African swine fever",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c6fd24df6833a2ec3763e997d&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fnghe-an-khan-truong-ung-pho-dich-ta-lon-chau-phi-1784962.ldo&c=8284585927354453727&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T01:18:00.000Z"
-        },
-        {
-          "title": "Nghe An urgently responds to African swine fever",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad63ebf750c46528406697d54ab29a5&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fnghe-an-khan-truong-ung-pho-dich-ta-lon-chau-phi-1784962.ldo&c=8284585927354453727&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T01:18:00.000Z"
-        },
-        {
-          "title": "Nghe An urgently responds to African swine fever",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ea62dec4440085a7685d20791a55&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fnghe-an-khan-truong-ung-pho-dich-ta-lon-chau-phi-1784962.ldo&c=8284585927354453727&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T01:18:00.000Z"
-        },
-        {
-          "title": "Nghe An urgently responds to African swine fever",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a7a65c684c0e85c42f56c98eafe1&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fnghe-an-khan-truong-ung-pho-dich-ta-lon-chau-phi-1784962.ldo&c=8284585927354453727&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T01:18:00.000Z"
-        },
-        {
-          "title": "Nghe An urgently responds to African swine fever",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad55ff500b8435b854c4c84d32eeb6f&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fnghe-an-khan-truong-ung-pho-dich-ta-lon-chau-phi-1784962.ldo&c=8284585927354453727&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T01:18:00.000Z"
-        },
-        {
-          "title": "Nghe An urgently responds to African swine fever",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5095f41e74eceb5b8499dc80d0cd9&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fnghe-an-khan-truong-ung-pho-dich-ta-lon-chau-phi-1784962.ldo&c=8284585927354453727&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T01:18:00.000Z"
-        },
-        {
-          "title": "Nghe An urgently responds to African swine fever",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4c5ea0ca54fe0b036bfceee84d677&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fnghe-an-khan-truong-ung-pho-dich-ta-lon-chau-phi-1784962.ldo&c=8284585927354453727&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T01:18:00.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "4c871b497652c354352b4a99e653c47f01804859",
+      "fingerprint": "ec25c6aa94473286233fd2b135508af35ef71aff",
       "disease": "африканская чума свиней",
       "country": "Нигерия",
       "distance_km": null,
       "level": "не определено",
       "verdict": "probable",
-      "ai_summary": "Правительство Нигерии предупреждает свинковых фермеров о вспышке африканской чумы свиней",
+      "ai_summary": "Власти Нигерии предупреждают свиноводов о вспышке африканской чумы свиней",
       "source_id": "bing-world-asf",
       "title": "Ogun Govt Cautions Pig Farmers On Swine Fever Outbreak",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c6fd24df6833a2ec3763e997d&url=https%3a%2f%2fleadership.ng%2fogun-govt-cautions-pig-farmers-on-swine-fever-outbreak%2f&c=17208508200252399562&mkt=en-us",
+      "url": "https://leadership.ng/ogun-govt-cautions-pig-farmers-on-swine-fever-outbreak/",
       "published_at": "2026-10-17T21:58:00.000Z",
-      "created_at": "2026-10-19 22:14:34",
-      "ai_at": "2026-10-19 22:15:13",
-      "dup_count": 7,
+      "created_at": "2026-10-20 06:40:14",
+      "ai_at": "2026-10-20 06:41:08",
+      "dup_count": 8,
       "dups": [
+        {
+          "title": "Ogun Govt Cautions Pig Farmers On Swine Fever Outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c6fd24df6833a2ec3763e997d&url=https%3a%2f%2fleadership.ng%2fogun-govt-cautions-pig-farmers-on-swine-fever-outbreak%2f&c=17208508200252399562&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-17T21:58:00.000Z"
+        },
         {
           "title": "Ogun Govt Cautions Pig Farmers On Swine Fever Outbreak",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad63ebf750c46528406697d54ab29a5&url=https%3a%2f%2fleadership.ng%2fogun-govt-cautions-pig-farmers-on-swine-fever-outbreak%2f&c=17208508200252399562&mkt=en-us",
@@ -369,21 +363,51 @@
       ]
     },
     {
-      "fingerprint": "9c64dde8177ec256f07894e690aeaae573780bd9",
+      "fingerprint": "09491448ee04fc1bd32f9d27acbf453be5f8b665",
+      "disease": "африканская чума свиней",
+      "country": "Ассам",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "В округе Тинсюкия штата Ассам введен запрет на продажу и перемещение свиней на 30 дней после вспышки африканской чумы свиней в деревне Хутипатхар.",
+      "source_id": "bing-world-asf",
+      "title": "Assam: Tinsukia administration imposes 30-day pork ban in Sadiya after ASF outbreak",
+      "url": "https://nenow.in/north-east-news/assam/assam-tinsukia-administration-imposes-30-day-pork-ban-in-sadiya-after-asf-outbreak.html",
+      "published_at": "2026-10-17T17:00:00.000Z",
+      "created_at": "2026-10-20 06:40:14",
+      "ai_at": "2026-10-20 06:41:15",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Assam: Tinsukia administration imposes 30-day pork ban in Sadiya after ASF outbreak",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad55ff500b8435b854c4c84d32eeb6f&url=https%3a%2f%2fnenow.in%2fnorth-east-news%2fassam%2fassam-tinsukia-administration-imposes-30-day-pork-ban-in-sadiya-after-asf-outbreak.html&c=2496608065140647339&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-17T17:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "dcd559d606c975c3ed9c37355a9f83b495be8cc4",
       "disease": null,
       "country": "США",
       "distance_km": 5000,
       "level": "фон",
-      "verdict": "probable",
+      "verdict": "confirmed",
       "ai_summary": null,
       "source_id": "bing-world-ai",
       "title": "Washington: Human avian influenza case reported in Yakima County",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c7eca44e282eefe9fbbdf6790&url=https%3a%2f%2foutbreaknewstoday.substack.com%2fp%2fwashington-human-avian-influenza&c=1780436491715969343&mkt=en-us",
+      "url": "https://outbreaknewstoday.substack.com/p/washington-human-avian-influenza",
       "published_at": "2026-10-17T13:33:00.000Z",
-      "created_at": "2026-10-19 22:14:34",
-      "ai_at": "2026-10-19 22:15:15",
-      "dup_count": 4,
+      "created_at": "2026-10-20 06:40:14",
+      "ai_at": "2026-10-20 06:41:19",
+      "dup_count": 5,
       "dups": [
+        {
+          "title": "Washington: Human avian influenza case reported in Yakima County",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c7eca44e282eefe9fbbdf6790&url=https%3a%2f%2foutbreaknewstoday.substack.com%2fp%2fwashington-human-avian-influenza&c=1780436491715969343&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-17T13:33:00.000Z"
+        },
         {
           "title": "Washington: Human avian influenza case reported in Yakima County",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad63ec010aa4d40ac9883f36e10fcbb&url=https%3a%2f%2foutbreaknewstoday.substack.com%2fp%2fwashington-human-avian-influenza&c=1780436491715969343&mkt=en-us",
@@ -405,21 +429,27 @@
       ]
     },
     {
-      "fingerprint": "dc3bb7705e32129874ff19eb74a1acaaff140aa7",
+      "fingerprint": "2fe4c0a0014f9af372bd2df6c84c0dbd0259c110",
       "disease": "африканская чума свиней",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
+      "country": "Пакистан",
+      "distance_km": 2300,
+      "level": "фон",
       "verdict": "probable",
-      "ai_summary": "Правительство Пенджаба вводит ноль-политика для сокрытия или непредоставления информации об эпизоотиях Afrikan Rinderpest.",
+      "ai_summary": "В Пакистане введен запрет на сокрытие вспышек африканской чумы свиней",
       "source_id": "bing-world-fmd",
       "title": "Punjab adopts zero-tolerance policy for concealment of foot-and-mouth disease outbreaks",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c1b5f4d8b818dcf92b6606bcf&url=https%3a%2f%2fminutemirror.com.pk%2fpunjab-adopts-zero-tolerance-policy-for-concealment-of-foot-and-mouth-disease-outbreaks-646530%2f&c=16325183360031870546&mkt=en-us",
+      "url": "https://minutemirror.com.pk/punjab-adopts-zero-tolerance-policy-for-concealment-of-foot-and-mouth-disease-outbreaks-646530/",
       "published_at": "2026-10-17T08:56:00.000Z",
-      "created_at": "2026-10-19 22:14:34",
-      "ai_at": "2026-10-19 22:15:21",
-      "dup_count": 10,
+      "created_at": "2026-10-20 06:40:14",
+      "ai_at": "2026-10-20 06:41:23",
+      "dup_count": 11,
       "dups": [
+        {
+          "title": "Punjab adopts zero-tolerance policy for concealment of foot-and-mouth disease outbreaks",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c1b5f4d8b818dcf92b6606bcf&url=https%3a%2f%2fminutemirror.com.pk%2fpunjab-adopts-zero-tolerance-policy-for-concealment-of-foot-and-mouth-disease-outbreaks-646530%2f&c=16325183360031870546&mkt=en-us",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-17T08:56:00.000Z"
+        },
         {
           "title": "Punjab adopts zero-tolerance policy for concealment of foot-and-mouth disease outbreaks",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad63ebffbc0486fb551a8906d0108f8&url=https%3a%2f%2fminutemirror.com.pk%2fpunjab-adopts-zero-tolerance-policy-for-concealment-of-foot-and-mouth-disease-outbreaks-646530%2f&c=16325183360031870546&mkt=en-us",
@@ -473,84 +503,6 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3ca0f35a948c49fd95e23a0911889&url=https%3a%2f%2fminutemirror.com.pk%2fpunjab-adopts-zero-tolerance-policy-for-concealment-of-foot-and-mouth-disease-outbreaks-646530%2f&c=16325183360031870546&mkt=en-us",
           "source_id": "bing-world-fmd",
           "published_at": "2026-10-17T08:56:00.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "e3b0f74bface12ac4cd674c60056bfd350c32181",
-      "disease": "нодулярный дерматит",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Министерство сельского хозяйства в Гандрбале выпустило обзор по болезни нодулярный дерматит и призвало владельцев скота сообщать о подозрительных случаях.",
-      "source_id": "bing-world-lsd",
-      "title": "Lumpy Skin Disease: Ganderbal Admin Issues Advisory, Urges Early Reporting of Suspected Cases",
-      "url": "https://kashmirlife.net/lumpy-skin-disease-ganderbal-admin-issues-advisory-urges-early-reporting-of-suspected-cases-456991/",
-      "published_at": "2026-10-16T14:39:00.000Z",
-      "created_at": "2026-10-20 00:40:14",
-      "ai_at": "2026-10-20 00:40:26",
-      "dup_count": 11,
-      "dups": [
-        {
-          "title": "Lumpy Skin Disease: Ganderbal Admin Issues Advisory, Urges Early Reporting of Suspected Cases",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad657157c814f0ab1d4002943825d12&url=https%3a%2f%2fkashmirlife.net%2flumpy-skin-disease-ganderbal-admin-issues-advisory-urges-early-reporting-of-suspected-cases-456991%2f&c=17555364472291973131&mkt=en-us",
-          "source_id": "bing-world-lsd",
-          "published_at": "2026-10-16T14:39:00.000Z"
-        },
-        {
-          "title": "Lumpy Skin Disease: Ganderbal Admin Issues Advisory, Urges Early Reporting of Suspected Cases",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ea61435c45bc85c30799d80032e8&url=https%3a%2f%2fkashmirlife.net%2flumpy-skin-disease-ganderbal-admin-issues-advisory-urges-early-reporting-of-suspected-cases-456991%2f&c=17555364472291973131&mkt=en-us",
-          "source_id": "bing-world-lsd",
-          "published_at": "2026-10-16T14:39:00.000Z"
-        },
-        {
-          "title": "Lumpy Skin Disease: Ganderbal Admin Issues Advisory, Urges Early Reporting of Suspected Cases",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad579db892340c9930785f11841f851&url=https%3a%2f%2fkashmirlife.net%2flumpy-skin-disease-ganderbal-admin-issues-advisory-urges-early-reporting-of-suspected-cases-456991%2f&c=17555364472291973131&mkt=en-us",
-          "source_id": "bing-world-lsd",
-          "published_at": "2026-10-16T14:39:00.000Z"
-        },
-        {
-          "title": "Lumpy Skin Disease: Ganderbal Admin Issues Advisory, Urges Early Reporting of Suspected Cases",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad51cda42834999abc70e8c640737cb&url=https%3a%2f%2fkashmirlife.net%2flumpy-skin-disease-ganderbal-admin-issues-advisory-urges-early-reporting-of-suspected-cases-456991%2f&c=17555364472291973131&mkt=en-us",
-          "source_id": "bing-world-lsd",
-          "published_at": "2026-10-16T14:39:00.000Z"
-        },
-        {
-          "title": "Lumpy Skin Disease: Ganderbal Admin Issues Advisory, Urges Early Reporting of Suspected Cases",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4c5e8b45944c687da551bcdd4c15f&url=https%3a%2f%2fkashmirlife.net%2flumpy-skin-disease-ganderbal-admin-issues-advisory-urges-early-reporting-of-suspected-cases-456991%2f&c=17555364472291973131&mkt=en-us",
-          "source_id": "bing-world-lsd",
-          "published_at": "2026-10-16T14:39:00.000Z"
-        },
-        {
-          "title": "Lumpy Skin Disease: Ganderbal Admin Issues Advisory, Urges Early Reporting of Suspected Cases",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4609a326b41e499a89d4c9f20dfbe&url=https%3a%2f%2fkashmirlife.net%2flumpy-skin-disease-ganderbal-admin-issues-advisory-urges-early-reporting-of-suspected-cases-456991%2f&c=17555364472291973131&mkt=en-us",
-          "source_id": "bing-world-lsd",
-          "published_at": "2026-10-16T14:39:00.000Z"
-        },
-        {
-          "title": "Lumpy Skin Disease: Ganderbal Admin Issues Advisory, Urges Early Reporting of Suspected Cases",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad40bd927fd4d79a3d376b4395b1b8d&url=https%3a%2f%2fkashmirlife.net%2flumpy-skin-disease-ganderbal-admin-issues-advisory-urges-early-reporting-of-suspected-cases-456991%2f&c=17555364472291973131&mkt=en-us",
-          "source_id": "bing-world-lsd",
-          "published_at": "2026-10-16T14:39:00.000Z"
-        },
-        {
-          "title": "Lumpy Skin Disease: Ganderbal Admin Issues Advisory, Urges Early Reporting of Suspected Cases",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad39bbaea814f09a2bac31fe9c587fc&url=https%3a%2f%2fkashmirlife.net%2flumpy-skin-disease-ganderbal-admin-issues-advisory-urges-early-reporting-of-suspected-cases-456991%2f&c=17555364472291973131&mkt=en-us",
-          "source_id": "bing-world-lsd",
-          "published_at": "2026-10-16T14:39:00.000Z"
-        },
-        {
-          "title": "Lumpy Skin Disease: Ganderbal Admin Issues Advisory, Urges Early Reporting of Suspected Cases",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad33cbc9ac14e0ab826ba8f93d406ef&url=https%3a%2f%2fkashmirlife.net%2flumpy-skin-disease-ganderbal-admin-issues-advisory-urges-early-reporting-of-suspected-cases-456991%2f&c=17555364472291973131&mkt=en-us",
-          "source_id": "bing-world-lsd",
-          "published_at": "2026-10-16T14:39:00.000Z"
-        },
-        {
-          "title": "Lumpy Skin Disease: Ganderbal Admin Issues Advisory, Urges Early Reporting of Suspected Cases",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad2d6bddb324af7959941a0f5000ed8&url=https%3a%2f%2fkashmirlife.net%2flumpy-skin-disease-ganderbal-admin-issues-advisory-urges-early-reporting-of-suspected-cases-456991%2f&c=17555364472291973131&mkt=en-us",
-          "source_id": "bing-world-lsd",
-          "published_at": "2026-10-16T14:39:00.000Z"
         }
       ]
     }
