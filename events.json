@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-20T06:41:41.379Z",
+  "generated_at": "2026-10-20T12:40:21.201Z",
   "items": [
     {
       "fingerprint": "c64bd7c7e22470cb60df128e10ef63dabb280b20",
@@ -48,7 +48,7 @@
       "published_at": "2026-10-19T14:36:00.000Z",
       "created_at": "2026-10-19 22:14:34",
       "ai_at": "2026-10-19 22:14:39",
-      "dup_count": 6,
+      "dup_count": 7,
       "dups": [
         {
           "title": "Highly pathogenic avian influenza found in Barron County",
@@ -61,6 +61,12 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c7eca44e282eefe9fbbdf6790&url=https%3a%2f%2fwww.wdio.com%2ftop-stories%2fhighly-pathogenic-avian-influenza-found-in-barron-county%2f&c=11127009982934696702&mkt=en-us",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-19T14:22:00.000Z"
+        },
+        {
+          "title": "Avian influenza confirmed in Barron County poultry flock",
+          "url": "https://madison.com/article_4e0f3bac-0592-5cc2-93de-12999c390300.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-18T22:00:00.000Z"
         },
         {
           "title": "Washington: Human avian influenza case reported in Yakima County",
@@ -112,7 +118,7 @@
       "published_at": "2026-10-18T16:59:00.000Z",
       "created_at": "2026-10-20 06:40:14",
       "ai_at": "2026-10-20 06:40:40",
-      "dup_count": 43,
+      "dup_count": 42,
       "dups": [
         {
           "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
