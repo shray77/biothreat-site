@@ -1,7 +1,69 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-20T18:40:39.302Z",
+  "generated_at": "2026-10-21T00:40:25.848Z",
   "items": [
+    {
+      "fingerprint": "104f8f9714831a5999544558d89a2886d5e756b5",
+      "disease": "болезнь ньюкасла",
+      "country": "Бразилия",
+      "distance_km": 8000,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "Мексика приостановила импорт курицы из Бразилии из-за вспышки болезни ньюкасла",
+      "source_id": "bing-world-ai",
+      "title": "Mexico suspends chicken imports from Brazil over Newcastle disease outbreak",
+      "url": "https://mexiconewsdaily.com/news/mexico-suspends-chicken-imports-brazil/",
+      "published_at": "2026-10-20T15:43:00.000Z",
+      "created_at": "2026-10-21 00:40:14",
+      "ai_at": "2026-10-21 00:40:18",
+      "dup_count": 3,
+      "dups": [
+        {
+          "title": "Outbreak of Newcastle disease confirmed in South Brazil",
+          "url": "https://agenciabrasil.ebc.com.br/en/saude/noticia/2026-10/outbreak-newcastle-disease-confirmed-south-brazil",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-20T07:39:00.000Z"
+        },
+        {
+          "title": "Mexico halts poultry imports from Brazil after Newcastle disease outbreak",
+          "url": "https://mx.ibtimes.com/mexico-halts-brazil-poultry-imports-3099",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-19T17:55:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "812dfeb4a5657f30307323f6a004c72ca0481a0b",
+      "disease": "грипп птиц",
+      "country": "Южная Корея",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Провинция Гангвон готовится к птичьему гриппу перед сезоном перелетов",
+      "source_id": "bing-world-ai",
+      "title": "Gangwon Province mobilizes against avian influenza ahead of migratory bird season",
+      "url": "https://biz.heraldcorp.com/article/10909352",
+      "published_at": "2026-10-20T11:21:00.000Z",
+      "created_at": "2026-10-21 00:40:14",
+      "ai_at": "2026-10-21 00:40:22",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "c40f107782959cd3c8299635aade5223b49917c3",
+      "disease": "грипп птиц",
+      "country": "Северная Англия",
+      "distance_km": 2500,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "Пुषточно подтверждена вспышка гриппа птиц в Нортумберленде",
+      "source_id": "bing-world-ai",
+      "title": "Bird flu outbreak in Northumberland confirmed with 10km surveillance zone now in place",
+      "url": "https://www.chroniclelive.co.uk/news/north-east-news/bird-flu-outbreak-northumberland-confirmed-34792987",
+      "published_at": "2026-10-20T11:12:00.000Z",
+      "created_at": "2026-10-21 00:40:14",
+      "ai_at": "2026-10-21 00:40:25",
+      "dup_count": 1
+    },
     {
       "fingerprint": "472b7a4144291076e65cb45c730eebcb73ddacee",
       "disease": "грипп птиц",
@@ -23,30 +85,6 @@
           "url": "https://www.msn.com/en-gb/lifestyle/other/bird-flu-outbreak-in-northumberland-confirmed-with-10km-surveillance-zone-now-in-place/ar-AA2fFmAC",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-20T10:12:40.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "56d91b782b21a1c4817a6f26ad018fbfaaf4c3bd",
-      "disease": "болезнь ньюкасла",
-      "country": "Бразилия",
-      "distance_km": 8000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Появилась вспышка заболевания птиц болезнью ньюкасла в южной части Бразилии.",
-      "source_id": "bing-world-ai",
-      "title": "Outbreak of Newcastle disease confirmed in South Brazil",
-      "url": "https://agenciabrasil.ebc.com.br/en/saude/noticia/2026-10/outbreak-newcastle-disease-confirmed-south-brazil",
-      "published_at": "2026-10-20T07:39:00.000Z",
-      "created_at": "2026-10-20 18:40:16",
-      "ai_at": "2026-10-20 18:40:30",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Mexico halts poultry imports from Brazil after Newcastle disease outbreak",
-          "url": "https://mx.ibtimes.com/mexico-halts-brazil-poultry-imports-3099",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-19T17:55:00.000Z"
         }
       ]
     },
@@ -172,7 +210,7 @@
       "published_at": "2026-10-18T16:59:00.000Z",
       "created_at": "2026-10-20 06:40:14",
       "ai_at": "2026-10-20 06:40:40",
-      "dup_count": 37,
+      "dup_count": 35,
       "dups": [
         {
           "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
@@ -328,7 +366,7 @@
       "published_at": "2026-10-18T16:59:00.000Z",
       "created_at": "2026-10-20 00:40:14",
       "ai_at": "2026-10-20 00:40:18",
-      "dup_count": 6,
+      "dup_count": 5,
       "dups": [
         {
           "title": "Farmers' protests",
@@ -351,12 +389,6 @@
         {
           "title": "Farmers' protests",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad51cda42834999abc70e8c640737cb&url=https%3a%2f%2fwww.lemonde.fr%2fen%2ffrench-farmers-protests%2f&c=8172835141637647689&mkt=en-us",
-          "source_id": "bing-world-lsd",
-          "published_at": "2026-10-16T17:00:00.000Z"
-        },
-        {
-          "title": "Farmers' protests",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4c5e8b45944c687da551bcdd4c15f&url=https%3a%2f%2fwww.lemonde.fr%2fen%2ffrench-farmers-protests%2f&c=8172835141637647689&mkt=en-us",
           "source_id": "bing-world-lsd",
           "published_at": "2026-10-16T17:00:00.000Z"
         }
