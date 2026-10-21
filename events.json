@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-21T10:40:20.365Z",
+  "generated_at": "2026-10-21T14:40:26.032Z",
   "items": [
+    {
+      "fingerprint": "85d1338fbe71d7016ce1e38a61be8c12c7c81c34",
+      "disease": "африканская чума свиней",
+      "country": "Филиппины",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "Вспышка африканской чумы свиней в Филиппинах локализована",
+      "source_id": "bing-world-asf",
+      "title": "ASF spread contained",
+      "url": "https://www.sunstar.com.ph/cebu/asf-spread-contained",
+      "published_at": "2026-10-21T05:24:00.000Z",
+      "created_at": "2026-10-21 14:40:15",
+      "ai_at": "2026-10-21 14:40:19",
+      "dup_count": 1
+    },
     {
       "fingerprint": "3d8adbe749f3ed2282cfdddb878491f874419908",
       "disease": null,
@@ -242,7 +258,7 @@
       "published_at": "2026-10-18T16:59:00.000Z",
       "created_at": "2026-10-20 06:40:14",
       "ai_at": "2026-10-20 06:40:40",
-      "dup_count": 33,
+      "dup_count": 32,
       "dups": [
         {
           "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
@@ -398,7 +414,7 @@
       "published_at": "2026-10-18T16:59:00.000Z",
       "created_at": "2026-10-20 00:40:14",
       "ai_at": "2026-10-20 00:40:18",
-      "dup_count": 5,
+      "dup_count": 4,
       "dups": [
         {
           "title": "Farmers' protests",
@@ -415,12 +431,6 @@
         {
           "title": "Farmers' protests",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad579db892340c9930785f11841f851&url=https%3a%2f%2fwww.lemonde.fr%2fen%2ffrench-farmers-protests%2f&c=8172835141637647689&mkt=en-us",
-          "source_id": "bing-world-lsd",
-          "published_at": "2026-10-16T17:00:00.000Z"
-        },
-        {
-          "title": "Farmers' protests",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad51cda42834999abc70e8c640737cb&url=https%3a%2f%2fwww.lemonde.fr%2fen%2ffrench-farmers-protests%2f&c=8172835141637647689&mkt=en-us",
           "source_id": "bing-world-lsd",
           "published_at": "2026-10-16T17:00:00.000Z"
         }
@@ -629,6 +639,22 @@
           "published_at": "2026-10-17T08:56:00.000Z"
         }
       ]
+    },
+    {
+      "fingerprint": "f2866558eab0d6132943397e67b0ee08d480f94a",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-fmd",
+      "title": "‘Dutton Ranch’ Episode 4’s Cattle Crisis Is Rooted in Real Science — Here’s What the Show Got Right About Foot-and-Mouth Disease",
+      "url": "https://www.comicbasics.com/dutton-ranch-episode-4s-cattle-crisis-is-rooted-in-real-science-heres-what-the-show-got-right-about-foot-and-mouth-disease/",
+      "published_at": "2026-10-16T17:00:00.000Z",
+      "created_at": "2026-10-21 14:40:15",
+      "ai_at": "2026-10-21 14:40:25",
+      "dup_count": 1
     }
   ]
 }
