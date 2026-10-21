@@ -1,7 +1,39 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-21T14:40:26.032Z",
+  "generated_at": "2026-10-21T20:40:30.057Z",
   "items": [
+    {
+      "fingerprint": "3afbde851527831a92cae84d0a11730fff83f9e8",
+      "disease": "грипп птиц",
+      "country": "Индия",
+      "distance_km": 3000,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "В парке Вандалур, в котором произошли случаи птичьего гриппа, закрыты на два дня водные пруды, чтобы провести дезинфекцию.",
+      "source_id": "bing-world-ai",
+      "title": "Vandalur Zoo Bird Flu Outbreak Shuts Chennai Park for Sanitisation",
+      "url": "https://urbanacres.in/vandalur-zoo-bird-flu-outbreak-shuts-chennai-park-for-sanitisation/",
+      "published_at": "2026-10-21T09:42:00.000Z",
+      "created_at": "2026-10-21 20:40:13",
+      "ai_at": "2026-10-21 20:40:19",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "8e9d02f78e114f3157bc56657dfa74535dd09463",
+      "disease": "грипп птиц",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "Зоопарк в Ченнаи закрывается на два дня после выявления гриппа птиц у семи водоплавающих.",
+      "source_id": "bing-world-ai",
+      "title": "Chennai’s Vandalur Zoo to close for sanitisation following bird flu outbreak",
+      "url": "https://www.msn.com/en-in/money/general/chennai-s-vandalur-zoo-to-close-for-sanitisation-following-bird-flu-outbreak/ar-AA2fKDLa",
+      "published_at": "2026-10-21T09:01:33.000Z",
+      "created_at": "2026-10-21 20:40:13",
+      "ai_at": "2026-10-21 20:40:22",
+      "dup_count": 1
+    },
     {
       "fingerprint": "85d1338fbe71d7016ce1e38a61be8c12c7c81c34",
       "disease": "африканская чума свиней",
@@ -33,6 +65,72 @@
       "created_at": "2026-10-21 10:40:15",
       "ai_at": "2026-10-21 10:40:17",
       "dup_count": 1
+    },
+    {
+      "fingerprint": "84c9781b3a772d0c20b54509496efc27b423ab90",
+      "disease": "грипп птиц",
+      "country": "США",
+      "distance_km": 5000,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "Потверждено случая высокопатогенного птицемогильного гриппа в штате Висконсин",
+      "source_id": "bing-world-ai",
+      "title": "Highly Pathogenic Avian Influenza Confirmed in Barron County",
+      "url": "https://wsau.com/2026/10/21/highly-pathogenic-avian-influenza-confirmed-in-barron-county-4/",
+      "published_at": "2026-10-21T00:21:00.000Z",
+      "created_at": "2026-10-21 20:40:13",
+      "ai_at": "2026-10-21 20:40:25",
+      "dup_count": 9,
+      "dups": [
+        {
+          "title": "Dallas Zoo closes bird exhibits because of avian flu concerns",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c7eca44e282eefe9fbbdf6790&url=https%3a%2f%2fwww.dallasnews.com%2fnews%2farticle%2fdallas-zoo-avian-flu-closure-22484528.php&c=14035073620293416000&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-19T14:36:00.000Z"
+        },
+        {
+          "title": "Highly pathogenic avian influenza found in Barron County",
+          "url": "https://www.wdio.com/top-stories/highly-pathogenic-avian-influenza-found-in-barron-county/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-19T14:22:00.000Z"
+        },
+        {
+          "title": "Highly pathogenic avian influenza found in Barron County",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c7eca44e282eefe9fbbdf6790&url=https%3a%2f%2fwww.wdio.com%2ftop-stories%2fhighly-pathogenic-avian-influenza-found-in-barron-county%2f&c=11127009982934696702&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-19T14:22:00.000Z"
+        },
+        {
+          "title": "Avian influenza confirmed in Barron County poultry flock",
+          "url": "https://madison.com/article_4e0f3bac-0592-5cc2-93de-12999c390300.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-18T22:00:00.000Z"
+        },
+        {
+          "title": "Multiple birds die at city zoos amid bird flu outbreak, officials say",
+          "url": "https://ny1.com/nyc/all-boroughs/news/2025/02/08/15-birds-die-of-bird-flu-at-city-zoos--officials-say",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-17T12:00:00.000Z"
+        },
+        {
+          "title": "Washington: Human avian influenza case reported in Yakima County",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad509601db249c783b1dc53aaeb75ca&url=https%3a%2f%2foutbreaknewstoday.substack.com%2fp%2fwashington-human-avian-influenza&c=1780436491715969343&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-17T06:33:00.000Z"
+        },
+        {
+          "title": "Washington: Human avian influenza case reported in Yakima County",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4448321f64451a116e44b139c7686&url=https%3a%2f%2foutbreaknewstoday.substack.com%2fp%2fwashington-human-avian-influenza&c=1780436491715969343&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-17T06:33:00.000Z"
+        },
+        {
+          "title": "Washington: Human avian influenza case reported in Yakima County",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad40bdd08734b15bdcdc47651bc253a&url=https%3a%2f%2foutbreaknewstoday.substack.com%2fp%2fwashington-human-avian-influenza&c=1780436491715969343&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-17T06:33:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "5de5858263e9da3e96179296445523c02ca208e2",
@@ -137,6 +235,22 @@
       ]
     },
     {
+      "fingerprint": "2d09fd290ff2b0d2bef59171ab94abf35decbcfa",
+      "disease": "африканская чума свиней",
+      "country": "Каталония (Испания)",
+      "distance_km": 3400,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "В Каталонии африканская чума свиней стабилизировалась, но потребовалось усиление контроля.",
+      "source_id": "bing-world-asf",
+      "title": "African swine fever outbreak stabilizes but forces stricter controls in Catalonia",
+      "url": "https://ecomercioagrario.com/en/african-swine-fever-outbreak-stabilizes-but-forces-stricter-controls-in-catalonia/",
+      "published_at": "2026-10-19T17:00:00.000Z",
+      "created_at": "2026-10-21 20:40:13",
+      "ai_at": "2026-10-21 20:40:29",
+      "dup_count": 1
+    },
+    {
       "fingerprint": "9aecfab6f8e0a4e1062333f10a7ad59ebe7e3122",
       "disease": "грипп птиц",
       "country": "Англия",
@@ -169,66 +283,6 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "ac5bf2169b05cf1004bc952b95b007727920c3e8",
-      "disease": "грипп птиц",
-      "country": "США",
-      "distance_km": 5000,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "В Далласском зоопарке закрыты выставки птиц из-за выявления высокопатогенного гриппа птиц в Техасе",
-      "source_id": "bing-world-ai",
-      "title": "Dallas Zoo closes bird exhibits because of avian flu concerns",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c7eca44e282eefe9fbbdf6790&url=https%3a%2f%2fwww.dallasnews.com%2fnews%2farticle%2fdallas-zoo-avian-flu-closure-22484528.php&c=14035073620293416000&mkt=en-us",
-      "published_at": "2026-10-19T14:36:00.000Z",
-      "created_at": "2026-10-19 22:14:34",
-      "ai_at": "2026-10-19 22:14:39",
-      "dup_count": 8,
-      "dups": [
-        {
-          "title": "Highly pathogenic avian influenza found in Barron County",
-          "url": "https://www.wdio.com/top-stories/highly-pathogenic-avian-influenza-found-in-barron-county/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-19T14:22:00.000Z"
-        },
-        {
-          "title": "Highly pathogenic avian influenza found in Barron County",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c7eca44e282eefe9fbbdf6790&url=https%3a%2f%2fwww.wdio.com%2ftop-stories%2fhighly-pathogenic-avian-influenza-found-in-barron-county%2f&c=11127009982934696702&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-19T14:22:00.000Z"
-        },
-        {
-          "title": "Avian influenza confirmed in Barron County poultry flock",
-          "url": "https://madison.com/article_4e0f3bac-0592-5cc2-93de-12999c390300.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-18T22:00:00.000Z"
-        },
-        {
-          "title": "Multiple birds die at city zoos amid bird flu outbreak, officials say",
-          "url": "https://ny1.com/nyc/all-boroughs/news/2025/02/08/15-birds-die-of-bird-flu-at-city-zoos--officials-say",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-17T12:00:00.000Z"
-        },
-        {
-          "title": "Washington: Human avian influenza case reported in Yakima County",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad509601db249c783b1dc53aaeb75ca&url=https%3a%2f%2foutbreaknewstoday.substack.com%2fp%2fwashington-human-avian-influenza&c=1780436491715969343&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-17T06:33:00.000Z"
-        },
-        {
-          "title": "Washington: Human avian influenza case reported in Yakima County",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4448321f64451a116e44b139c7686&url=https%3a%2f%2foutbreaknewstoday.substack.com%2fp%2fwashington-human-avian-influenza&c=1780436491715969343&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-17T06:33:00.000Z"
-        },
-        {
-          "title": "Washington: Human avian influenza case reported in Yakima County",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad40bdd08734b15bdcdc47651bc253a&url=https%3a%2f%2foutbreaknewstoday.substack.com%2fp%2fwashington-human-avian-influenza&c=1780436491715969343&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-17T06:33:00.000Z"
-        }
-      ]
-    },
-    {
       "fingerprint": "6e9e9e8cde64127b14e58ce821756c55fb7a130c",
       "disease": "африканская чума свиней",
       "country": "Намибия",
@@ -258,7 +312,7 @@
       "published_at": "2026-10-18T16:59:00.000Z",
       "created_at": "2026-10-20 06:40:14",
       "ai_at": "2026-10-20 06:40:40",
-      "dup_count": 32,
+      "dup_count": 29,
       "dups": [
         {
           "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
@@ -414,7 +468,7 @@
       "published_at": "2026-10-18T16:59:00.000Z",
       "created_at": "2026-10-20 00:40:14",
       "ai_at": "2026-10-20 00:40:18",
-      "dup_count": 4,
+      "dup_count": 3,
       "dups": [
         {
           "title": "Farmers' protests",
@@ -427,12 +481,6 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ea61435c45bc85c30799d80032e8&url=https%3a%2f%2fwww.lemonde.fr%2fen%2ffrench-farmers-protests%2f&c=8172835141637647689&mkt=en-us",
           "source_id": "bing-world-lsd",
           "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "Farmers' protests",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad579db892340c9930785f11841f851&url=https%3a%2f%2fwww.lemonde.fr%2fen%2ffrench-farmers-protests%2f&c=8172835141637647689&mkt=en-us",
-          "source_id": "bing-world-lsd",
-          "published_at": "2026-10-16T17:00:00.000Z"
         }
       ]
     },
