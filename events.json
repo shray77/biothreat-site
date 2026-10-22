@@ -1,7 +1,145 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-22T12:40:22.877Z",
+  "generated_at": "2026-10-22T18:40:46.214Z",
   "items": [
+    {
+      "fingerprint": "ac3b2b302c885eeea3fd4c900e607de2dfd62750",
+      "disease": "африканская чума свиней",
+      "country": "ЮАР",
+      "distance_km": 7000,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "В парке Addo Elephant National Park выявлена африканская чума свиней",
+      "source_id": "bing-world-fmd",
+      "title": "Angry neighbours, game sales in jeopardy as Addo’s foot-and-mouth disease crisis deepens",
+      "url": "https://www.dailymaverick.co.za/article/2026-10-22-angry-neighbours-game-sales-in-jeopardy-as-addos-foot-and-mouth-disease-crisis-deepens/?dm_medium=card-link&dm_campaign=top_reads&dm_position=3",
+      "published_at": "2026-10-22T10:06:00.000Z",
+      "created_at": "2026-10-22 18:40:15",
+      "ai_at": "2026-10-22 18:40:20",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "1124c68e2b42d93bffd9602d69a1653b8dce9302",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Проект по прогнозированию и предотвращению африканской чумы свиней.",
+      "source_id": "bing-world-asf",
+      "title": "Global project targets African swine fever prediction, prevention",
+      "url": "https://www.nationalhogfarmer.com/livestock-management/global-project-targets-african-swine-fever-prediction-prevention",
+      "published_at": "2026-10-22T08:39:00.000Z",
+      "created_at": "2026-10-22 18:40:15",
+      "ai_at": "2026-10-22 18:40:22",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "d4efd92ff81febdc1e711eed96900aeb94a8e35f",
+      "disease": "африканская чума свиней",
+      "country": "Финляндия",
+      "distance_km": 0,
+      "level": "граница",
+      "verdict": "probable",
+      "ai_summary": "Несмотря на рост затрат из-за конфликта на Ближнем Востоке и появление африканской чумы свиней, компания Atria Plc зафиксировала еще один квартал прибыльного ро",
+      "source_id": "bing-world-asf",
+      "title": "Growth achieved by Atria despite business uncertainties",
+      "url": "https://www.wattagnet.com/business-markets/news/15838181/growth-achieved-by-atria-despite-business-uncertainties",
+      "published_at": "2026-10-22T06:41:00.000Z",
+      "created_at": "2026-10-22 18:40:15",
+      "ai_at": "2026-10-22 18:40:27",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "ea05630584f583cd7f22cdb6f1e3a905e86a194b",
+      "disease": "африканская чума свиней",
+      "country": "Филиппины",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "В городе Цебу усилены меры по контролю за猪",
+      "source_id": "bing-world-asf",
+      "title": "Cebu City tightens hog controls after ASF found in Sapangdaku",
+      "url": "https://www.sunstar.com.ph/cebu/cebu-city-tightens-hog-controls-after-asf-found-in-sapangdaku",
+      "published_at": "2026-10-22T05:38:00.000Z",
+      "created_at": "2026-10-22 18:40:15",
+      "ai_at": "2026-10-22 18:40:30",
+      "dup_count": 3,
+      "dups": [
+        {
+          "title": "ASF losses in Tabuk reach P211.7 million",
+          "url": "https://manilastandard.net/news/314809279/asf-losses-in-tabuk-reach-p211-7-million.html",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-22T02:05:00.000Z"
+        },
+        {
+          "title": "ASF spread contained",
+          "url": "https://www.sunstar.com.ph/cebu/asf-spread-contained",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-21T05:24:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "487e69c0f12000b34fca631c86440c51d7f00bf9",
+      "disease": "болезнь ньюкасла",
+      "country": "Бразилия",
+      "distance_km": 8000,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "Мексика временно запретила импорт птицы из Бразилии из-за вспышки болезни ньюкасла в штате Санта-Катарина",
+      "source_id": "bing-world-ai",
+      "title": "Mexico suspends Brazilian poultry imports after Newcastle disease outbreak",
+      "url": "https://www.foodbusinessmea.com/mexico-suspends-brazilian-poultry-imports-after-newcastle-disease-outbreak/",
+      "published_at": "2026-10-22T04:46:00.000Z",
+      "created_at": "2026-10-22 18:40:15",
+      "ai_at": "2026-10-22 18:40:34",
+      "dup_count": 4,
+      "dups": [
+        {
+          "title": "Mexico suspends chicken imports from Brazil over Newcastle disease outbreak",
+          "url": "https://mexiconewsdaily.com/news/mexico-suspends-chicken-imports-brazil/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-20T15:43:00.000Z"
+        },
+        {
+          "title": "Outbreak of Newcastle disease confirmed in South Brazil",
+          "url": "https://agenciabrasil.ebc.com.br/en/saude/noticia/2026-10/outbreak-newcastle-disease-confirmed-south-brazil",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-20T07:39:00.000Z"
+        },
+        {
+          "title": "Mexico halts poultry imports from Brazil after Newcastle disease outbreak",
+          "url": "https://mx.ibtimes.com/mexico-halts-brazil-poultry-imports-3099",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-19T17:55:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "12060e3ee8d459ff6cc6692725c759280a81d298",
+      "disease": "африканская чума свиней",
+      "country": "Южно-Африканская Республика",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "Подтверждено африканская чума свиней у куду в национальном парке Addo в Южно-Африканской Республике",
+      "source_id": "bing-world-fmd",
+      "title": "Foot-and-mouth disease confirmed in kudu at Addo Park in South Africa — Daily Maverick",
+      "url": "https://ua.news/en/dovkolo-svitu/u-parku-addo-v-par-pidtverdili-iashchur-u-kudu-daily-maverick",
+      "published_at": "2026-10-21T21:18:00.000Z",
+      "created_at": "2026-10-22 18:40:15",
+      "ai_at": "2026-10-22 18:40:45",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "SA and Namibia reevaluate livestock trade after FMD outbreak",
+          "url": "https://www.foodformzansi.co.za/sa-and-namibia-reevaluate-livestock-trade-after-fmd-outbreak/",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-19T17:00:00.000Z"
+        }
+      ]
+    },
     {
       "fingerprint": "6bff0d9a17129cb25e5a7ca9027400e7614f1fe8",
       "disease": "грипп птиц",
@@ -78,22 +216,6 @@
       "published_at": "2026-10-21T09:41:27.000Z",
       "created_at": "2026-10-22 02:40:14",
       "ai_at": "2026-10-22 02:40:19",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "85d1338fbe71d7016ce1e38a61be8c12c7c81c34",
-      "disease": "африканская чума свиней",
-      "country": "Филиппины",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "Вспышка африканской чумы свиней в Филиппинах локализована",
-      "source_id": "bing-world-asf",
-      "title": "ASF spread contained",
-      "url": "https://www.sunstar.com.ph/cebu/asf-spread-contained",
-      "published_at": "2026-10-21T05:24:00.000Z",
-      "created_at": "2026-10-21 14:40:15",
-      "ai_at": "2026-10-21 14:40:19",
       "dup_count": 1
     },
     {
@@ -211,36 +333,6 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "104f8f9714831a5999544558d89a2886d5e756b5",
-      "disease": "болезнь ньюкасла",
-      "country": "Бразилия",
-      "distance_km": 8000,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "Мексика приостановила импорт курицы из Бразилии из-за вспышки болезни ньюкасла",
-      "source_id": "bing-world-ai",
-      "title": "Mexico suspends chicken imports from Brazil over Newcastle disease outbreak",
-      "url": "https://mexiconewsdaily.com/news/mexico-suspends-chicken-imports-brazil/",
-      "published_at": "2026-10-20T15:43:00.000Z",
-      "created_at": "2026-10-21 00:40:14",
-      "ai_at": "2026-10-21 00:40:18",
-      "dup_count": 3,
-      "dups": [
-        {
-          "title": "Outbreak of Newcastle disease confirmed in South Brazil",
-          "url": "https://agenciabrasil.ebc.com.br/en/saude/noticia/2026-10/outbreak-newcastle-disease-confirmed-south-brazil",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-20T07:39:00.000Z"
-        },
-        {
-          "title": "Mexico halts poultry imports from Brazil after Newcastle disease outbreak",
-          "url": "https://mx.ibtimes.com/mexico-halts-brazil-poultry-imports-3099",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-19T17:55:00.000Z"
-        }
-      ]
-    },
-    {
       "fingerprint": "812dfeb4a5657f30307323f6a004c72ca0481a0b",
       "disease": "грипп птиц",
       "country": "Южная Корея",
@@ -329,22 +421,6 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "3fe313e9ca1e2dd1105534e8a2ba8030c242c00c",
-      "disease": "африканская чума свиней",
-      "country": "Южно-Африканская Республика",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Южноафриканские и намибийские организации по животноводству предлагают проведение рассмотрения видов для импорта животных в целях уменьшения рисков по африканск",
-      "source_id": "bing-world-fmd",
-      "title": "SA and Namibia reevaluate livestock trade after FMD outbreak",
-      "url": "https://www.foodformzansi.co.za/sa-and-namibia-reevaluate-livestock-trade-after-fmd-outbreak/",
-      "published_at": "2026-10-19T17:00:00.000Z",
-      "created_at": "2026-10-20 06:40:14",
-      "ai_at": "2026-10-20 06:40:26",
-      "dup_count": 1
-    },
-    {
       "fingerprint": "6e9e9e8cde64127b14e58ce821756c55fb7a130c",
       "disease": "африканская чума свиней",
       "country": "Намибия",
@@ -374,7 +450,7 @@
       "published_at": "2026-10-18T16:59:00.000Z",
       "created_at": "2026-10-20 06:40:14",
       "ai_at": "2026-10-20 06:40:40",
-      "dup_count": 24,
+      "dup_count": 18,
       "dups": [
         {
           "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
@@ -749,22 +825,6 @@
           "published_at": "2026-10-17T08:56:00.000Z"
         }
       ]
-    },
-    {
-      "fingerprint": "f2866558eab0d6132943397e67b0ee08d480f94a",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-fmd",
-      "title": "‘Dutton Ranch’ Episode 4’s Cattle Crisis Is Rooted in Real Science — Here’s What the Show Got Right About Foot-and-Mouth Disease",
-      "url": "https://www.comicbasics.com/dutton-ranch-episode-4s-cattle-crisis-is-rooted-in-real-science-heres-what-the-show-got-right-about-foot-and-mouth-disease/",
-      "published_at": "2026-10-16T17:00:00.000Z",
-      "created_at": "2026-10-21 14:40:15",
-      "ai_at": "2026-10-21 14:40:25",
-      "dup_count": 1
     }
   ]
 }
