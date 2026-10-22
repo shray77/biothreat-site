@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-22T02:40:19.958Z",
+  "generated_at": "2026-10-22T06:40:22.922Z",
   "items": [
+    {
+      "fingerprint": "bd78830362f050072d48afb4d60490064bb0f5d5",
+      "disease": "грипп птиц",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "РСПКА предлагает поддержку птицеводам при вспышках гриппа птиц",
+      "source_id": "bing-world-ai",
+      "title": "RSPCA Assured offers support to poultry farmers during bird flu outbreaks",
+      "url": "https://www.poultrynews.co.uk/health-welfare/rspca-assured-offers-support-to-poultry-farmers-during-bird-flu-outbreaks.html",
+      "published_at": "2026-10-21T17:00:00.000Z",
+      "created_at": "2026-10-22 06:40:14",
+      "ai_at": "2026-10-22 06:40:17",
+      "dup_count": 1
+    },
     {
       "fingerprint": "3afbde851527831a92cae84d0a11730fff83f9e8",
       "disease": "грипп птиц",
@@ -16,7 +32,21 @@
       "published_at": "2026-10-21T09:42:00.000Z",
       "created_at": "2026-10-21 20:40:13",
       "ai_at": "2026-10-21 20:40:19",
-      "dup_count": 1
+      "dup_count": 3,
+      "dups": [
+        {
+          "title": "Chennai’s Vandalur Zoo to close for sanitisation following bird flu outbreak",
+          "url": "https://www.msn.com/en-in/news/other/chennai-s-vandalur-zoo-to-close-for-sanitisation-following-bird-flu-outbreak/ar-AA2fKDLa",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-21T09:01:33.000Z"
+        },
+        {
+          "title": "Chennai’s Vandalur Zoo to close for sanitisation following bird flu outbreak",
+          "url": "https://www.msn.com/en-in/money/general/chennai-s-vandalur-zoo-to-close-for-sanitisation-following-bird-flu-outbreak/ar-AA2fKDLa",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-21T09:01:33.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "812031748e17c9436645f948f6032a618f9a4376",
@@ -35,22 +65,6 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "8e9d02f78e114f3157bc56657dfa74535dd09463",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "Зоопарк в Ченнаи закрывается на два дня после выявления гриппа птиц у семи водоплавающих.",
-      "source_id": "bing-world-ai",
-      "title": "Chennai’s Vandalur Zoo to close for sanitisation following bird flu outbreak",
-      "url": "https://www.msn.com/en-in/money/general/chennai-s-vandalur-zoo-to-close-for-sanitisation-following-bird-flu-outbreak/ar-AA2fKDLa",
-      "published_at": "2026-10-21T09:01:33.000Z",
-      "created_at": "2026-10-21 20:40:13",
-      "ai_at": "2026-10-21 20:40:22",
-      "dup_count": 1
-    },
-    {
       "fingerprint": "85d1338fbe71d7016ce1e38a61be8c12c7c81c34",
       "disease": "африканская чума свиней",
       "country": "Филиппины",
@@ -64,6 +78,22 @@
       "published_at": "2026-10-21T05:24:00.000Z",
       "created_at": "2026-10-21 14:40:15",
       "ai_at": "2026-10-21 14:40:19",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "909e569eae12b12c66ee0de3267ea8f48219f3d4",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-fmd",
+      "title": "Namibia battles cattle disease outbreak as Europe suspends several meat imports",
+      "url": "https://www.ippmedia.co.tz/the-guardian/features/read/namibia-battles-cattle-disease-outbreak-as-europe-suspends-several-meat-imports-2026-10-21-145613",
+      "published_at": "2026-10-21T04:56:00.000Z",
+      "created_at": "2026-10-22 06:40:14",
+      "ai_at": "2026-10-22 06:40:22",
       "dup_count": 1
     },
     {
@@ -328,7 +358,7 @@
       "published_at": "2026-10-18T16:59:00.000Z",
       "created_at": "2026-10-20 06:40:14",
       "ai_at": "2026-10-20 06:40:40",
-      "dup_count": 28,
+      "dup_count": 25,
       "dups": [
         {
           "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
