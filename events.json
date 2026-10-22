@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-22T18:40:46.214Z",
+  "generated_at": "2026-10-22T22:40:17.704Z",
   "items": [
     {
       "fingerprint": "ac3b2b302c885eeea3fd4c900e607de2dfd62750",
@@ -64,8 +64,14 @@
       "published_at": "2026-10-22T05:38:00.000Z",
       "created_at": "2026-10-22 18:40:15",
       "ai_at": "2026-10-22 18:40:30",
-      "dup_count": 3,
+      "dup_count": 4,
       "dups": [
+        {
+          "title": "Cebu steps up measures to contain ASF outbreak",
+          "url": "https://www.manilatimes.net/2026/10/23/regions/cebu-steps-up-measures-to-contain-asf-outbreak/2452233",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-22T03:00:00.000Z"
+        },
         {
           "title": "ASF losses in Tabuk reach P211.7 million",
           "url": "https://manilastandard.net/news/314809279/asf-losses-in-tabuk-reach-p211-7-million.html",
@@ -450,7 +456,7 @@
       "published_at": "2026-10-18T16:59:00.000Z",
       "created_at": "2026-10-20 06:40:14",
       "ai_at": "2026-10-20 06:40:40",
-      "dup_count": 18,
+      "dup_count": 17,
       "dups": [
         {
           "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
