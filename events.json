@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-21T20:40:30.057Z",
+  "generated_at": "2026-10-22T02:40:19.958Z",
   "items": [
     {
       "fingerprint": "3afbde851527831a92cae84d0a11730fff83f9e8",
@@ -16,6 +16,22 @@
       "published_at": "2026-10-21T09:42:00.000Z",
       "created_at": "2026-10-21 20:40:13",
       "ai_at": "2026-10-21 20:40:19",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "812031748e17c9436645f948f6032a618f9a4376",
+      "disease": "грипп птиц",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "В зоопарке Вандалур после выявления гриппа птиц на двухдневнуюsanitizeцию.",
+      "source_id": "bing-world-ai",
+      "title": "Vandalur Zoo announces two-day closure following bird flu outbreak",
+      "url": "https://www.msn.com/en-in/news/other/vandalur-zoo-announces-two-day-closure-following-bird-flu-outbreak/ar-AA2fKNW3",
+      "published_at": "2026-10-21T09:41:27.000Z",
+      "created_at": "2026-10-22 02:40:14",
+      "ai_at": "2026-10-22 02:40:19",
       "dup_count": 1
     },
     {
@@ -312,7 +328,7 @@
       "published_at": "2026-10-18T16:59:00.000Z",
       "created_at": "2026-10-20 06:40:14",
       "ai_at": "2026-10-20 06:40:40",
-      "dup_count": 29,
+      "dup_count": 28,
       "dups": [
         {
           "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
