@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-23T16:40:22.419Z",
+  "generated_at": "2026-10-23T20:40:25.275Z",
   "items": [
     {
       "fingerprint": "6c80b653b073fd3fa56bc86ae0642c3b382d2d64",
@@ -249,6 +249,66 @@
       ]
     },
     {
+      "fingerprint": "594ef73fc4deb46a43c188990545d081a22f7a10",
+      "disease": "грипп птиц",
+      "country": "США",
+      "distance_km": 5000,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "Подтверждена высокопатогенная птичий грипп в коммерческой птицефабрике в округе Баррон",
+      "source_id": "bing-world-ai",
+      "title": "Highly pathogenic avian influenza confirmed in Barron County",
+      "url": "https://madison.com/article_98523f05-fa25-5321-9746-d98aac3336da.html",
+      "published_at": "2026-10-21T22:00:00.000Z",
+      "created_at": "2026-10-23 20:40:14",
+      "ai_at": "2026-10-23 20:40:21",
+      "dup_count": 8,
+      "dups": [
+        {
+          "title": "Highly Pathogenic Avian Influenza Confirmed in Barron County",
+          "url": "https://wsau.com/2026/10/21/highly-pathogenic-avian-influenza-confirmed-in-barron-county-4/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-21T00:21:00.000Z"
+        },
+        {
+          "title": "Dallas Zoo closes bird exhibits because of avian flu concerns",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c7eca44e282eefe9fbbdf6790&url=https%3a%2f%2fwww.dallasnews.com%2fnews%2farticle%2fdallas-zoo-avian-flu-closure-22484528.php&c=14035073620293416000&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-19T14:36:00.000Z"
+        },
+        {
+          "title": "Highly pathogenic avian influenza found in Barron County",
+          "url": "https://www.wdio.com/top-stories/highly-pathogenic-avian-influenza-found-in-barron-county/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-19T14:22:00.000Z"
+        },
+        {
+          "title": "Highly pathogenic avian influenza found in Barron County",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c7eca44e282eefe9fbbdf6790&url=https%3a%2f%2fwww.wdio.com%2ftop-stories%2fhighly-pathogenic-avian-influenza-found-in-barron-county%2f&c=11127009982934696702&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-19T14:22:00.000Z"
+        },
+        {
+          "title": "Avian influenza confirmed in Barron County poultry flock",
+          "url": "https://madison.com/article_4e0f3bac-0592-5cc2-93de-12999c390300.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-18T22:00:00.000Z"
+        },
+        {
+          "title": "Multiple birds die at city zoos amid bird flu outbreak, officials say",
+          "url": "https://ny1.com/nyc/all-boroughs/news/2025/02/08/15-birds-die-of-bird-flu-at-city-zoos--officials-say",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-17T12:00:00.000Z"
+        },
+        {
+          "title": "Washington: Human avian influenza case reported in Yakima County",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad509601db249c783b1dc53aaeb75ca&url=https%3a%2f%2foutbreaknewstoday.substack.com%2fp%2fwashington-human-avian-influenza&c=1780436491715969343&mkt=en-us",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-17T06:33:00.000Z"
+        }
+      ]
+    },
+    {
       "fingerprint": "12060e3ee8d459ff6cc6692725c759280a81d298",
       "disease": "африканская чума свиней",
       "country": "Южно-Африканская Республика",
@@ -383,72 +443,6 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "84c9781b3a772d0c20b54509496efc27b423ab90",
-      "disease": "грипп птиц",
-      "country": "США",
-      "distance_km": 5000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Потверждено случая высокопатогенного птицемогильного гриппа в штате Висконсин",
-      "source_id": "bing-world-ai",
-      "title": "Highly Pathogenic Avian Influenza Confirmed in Barron County",
-      "url": "https://wsau.com/2026/10/21/highly-pathogenic-avian-influenza-confirmed-in-barron-county-4/",
-      "published_at": "2026-10-21T00:21:00.000Z",
-      "created_at": "2026-10-21 20:40:13",
-      "ai_at": "2026-10-21 20:40:25",
-      "dup_count": 9,
-      "dups": [
-        {
-          "title": "Dallas Zoo closes bird exhibits because of avian flu concerns",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c7eca44e282eefe9fbbdf6790&url=https%3a%2f%2fwww.dallasnews.com%2fnews%2farticle%2fdallas-zoo-avian-flu-closure-22484528.php&c=14035073620293416000&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-19T14:36:00.000Z"
-        },
-        {
-          "title": "Highly pathogenic avian influenza found in Barron County",
-          "url": "https://www.wdio.com/top-stories/highly-pathogenic-avian-influenza-found-in-barron-county/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-19T14:22:00.000Z"
-        },
-        {
-          "title": "Highly pathogenic avian influenza found in Barron County",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c7eca44e282eefe9fbbdf6790&url=https%3a%2f%2fwww.wdio.com%2ftop-stories%2fhighly-pathogenic-avian-influenza-found-in-barron-county%2f&c=11127009982934696702&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-19T14:22:00.000Z"
-        },
-        {
-          "title": "Avian influenza confirmed in Barron County poultry flock",
-          "url": "https://madison.com/article_4e0f3bac-0592-5cc2-93de-12999c390300.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-18T22:00:00.000Z"
-        },
-        {
-          "title": "Multiple birds die at city zoos amid bird flu outbreak, officials say",
-          "url": "https://ny1.com/nyc/all-boroughs/news/2025/02/08/15-birds-die-of-bird-flu-at-city-zoos--officials-say",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-17T12:00:00.000Z"
-        },
-        {
-          "title": "Washington: Human avian influenza case reported in Yakima County",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad509601db249c783b1dc53aaeb75ca&url=https%3a%2f%2foutbreaknewstoday.substack.com%2fp%2fwashington-human-avian-influenza&c=1780436491715969343&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-17T06:33:00.000Z"
-        },
-        {
-          "title": "Washington: Human avian influenza case reported in Yakima County",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4448321f64451a116e44b139c7686&url=https%3a%2f%2foutbreaknewstoday.substack.com%2fp%2fwashington-human-avian-influenza&c=1780436491715969343&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-17T06:33:00.000Z"
-        },
-        {
-          "title": "Washington: Human avian influenza case reported in Yakima County",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad40bdd08734b15bdcdc47651bc253a&url=https%3a%2f%2foutbreaknewstoday.substack.com%2fp%2fwashington-human-avian-influenza&c=1780436491715969343&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-17T06:33:00.000Z"
-        }
-      ]
-    },
-    {
       "fingerprint": "5de5858263e9da3e96179296445523c02ca208e2",
       "disease": "болезнь ньюкасла",
       "country": null,
@@ -550,7 +544,15 @@
       "published_at": "2026-10-18T21:48:00.000Z",
       "created_at": "2026-10-20 06:40:14",
       "ai_at": "2026-10-20 06:40:37",
-      "dup_count": 1
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Judge slams CPBN as FMD breaks in Zambezi …Fence construction continues despite tender dispute as Namibia confirms new outbreak",
+          "url": "https://observer24.com.na/judge-slams-cpbn-as-fmd-breaks-in-zambezi-fence-construction-continues-despite-tender-dispute-as-namibia-confirms-new-outbreak/",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-18T05:48:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "4b140ef4515ba1fabce06965c0b6d7f8b6892d47",
