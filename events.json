@@ -1,22 +1,108 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-22T22:40:17.704Z",
+  "generated_at": "2026-10-23T04:40:23.693Z",
   "items": [
     {
-      "fingerprint": "ac3b2b302c885eeea3fd4c900e607de2dfd62750",
+      "fingerprint": "558be7c3da29ef639f8db659d288f641041546e0",
+      "disease": "африканская чума свиней",
+      "country": "Индия",
+      "distance_km": 3000,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "Власти Андаманских островов призвали владельцев свиней изолировать заболевших животных и сообщать о случаях смерти.",
+      "source_id": "bing-world-asf",
+      "title": "Andaman Issues African Swine Fever Advisory, Urges Pig Owners to Isolate Sick Animals",
+      "url": "https://thewaveandaman.com/andaman-african-swine-fever-advisory-pig-movement-ban/",
+      "published_at": "2026-10-22T17:00:00.000Z",
+      "created_at": "2026-10-23 04:40:14",
+      "ai_at": "2026-10-23 04:40:19",
+      "dup_count": 16,
+      "dups": [
+        {
+          "title": "Chief Secretary Reviews Situation Following Confirmation of African Swine Fever Outbreak; Directs Coordinated Containment Measures",
+          "url": "https://andamansheekha.com/164760/",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T16:59:00.000Z"
+        },
+        {
+          "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
+          "url": "https://thewaveandaman.com/african-swine-fever-pig-movement-ban-task-forces-islands/",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T16:59:00.000Z"
+        },
+        {
+          "title": "District Administration, South Andaman Intensifies Measures to Contain African Swine Fever",
+          "url": "https://andamansheekha.com/164758/",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T16:59:00.000Z"
+        },
+        {
+          "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c6fd24df6833a2ec3763e997d&url=https%3a%2f%2fthewaveandaman.com%2fafrican-swine-fever-pig-movement-ban-task-forces-islands%2f&c=10019437764613060175&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T16:59:00.000Z"
+        },
+        {
+          "title": "District Administration, South Andaman Intensifies Measures to Contain African Swine Fever",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c6fd24df6833a2ec3763e997d&url=https%3a%2f%2fandamansheekha.com%2f164758%2f&c=13284402854791656180&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T16:59:00.000Z"
+        },
+        {
+          "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad63ebf750c46528406697d54ab29a5&url=https%3a%2f%2fthewaveandaman.com%2fafrican-swine-fever-pig-movement-ban-task-forces-islands%2f&c=10019437764613060175&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T16:59:00.000Z"
+        },
+        {
+          "title": "District Administration, South Andaman Intensifies Measures to Contain African Swine Fever",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad63ebf750c46528406697d54ab29a5&url=https%3a%2f%2fandamansheekha.com%2f164758%2f&c=13284402854791656180&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T16:59:00.000Z"
+        },
+        {
+          "title": "District Administration, South Andaman Intensifies Measures to Contain African Swine Fever",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ea62dec4440085a7685d20791a55&url=https%3a%2f%2fandamansheekha.com%2f164758%2f&c=13284402854791656180&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T16:59:00.000Z"
+        },
+        {
+          "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ea62dec4440085a7685d20791a55&url=https%3a%2f%2fthewaveandaman.com%2fafrican-swine-fever-pig-movement-ban-task-forces-islands%2f&c=10019437764613060175&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T16:59:00.000Z"
+        },
+        {
+          "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a7a65c684c0e85c42f56c98eafe1&url=https%3a%2f%2fthewaveandaman.com%2fafrican-swine-fever-pig-movement-ban-task-forces-islands%2f&c=10019437764613060175&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T16:59:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "1c631a360cad1e493cdf5bebbdc3c3ee3e278279",
       "disease": "африканская чума свиней",
       "country": "ЮАР",
       "distance_km": 7000,
       "level": "фон",
       "verdict": "confirmed",
-      "ai_summary": "В парке Addo Elephant National Park выявлена африканская чума свиней",
+      "ai_summary": "Кризис африканской чумы свиней в парке Addo Elephant National Park углубляется",
       "source_id": "bing-world-fmd",
       "title": "Angry neighbours, game sales in jeopardy as Addo’s foot-and-mouth disease crisis deepens",
-      "url": "https://www.dailymaverick.co.za/article/2026-10-22-angry-neighbours-game-sales-in-jeopardy-as-addos-foot-and-mouth-disease-crisis-deepens/?dm_medium=card-link&dm_campaign=top_reads&dm_position=3",
+      "url": "https://www.dailymaverick.co.za/article/2026-10-22-angry-neighbours-game-sales-in-jeopardy-as-addos-foot-and-mouth-disease-crisis-deepens/",
       "published_at": "2026-10-22T10:06:00.000Z",
-      "created_at": "2026-10-22 18:40:15",
-      "ai_at": "2026-10-22 18:40:20",
-      "dup_count": 1
+      "created_at": "2026-10-23 04:40:14",
+      "ai_at": "2026-10-23 04:40:23",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Angry neighbours, game sales in jeopardy as Addo’s foot-and-mouth disease crisis deepens",
+          "url": "https://www.dailymaverick.co.za/article/2026-10-22-angry-neighbours-game-sales-in-jeopardy-as-addos-foot-and-mouth-disease-crisis-deepens/?dm_medium=card-link&dm_campaign=top_reads&dm_position=3",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-22T10:06:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "1124c68e2b42d93bffd9602d69a1653b8dce9302",
@@ -441,84 +527,6 @@
       "created_at": "2026-10-20 06:40:14",
       "ai_at": "2026-10-20 06:40:37",
       "dup_count": 1
-    },
-    {
-      "fingerprint": "8698e6ec56f8bff06db184aadf75dac48f9d9f21",
-      "disease": "африканская чума свиней",
-      "country": "Индия",
-      "distance_km": 3000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Администратор проверил ситуацию после подтверждения вспышки африканской свиной чумы.",
-      "source_id": "bing-world-asf",
-      "title": "Chief Secretary Reviews Situation Following Confirmation of African Swine Fever Outbreak; Directs Coordinated Containment Measures",
-      "url": "https://andamansheekha.com/164760/",
-      "published_at": "2026-10-18T16:59:00.000Z",
-      "created_at": "2026-10-20 06:40:14",
-      "ai_at": "2026-10-20 06:40:40",
-      "dup_count": 17,
-      "dups": [
-        {
-          "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
-          "url": "https://thewaveandaman.com/african-swine-fever-pig-movement-ban-task-forces-islands/",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "District Administration, South Andaman Intensifies Measures to Contain African Swine Fever",
-          "url": "https://andamansheekha.com/164758/",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c6fd24df6833a2ec3763e997d&url=https%3a%2f%2fthewaveandaman.com%2fafrican-swine-fever-pig-movement-ban-task-forces-islands%2f&c=10019437764613060175&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "District Administration, South Andaman Intensifies Measures to Contain African Swine Fever",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c6fd24df6833a2ec3763e997d&url=https%3a%2f%2fandamansheekha.com%2f164758%2f&c=13284402854791656180&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad63ebf750c46528406697d54ab29a5&url=https%3a%2f%2fthewaveandaman.com%2fafrican-swine-fever-pig-movement-ban-task-forces-islands%2f&c=10019437764613060175&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "District Administration, South Andaman Intensifies Measures to Contain African Swine Fever",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad63ebf750c46528406697d54ab29a5&url=https%3a%2f%2fandamansheekha.com%2f164758%2f&c=13284402854791656180&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "District Administration, South Andaman Intensifies Measures to Contain African Swine Fever",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ea62dec4440085a7685d20791a55&url=https%3a%2f%2fandamansheekha.com%2f164758%2f&c=13284402854791656180&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ea62dec4440085a7685d20791a55&url=https%3a%2f%2fthewaveandaman.com%2fafrican-swine-fever-pig-movement-ban-task-forces-islands%2f&c=10019437764613060175&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a7a65c684c0e85c42f56c98eafe1&url=https%3a%2f%2fthewaveandaman.com%2fafrican-swine-fever-pig-movement-ban-task-forces-islands%2f&c=10019437764613060175&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "Chief Secretary Reviews African Swine Fever Outbreak, Directs Coordinated Containment Measures",
-          "url": "https://nicobartimes.com/local-news/chief-secretary-reviews-african-swine-fever-outbreak-directs-coordinated-containment-measures/",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T15:44:00.000Z"
-        }
-      ]
     },
     {
       "fingerprint": "4b140ef4515ba1fabce06965c0b6d7f8b6892d47",
