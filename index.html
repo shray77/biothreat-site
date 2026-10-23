@@ -117,6 +117,7 @@
   .card h2 a:hover { color: var(--accent); }
   .ai-sum { margin: 0 0 8px; color: var(--green); font-size: 14px; border-left: 2px solid rgba(52,211,153,.4); padding-left: 10px; }
   .fields { display: flex; gap: 14px; flex-wrap: wrap; margin-bottom: 6px; font: 12.5px var(--mono); color: var(--blue); }
+  .fields i { font-style: normal; color: var(--faint); margin-right: 4px; }
   .card-foot { display: flex; gap: 14px; align-items: center; margin-top: 10px; padding-top: 9px; border-top: 1px solid var(--border); }
   .card-foot a, .card-foot span { color: var(--faint); font-size: 12.5px; font-family: var(--mono); text-decoration: none; }
   .card-foot a:hover { color: var(--blue); }
@@ -132,18 +133,18 @@
 </head>
 <body>
 <nav class="hub">
-  <a href="https://shray77.github.io/vetdigest-site/">🐾 Дайджест науки</a>
-  <a href="https://shray77.github.io/vetrecall-site/">🚨 Отзывы и вспышки РФ</a>
-  <a href="https://shray77.github.io/biothreat-site/" class="on">🌍 Биоугрозы мира</a>
-  <a href="https://shray77.github.io/vet-heatmap/">🗺 ВетКарта</a>
-  <a href="https://shray77.github.io/vetflu-site/">🦆 Окна риска ВПГП</a>
-  <a href="https://shray77.github.io/rss-core-site/">🛰️ Статус ядра</a>
+  <a href="https://shray77.github.io/vetdigest-site/">Дайджест науки</a>
+  <a href="https://shray77.github.io/vetrecall-site/">Отзывы и вспышки РФ</a>
+  <a href="https://shray77.github.io/biothreat-site/" class="on">Биоугрозы мира</a>
+  <a href="https://shray77.github.io/vet-heatmap/">ВетКарта</a>
+  <a href="https://shray77.github.io/vetflu-site/">Окна риска ВПГП</a>
+  <a href="https://shray77.github.io/rss-core-site/">Статус ядра</a>
 </nav>
 
 <header class="top">
   <div class="wrap topbar">
     <div class="brand">
-      <div class="logo">🌍</div>
+      <div class="logo"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="#7dd3fc" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.8 2.6 2.8 15.4 0 18M12 3c-2.8 2.6-2.8 15.4 0 18"/></svg></div>
       <div>
         <h1>BioThreat Watch</h1>
         <p>Трансграничные болезни животных: мировые вспышки, расстояние до границы РФ и уровень угрозы.</p>
@@ -322,8 +323,8 @@ function card(it) {
   const lvlLabel = lvl ? lvl + (it.distance_km ? " · " + it.distance_km + " км" : "") : "уровень ?";
   const v = it.verdict || "pending";
   const fields = [
-    it.disease && `🦠 ${esc(it.disease)}`,
-    it.country && `📍 ${esc(it.country)}`,
+    it.disease && `<span><i>возбудитель</i> ${esc(it.disease)}</span>`,
+    it.country && `<span><i>страна</i> ${esc(it.country)}</span>`,
   ].filter(Boolean).join("");
   return `<article class="card ${lvlCls} ${v === "noise" ? "noise" : ""}">
     <div class="card-top">
@@ -380,11 +381,11 @@ function chipRow(el, pairs, active, cb) {
 function renderChips() {
   chipRow("chips-level", [
     ["", "все уровни"],
-    ["граница", "🚨 граница", "l-border"],
-    ["высокая", "🔴 высокая", "l-high"],
-    ["повышенная", "🟠 повышенная"],
-    ["наблюдение", "🔵 наблюдение"],
-    ["фон", "⚪ фон"],
+    ["граница", "граница", "l-border"],
+    ["высокая", "высокая", "l-high"],
+    ["повышенная", "повышенная"],
+    ["наблюдение", "наблюдение"],
+    ["фон", "фон"],
   ], level, v => level = v);
   chipRow("chips-verdict", [
     ["real", "без шума"], ["confirmed", "подтверждено"], ["probable", "вероятно"], ["noise", "шум"], ["all", "вообще всё"],
