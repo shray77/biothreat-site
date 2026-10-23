@@ -1,7 +1,31 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-23T04:40:23.693Z",
+  "generated_at": "2026-10-23T10:40:21.950Z",
   "items": [
+    {
+      "fingerprint": "41424cbfa7c246c0273807ce5f732ea44ea7488b",
+      "disease": "грипп птиц",
+      "country": "Англия",
+      "distance_km": 2500,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "В Англии зафиксирована первая вспышка гриппа птиц в сезоне, в результате чего было забито 32 000 кур.",
+      "source_id": "bing-world-ai",
+      "title": "England Records First Avian Influenza Outbreak of Season as 32,000 Hens Culled",
+      "url": "https://streamlinefeed.co.ke/news/england-records-first-avian-influenza-outbreak-of-season-as-32000-hens-culled",
+      "published_at": "2026-10-23T02:42:00.000Z",
+      "created_at": "2026-10-23 10:40:14",
+      "ai_at": "2026-10-23 10:40:21",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "First avian influenza case of the season confirmed in England",
+          "url": "https://www.nfuonline.com/news/first-avian-influenza-case-of-the-season-confirmed-in-england/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-19T17:00:00.000Z"
+        }
+      ]
+    },
     {
       "fingerprint": "558be7c3da29ef639f8db659d288f641041546e0",
       "disease": "африканская чума свиней",
@@ -497,22 +521,6 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "9aecfab6f8e0a4e1062333f10a7ad59ebe7e3122",
-      "disease": "грипп птиц",
-      "country": "Англия",
-      "distance_km": 2500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В Англии зафиксирован первый случай птичьего гриппа в текущем сезоне",
-      "source_id": "bing-world-ai",
-      "title": "First avian influenza case of the season confirmed in England",
-      "url": "https://www.nfuonline.com/news/first-avian-influenza-case-of-the-season-confirmed-in-england/",
-      "published_at": "2026-10-19T17:00:00.000Z",
-      "created_at": "2026-10-20 18:40:16",
-      "ai_at": "2026-10-20 18:40:35",
-      "dup_count": 1
-    },
-    {
       "fingerprint": "6e9e9e8cde64127b14e58ce821756c55fb7a130c",
       "disease": "африканская чума свиней",
       "country": "Намибия",
@@ -542,7 +550,7 @@
       "published_at": "2026-10-18T16:59:00.000Z",
       "created_at": "2026-10-20 06:40:14",
       "ai_at": "2026-10-20 06:40:55",
-      "dup_count": 16,
+      "dup_count": 15,
       "dups": [
         {
           "title": "Vietnam's Nghe An province tightens controls as African swine fever persists",
