@@ -1,7 +1,39 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-23T20:40:25.275Z",
+  "generated_at": "2026-10-24T00:40:25.684Z",
   "items": [
+    {
+      "fingerprint": "2681400540238063cc415bbb0e573d3ee0d90f1e",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "В провинции Куанг Трий усиливаются случаи заражений. Здравоохранительный департамент просит расследовать эпидемии в течение 48 часов и усилить надзор за сообщес",
+      "source_id": "bing-world-fmd",
+      "title": "Quang Tri requests handling of infectious disease outbreaks within 48 hours",
+      "url": "https://news.laodong.vn/suc-khoe/quang-tri-yeu-cau-xu-ly-o-dich-truyen-nhiem-trong-48-gio-1788220.ldo",
+      "published_at": "2026-10-23T09:34:00.000Z",
+      "created_at": "2026-10-24 00:40:14",
+      "ai_at": "2026-10-24 00:40:21",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "8d568c3db6781329ab1b9cc2d0c29e20005641c4",
+      "disease": "африканская чума свиней",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "В регионе усиливают мониторинг и профилактические меры из-за проступания африканской чумы свиней",
+      "source_id": "bing-world-asf",
+      "title": "African swine fever diễn biến phức tạp, Can Tho tightens prevention and control",
+      "url": "https://news.laodong.vn/xa-hoi/dich-ta-heo-chau-phi-dien-bien-phuc-tap-can-tho-siet-chat-phong-chong-1788228.ldo",
+      "published_at": "2026-10-23T08:59:00.000Z",
+      "created_at": "2026-10-24 00:40:14",
+      "ai_at": "2026-10-24 00:40:24",
+      "dup_count": 1
+    },
     {
       "fingerprint": "6c80b653b073fd3fa56bc86ae0642c3b382d2d64",
       "disease": null,
@@ -262,7 +294,7 @@
       "published_at": "2026-10-21T22:00:00.000Z",
       "created_at": "2026-10-23 20:40:14",
       "ai_at": "2026-10-23 20:40:21",
-      "dup_count": 8,
+      "dup_count": 7,
       "dups": [
         {
           "title": "Highly Pathogenic Avian Influenza Confirmed in Barron County",
@@ -299,12 +331,6 @@
           "url": "https://ny1.com/nyc/all-boroughs/news/2025/02/08/15-birds-die-of-bird-flu-at-city-zoos--officials-say",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-17T12:00:00.000Z"
-        },
-        {
-          "title": "Washington: Human avian influenza case reported in Yakima County",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad509601db249c783b1dc53aaeb75ca&url=https%3a%2f%2foutbreaknewstoday.substack.com%2fp%2fwashington-human-avian-influenza&c=1780436491715969343&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-17T06:33:00.000Z"
         }
       ]
     },
@@ -802,7 +828,7 @@
       "published_at": "2026-10-17T08:56:00.000Z",
       "created_at": "2026-10-20 06:40:14",
       "ai_at": "2026-10-20 06:41:23",
-      "dup_count": 11,
+      "dup_count": 10,
       "dups": [
         {
           "title": "Punjab adopts zero-tolerance policy for concealment of foot-and-mouth disease outbreaks",
@@ -855,12 +881,6 @@
         {
           "title": "Punjab adopts zero-tolerance policy for concealment of foot-and-mouth disease outbreaks",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad40bdb39d3401ca90cb99c2eb930ec&url=https%3a%2f%2fminutemirror.com.pk%2fpunjab-adopts-zero-tolerance-policy-for-concealment-of-foot-and-mouth-disease-outbreaks-646530%2f&c=16325183360031870546&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-17T08:56:00.000Z"
-        },
-        {
-          "title": "Punjab adopts zero-tolerance policy for concealment of foot-and-mouth disease outbreaks",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad3ca0f35a948c49fd95e23a0911889&url=https%3a%2f%2fminutemirror.com.pk%2fpunjab-adopts-zero-tolerance-policy-for-concealment-of-foot-and-mouth-disease-outbreaks-646530%2f&c=16325183360031870546&mkt=en-us",
           "source_id": "bing-world-fmd",
           "published_at": "2026-10-17T08:56:00.000Z"
         }
