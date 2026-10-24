@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-24T00:40:25.684Z",
+  "generated_at": "2026-10-24T06:40:23.369Z",
   "items": [
+    {
+      "fingerprint": "51cfee600f058b9ae32259da4eaf25a3383e31e1",
+      "disease": null,
+      "country": "Филиппины",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "В городе Себу подтверждены случаи африканской чумы свиней, усилено наблюдение",
+      "source_id": "bing-world-asf",
+      "title": "Cebu City clarifies ASF outbreak in Sapangdaku, sets up checkpoints",
+      "url": "https://cebudailynews.inquirer.net/778377/cebu-city-sets-up-checkpoints-clarifies-asf-cases-in-sapangdaku",
+      "published_at": "2026-10-23T16:40:00.000Z",
+      "created_at": "2026-10-24 06:40:14",
+      "ai_at": "2026-10-24 06:40:18",
+      "dup_count": 1
+    },
     {
       "fingerprint": "2681400540238063cc415bbb0e573d3ee0d90f1e",
       "disease": null,
@@ -16,6 +32,22 @@
       "published_at": "2026-10-23T09:34:00.000Z",
       "created_at": "2026-10-24 00:40:14",
       "ai_at": "2026-10-24 00:40:21",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "0fdffe0f54c8a72ae40029ec7552feb1abe90bc1",
+      "disease": "грипп птиц",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "В Нигерии усилены меры по борьбе с распространением птичьего гриппа",
+      "source_id": "bing-world-ai",
+      "title": "FG, FAO Intensify Efforts To Contain Avian Influenza, Strengthen Animal Movement Control",
+      "url": "https://fmino.gov.ng/fg-fao-intensify-efforts-to-contain-avian-influenza-strengthen-animal-movement-control/",
+      "published_at": "2026-10-23T09:17:00.000Z",
+      "created_at": "2026-10-24 06:40:14",
+      "ai_at": "2026-10-24 06:40:20",
       "dup_count": 1
     },
     {
@@ -828,7 +860,7 @@
       "published_at": "2026-10-17T08:56:00.000Z",
       "created_at": "2026-10-20 06:40:14",
       "ai_at": "2026-10-20 06:41:23",
-      "dup_count": 10,
+      "dup_count": 8,
       "dups": [
         {
           "title": "Punjab adopts zero-tolerance policy for concealment of foot-and-mouth disease outbreaks",
@@ -869,18 +901,6 @@
         {
           "title": "Punjab adopts zero-tolerance policy for concealment of foot-and-mouth disease outbreaks",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4c5e9c0544b01bdb79e030b7db900&url=https%3a%2f%2fminutemirror.com.pk%2fpunjab-adopts-zero-tolerance-policy-for-concealment-of-foot-and-mouth-disease-outbreaks-646530%2f&c=16325183360031870546&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-17T08:56:00.000Z"
-        },
-        {
-          "title": "Punjab adopts zero-tolerance policy for concealment of foot-and-mouth disease outbreaks",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad44482a7134aca96779b7f50d7b1ab&url=https%3a%2f%2fminutemirror.com.pk%2fpunjab-adopts-zero-tolerance-policy-for-concealment-of-foot-and-mouth-disease-outbreaks-646530%2f&c=16325183360031870546&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-17T08:56:00.000Z"
-        },
-        {
-          "title": "Punjab adopts zero-tolerance policy for concealment of foot-and-mouth disease outbreaks",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad40bdb39d3401ca90cb99c2eb930ec&url=https%3a%2f%2fminutemirror.com.pk%2fpunjab-adopts-zero-tolerance-policy-for-concealment-of-foot-and-mouth-disease-outbreaks-646530%2f&c=16325183360031870546&mkt=en-us",
           "source_id": "bing-world-fmd",
           "published_at": "2026-10-17T08:56:00.000Z"
         }
