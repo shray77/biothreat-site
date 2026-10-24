@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-24T06:40:23.369Z",
+  "generated_at": "2026-10-24T10:40:22.092Z",
   "items": [
+    {
+      "fingerprint": "63c8dfd6921ad5b7edd1ea58a72a31482d0ee03a",
+      "disease": null,
+      "country": "США",
+      "distance_km": 5000,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "В штате Иллинойс подтверждена вспышка гриппа птиц, уничтожено nearly 935 000 линьших кур.",
+      "source_id": "bing-world-ai",
+      "title": "Illinois HPAI Outbreak: Nearly 935,000 Layers Depopulated",
+      "url": "https://www.poultrymed.com/ID-Eng-GermanT241026",
+      "published_at": "2026-10-23T17:00:00.000Z",
+      "created_at": "2026-10-24 10:40:14",
+      "ai_at": "2026-10-24 10:40:19",
+      "dup_count": 1
+    },
     {
       "fingerprint": "51cfee600f058b9ae32259da4eaf25a3383e31e1",
       "disease": null,
@@ -860,7 +876,7 @@
       "published_at": "2026-10-17T08:56:00.000Z",
       "created_at": "2026-10-20 06:40:14",
       "ai_at": "2026-10-20 06:41:23",
-      "dup_count": 8,
+      "dup_count": 7,
       "dups": [
         {
           "title": "Punjab adopts zero-tolerance policy for concealment of foot-and-mouth disease outbreaks",
@@ -895,12 +911,6 @@
         {
           "title": "Punjab adopts zero-tolerance policy for concealment of foot-and-mouth disease outbreaks",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5095ffba74d49a5f3ead59168918b&url=https%3a%2f%2fminutemirror.com.pk%2fpunjab-adopts-zero-tolerance-policy-for-concealment-of-foot-and-mouth-disease-outbreaks-646530%2f&c=16325183360031870546&mkt=en-us",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-17T08:56:00.000Z"
-        },
-        {
-          "title": "Punjab adopts zero-tolerance policy for concealment of foot-and-mouth disease outbreaks",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4c5e9c0544b01bdb79e030b7db900&url=https%3a%2f%2fminutemirror.com.pk%2fpunjab-adopts-zero-tolerance-policy-for-concealment-of-foot-and-mouth-disease-outbreaks-646530%2f&c=16325183360031870546&mkt=en-us",
           "source_id": "bing-world-fmd",
           "published_at": "2026-10-17T08:56:00.000Z"
         }
