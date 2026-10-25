@@ -1,39 +1,45 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-25T06:40:19.181Z",
+  "generated_at": "2026-10-25T14:40:21.090Z",
   "items": [
     {
-      "fingerprint": "9a99c071ada8f1a57bae39fae33f9a62dc8ee193",
-      "disease": "ящур",
-      "country": "Кипр",
-      "distance_km": null,
-      "level": "не определено",
+      "fingerprint": "b1f449e555989a5e85f5d2e6b550a16a1b39c68e",
+      "disease": null,
+      "country": "США",
+      "distance_km": 5000,
+      "level": "фон",
       "verdict": "probable",
-      "ai_summary": "Власти Кипра одобрили выплаты в 1,9 млн. евро фермерам, пострадавшим от ящура",
-      "source_id": "bing-world-fmd",
-      "title": "Cyprus Approves Nearly 2 Million Euros in Compensation for Farmers Hit by Foot-and-Mouth Outbreak",
-      "url": "https://famagusta-gazette.com/cyprus-approves-nearly-2-million-euros-in-compensation-for-farmers-hit-by-foot-and-mouth-outbreak/",
-      "published_at": "2026-10-24T17:00:00.000Z",
-      "created_at": "2026-10-25 06:40:14",
-      "ai_at": "2026-10-25 06:40:18",
+      "ai_summary": "В штате Юта на ферме разразилась вспышка птицевой гриппа, что вызвало опасения по поводу реакции властей",
+      "source_id": "bing-world-ai",
+      "title": "Bird flu outbreak at Utah mink farm sparks concerns about government response",
+      "url": "https://www.theguardian.com/us-news/2026/oct/25/bird-flu-utah-mink-farm-trump-administration",
+      "published_at": "2026-10-25T05:01:00.000Z",
+      "created_at": "2026-10-25 14:40:14",
+      "ai_at": "2026-10-25 14:40:17",
       "dup_count": 1
     },
     {
-      "fingerprint": "d6553a2f9bd75db779105f9d9e4c3701baf43af8",
+      "fingerprint": "b16db6125e8d448f3aa7e5873e5e6549a551f674",
       "disease": "грипп птиц",
       "country": "Великобритания",
       "distance_km": 2500,
       "level": "фон",
       "verdict": "probable",
-      "ai_summary": "Были выявлены два случая гриппа птиц в Великобритании",
+      "ai_summary": "Великобритания готова к возможной вспышке гриппа птиц",
       "source_id": "bing-world-ai",
-      "title": "Bird Flu in the UK: What the Latest Outbreak Means for You",
-      "url": "https://www.webtech360.com/detail/bird-flu-in-the-uk-what-the-latest-outbreak-means-en-trend-hp2-99911514.html",
-      "published_at": "2026-10-24T17:00:00.000Z",
-      "created_at": "2026-10-25 00:40:14",
-      "ai_at": "2026-10-25 00:40:19",
-      "dup_count": 4,
+      "title": "Avian Influenza – Staying Vigilant",
+      "url": "https://www.farminglife.com/business/avian-influenza-staying-vigilant-9306438",
+      "published_at": "2026-10-25T03:00:00.000Z",
+      "created_at": "2026-10-25 14:40:14",
+      "ai_at": "2026-10-25 14:40:20",
+      "dup_count": 5,
       "dups": [
+        {
+          "title": "Bird Flu in the UK: What the Latest Outbreak Means for You",
+          "url": "https://www.webtech360.com/detail/bird-flu-in-the-uk-what-the-latest-outbreak-means-en-trend-hp2-99911514.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-24T17:00:00.000Z"
+        },
         {
           "title": "Fears of Christmas turkey shortage after bird flu outbreak leads to mass cull",
           "url": "https://metro.co.uk/2026/10/24/fears-christmas-turkey-shortage-bird-flu-outbreak-leads-mass-cull-29736359/",
@@ -55,6 +61,22 @@
       ]
     },
     {
+      "fingerprint": "9a99c071ada8f1a57bae39fae33f9a62dc8ee193",
+      "disease": "ящур",
+      "country": "Кипр",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Власти Кипра одобрили выплаты в 1,9 млн. евро фермерам, пострадавшим от ящура",
+      "source_id": "bing-world-fmd",
+      "title": "Cyprus Approves Nearly 2 Million Euros in Compensation for Farmers Hit by Foot-and-Mouth Outbreak",
+      "url": "https://famagusta-gazette.com/cyprus-approves-nearly-2-million-euros-in-compensation-for-farmers-hit-by-foot-and-mouth-outbreak/",
+      "published_at": "2026-10-24T17:00:00.000Z",
+      "created_at": "2026-10-25 06:40:14",
+      "ai_at": "2026-10-25 06:40:18",
+      "dup_count": 1
+    },
+    {
       "fingerprint": "d37861ce0c5396b2c97a69b4b581f9dde7f13c76",
       "disease": "грипп птиц",
       "country": "США",
@@ -68,7 +90,7 @@
       "published_at": "2026-10-24T14:40:00.000Z",
       "created_at": "2026-10-25 00:40:14",
       "ai_at": "2026-10-25 00:40:22",
-      "dup_count": 8,
+      "dup_count": 7,
       "dups": [
         {
           "title": "Highly pathogenic avian influenza confirmed in Barron County",
@@ -105,12 +127,6 @@
           "url": "https://madison.com/article_4e0f3bac-0592-5cc2-93de-12999c390300.html",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-18T22:00:00.000Z"
-        },
-        {
-          "title": "Multiple birds die at city zoos amid bird flu outbreak, officials say",
-          "url": "https://ny1.com/nyc/all-boroughs/news/2025/02/08/15-birds-die-of-bird-flu-at-city-zoos--officials-say",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-17T12:00:00.000Z"
         }
       ]
     },
@@ -724,7 +740,7 @@
       "published_at": "2026-10-18T16:59:00.000Z",
       "created_at": "2026-10-20 06:40:14",
       "ai_at": "2026-10-20 06:40:55",
-      "dup_count": 14,
+      "dup_count": 13,
       "dups": [
         {
           "title": "Vietnam's Nghe An province tightens controls as African swine fever persists",
