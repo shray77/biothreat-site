@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-25T00:40:26.915Z",
+  "generated_at": "2026-10-25T06:40:19.181Z",
   "items": [
+    {
+      "fingerprint": "9a99c071ada8f1a57bae39fae33f9a62dc8ee193",
+      "disease": "ящур",
+      "country": "Кипр",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Власти Кипра одобрили выплаты в 1,9 млн. евро фермерам, пострадавшим от ящура",
+      "source_id": "bing-world-fmd",
+      "title": "Cyprus Approves Nearly 2 Million Euros in Compensation for Farmers Hit by Foot-and-Mouth Outbreak",
+      "url": "https://famagusta-gazette.com/cyprus-approves-nearly-2-million-euros-in-compensation-for-farmers-hit-by-foot-and-mouth-outbreak/",
+      "published_at": "2026-10-24T17:00:00.000Z",
+      "created_at": "2026-10-25 06:40:14",
+      "ai_at": "2026-10-25 06:40:18",
+      "dup_count": 1
+    },
     {
       "fingerprint": "d6553a2f9bd75db779105f9d9e4c3701baf43af8",
       "disease": "грипп птиц",
@@ -927,22 +943,6 @@
           "published_at": "2026-10-17T13:33:00.000Z"
         }
       ]
-    },
-    {
-      "fingerprint": "2fe4c0a0014f9af372bd2df6c84c0dbd0259c110",
-      "disease": "африканская чума свиней",
-      "country": "Пакистан",
-      "distance_km": 2300,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "В Пакистане введен запрет на сокрытие вспышек африканской чумы свиней",
-      "source_id": "bing-world-fmd",
-      "title": "Punjab adopts zero-tolerance policy for concealment of foot-and-mouth disease outbreaks",
-      "url": "https://minutemirror.com.pk/punjab-adopts-zero-tolerance-policy-for-concealment-of-foot-and-mouth-disease-outbreaks-646530/",
-      "published_at": "2026-10-17T08:56:00.000Z",
-      "created_at": "2026-10-20 06:40:14",
-      "ai_at": "2026-10-20 06:41:23",
-      "dup_count": 1
     }
   ]
 }
