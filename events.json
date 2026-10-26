@@ -1,7 +1,39 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-26T12:40:22.160Z",
+  "generated_at": "2026-10-26T20:40:52.417Z",
   "items": [
+    {
+      "fingerprint": "5a6f9a397076e34865b9570ff3d53cebd3d66fff",
+      "disease": "грипп птиц",
+      "country": "Дания",
+      "distance_km": 1200,
+      "level": "наблюдение",
+      "verdict": "probable",
+      "ai_summary": "В Дании и Великобритании зарегистрированы первые случаи гриппа птиц в сельскохозяйственном секторе",
+      "source_id": "bing-world-ai",
+      "title": "Denmark, U.K. record season’s first farm avian flu outbreaks",
+      "url": "https://www.wattagnet.com/poultry-meat/diseases-health/avian-influenza/news/15975382/denmark-uk-record-seasons-first-farm-avian-flu-outbreaks",
+      "published_at": "2026-10-26T10:27:00.000Z",
+      "created_at": "2026-10-26 20:40:14",
+      "ai_at": "2026-10-26 20:40:18",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "8b49a0505a0efd3b1de513fbe0d6914836b31a9f",
+      "disease": "грипп птиц",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Nigerian Government, FAO Intensify Avian Influenza Control",
+      "url": "https://von.gov.ng/nigerian-government-fao-intensify-avian-influenza-control/",
+      "published_at": "2026-10-26T03:32:00.000Z",
+      "created_at": "2026-10-26 20:40:14",
+      "ai_at": "2026-10-26 20:40:20",
+      "dup_count": 1
+    },
     {
       "fingerprint": "c90cd64bf1a342106192acb0fe2a0db6da27b446",
       "disease": "грипп птиц",
@@ -16,8 +48,14 @@
       "published_at": "2026-10-26T03:01:00.000Z",
       "created_at": "2026-10-26 12:40:14",
       "ai_at": "2026-10-26 12:40:20",
-      "dup_count": 11,
+      "dup_count": 12,
       "dups": [
+        {
+          "title": "Highly Pathogenic Avian Influenza Confirmed in Barron County",
+          "url": "https://wsau.com/2026/10/26/highly-pathogenic-avian-influenza-confirmed-in-barron-county-5/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-26T00:04:00.000Z"
+        },
         {
           "title": "Nearly 1 Million Chickens Slaughtered at Second-Largest Egg-Producing Farm in the U.S. amid Bird Flu Outbreak",
           "url": "https://people.com/nearly-1-million-chickens-killed-at-egg-farm-as-nation-s-largest-bird-flu-outbreak-grows-12192789",
@@ -71,12 +109,52 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c7eca44e282eefe9fbbdf6790&url=https%3a%2f%2fwww.wdio.com%2ftop-stories%2fhighly-pathogenic-avian-influenza-found-in-barron-county%2f&c=11127009982934696702&mkt=en-us",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-19T14:22:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "af5d34bc13bdf7dcf6a863e739a8df85c5ded659",
+      "disease": null,
+      "country": "Намибия",
+      "distance_km": 6500,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "Намибия может вывести уроки из опыта Ботсваны в управлении вспышками АЧС",
+      "source_id": "bing-world-fmd",
+      "title": "The legal, trade, and compliance implications of Namibia’s FMD outbreak",
+      "url": "https://economist.com.na/the-legal-trade-and-compliance-implications-of-namibias-fmd-outbreak/",
+      "published_at": "2026-10-25T17:00:00.000Z",
+      "created_at": "2026-10-26 20:40:14",
+      "ai_at": "2026-10-26 20:40:27",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "6c4ef85e7a112391e8620440391ec8d1b5a2fa21",
+      "disease": "африканская чума свиней",
+      "country": "Намибия",
+      "distance_km": 6500,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "Министр сельского хозяйства посетила регион Замбези для оценки реагирования на африканскую чуму свиней",
+      "source_id": "bing-world-fmd",
+      "title": "Agriculture Minister visits Zambezi Region to assess foot-and-mouth disease response",
+      "url": "https://economist.com.na/agriculture-minister-visits-zambezi-region-to-assess-foot-and-mouth-disease-response/",
+      "published_at": "2026-10-25T17:00:00.000Z",
+      "created_at": "2026-10-26 20:40:14",
+      "ai_at": "2026-10-26 20:40:32",
+      "dup_count": 3,
+      "dups": [
+        {
+          "title": "Namibia, South Africa livestock industries seek interim trade measures amid FMD outbreak",
+          "url": "https://observer24.com.na/namibia-south-africa-livestock-industries-seek-interim-trade-measures-amid-fmd-outbreak/",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-18T21:48:00.000Z"
         },
         {
-          "title": "Avian influenza confirmed in Barron County poultry flock",
-          "url": "https://madison.com/article_4e0f3bac-0592-5cc2-93de-12999c390300.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-18T22:00:00.000Z"
+          "title": "Judge slams CPBN as FMD breaks in Zambezi …Fence construction continues despite tender dispute as Namibia confirms new outbreak",
+          "url": "https://observer24.com.na/judge-slams-cpbn-as-fmd-breaks-in-zambezi-fence-construction-continues-despite-tender-dispute-as-namibia-confirms-new-outbreak/",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-18T05:48:00.000Z"
         }
       ]
     },
@@ -336,7 +414,7 @@
       "published_at": "2026-10-22T17:00:00.000Z",
       "created_at": "2026-10-23 04:40:14",
       "ai_at": "2026-10-23 04:40:19",
-      "dup_count": 16,
+      "dup_count": 14,
       "dups": [
         {
           "title": "Chief Secretary Reviews Situation Following Confirmation of African Swine Fever Outbreak; Directs Coordinated Containment Measures",
@@ -727,30 +805,6 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "6e9e9e8cde64127b14e58ce821756c55fb7a130c",
-      "disease": "африканская чума свиней",
-      "country": "Намибия",
-      "distance_km": 6500,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "В Намибии рассматривают меры по уменьшению распространения африканской чумы свиней",
-      "source_id": "bing-world-fmd",
-      "title": "Namibia, South Africa livestock industries seek interim trade measures amid FMD outbreak",
-      "url": "https://observer24.com.na/namibia-south-africa-livestock-industries-seek-interim-trade-measures-amid-fmd-outbreak/",
-      "published_at": "2026-10-18T21:48:00.000Z",
-      "created_at": "2026-10-20 06:40:14",
-      "ai_at": "2026-10-20 06:40:37",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Judge slams CPBN as FMD breaks in Zambezi …Fence construction continues despite tender dispute as Namibia confirms new outbreak",
-          "url": "https://observer24.com.na/judge-slams-cpbn-as-fmd-breaks-in-zambezi-fence-construction-continues-despite-tender-dispute-as-namibia-confirms-new-outbreak/",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-18T05:48:00.000Z"
-        }
-      ]
-    },
-    {
       "fingerprint": "4b140ef4515ba1fabce06965c0b6d7f8b6892d47",
       "disease": "африканская чума свиней",
       "country": "Вьетнам",
@@ -917,46 +971,6 @@
           "published_at": "2026-10-17T21:58:00.000Z"
         }
       ]
-    },
-    {
-      "fingerprint": "09491448ee04fc1bd32f9d27acbf453be5f8b665",
-      "disease": "африканская чума свиней",
-      "country": "Ассам",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "В округе Тинсюкия штата Ассам введен запрет на продажу и перемещение свиней на 30 дней после вспышки африканской чумы свиней в деревне Хутипатхар.",
-      "source_id": "bing-world-asf",
-      "title": "Assam: Tinsukia administration imposes 30-day pork ban in Sadiya after ASF outbreak",
-      "url": "https://nenow.in/north-east-news/assam/assam-tinsukia-administration-imposes-30-day-pork-ban-in-sadiya-after-asf-outbreak.html",
-      "published_at": "2026-10-17T17:00:00.000Z",
-      "created_at": "2026-10-20 06:40:14",
-      "ai_at": "2026-10-20 06:41:15",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Assam: Tinsukia administration imposes 30-day pork ban in Sadiya after ASF outbreak",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad55ff500b8435b854c4c84d32eeb6f&url=https%3a%2f%2fnenow.in%2fnorth-east-news%2fassam%2fassam-tinsukia-administration-imposes-30-day-pork-ban-in-sadiya-after-asf-outbreak.html&c=2496608065140647339&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-17T17:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "dcd559d606c975c3ed9c37355a9f83b495be8cc4",
-      "disease": null,
-      "country": "США",
-      "distance_km": 5000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "Washington: Human avian influenza case reported in Yakima County",
-      "url": "https://outbreaknewstoday.substack.com/p/washington-human-avian-influenza",
-      "published_at": "2026-10-17T13:33:00.000Z",
-      "created_at": "2026-10-20 06:40:14",
-      "ai_at": "2026-10-20 06:41:19",
-      "dup_count": 1
     }
   ]
 }
