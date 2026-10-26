@@ -1,23 +1,29 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-25T20:40:23.706Z",
+  "generated_at": "2026-10-26T06:40:19.618Z",
   "items": [
     {
-      "fingerprint": "8a95ef40d59b9d7d6491a61b138839f18a3f3636",
+      "fingerprint": "658ab195d458b4013770673a5e15c7f5880b0ef1",
       "disease": "грипп птиц",
       "country": "США",
       "distance_km": 5000,
       "level": "фон",
       "verdict": "confirmed",
-      "ai_summary": "Уничтожено более 1 млн индеек на второй по величине птицефабрике США из-за вспышки гриппа птиц",
+      "ai_summary": "Почти 1 миллион кур убиты на второй по величине птицефабрике США в штате Иллинойс во время вспышки гриппа птиц.",
       "source_id": "bing-world-ai",
       "title": "Nearly 1 Million Chickens Slaughtered at Second-Largest Egg-Producing Farm in the U.S. amid Bird Flu Outbreak",
-      "url": "https://www.yahoo.com/news/science/articles/nearly-1-million-chickens-slaughtered-153059381.html",
+      "url": "https://people.com/nearly-1-million-chickens-killed-at-egg-farm-as-nation-s-largest-bird-flu-outbreak-grows-12192789",
       "published_at": "2026-10-25T08:30:00.000Z",
-      "created_at": "2026-10-25 20:40:14",
-      "ai_at": "2026-10-25 20:40:19",
-      "dup_count": 9,
+      "created_at": "2026-10-26 06:40:14",
+      "ai_at": "2026-10-26 06:40:19",
+      "dup_count": 10,
       "dups": [
+        {
+          "title": "Nearly 1 Million Chickens Slaughtered at Second-Largest Egg-Producing Farm in the U.S. amid Bird Flu Outbreak",
+          "url": "https://www.yahoo.com/news/science/articles/nearly-1-million-chickens-slaughtered-153059381.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-25T08:30:00.000Z"
+        },
         {
           "title": "Nearly 1 million chickens killed at egg farm as nation’s largest bird flu outbreak grows",
           "url": "https://ca.news.yahoo.com/nearly-1-million-chickens-killed-214057443.html",
@@ -944,17 +950,11 @@
       "published_at": "2026-10-17T13:33:00.000Z",
       "created_at": "2026-10-20 06:40:14",
       "ai_at": "2026-10-20 06:41:19",
-      "dup_count": 3,
+      "dup_count": 2,
       "dups": [
         {
           "title": "Washington: Human avian influenza case reported in Yakima County",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c7eca44e282eefe9fbbdf6790&url=https%3a%2f%2foutbreaknewstoday.substack.com%2fp%2fwashington-human-avian-influenza&c=1780436491715969343&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-17T13:33:00.000Z"
-        },
-        {
-          "title": "Washington: Human avian influenza case reported in Yakima County",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad63ec010aa4d40ac9883f36e10fcbb&url=https%3a%2f%2foutbreaknewstoday.substack.com%2fp%2fwashington-human-avian-influenza&c=1780436491715969343&mkt=en-us",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-17T13:33:00.000Z"
         }
