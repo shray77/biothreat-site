@@ -155,6 +155,24 @@
 <style>/* vet-ds v2.1: тоггл темы с подписью — виден среди метаданных */
   .theme-pill { min-height: 34px; padding: 0 13px; font: 500 12px var(--ds-font-mono); }
   .theme-pill svg { color: var(--ds-accent); }
+
+/* -- мобильная компакция (Task 165): шапка даёт контенту первый экран -- */
+@media (max-width:640px){
+  header.top{padding-bottom:10px}
+  .topbar{padding-top:14px;gap:10px}
+  .brand{gap:10px}
+  .logo{width:34px;height:34px}
+  .logo svg{width:20px;height:20px}
+  h1{font-size:21px}
+  .brand p{font-size:12.5px;line-height:1.4;margin:3px 0 0;
+    display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden}
+  .topbar .live,.topbar-right{flex-wrap:nowrap}
+  .hub{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;-ms-overflow-style:none;
+    -webkit-overflow-scrolling:touch;padding-bottom:2px}
+  .hub::-webkit-scrollbar{display:none}
+  .hub a{flex:none;white-space:nowrap}
+  footer{padding-bottom:calc(24px + env(safe-area-inset-bottom,0px))}
+}
 </style>
 </head>
 <body>
@@ -214,10 +232,7 @@
 <footer>
   <div class="wrap foot">
     <span class="legal">информационный сервис · не ветеринарный совет · <a href="./terms.html">условия и дисклеймер</a></span>
-    <span>данные: <a href="./events.json">events.json</a> · ИИ читает мировые новости, уровни — по оценке расстояния до границы РФ</span>
-    <a href="./events.xml">RSS</a>
-    <a href="https://shray77.github.io/rss-core-site/">статус конвейера →</a>
-    <a href="https://github.com/shray77/biothreat">репозиторий</a>
+    <span>данные: <a href="./events.json">events.json</a> · ИИ читает мировые новости, уровни — по оценке расстояния до границы РФ · <a href="./events.xml">RSS</a> · <a href="https://shray77.github.io/rss-core-site/">статус конвейера →</a> · <a href="https://github.com/shray77/biothreat">репозиторий</a></span>
   </div>
 </footer>
 
