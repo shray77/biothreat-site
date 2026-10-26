@@ -1,23 +1,29 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-26T06:40:19.618Z",
+  "generated_at": "2026-10-26T12:40:22.160Z",
   "items": [
     {
-      "fingerprint": "658ab195d458b4013770673a5e15c7f5880b0ef1",
+      "fingerprint": "c90cd64bf1a342106192acb0fe2a0db6da27b446",
       "disease": "грипп птиц",
       "country": "США",
       "distance_km": 5000,
       "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Почти 1 миллион кур убиты на второй по величине птицефабрике США в штате Иллинойс во время вспышки гриппа птиц.",
+      "verdict": "probable",
+      "ai_summary": "В США вспышка гриппа птиц на ферме выращивания норок может спровоцировать пандемию у людей, считают эксперты.",
       "source_id": "bing-world-ai",
-      "title": "Nearly 1 Million Chickens Slaughtered at Second-Largest Egg-Producing Farm in the U.S. amid Bird Flu Outbreak",
-      "url": "https://people.com/nearly-1-million-chickens-killed-at-egg-farm-as-nation-s-largest-bird-flu-outbreak-grows-12192789",
-      "published_at": "2026-10-25T08:30:00.000Z",
-      "created_at": "2026-10-26 06:40:14",
-      "ai_at": "2026-10-26 06:40:19",
-      "dup_count": 10,
+      "title": "Bird flu is raging on a mink farm. It could spark a human pandemic, experts say, but officials won’t act.",
+      "url": "https://www.cnn.com/2026/10/26/health/bird-flu-mink-farm-propublica",
+      "published_at": "2026-10-26T03:01:00.000Z",
+      "created_at": "2026-10-26 12:40:14",
+      "ai_at": "2026-10-26 12:40:20",
+      "dup_count": 11,
       "dups": [
+        {
+          "title": "Nearly 1 Million Chickens Slaughtered at Second-Largest Egg-Producing Farm in the U.S. amid Bird Flu Outbreak",
+          "url": "https://people.com/nearly-1-million-chickens-killed-at-egg-farm-as-nation-s-largest-bird-flu-outbreak-grows-12192789",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-25T08:30:00.000Z"
+        },
         {
           "title": "Nearly 1 Million Chickens Slaughtered at Second-Largest Egg-Producing Farm in the U.S. amid Bird Flu Outbreak",
           "url": "https://www.yahoo.com/news/science/articles/nearly-1-million-chickens-slaughtered-153059381.html",
@@ -950,15 +956,7 @@
       "published_at": "2026-10-17T13:33:00.000Z",
       "created_at": "2026-10-20 06:40:14",
       "ai_at": "2026-10-20 06:41:19",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Washington: Human avian influenza case reported in Yakima County",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c7eca44e282eefe9fbbdf6790&url=https%3a%2f%2foutbreaknewstoday.substack.com%2fp%2fwashington-human-avian-influenza&c=1780436491715969343&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-17T13:33:00.000Z"
-        }
-      ]
+      "dup_count": 1
     }
   ]
 }
