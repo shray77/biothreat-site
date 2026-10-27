@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-27T06:40:14.666Z",
+  "generated_at": "2026-10-27T12:40:17.834Z",
   "items": [
+    {
+      "fingerprint": "4ad08fd5424c5b863120b80414da388b4bc3f84e",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Nearly 1 million chickens killed after bird flu outbreak hits one of America’s biggest egg producers",
+      "url": "https://www.msn.com/en-us/news/other/nearly-1-million-chickens-killed-after-bird-flu-outbreak-hits-one-of-america-s-biggest-egg-producers/ar-AA2g9GRj",
+      "published_at": "2026-10-27T02:04:35.000Z",
+      "created_at": "2026-10-27 12:40:15",
+      "ai_at": null,
+      "dup_count": 1
+    },
     {
       "fingerprint": "cbb17e8011c47d2de25cf99b806892f56781e0db",
       "disease": null,
@@ -25,6 +41,22 @@
           "published_at": "2026-10-25T17:00:00.000Z"
         }
       ]
+    },
+    {
+      "fingerprint": "c3fb2ec28de8cad7056ca0ceb1021195a3667866",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Utah Mink Farm Bird Flu Outbreak Exposes Response Gaps",
+      "url": "https://www.medindia.net/news/utah-mink-farm-bird-flu-outbreak-exposes-response-gaps-225725-1.htm",
+      "published_at": "2026-10-26T17:19:00.000Z",
+      "created_at": "2026-10-27 12:40:15",
+      "ai_at": null,
+      "dup_count": 1
     },
     {
       "fingerprint": "745e707fdfce7cc9a7fa5354ae889e507a450aa2",
@@ -974,23 +1006,11 @@
       "published_at": "2026-10-17T21:58:00.000Z",
       "created_at": "2026-10-20 06:40:14",
       "ai_at": "2026-10-20 06:41:08",
-      "dup_count": 4,
+      "dup_count": 2,
       "dups": [
         {
           "title": "Ogun Govt Cautions Pig Farmers On Swine Fever Outbreak",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c6fd24df6833a2ec3763e997d&url=https%3a%2f%2fleadership.ng%2fogun-govt-cautions-pig-farmers-on-swine-fever-outbreak%2f&c=17208508200252399562&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-17T21:58:00.000Z"
-        },
-        {
-          "title": "Ogun Govt Cautions Pig Farmers On Swine Fever Outbreak",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad63ebf750c46528406697d54ab29a5&url=https%3a%2f%2fleadership.ng%2fogun-govt-cautions-pig-farmers-on-swine-fever-outbreak%2f&c=17208508200252399562&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-17T21:58:00.000Z"
-        },
-        {
-          "title": "Ogun Govt Cautions Pig Farmers On Swine Fever Outbreak",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ea62dec4440085a7685d20791a55&url=https%3a%2f%2fleadership.ng%2fogun-govt-cautions-pig-farmers-on-swine-fever-outbreak%2f&c=17208508200252399562&mkt=en-us",
           "source_id": "bing-world-asf",
           "published_at": "2026-10-17T21:58:00.000Z"
         }
