@@ -1,7 +1,47 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-27T00:40:14.691Z",
+  "generated_at": "2026-10-27T06:40:14.666Z",
   "items": [
+    {
+      "fingerprint": "cbb17e8011c47d2de25cf99b806892f56781e0db",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-fmd",
+      "title": "The legal, trade and compliance implications of Namibia’s FMD outbreak",
+      "url": "https://observer24.com.na/the-legal-trade-and-compliance-implications-of-namibias-fmd-outbreak/",
+      "published_at": "2026-10-26T22:32:00.000Z",
+      "created_at": "2026-10-27 06:40:14",
+      "ai_at": null,
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "The legal, trade, and compliance implications of Namibia’s FMD outbreak",
+          "url": "https://economist.com.na/the-legal-trade-and-compliance-implications-of-namibias-fmd-outbreak/",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-25T17:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "745e707fdfce7cc9a7fa5354ae889e507a450aa2",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-asf",
+      "title": "Vietnam's Lao Cai culls 462 pigs in October as African swine fever toll for 2026 reaches 2,677",
+      "url": "https://www.efeedlink.com/articles/vietnams-lao-cai-culls-462-pigs-in-october-as-african-swine-fever-toll-for-2026-reaches-2-677",
+      "published_at": "2026-10-26T17:00:00.000Z",
+      "created_at": "2026-10-27 06:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
     {
       "fingerprint": "5a6f9a397076e34865b9570ff3d53cebd3d66fff",
       "disease": "грипп птиц",
@@ -151,22 +191,6 @@
           "published_at": "2026-10-19T14:22:00.000Z"
         }
       ]
-    },
-    {
-      "fingerprint": "af5d34bc13bdf7dcf6a863e739a8df85c5ded659",
-      "disease": null,
-      "country": "Намибия",
-      "distance_km": 6500,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "Намибия может вывести уроки из опыта Ботсваны в управлении вспышками АЧС",
-      "source_id": "bing-world-fmd",
-      "title": "The legal, trade, and compliance implications of Namibia’s FMD outbreak",
-      "url": "https://economist.com.na/the-legal-trade-and-compliance-implications-of-namibias-fmd-outbreak/",
-      "published_at": "2026-10-25T17:00:00.000Z",
-      "created_at": "2026-10-26 20:40:14",
-      "ai_at": "2026-10-26 20:40:27",
-      "dup_count": 1
     },
     {
       "fingerprint": "6c4ef85e7a112391e8620440391ec8d1b5a2fa21",
@@ -950,7 +974,7 @@
       "published_at": "2026-10-17T21:58:00.000Z",
       "created_at": "2026-10-20 06:40:14",
       "ai_at": "2026-10-20 06:41:08",
-      "dup_count": 6,
+      "dup_count": 4,
       "dups": [
         {
           "title": "Ogun Govt Cautions Pig Farmers On Swine Fever Outbreak",
@@ -967,18 +991,6 @@
         {
           "title": "Ogun Govt Cautions Pig Farmers On Swine Fever Outbreak",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ea62dec4440085a7685d20791a55&url=https%3a%2f%2fleadership.ng%2fogun-govt-cautions-pig-farmers-on-swine-fever-outbreak%2f&c=17208508200252399562&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-17T21:58:00.000Z"
-        },
-        {
-          "title": "Ogun Govt Cautions Pig Farmers On Swine Fever Outbreak",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a7a65c684c0e85c42f56c98eafe1&url=https%3a%2f%2fleadership.ng%2fogun-govt-cautions-pig-farmers-on-swine-fever-outbreak%2f&c=17208508200252399562&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-17T21:58:00.000Z"
-        },
-        {
-          "title": "Ogun Govt Cautions Pig Farmers On Swine Fever Outbreak",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad55ff500b8435b854c4c84d32eeb6f&url=https%3a%2f%2fleadership.ng%2fogun-govt-cautions-pig-farmers-on-swine-fever-outbreak%2f&c=17208508200252399562&mkt=en-us",
           "source_id": "bing-world-asf",
           "published_at": "2026-10-17T21:58:00.000Z"
         }
