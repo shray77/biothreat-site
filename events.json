@@ -1,167 +1,35 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-27T12:40:17.834Z",
+  "generated_at": "2026-10-27T18:40:41.629Z",
   "items": [
     {
       "fingerprint": "4ad08fd5424c5b863120b80414da388b4bc3f84e",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
+      "disease": "грипп птиц",
+      "country": "США",
+      "distance_km": 5000,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "В одном из крупнейших производителей яиц в США выявили птичий грипп, убито 1 миллион кур.",
       "source_id": "bing-world-ai",
       "title": "Nearly 1 million chickens killed after bird flu outbreak hits one of America’s biggest egg producers",
       "url": "https://www.msn.com/en-us/news/other/nearly-1-million-chickens-killed-after-bird-flu-outbreak-hits-one-of-america-s-biggest-egg-producers/ar-AA2g9GRj",
       "published_at": "2026-10-27T02:04:35.000Z",
       "created_at": "2026-10-27 12:40:15",
-      "ai_at": null,
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "cbb17e8011c47d2de25cf99b806892f56781e0db",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
-      "source_id": "bing-world-fmd",
-      "title": "The legal, trade and compliance implications of Namibia’s FMD outbreak",
-      "url": "https://observer24.com.na/the-legal-trade-and-compliance-implications-of-namibias-fmd-outbreak/",
-      "published_at": "2026-10-26T22:32:00.000Z",
-      "created_at": "2026-10-27 06:40:14",
-      "ai_at": null,
-      "dup_count": 2,
+      "ai_at": "2026-10-27 18:40:21",
+      "dup_count": 14,
       "dups": [
         {
-          "title": "The legal, trade, and compliance implications of Namibia’s FMD outbreak",
-          "url": "https://economist.com.na/the-legal-trade-and-compliance-implications-of-namibias-fmd-outbreak/",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-25T17:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "c3fb2ec28de8cad7056ca0ceb1021195a3667866",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "Utah Mink Farm Bird Flu Outbreak Exposes Response Gaps",
-      "url": "https://www.medindia.net/news/utah-mink-farm-bird-flu-outbreak-exposes-response-gaps-225725-1.htm",
-      "published_at": "2026-10-26T17:19:00.000Z",
-      "created_at": "2026-10-27 12:40:15",
-      "ai_at": null,
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "745e707fdfce7cc9a7fa5354ae889e507a450aa2",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
-      "source_id": "bing-world-asf",
-      "title": "Vietnam's Lao Cai culls 462 pigs in October as African swine fever toll for 2026 reaches 2,677",
-      "url": "https://www.efeedlink.com/articles/vietnams-lao-cai-culls-462-pigs-in-october-as-african-swine-fever-toll-for-2026-reaches-2-677",
-      "published_at": "2026-10-26T17:00:00.000Z",
-      "created_at": "2026-10-27 06:40:14",
-      "ai_at": null,
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "5a6f9a397076e34865b9570ff3d53cebd3d66fff",
-      "disease": "грипп птиц",
-      "country": "Дания",
-      "distance_km": 1200,
-      "level": "наблюдение",
-      "verdict": "probable",
-      "ai_summary": "В Дании и Великобритании зарегистрированы первые случаи гриппа птиц в сельскохозяйственном секторе",
-      "source_id": "bing-world-ai",
-      "title": "Denmark, U.K. record season’s first farm avian flu outbreaks",
-      "url": "https://www.wattagnet.com/poultry-meat/diseases-health/avian-influenza/news/15975382/denmark-uk-record-seasons-first-farm-avian-flu-outbreaks",
-      "published_at": "2026-10-26T10:27:00.000Z",
-      "created_at": "2026-10-26 20:40:14",
-      "ai_at": "2026-10-26 20:40:18",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "45098647386bc5dda3346750003ba2811ed34c7a",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
-      "source_id": "bing-world-asf",
-      "title": "The source of African swine fever is complicated, Can Tho recommends cautious restocking",
-      "url": "https://news.laodong.vn/kinh-doanh/nguon-lay-dich-ta-heo-chau-phi-phuc-tap-can-tho-khuyen-cao-than-trong-tai-dan-1789581.ldo",
-      "published_at": "2026-10-26T09:54:00.000Z",
-      "created_at": "2026-10-27 00:40:14",
-      "ai_at": null,
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "7124d866a2e8436cc99d7c0a79abe7eddaed4396",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "Bird flu outbreak at Utah mink farm sparks concerns about government response",
-      "url": "https://www.aol.com/articles/bird-flu-outbreak-utah-mink-120003000.html",
-      "published_at": "2026-10-26T07:52:00.000Z",
-      "created_at": "2026-10-27 00:40:14",
-      "ai_at": null,
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Bird flu outbreak at Utah mink farm sparks concerns about government response",
-          "url": "https://www.theguardian.com/us-news/2026/oct/25/bird-flu-utah-mink-farm-trump-administration",
+          "title": "Utah Mink Farm Bird Flu Outbreak Exposes Response Gaps",
+          "url": "https://www.medindia.net/news/utah-mink-farm-bird-flu-outbreak-exposes-response-gaps-225725-1.htm",
           "source_id": "bing-world-ai",
-          "published_at": "2026-10-25T05:01:00.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "8b49a0505a0efd3b1de513fbe0d6914836b31a9f",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "Nigerian Government, FAO Intensify Avian Influenza Control",
-      "url": "https://von.gov.ng/nigerian-government-fao-intensify-avian-influenza-control/",
-      "published_at": "2026-10-26T03:32:00.000Z",
-      "created_at": "2026-10-26 20:40:14",
-      "ai_at": "2026-10-26 20:40:20",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "c90cd64bf1a342106192acb0fe2a0db6da27b446",
-      "disease": "грипп птиц",
-      "country": "США",
-      "distance_km": 5000,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "В США вспышка гриппа птиц на ферме выращивания норок может спровоцировать пандемию у людей, считают эксперты.",
-      "source_id": "bing-world-ai",
-      "title": "Bird flu is raging on a mink farm. It could spark a human pandemic, experts say, but officials won’t act.",
-      "url": "https://www.cnn.com/2026/10/26/health/bird-flu-mink-farm-propublica",
-      "published_at": "2026-10-26T03:01:00.000Z",
-      "created_at": "2026-10-26 12:40:14",
-      "ai_at": "2026-10-26 12:40:20",
-      "dup_count": 12,
-      "dups": [
+          "published_at": "2026-10-26T17:19:00.000Z"
+        },
+        {
+          "title": "Bird flu is raging on a mink farm. It could spark a human pandemic, experts say, but officials won’t act.",
+          "url": "https://www.cnn.com/2026/10/26/health/bird-flu-mink-farm-propublica",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-26T03:01:00.000Z"
+        },
         {
           "title": "Highly Pathogenic Avian Influenza Confirmed in Barron County",
           "url": "https://wsau.com/2026/10/26/highly-pathogenic-avian-influenza-confirmed-in-barron-county-5/",
@@ -209,37 +77,37 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c7eca44e282eefe9fbbdf6790&url=https%3a%2f%2fwww.dallasnews.com%2fnews%2farticle%2fdallas-zoo-avian-flu-closure-22484528.php&c=14035073620293416000&mkt=en-us",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-19T14:36:00.000Z"
-        },
-        {
-          "title": "Highly pathogenic avian influenza found in Barron County",
-          "url": "https://www.wdio.com/top-stories/highly-pathogenic-avian-influenza-found-in-barron-county/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-19T14:22:00.000Z"
-        },
-        {
-          "title": "Highly pathogenic avian influenza found in Barron County",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c7eca44e282eefe9fbbdf6790&url=https%3a%2f%2fwww.wdio.com%2ftop-stories%2fhighly-pathogenic-avian-influenza-found-in-barron-county%2f&c=11127009982934696702&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-19T14:22:00.000Z"
         }
       ]
     },
     {
-      "fingerprint": "6c4ef85e7a112391e8620440391ec8d1b5a2fa21",
+      "fingerprint": "cbb17e8011c47d2de25cf99b806892f56781e0db",
       "disease": "африканская чума свиней",
       "country": "Намибия",
       "distance_km": 6500,
       "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "Министр сельского хозяйства посетила регион Замбези для оценки реагирования на африканскую чуму свиней",
+      "verdict": "confirmed",
+      "ai_summary": "В Намибии выявлена вспышка африканской чумы свиней в зоне, признанной свободной от этой болезни ВООЗ",
       "source_id": "bing-world-fmd",
-      "title": "Agriculture Minister visits Zambezi Region to assess foot-and-mouth disease response",
-      "url": "https://economist.com.na/agriculture-minister-visits-zambezi-region-to-assess-foot-and-mouth-disease-response/",
-      "published_at": "2026-10-25T17:00:00.000Z",
-      "created_at": "2026-10-26 20:40:14",
-      "ai_at": "2026-10-26 20:40:32",
-      "dup_count": 3,
+      "title": "The legal, trade and compliance implications of Namibia’s FMD outbreak",
+      "url": "https://observer24.com.na/the-legal-trade-and-compliance-implications-of-namibias-fmd-outbreak/",
+      "published_at": "2026-10-26T22:32:00.000Z",
+      "created_at": "2026-10-27 06:40:14",
+      "ai_at": "2026-10-27 18:40:29",
+      "dup_count": 5,
       "dups": [
+        {
+          "title": "The legal, trade, and compliance implications of Namibia’s FMD outbreak",
+          "url": "https://economist.com.na/the-legal-trade-and-compliance-implications-of-namibias-fmd-outbreak/",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-25T17:00:00.000Z"
+        },
+        {
+          "title": "Agriculture Minister visits Zambezi Region to assess foot-and-mouth disease response",
+          "url": "https://economist.com.na/agriculture-minister-visits-zambezi-region-to-assess-foot-and-mouth-disease-response/",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-25T17:00:00.000Z"
+        },
         {
           "title": "Namibia, South Africa livestock industries seek interim trade measures amid FMD outbreak",
           "url": "https://observer24.com.na/namibia-south-africa-livestock-industries-seek-interim-trade-measures-amid-fmd-outbreak/",
@@ -253,6 +121,140 @@
           "published_at": "2026-10-18T05:48:00.000Z"
         }
       ]
+    },
+    {
+      "fingerprint": "745e707fdfce7cc9a7fa5354ae889e507a450aa2",
+      "disease": "африканская чума свиней",
+      "country": "Вьетнам",
+      "distance_km": 1600,
+      "level": "наблюдение",
+      "verdict": "confirmed",
+      "ai_summary": "Лаокай уничтожил 462 свиньи в октябре, а общее количество случаев африканской чумы свиней в 2026 году достигло 2677",
+      "source_id": "bing-world-asf",
+      "title": "Vietnam's Lao Cai culls 462 pigs in October as African swine fever toll for 2026 reaches 2,677",
+      "url": "https://www.efeedlink.com/articles/vietnams-lao-cai-culls-462-pigs-in-october-as-african-swine-fever-toll-for-2026-reaches-2-677",
+      "published_at": "2026-10-26T17:00:00.000Z",
+      "created_at": "2026-10-27 06:40:14",
+      "ai_at": "2026-10-27 18:40:35",
+      "dup_count": 15,
+      "dups": [
+        {
+          "title": "The source of African swine fever is complicated, Can Tho recommends cautious restocking",
+          "url": "https://news.laodong.vn/kinh-doanh/nguon-lay-dich-ta-heo-chau-phi-phuc-tap-can-tho-khuyen-cao-than-trong-tai-dan-1789581.ldo",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-26T09:54:00.000Z"
+        },
+        {
+          "title": "Vietnam's Nghe An province tightens controls as African swine fever persists",
+          "url": "https://www.efeedlink.com/articles/vietnam-s-nghe-an-province-tightens-controls-as-african-swine-fever-persists",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T16:59:00.000Z"
+        },
+        {
+          "title": "Vietnam's Nghe An province tightens controls as African swine fever persists",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c6fd24df6833a2ec3763e997d&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fvietnam-s-nghe-an-province-tightens-controls-as-african-swine-fever-persists&c=1890184905632616400&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T16:59:00.000Z"
+        },
+        {
+          "title": "Vietnam's Nghe An province tightens controls as African swine fever persists",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad63ebf750c46528406697d54ab29a5&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fvietnam-s-nghe-an-province-tightens-controls-as-african-swine-fever-persists&c=1890184905632616400&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T16:59:00.000Z"
+        },
+        {
+          "title": "Vietnam's Nghe An province tightens controls as African swine fever persists",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ea62dec4440085a7685d20791a55&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fvietnam-s-nghe-an-province-tightens-controls-as-african-swine-fever-persists&c=1890184905632616400&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T16:59:00.000Z"
+        },
+        {
+          "title": "Vietnam's Nghe An province tightens controls as African swine fever persists",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a7a65c684c0e85c42f56c98eafe1&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fvietnam-s-nghe-an-province-tightens-controls-as-african-swine-fever-persists&c=1890184905632616400&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T16:59:00.000Z"
+        },
+        {
+          "title": "Nghe An urgently responds to African swine fever",
+          "url": "https://news.laodong.vn/xa-hoi/nghe-an-khan-truong-ung-pho-dich-ta-lon-chau-phi-1784962.ldo",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T01:18:00.000Z"
+        },
+        {
+          "title": "Nghe An urgently responds to African swine fever",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c6fd24df6833a2ec3763e997d&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fnghe-an-khan-truong-ung-pho-dich-ta-lon-chau-phi-1784962.ldo&c=8284585927354453727&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T01:18:00.000Z"
+        },
+        {
+          "title": "Nghe An urgently responds to African swine fever",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad63ebf750c46528406697d54ab29a5&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fnghe-an-khan-truong-ung-pho-dich-ta-lon-chau-phi-1784962.ldo&c=8284585927354453727&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T01:18:00.000Z"
+        },
+        {
+          "title": "Nghe An urgently responds to African swine fever",
+          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ea62dec4440085a7685d20791a55&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fnghe-an-khan-truong-ung-pho-dich-ta-lon-chau-phi-1784962.ldo&c=8284585927354453727&mkt=en-us",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T01:18:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "5a6f9a397076e34865b9570ff3d53cebd3d66fff",
+      "disease": "грипп птиц",
+      "country": "Дания",
+      "distance_km": 1200,
+      "level": "наблюдение",
+      "verdict": "probable",
+      "ai_summary": "В Дании и Великобритании зарегистрированы первые случаи гриппа птиц в сельскохозяйственном секторе",
+      "source_id": "bing-world-ai",
+      "title": "Denmark, U.K. record season’s first farm avian flu outbreaks",
+      "url": "https://www.wattagnet.com/poultry-meat/diseases-health/avian-influenza/news/15975382/denmark-uk-record-seasons-first-farm-avian-flu-outbreaks",
+      "published_at": "2026-10-26T10:27:00.000Z",
+      "created_at": "2026-10-26 20:40:14",
+      "ai_at": "2026-10-26 20:40:18",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "7124d866a2e8436cc99d7c0a79abe7eddaed4396",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Bird flu outbreak at Utah mink farm sparks concerns about government response",
+      "url": "https://www.aol.com/articles/bird-flu-outbreak-utah-mink-120003000.html",
+      "published_at": "2026-10-26T07:52:00.000Z",
+      "created_at": "2026-10-27 00:40:14",
+      "ai_at": "2026-10-27 18:40:41",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Bird flu outbreak at Utah mink farm sparks concerns about government response",
+          "url": "https://www.theguardian.com/us-news/2026/oct/25/bird-flu-utah-mink-farm-trump-administration",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-25T05:01:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "8b49a0505a0efd3b1de513fbe0d6914836b31a9f",
+      "disease": "грипп птиц",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Nigerian Government, FAO Intensify Avian Influenza Control",
+      "url": "https://von.gov.ng/nigerian-government-fao-intensify-avian-influenza-control/",
+      "published_at": "2026-10-26T03:32:00.000Z",
+      "created_at": "2026-10-26 20:40:14",
+      "ai_at": "2026-10-26 20:40:20",
+      "dup_count": 1
     },
     {
       "fingerprint": "b16db6125e8d448f3aa7e5873e5e6549a551f674",
@@ -883,84 +885,6 @@
       "created_at": "2026-10-21 20:40:13",
       "ai_at": "2026-10-21 20:40:29",
       "dup_count": 1
-    },
-    {
-      "fingerprint": "4b140ef4515ba1fabce06965c0b6d7f8b6892d47",
-      "disease": "африканская чума свиней",
-      "country": "Вьетнам",
-      "distance_km": 1600,
-      "level": "наблюдение",
-      "verdict": "probable",
-      "ai_summary": "В провинции Нге Ан усилены меры для борьбы с африканской чумой свиней",
-      "source_id": "bing-world-asf",
-      "title": "Vietnam's Nghe An province tightens controls as African swine fever persists",
-      "url": "https://www.efeedlink.com/articles/vietnam-s-nghe-an-province-tightens-controls-as-african-swine-fever-persists",
-      "published_at": "2026-10-18T16:59:00.000Z",
-      "created_at": "2026-10-20 06:40:14",
-      "ai_at": "2026-10-20 06:40:55",
-      "dup_count": 13,
-      "dups": [
-        {
-          "title": "Vietnam's Nghe An province tightens controls as African swine fever persists",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c6fd24df6833a2ec3763e997d&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fvietnam-s-nghe-an-province-tightens-controls-as-african-swine-fever-persists&c=1890184905632616400&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "Vietnam's Nghe An province tightens controls as African swine fever persists",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad63ebf750c46528406697d54ab29a5&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fvietnam-s-nghe-an-province-tightens-controls-as-african-swine-fever-persists&c=1890184905632616400&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "Vietnam's Nghe An province tightens controls as African swine fever persists",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ea62dec4440085a7685d20791a55&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fvietnam-s-nghe-an-province-tightens-controls-as-african-swine-fever-persists&c=1890184905632616400&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "Vietnam's Nghe An province tightens controls as African swine fever persists",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a7a65c684c0e85c42f56c98eafe1&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fvietnam-s-nghe-an-province-tightens-controls-as-african-swine-fever-persists&c=1890184905632616400&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "Nghe An urgently responds to African swine fever",
-          "url": "https://news.laodong.vn/xa-hoi/nghe-an-khan-truong-ung-pho-dich-ta-lon-chau-phi-1784962.ldo",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T01:18:00.000Z"
-        },
-        {
-          "title": "Nghe An urgently responds to African swine fever",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c6fd24df6833a2ec3763e997d&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fnghe-an-khan-truong-ung-pho-dich-ta-lon-chau-phi-1784962.ldo&c=8284585927354453727&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T01:18:00.000Z"
-        },
-        {
-          "title": "Nghe An urgently responds to African swine fever",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad63ebf750c46528406697d54ab29a5&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fnghe-an-khan-truong-ung-pho-dich-ta-lon-chau-phi-1784962.ldo&c=8284585927354453727&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T01:18:00.000Z"
-        },
-        {
-          "title": "Nghe An urgently responds to African swine fever",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ea62dec4440085a7685d20791a55&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fnghe-an-khan-truong-ung-pho-dich-ta-lon-chau-phi-1784962.ldo&c=8284585927354453727&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T01:18:00.000Z"
-        },
-        {
-          "title": "Nghe An urgently responds to African swine fever",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a7a65c684c0e85c42f56c98eafe1&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fnghe-an-khan-truong-ung-pho-dich-ta-lon-chau-phi-1784962.ldo&c=8284585927354453727&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T01:18:00.000Z"
-        },
-        {
-          "title": "Nghe An urgently responds to African swine fever",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad55ff500b8435b854c4c84d32eeb6f&url=https%3a%2f%2fnews.laodong.vn%2fxa-hoi%2fnghe-an-khan-truong-ung-pho-dich-ta-lon-chau-phi-1784962.ldo&c=8284585927354453727&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T01:18:00.000Z"
-        }
-      ]
     },
     {
       "fingerprint": "ad89f957e155b5494227854b3e483281cbce1f34",
