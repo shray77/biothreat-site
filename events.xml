@@ -6,18 +6,39 @@
     <description>Радар трансграничных болезней животных: ящур, АЧС, грипп птиц, нодулярный дерматит — с оценкой угрозы для РФ. Информационный сервис «как есть»: не официальная система оповещения, не ветеринарная консультация, ИИ и уровни могут ошибаться. Условия: https://shray77.github.io/biothreat-site/terms.html</description>
     <language>ru</language>
     <item>
-      <title>[фон] грипп птиц — США: Nearly 1 million chickens killed after bird flu outbreak hits one of America’s biggest egg producers</title>
-      <link>https://www.msn.com/en-us/news/other/nearly-1-million-chickens-killed-after-bird-flu-outbreak-hits-one-of-america-s-biggest-egg-producers/ar-AA2g9GRj</link>
-      <guid isPermaLink="false">4ad08fd5424c5b863120b80414da388b4bc3f84e</guid>
-      <pubDate>Tue, 27 Oct 2026 02:04:35 GMT</pubDate>
-      <description>В одном из крупнейших производителей яиц в США выявили птичий грипп, убито 1 миллион кур. · verdict: confirmed · Nearly 1 million chickens killed after bird flu outbreak hits one of America’s biggest egg producers</description>
+      <title>[наблюдение] грипп птиц — Дания: Hong Kong Suspends Poultry Imports from Denmark and Minnesota Due to Avian Influenza Outbreaks</title>
+      <link>https://www.bastillepost.com/global/article/6295074-hong-kong-suspends-poultry-imports-from-denmark-and-minnesota-due-to-avian-influenza-outbreaks</link>
+      <guid isPermaLink="false">aaad4de0f8c683de2946a86b66ae18d74f656d84</guid>
+      <pubDate>Tue, 27 Oct 2026 12:23:00 GMT</pubDate>
+      <description>В Дании выявлена вспышка гриппа птиц, в результате чего Хонг-Конг приостановил импорт птицы · verdict: probable · Hong Kong Suspends Poultry Imports from Denmark and Minnesota Due to Avian Influenza Outbreaks</description>
     </item>
     <item>
-      <title>[фон] африканская чума свиней — Намибия: The legal, trade and compliance implications of Namibia’s FMD outbreak</title>
-      <link>https://observer24.com.na/the-legal-trade-and-compliance-implications-of-namibias-fmd-outbreak/</link>
-      <guid isPermaLink="false">cbb17e8011c47d2de25cf99b806892f56781e0db</guid>
-      <pubDate>Mon, 26 Oct 2026 22:32:00 GMT</pubDate>
-      <description>В Намибии выявлена вспышка африканской чумы свиней в зоне, признанной свободной от этой болезни ВООЗ · verdict: confirmed · The legal, trade and compliance implications of Namibia’s FMD outbreak</description>
+      <title>[фон] грипп птиц — США: Utah mink farm bird flu: What to know about the H5N1 outbreak, mutation risks, and government response</title>
+      <link>https://www.clarin.com/us-news/utah-mink-farm-bird-flu-what-to-know-about-the-h5n1-outbreak-mutation-risks-and-government-response_0_86WeCreZUJ.html</link>
+      <guid isPermaLink="false">bcb28449c463ea7342fdb279d640c899d8dc418a</guid>
+      <pubDate>Tue, 27 Oct 2026 06:07:00 GMT</pubDate>
+      <description>В коммерческом зверинце в штате Юта зафиксирована вспышка гриппа птиц H5N1 · verdict: confirmed · Utah mink farm bird flu: What to know about the H5N1 outbreak, mutation risks, and government response</description>
+    </item>
+    <item>
+      <title>[фон] Намибия: The legal, trade and compliance implications of Namibia’s FMD outbreak</title>
+      <link>https://www.msn.com/en-za/money/general/the-legal-trade-and-compliance-implications-of-namibia-s-fmd-outbreak/ar-AA2gb0Ds</link>
+      <guid isPermaLink="false">a0cd46a8b4577dcb9e54fa018977967a8ce86245</guid>
+      <pubDate>Tue, 27 Oct 2026 05:20:45 GMT</pubDate>
+      <description>Аналитика по юридическим последствиям вспышки африканской чумы свиней в Намибии · verdict: probable · The legal, trade and compliance implications of Namibia’s FMD outbreak</description>
+    </item>
+    <item>
+      <title>[наблюдение] грипп птиц — Нидерланды: First Poultry Farm Tests Positive For Avian Influenza</title>
+      <link>https://www.miragenews.com/first-poultry-farm-tests-positive-for-avian-1767183/</link>
+      <guid isPermaLink="false">0fb65cc60d56f13e1f90e677a0b3370aa51f0ec1</guid>
+      <pubDate>Tue, 27 Oct 2026 04:12:00 GMT</pubDate>
+      <description>Заболела ферма по разведению индеек в нидерландском Лютхегасте · verdict: confirmed · First Poultry Farm Tests Positive For Avian Influenza</description>
+    </item>
+    <item>
+      <title>[не определено] грипп птиц: FG, FAO intensify action to contain avian influenza, strengthen animal movement control</title>
+      <link>https://tribuneonlineng.com/fg-fao-intensify-action-to-contain-avian-influenza-strengthen-animal-movement-control/</link>
+      <guid isPermaLink="false">a054e3e7dc705d797ca45c7beca34cd260d8e468</guid>
+      <pubDate>Mon, 26 Oct 2026 17:50:00 GMT</pubDate>
+      <description>verdict: probable · FG, FAO intensify action to contain avian influenza, strengthen animal movement control</description>
     </item>
     <item>
       <title>[наблюдение] африканская чума свиней — Вьетнам: Vietnam's Lao Cai culls 462 pigs in October as African swine fever toll for 2026 reaches 2,677</title>
@@ -25,13 +46,6 @@
       <guid isPermaLink="false">745e707fdfce7cc9a7fa5354ae889e507a450aa2</guid>
       <pubDate>Mon, 26 Oct 2026 17:00:00 GMT</pubDate>
       <description>Лаокай уничтожил 462 свиньи в октябре, а общее количество случаев африканской чумы свиней в 2026 году достигло 2677 · verdict: confirmed · Vietnam's Lao Cai culls 462 pigs in October as African swine fever toll for 2026 reaches 2,677</description>
-    </item>
-    <item>
-      <title>[наблюдение] грипп птиц — Дания: Denmark, U.K. record season’s first farm avian flu outbreaks</title>
-      <link>https://www.wattagnet.com/poultry-meat/diseases-health/avian-influenza/news/15975382/denmark-uk-record-seasons-first-farm-avian-flu-outbreaks</link>
-      <guid isPermaLink="false">5a6f9a397076e34865b9570ff3d53cebd3d66fff</guid>
-      <pubDate>Mon, 26 Oct 2026 10:27:00 GMT</pubDate>
-      <description>В Дании и Великобритании зарегистрированы первые случаи гриппа птиц в сельскохозяйственном секторе · verdict: probable · Denmark, U.K. record season’s first farm avian flu outbreaks</description>
     </item>
     <item>
       <title>[не определено] Bird flu outbreak at Utah mink farm sparks concerns about government response</title>
@@ -256,13 +270,6 @@
       <guid isPermaLink="false">ad89f957e155b5494227854b3e483281cbce1f34</guid>
       <pubDate>Sun, 18 Oct 2026 16:59:00 GMT</pubDate>
       <description>Повышение напряженности среди французских фермеров, связанное с вспышкой нодулярного дерматита среди скота. · verdict: probable · Farmers' protests</description>
-    </item>
-    <item>
-      <title>[не определено] африканская чума свиней — Нигерия: Ogun Govt Cautions Pig Farmers On Swine Fever Outbreak</title>
-      <link>https://leadership.ng/ogun-govt-cautions-pig-farmers-on-swine-fever-outbreak/</link>
-      <guid isPermaLink="false">ec25c6aa94473286233fd2b135508af35ef71aff</guid>
-      <pubDate>Sat, 17 Oct 2026 21:58:00 GMT</pubDate>
-      <description>Власти Нигерии предупреждают свиноводов о вспышке африканской чумы свиней · verdict: probable · Ogun Govt Cautions Pig Farmers On Swine Fever Outbreak</description>
     </item>
   </channel>
 </rss>
