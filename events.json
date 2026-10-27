@@ -1,23 +1,53 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-27T18:40:41.629Z",
+  "generated_at": "2026-10-27T22:40:38.088Z",
   "items": [
     {
-      "fingerprint": "4ad08fd5424c5b863120b80414da388b4bc3f84e",
+      "fingerprint": "aaad4de0f8c683de2946a86b66ae18d74f656d84",
+      "disease": "грипп птиц",
+      "country": "Дания",
+      "distance_km": 1200,
+      "level": "наблюдение",
+      "verdict": "probable",
+      "ai_summary": "В Дании выявлена вспышка гриппа птиц, в результате чего Хонг-Конг приостановил импорт птицы",
+      "source_id": "bing-world-ai",
+      "title": "Hong Kong Suspends Poultry Imports from Denmark and Minnesota Due to Avian Influenza Outbreaks",
+      "url": "https://www.bastillepost.com/global/article/6295074-hong-kong-suspends-poultry-imports-from-denmark-and-minnesota-due-to-avian-influenza-outbreaks",
+      "published_at": "2026-10-27T12:23:00.000Z",
+      "created_at": "2026-10-27 22:40:14",
+      "ai_at": "2026-10-27 22:40:24",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Denmark, U.K. record season’s first farm avian flu outbreaks",
+          "url": "https://www.wattagnet.com/poultry-meat/diseases-health/avian-influenza/news/15975382/denmark-uk-record-seasons-first-farm-avian-flu-outbreaks",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-26T10:27:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "bcb28449c463ea7342fdb279d640c899d8dc418a",
       "disease": "грипп птиц",
       "country": "США",
       "distance_km": 5000,
       "level": "фон",
       "verdict": "confirmed",
-      "ai_summary": "В одном из крупнейших производителей яиц в США выявили птичий грипп, убито 1 миллион кур.",
+      "ai_summary": "В коммерческом зверинце в штате Юта зафиксирована вспышка гриппа птиц H5N1",
       "source_id": "bing-world-ai",
-      "title": "Nearly 1 million chickens killed after bird flu outbreak hits one of America’s biggest egg producers",
-      "url": "https://www.msn.com/en-us/news/other/nearly-1-million-chickens-killed-after-bird-flu-outbreak-hits-one-of-america-s-biggest-egg-producers/ar-AA2g9GRj",
-      "published_at": "2026-10-27T02:04:35.000Z",
-      "created_at": "2026-10-27 12:40:15",
-      "ai_at": "2026-10-27 18:40:21",
-      "dup_count": 14,
+      "title": "Utah mink farm bird flu: What to know about the H5N1 outbreak, mutation risks, and government response",
+      "url": "https://www.clarin.com/us-news/utah-mink-farm-bird-flu-what-to-know-about-the-h5n1-outbreak-mutation-risks-and-government-response_0_86WeCreZUJ.html",
+      "published_at": "2026-10-27T06:07:00.000Z",
+      "created_at": "2026-10-27 22:40:14",
+      "ai_at": "2026-10-27 22:40:27",
+      "dup_count": 15,
       "dups": [
+        {
+          "title": "Nearly 1 million chickens killed after bird flu outbreak hits one of America’s biggest egg producers",
+          "url": "https://www.msn.com/en-us/news/other/nearly-1-million-chickens-killed-after-bird-flu-outbreak-hits-one-of-america-s-biggest-egg-producers/ar-AA2g9GRj",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-27T02:04:35.000Z"
+        },
         {
           "title": "Utah Mink Farm Bird Flu Outbreak Exposes Response Gaps",
           "url": "https://www.medindia.net/news/utah-mink-farm-bird-flu-outbreak-exposes-response-gaps-225725-1.htm",
@@ -71,31 +101,31 @@
           "url": "https://wsau.com/2026/10/21/highly-pathogenic-avian-influenza-confirmed-in-barron-county-4/",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-21T00:21:00.000Z"
-        },
-        {
-          "title": "Dallas Zoo closes bird exhibits because of avian flu concerns",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c7eca44e282eefe9fbbdf6790&url=https%3a%2f%2fwww.dallasnews.com%2fnews%2farticle%2fdallas-zoo-avian-flu-closure-22484528.php&c=14035073620293416000&mkt=en-us",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-19T14:36:00.000Z"
         }
       ]
     },
     {
-      "fingerprint": "cbb17e8011c47d2de25cf99b806892f56781e0db",
-      "disease": "африканская чума свиней",
+      "fingerprint": "a0cd46a8b4577dcb9e54fa018977967a8ce86245",
+      "disease": null,
       "country": "Намибия",
       "distance_km": 6500,
       "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В Намибии выявлена вспышка африканской чумы свиней в зоне, признанной свободной от этой болезни ВООЗ",
+      "verdict": "probable",
+      "ai_summary": "Аналитика по юридическим последствиям вспышки африканской чумы свиней в Намибии",
       "source_id": "bing-world-fmd",
       "title": "The legal, trade and compliance implications of Namibia’s FMD outbreak",
-      "url": "https://observer24.com.na/the-legal-trade-and-compliance-implications-of-namibias-fmd-outbreak/",
-      "published_at": "2026-10-26T22:32:00.000Z",
-      "created_at": "2026-10-27 06:40:14",
-      "ai_at": "2026-10-27 18:40:29",
-      "dup_count": 5,
+      "url": "https://www.msn.com/en-za/money/general/the-legal-trade-and-compliance-implications-of-namibia-s-fmd-outbreak/ar-AA2gb0Ds",
+      "published_at": "2026-10-27T05:20:45.000Z",
+      "created_at": "2026-10-27 22:40:14",
+      "ai_at": "2026-10-27 22:40:31",
+      "dup_count": 6,
       "dups": [
+        {
+          "title": "The legal, trade and compliance implications of Namibia’s FMD outbreak",
+          "url": "https://observer24.com.na/the-legal-trade-and-compliance-implications-of-namibias-fmd-outbreak/",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-26T22:32:00.000Z"
+        },
         {
           "title": "The legal, trade, and compliance implications of Namibia’s FMD outbreak",
           "url": "https://economist.com.na/the-legal-trade-and-compliance-implications-of-namibias-fmd-outbreak/",
@@ -123,6 +153,38 @@
       ]
     },
     {
+      "fingerprint": "0fb65cc60d56f13e1f90e677a0b3370aa51f0ec1",
+      "disease": "грипп птиц",
+      "country": "Нидерланды",
+      "distance_km": 1600,
+      "level": "наблюдение",
+      "verdict": "confirmed",
+      "ai_summary": "Заболела ферма по разведению индеек в нидерландском Лютхегасте",
+      "source_id": "bing-world-ai",
+      "title": "First Poultry Farm Tests Positive For Avian Influenza",
+      "url": "https://www.miragenews.com/first-poultry-farm-tests-positive-for-avian-1767183/",
+      "published_at": "2026-10-27T04:12:00.000Z",
+      "created_at": "2026-10-27 22:40:14",
+      "ai_at": "2026-10-27 22:40:35",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "a054e3e7dc705d797ca45c7beca34cd260d8e468",
+      "disease": "грипп птиц",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "FG, FAO intensify action to contain avian influenza, strengthen animal movement control",
+      "url": "https://tribuneonlineng.com/fg-fao-intensify-action-to-contain-avian-influenza-strengthen-animal-movement-control/",
+      "published_at": "2026-10-26T17:50:00.000Z",
+      "created_at": "2026-10-27 22:40:14",
+      "ai_at": "2026-10-27 22:40:37",
+      "dup_count": 1
+    },
+    {
       "fingerprint": "745e707fdfce7cc9a7fa5354ae889e507a450aa2",
       "disease": "африканская чума свиней",
       "country": "Вьетнам",
@@ -136,7 +198,7 @@
       "published_at": "2026-10-26T17:00:00.000Z",
       "created_at": "2026-10-27 06:40:14",
       "ai_at": "2026-10-27 18:40:35",
-      "dup_count": 15,
+      "dup_count": 12,
       "dups": [
         {
           "title": "The source of African swine fever is complicated, Can Tho recommends cautious restocking",
@@ -199,22 +261,6 @@
           "published_at": "2026-10-18T01:18:00.000Z"
         }
       ]
-    },
-    {
-      "fingerprint": "5a6f9a397076e34865b9570ff3d53cebd3d66fff",
-      "disease": "грипп птиц",
-      "country": "Дания",
-      "distance_km": 1200,
-      "level": "наблюдение",
-      "verdict": "probable",
-      "ai_summary": "В Дании и Великобритании зарегистрированы первые случаи гриппа птиц в сельскохозяйственном секторе",
-      "source_id": "bing-world-ai",
-      "title": "Denmark, U.K. record season’s first farm avian flu outbreaks",
-      "url": "https://www.wattagnet.com/poultry-meat/diseases-health/avian-influenza/news/15975382/denmark-uk-record-seasons-first-farm-avian-flu-outbreaks",
-      "published_at": "2026-10-26T10:27:00.000Z",
-      "created_at": "2026-10-26 20:40:14",
-      "ai_at": "2026-10-26 20:40:18",
-      "dup_count": 1
     },
     {
       "fingerprint": "7124d866a2e8436cc99d7c0a79abe7eddaed4396",
@@ -913,30 +959,6 @@
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ea61435c45bc85c30799d80032e8&url=https%3a%2f%2fwww.lemonde.fr%2fen%2ffrench-farmers-protests%2f&c=8172835141637647689&mkt=en-us",
           "source_id": "bing-world-lsd",
           "published_at": "2026-10-18T16:59:00.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "ec25c6aa94473286233fd2b135508af35ef71aff",
-      "disease": "африканская чума свиней",
-      "country": "Нигерия",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Власти Нигерии предупреждают свиноводов о вспышке африканской чумы свиней",
-      "source_id": "bing-world-asf",
-      "title": "Ogun Govt Cautions Pig Farmers On Swine Fever Outbreak",
-      "url": "https://leadership.ng/ogun-govt-cautions-pig-farmers-on-swine-fever-outbreak/",
-      "published_at": "2026-10-17T21:58:00.000Z",
-      "created_at": "2026-10-20 06:40:14",
-      "ai_at": "2026-10-20 06:41:08",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Ogun Govt Cautions Pig Farmers On Swine Fever Outbreak",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c6fd24df6833a2ec3763e997d&url=https%3a%2f%2fleadership.ng%2fogun-govt-cautions-pig-farmers-on-swine-fever-outbreak%2f&c=17208508200252399562&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-17T21:58:00.000Z"
         }
       ]
     }
