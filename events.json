@@ -1,7 +1,37 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-28T06:40:55.307Z",
+  "generated_at": "2026-10-28T12:40:23.913Z",
   "items": [
+    {
+      "fingerprint": "bbcacae33c55eacc954b097c73f98e5616aaee11",
+      "disease": "грипп птиц",
+      "country": "Дания",
+      "distance_km": 1200,
+      "level": "наблюдение",
+      "verdict": "probable",
+      "ai_summary": "В связи с вспышкой гриппа птиц в датской общине Хонг-Конг приостановил ввоз птицы из этой области.",
+      "source_id": "bing-world-ai",
+      "title": "Hong Kong suspends poultry imports from Danish municipality after bird flu outbreak",
+      "url": "https://scandasia.com/hong-kong-suspends-poultry-imports-from-danish-municipality-after-bird-flu-outbreak-2/",
+      "published_at": "2026-10-28T01:36:00.000Z",
+      "created_at": "2026-10-28 12:40:14",
+      "ai_at": "2026-10-28 12:40:20",
+      "dup_count": 3,
+      "dups": [
+        {
+          "title": "Hong Kong Suspends Poultry Imports from Denmark and Minnesota Due to Avian Influenza Outbreaks",
+          "url": "https://www.bastillepost.com/global/article/6295074-hong-kong-suspends-poultry-imports-from-denmark-and-minnesota-due-to-avian-influenza-outbreaks",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-27T12:23:00.000Z"
+        },
+        {
+          "title": "Denmark, U.K. record season’s first farm avian flu outbreaks",
+          "url": "https://www.wattagnet.com/poultry-meat/diseases-health/avian-influenza/news/15975382/denmark-uk-record-seasons-first-farm-avian-flu-outbreaks",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-26T10:27:00.000Z"
+        }
+      ]
+    },
     {
       "fingerprint": "d8df3b17612e8c8560252254bb344b084dbf2109",
       "disease": "грипп птиц",
@@ -203,30 +233,6 @@
       "created_at": "2026-10-28 06:40:14",
       "ai_at": "2026-10-28 06:40:45",
       "dup_count": 1
-    },
-    {
-      "fingerprint": "aaad4de0f8c683de2946a86b66ae18d74f656d84",
-      "disease": "грипп птиц",
-      "country": "Дания",
-      "distance_km": 1200,
-      "level": "наблюдение",
-      "verdict": "probable",
-      "ai_summary": "В Дании выявлена вспышка гриппа птиц, в результате чего Хонг-Конг приостановил импорт птицы",
-      "source_id": "bing-world-ai",
-      "title": "Hong Kong Suspends Poultry Imports from Denmark and Minnesota Due to Avian Influenza Outbreaks",
-      "url": "https://www.bastillepost.com/global/article/6295074-hong-kong-suspends-poultry-imports-from-denmark-and-minnesota-due-to-avian-influenza-outbreaks",
-      "published_at": "2026-10-27T12:23:00.000Z",
-      "created_at": "2026-10-27 22:40:14",
-      "ai_at": "2026-10-27 22:40:24",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Denmark, U.K. record season’s first farm avian flu outbreaks",
-          "url": "https://www.wattagnet.com/poultry-meat/diseases-health/avian-influenza/news/15975382/denmark-uk-record-seasons-first-farm-avian-flu-outbreaks",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-26T10:27:00.000Z"
-        }
-      ]
     },
     {
       "fingerprint": "6cf420bedfa49c7cd0558ae9df5151939dbe1217",
@@ -614,7 +620,7 @@
       "published_at": "2026-10-22T17:00:00.000Z",
       "created_at": "2026-10-23 04:40:14",
       "ai_at": "2026-10-23 04:40:19",
-      "dup_count": 12,
+      "dup_count": 11,
       "dups": [
         {
           "title": "Chief Secretary Reviews Situation Following Confirmation of African Swine Fever Outbreak; Directs Coordinated Containment Measures",
