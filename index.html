@@ -119,6 +119,8 @@
   .card.l-повышенная { border-left-color: var(--accent); }
   .card.l-наблюдение { border-left-color: var(--blue); }
   .card.l-фон { border-left-color: var(--ds-border-strong); opacity: .8; }
+  /* неприсвоенный конвейером уровень: нейтральный пунктир, как у бейджа .lvl.l-null (Task 183) */
+  .card.l-null { border-left: 3px dashed var(--border-strong); }
   .card.noise { opacity: .45; }
   .card-top { display: flex; justify-content: space-between; gap: 10px; margin-bottom: 8px; align-items: center; flex-wrap: wrap; }
   .badges { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
@@ -166,7 +168,7 @@
   h1{font-size:21px}
   .brand p{font-size:12.5px;line-height:1.4;margin:3px 0 0;
     display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden}
-  .topbar .live,.topbar-right{flex-wrap:nowrap}
+  .topbar .live{flex-wrap:nowrap}
   .hub{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;-ms-overflow-style:none;
     -webkit-overflow-scrolling:touch;padding-bottom:2px}
   .hub::-webkit-scrollbar{display:none}
@@ -218,6 +220,7 @@
         <span><i style="background:#fbbf24"></i>повышенная</span>
         <span><i style="background:#7dd3fc"></i>наблюдение</span>
         <span><i style="background:#5d6a7d"></i>фон</span>
+        <span><i style="background:#93a0b4"></i>не определено — уровень не присвоен конвейером</span>
       </span>
     </div>
   </section>
@@ -254,6 +257,8 @@ const timeAgo = (iso) => {
 const fmtDT = (s) => s ? new Date(s.includes("T") ? s : s.replace(" ", "T") + "Z").toLocaleDateString("ru-RU", { day: "numeric", month: "short" }) : "—";
 const esc = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#39;");
 const VERDICT_RU = { confirmed: "подтверждено", probable: "вероятно", noise: "шум", pending: "ждёт ИИ" };
+/* Белые списки ИИ-производных полей: CSS-классы собираются только из них (Task 183) */
+const LEVELS = ["граница", "высокая", "повышенная", "наблюдение", "фон"];
 
 /* Центроиды стран (приблизительные, для кругов на карте — не для навигации) */
 const CENTROIDS = {
@@ -384,10 +389,15 @@ function renderMap(list) {
 }
 
 function card(it) {
-  const lvl = it.level || null;
+  // level/verdict/distance_km — ИИ-производные поля: классы из белых списков,
+  // текст — через esc, как у остальных полей (Task 183)
+  const lvl = LEVELS.includes(it.level) ? it.level : null;
   const lvlCls = lvl ? "l-" + lvl : "l-null";
-  const lvlLabel = lvl ? lvl + (it.distance_km ? " · " + it.distance_km + " км" : "") : "уровень ?";
-  const v = it.verdict || "pending";
+  const dist = Number(it.distance_km);
+  const lvlLabel = lvl
+    ? esc(lvl) + (dist ? " · " + dist + " км" : "")
+    : (it.level ? esc(it.level) : "уровень ?");
+  const v = VERDICT_RU[it.verdict] ? it.verdict : "pending";
   const fields = [
     it.disease && `<span><i>возбудитель</i> ${esc(it.disease)}</span>`,
     it.country && `<span><i>страна</i> ${esc(it.country)}</span>`,
@@ -406,7 +416,6 @@ function card(it) {
 
 function render() {
   const feed = document.getElementById("feed");
-  const order = ["граница", "высокая", "повышенная", "наблюдение", "фон"];
   const list = ALL.filter(it => {
     const v = it.verdict || "pending";
     if (verdict === "real" && v === "noise") return false;
@@ -415,8 +424,10 @@ function render() {
     if (q && !(it.title + " " + (it.ai_summary || "") + " " + (it.disease || "") + " " + (it.country || "")).toLowerCase().includes(q)) return false;
     return true;
   }).sort((a, b) => {
-    const la = order.indexOf(a.level || "zz"), lb = order.indexOf(b.level || "zz");
-    if (la !== lb) return la - lb;
+    // неприсвоенный конвейером уровень («не определено» и любой мусор) —
+    // в КОНЕЦ ленты, а не в начало: indexOf даёт −1 (Task 183)
+    const la = LEVELS.indexOf(a.level), lb = LEVELS.indexOf(b.level);
+    if (la !== lb) return (la < 0 ? LEVELS.length : la) - (lb < 0 ? LEVELS.length : lb);
     return new Date(b.published_at || 0) - new Date(a.published_at || 0);
   });
   if (!list.length) {
