@@ -6,10 +6,11 @@
 <title>BioThreat Watch — радар трансграничных болезней</title>
 <meta name="description" content="Радар трансграничных болезней животных: АЧС, ящур, грипп птиц, нодулярный дерматит — мировые вспышки, расстояние до границы РФ и уровни угрозы. Конвейер на Cloudflare Workers + ИИ-классификатор.">
 <meta property="og:title" content="BioThreat Watch — радар биоугроз для ветеринара">
-<meta property="og:description" content="Мировые вспышки болезней животных на карте с оценкой расстояния до границы РФ. Соседние дашборды: VetDigest (наука), VetRecall (отзывы препаратов), статус ядра.">
+<meta property="og:description" content="Мировые вспышки болезней животных на карте с оценкой расстояния до границы РФ и уровнями угрозы.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://shray77.github.io/biothreat-site/">
 <meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#FAF9F5"><!-- бумага ветДС; при тёмной теме скрипт ниже ставит #211E19 -->
 <link rel="alternate" type="application/rss+xml" title="BioThreat Watch — RSS" href="./events.xml">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌍</text></svg>">
 <link rel="stylesheet" href="./vendor/leaflet.css">
@@ -17,7 +18,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;700&display=swap" rel="stylesheet">
-<script>(function(){try{if(localStorage.getItem("vetds-theme")==="dark")document.documentElement.setAttribute("data-theme","dark")}catch(e){}})()</script>
+<script>(function(){try{if(localStorage.getItem("vetds-theme")==="dark"){document.documentElement.setAttribute("data-theme","dark");var m=document.querySelector('meta[name="theme-color"]');if(m)m.setAttribute("content","#211E19");}}catch(e){}})()</script>
 <style>
     /* Ядро — vet-ds (./vet-ds.css). Ниже — локальные алиасы: существующая вёрстка
      читает токены ДС, значения не дублируются. */
@@ -181,7 +182,7 @@
 <nav class="hub">
   <a href="https://shray77.github.io/vetdigest-site/">Дайджест науки</a>
   <a href="https://shray77.github.io/vetrecall-site/">Отзывы и вспышки РФ</a>
-  <a href="https://shray77.github.io/biothreat-site/" class="on">Биоугрозы мира</a>
+  <a href="https://shray77.github.io/biothreat-site/" class="on" aria-current="page">Биоугрозы мира</a>
   <a href="https://shray77.github.io/vet-heatmap/">ВетКарта</a>
   <a href="https://shray77.github.io/vetflu-site/">Окна риска ВПГП</a>
   <a href="https://shray77.github.io/rss-core-site/">Статус ядра</a>
@@ -226,7 +227,7 @@
   </section>
 
   <section class="filters">
-    <input id="q" type="search" placeholder="Поиск по болезням, странам и резюме…">
+    <input id="q" type="search" placeholder="Поиск по болезням, странам и резюме…" aria-label="Поиск по болезням, странам и резюме">
   </section>
   <div class="chips" id="chips-level"></div>
   <div class="chips" id="chips-verdict"></div>
@@ -254,7 +255,9 @@ const timeAgo = (iso) => {
   if (h < 24) return h + " ч назад";
   return Math.floor(h / 24) + " дн назад";
 };
-const fmtDT = (s) => s ? new Date(s.includes("T") ? s : s.replace(" ", "T") + "Z").toLocaleDateString("ru-RU", { day: "numeric", month: "short" }) : "—";
+/* UTC-дисциплина (Task 184): строка с T, но без таймзоны парсится как локальное
+   время — при отсутствии явного офсета (Z / ±чч:мм) дописываем Z, с офсетом — как есть */
+const fmtDT = (s) => s ? new Date(/[zZ]$|[+-]\d\d(:?\d\d)?$/.test(s) ? s : s.replace(" ", "T") + "Z").toLocaleDateString("ru-RU", { day: "numeric", month: "short" }) : "—";
 const esc = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#39;");
 const VERDICT_RU = { confirmed: "подтверждено", probable: "вероятно", noise: "шум", pending: "ждёт ИИ" };
 /* Белые списки ИИ-производных полей: CSS-классы собираются только из них (Task 183) */
@@ -333,6 +336,7 @@ const LEVEL_COLOR = {
 };
 
 let map = null, markers = null, baseLayer = null, baseRef = null;
+let popupRenderPending = false; /* Task 184: refresh отложен, пока открыт попап */
 /* Тайлы темы: светлый ветds → Esri Light Gray Canvas (бумажный минимализм, без ключа;
    Carto raster закрыл анонимный доступ), тёмный → OSM + затемнение (CSS по [data-theme]). */
 function applyBase() {
@@ -361,6 +365,9 @@ function initMap() {
   if (map.attributionControl) map.attributionControl.setPrefix('<a href="https://leafletjs.com" target="_blank" rel="noopener">Leaflet</a>');
   applyBase();
   markers = L.layerGroup().addTo(map);
+  // Task 184: пересборка маркеров при авто-refresh закрывала открытый попап
+  // без действия пользователя — отложенный re-render доезжает сюда (см. refresh)
+  map.on("popupclose", function () { if (popupRenderPending) render(); });
 }
 
 function renderMap(list) {
@@ -415,6 +422,7 @@ function card(it) {
 }
 
 function render() {
+  popupRenderPending = false; /* прямой рендер гасит отложенный (фильтры/поиск) */
   const feed = document.getElementById("feed");
   const list = ALL.filter(it => {
     const v = it.verdict || "pending";
@@ -473,9 +481,18 @@ async function refresh() {
   try {
     const j = await (await fetch("./events.json", { cache: "no-store" })).json();
     ALL = j.items || [];
-    renderMeta(j); renderChips(); render();
+    renderMeta(j); renderChips();
+    // открытый попап закрылся бы пересборкой маркеров без действия юзера —
+    // откладываем re-render до закрытия. Внимание: map._popup в 1.9.4 хранит
+    // ПОСЛЕДНИЙ попап и не обнуляется при закрытии — честный тест только isOpen()
+    if (map && map._popup && map._popup.isOpen()) popupRenderPending = true;
+    else render();
   } catch (e) {
     document.getElementById("meta").innerHTML = `<span class="dot err"></span><span>events.json недоступен</span>`;
+    // сбой загрузки не должен оставлять ленту молча пустой (Task 184):
+    // empty-state вместо «полупустой» страницы; устаревшие карточки не сносим
+    if (!ALL.length) document.getElementById("feed").innerHTML =
+      `<div class="empty"><b>Данные недоступны</b>Лента не загрузилась — обновится автоматически через 5&nbsp;мин.</div>`;
   }
 }
 document.getElementById("q").oninput = (e) => { q = e.target.value.toLowerCase().trim(); render(); };
@@ -492,7 +509,11 @@ setInterval(refresh, 5 * 60 * 1000);
     try { localStorage.setItem(key, dark ? "" : "dark"); } catch (e) {}
     root.dispatchEvent(new CustomEvent("vetds-theme", { detail: dark ? "" : "dark" }));
   });
-  root.addEventListener("vetds-theme", function(){ applyBase(); });
+  root.addEventListener("vetds-theme", function(){
+    applyBase();
+    var m = document.querySelector('meta[name="theme-color"]');
+    if (m) m.setAttribute("content", root.getAttribute("data-theme") === "dark" ? "#211E19" : "#FAF9F5");
+  });
 })();
 </script>
 </body>

@@ -10,13 +10,14 @@
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://shray77.github.io/biothreat-site/terms.html">
 <meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#FAF9F5"><!-- бумага ветДС; при тёмной теме скрипт ниже ставит #211E19 -->
 <link rel="canonical" href="https://shray77.github.io/biothreat-site/terms.html">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌍</text></svg>">
 <link rel="stylesheet" href="./vet-ds.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;700&display=swap" rel="stylesheet">
-<script>(function(){try{if(localStorage.getItem("vetds-theme")==="dark")document.documentElement.setAttribute("data-theme","dark")}catch(e){}})()</script>
+<script>(function(){try{if(localStorage.getItem("vetds-theme")==="dark"){document.documentElement.setAttribute("data-theme","dark");var m=document.querySelector('meta[name="theme-color"]');if(m)m.setAttribute("content","#211E19");}}catch(e){}})()</script>
 <style>
     /* Ядро — vet-ds (./vet-ds.css). Ниже — локальные алиасы: существующая вёрстка
      читает токены ДС, значения не дублируются. */
@@ -82,7 +83,7 @@
 <nav class="hub">
   <a href="https://shray77.github.io/vetdigest-site/">Дайджест науки</a>
   <a href="https://shray77.github.io/vetrecall-site/">Отзывы и вспышки РФ</a>
-  <a href="https://shray77.github.io/biothreat-site/" class="on">Биоугрозы мира</a>
+  <a href="https://shray77.github.io/biothreat-site/" class="on" aria-current="page">Биоугрозы мира</a>
   <a href="https://shray77.github.io/vet-heatmap/">ВетКарта</a>
   <a href="https://shray77.github.io/vetflu-site/">Окна риска ВПГП</a>
   <a href="https://shray77.github.io/rss-core-site/">Статус ядра</a>
@@ -203,6 +204,10 @@
     if (dark) root.removeAttribute("data-theme"); else root.setAttribute("data-theme", "dark");
     try { localStorage.setItem(key, dark ? "" : "dark"); } catch (e) {}
     root.dispatchEvent(new CustomEvent("vetds-theme", { detail: dark ? "" : "dark" }));
+  });
+  root.addEventListener("vetds-theme", function(){
+    var m = document.querySelector('meta[name="theme-color"]');
+    if (m) m.setAttribute("content", root.getAttribute("data-theme") === "dark" ? "#211E19" : "#FAF9F5");
   });
 })();
 </script>
