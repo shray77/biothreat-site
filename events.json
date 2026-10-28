@@ -1,7 +1,39 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-28T12:40:23.913Z",
+  "generated_at": "2026-10-28T18:40:25.169Z",
   "items": [
+    {
+      "fingerprint": "4e0b598bc4684fed74de33adef3d4c9880a317cb",
+      "disease": "классическая чума свиней",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "Случаи классической чумы свиней вновь задержали открытие ферм.",
+      "source_id": "bing-world-fmd",
+      "title": "Foot-and-Mouth Disease Delays Reopening of Livestock Farms",
+      "url": "https://en.politis.com.cy/news/cy-news/1059456/foot-and-mouth-disease-delays-reopening-of-livestock-farms",
+      "published_at": "2026-10-28T06:59:00.000Z",
+      "created_at": "2026-10-28 18:40:14",
+      "ai_at": "2026-10-28 18:40:18",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "9d37d80c9d4be7b13d6ebf2b0cb2d0bbfd936047",
+      "disease": "африканская чума свиней",
+      "country": "Южная Корея",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "Подтвержден случай африканской чумы свиней на свиновом ферме в округе Ганхва в Инчхоне.",
+      "source_id": "bing-world-fmd",
+      "title": "Another FMD case detected just before quarantine restrictions are lifted... Additional outbreak at a cattle farm in Ganghwa, Incheon",
+      "url": "https://en.fnnews.com/news/202610290022512318",
+      "published_at": "2026-10-28T03:27:00.000Z",
+      "created_at": "2026-10-28 18:40:14",
+      "ai_at": "2026-10-28 18:40:22",
+      "dup_count": 1
+    },
     {
       "fingerprint": "bbcacae33c55eacc954b097c73f98e5616aaee11",
       "disease": "грипп птиц",
@@ -78,7 +110,7 @@
       "published_at": "2026-10-27T17:00:00.000Z",
       "created_at": "2026-10-28 06:40:14",
       "ai_at": "2026-10-28 06:40:32",
-      "dup_count": 8,
+      "dup_count": 7,
       "dups": [
         {
           "title": "Vietnam's Lao Cai culls 462 pigs in October as African swine fever toll for 2026 reaches 2,677",
@@ -113,12 +145,6 @@
         {
           "title": "Vietnam's Nghe An province tightens controls as African swine fever persists",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ea62dec4440085a7685d20791a55&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fvietnam-s-nghe-an-province-tightens-controls-as-african-swine-fever-persists&c=1890184905632616400&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "Vietnam's Nghe An province tightens controls as African swine fever persists",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a7a65c684c0e85c42f56c98eafe1&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fvietnam-s-nghe-an-province-tightens-controls-as-african-swine-fever-persists&c=1890184905632616400&mkt=en-us",
           "source_id": "bing-world-asf",
           "published_at": "2026-10-18T16:59:00.000Z"
         }
@@ -620,7 +646,7 @@
       "published_at": "2026-10-22T17:00:00.000Z",
       "created_at": "2026-10-23 04:40:14",
       "ai_at": "2026-10-23 04:40:19",
-      "dup_count": 11,
+      "dup_count": 10,
       "dups": [
         {
           "title": "Chief Secretary Reviews Situation Following Confirmation of African Swine Fever Outbreak; Directs Coordinated Containment Measures",
@@ -673,12 +699,6 @@
         {
           "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ea62dec4440085a7685d20791a55&url=https%3a%2f%2fthewaveandaman.com%2fafrican-swine-fever-pig-movement-ban-task-forces-islands%2f&c=10019437764613060175&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5a7a65c684c0e85c42f56c98eafe1&url=https%3a%2f%2fthewaveandaman.com%2fafrican-swine-fever-pig-movement-ban-task-forces-islands%2f&c=10019437764613060175&mkt=en-us",
           "source_id": "bing-world-asf",
           "published_at": "2026-10-18T16:59:00.000Z"
         }
