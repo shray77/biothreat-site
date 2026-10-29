@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-29T10:40:18.207Z",
+  "generated_at": "2026-10-29T14:40:23.284Z",
   "items": [
     {
       "fingerprint": "21f77b8a88a241951085f11238c26bb05b574b85",
@@ -19,21 +19,43 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "a0cb1c5e98e4b60a99ed67c565f19445cde4c7e3",
+      "fingerprint": "31a945cc03ae941dca7d7cd0f5be29df2e38e49f",
+      "disease": "нодулярный дерматит",
+      "country": "Россия",
+      "distance_km": 0,
+      "level": "граница",
+      "verdict": "confirmed",
+      "ai_summary": "Вздутизная болезнь скота выявлена на исследовательском центре при Москве",
+      "source_id": "bing-world-lsd",
+      "title": "Lumpy skin disease outbreak detected at Ernst livestock research center near Moscow",
+      "url": "https://dairynews.today/news/v_podmoskove_vyyavili_ochag_uzelkovogo_dermatita_krs_v_institute_imeni_ernsta_9790328.html",
+      "published_at": "2026-10-28T17:00:00.000Z",
+      "created_at": "2026-10-29 14:40:15",
+      "ai_at": "2026-10-29 14:40:19",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "49d3b891d3e52e9ec5b15de32f5a329217225e71",
       "disease": "грипп птиц",
       "country": "США",
       "distance_km": 5000,
       "level": "фон",
       "verdict": "confirmed",
-      "ai_summary": "В штате Арканзас зафиксирован первый случай гриппа птиц в сезоне 2026-2027 годов.",
+      "ai_summary": "В США подтверждено заболевание птицы гриппом",
       "source_id": "bing-world-ai",
-      "title": "Arkansas Department of Agriculture urges poultry owners to watch for avian influenza, confirms first case of season",
-      "url": "https://www.kark.com/news/business/arkansas-department-of-agriculture-urges-poultry-owners-to-watch-for-avian-influenza-confirms-first-case-of-season/",
-      "published_at": "2026-10-28T09:13:00.000Z",
-      "created_at": "2026-10-29 00:40:15",
-      "ai_at": "2026-10-29 00:40:22",
-      "dup_count": 17,
+      "title": "Gov. Reynolds Issues Sac County Disaster Declaration Following Avian Flu Outbreak in Turkey Flock",
+      "url": "https://www.1380kcim.com/2026/10/28/gov-reynolds-issues-sac-county-disaster-declaration-following-avian-flu-outbreak-in-turkey-flock/",
+      "published_at": "2026-10-28T10:51:00.000Z",
+      "created_at": "2026-10-29 14:40:15",
+      "ai_at": "2026-10-29 14:40:22",
+      "dup_count": 18,
       "dups": [
+        {
+          "title": "Arkansas Department of Agriculture urges poultry owners to watch for avian influenza, confirms first case of season",
+          "url": "https://www.kark.com/news/business/arkansas-department-of-agriculture-urges-poultry-owners-to-watch-for-avian-influenza-confirms-first-case-of-season/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-28T09:13:00.000Z"
+        },
         {
           "title": "Bird Flu Outbreak on Utah Mink Farm Lasts 2 Months, Raising Pandemic Fears",
           "url": "https://www.yahoo.com/news/science/articles/bird-flu-outbreak-utah-mink-215806493.html",
@@ -85,12 +107,6 @@
         {
           "title": "Nearly 1 million chickens killed at egg farm as nation’s largest bird flu outbreak grows",
           "url": "https://ca.news.yahoo.com/nearly-1-million-chickens-killed-214057443.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-24T14:40:00.000Z"
-        },
-        {
-          "title": "Nearly 1 million chickens killed at egg farm as nation’s largest bird flu outbreak grows",
-          "url": "https://www.yahoo.com/news/science/articles/nearly-1-million-chickens-killed-214057443.html",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-24T14:40:00.000Z"
         }
@@ -656,7 +672,7 @@
       "published_at": "2026-10-22T17:00:00.000Z",
       "created_at": "2026-10-23 04:40:14",
       "ai_at": "2026-10-23 04:40:19",
-      "dup_count": 10,
+      "dup_count": 8,
       "dups": [
         {
           "title": "Chief Secretary Reviews Situation Following Confirmation of African Swine Fever Outbreak; Directs Coordinated Containment Measures",
@@ -697,18 +713,6 @@
         {
           "title": "District Administration, South Andaman Intensifies Measures to Contain African Swine Fever",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad63ebf750c46528406697d54ab29a5&url=https%3a%2f%2fandamansheekha.com%2f164758%2f&c=13284402854791656180&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "District Administration, South Andaman Intensifies Measures to Contain African Swine Fever",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ea62dec4440085a7685d20791a55&url=https%3a%2f%2fandamansheekha.com%2f164758%2f&c=13284402854791656180&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ea62dec4440085a7685d20791a55&url=https%3a%2f%2fthewaveandaman.com%2fafrican-swine-fever-pig-movement-ban-task-forces-islands%2f&c=10019437764613060175&mkt=en-us",
           "source_id": "bing-world-asf",
           "published_at": "2026-10-18T16:59:00.000Z"
         }
