@@ -1,7 +1,85 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-28T18:40:25.169Z",
+  "generated_at": "2026-10-29T00:40:22.450Z",
   "items": [
+    {
+      "fingerprint": "a0cb1c5e98e4b60a99ed67c565f19445cde4c7e3",
+      "disease": "грипп птиц",
+      "country": "США",
+      "distance_km": 5000,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "В штате Арканзас зафиксирован первый случай гриппа птиц в сезоне 2026-2027 годов.",
+      "source_id": "bing-world-ai",
+      "title": "Arkansas Department of Agriculture urges poultry owners to watch for avian influenza, confirms first case of season",
+      "url": "https://www.kark.com/news/business/arkansas-department-of-agriculture-urges-poultry-owners-to-watch-for-avian-influenza-confirms-first-case-of-season/",
+      "published_at": "2026-10-28T09:13:00.000Z",
+      "created_at": "2026-10-29 00:40:15",
+      "ai_at": "2026-10-29 00:40:22",
+      "dup_count": 17,
+      "dups": [
+        {
+          "title": "Bird Flu Outbreak on Utah Mink Farm Lasts 2 Months, Raising Pandemic Fears",
+          "url": "https://www.yahoo.com/news/science/articles/bird-flu-outbreak-utah-mink-215806493.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-27T14:58:00.000Z"
+        },
+        {
+          "title": "Utah mink farm bird flu: What to know about the H5N1 outbreak, mutation risks, and government response",
+          "url": "https://www.clarin.com/us-news/utah-mink-farm-bird-flu-what-to-know-about-the-h5n1-outbreak-mutation-risks-and-government-response_0_86WeCreZUJ.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-27T06:07:00.000Z"
+        },
+        {
+          "title": "Nearly 1 million chickens killed after bird flu outbreak hits one of America’s biggest egg producers",
+          "url": "https://www.msn.com/en-us/news/other/nearly-1-million-chickens-killed-after-bird-flu-outbreak-hits-one-of-america-s-biggest-egg-producers/ar-AA2g9GRj",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-27T02:04:35.000Z"
+        },
+        {
+          "title": "Utah Mink Farm Bird Flu Outbreak Exposes Response Gaps",
+          "url": "https://www.medindia.net/news/utah-mink-farm-bird-flu-outbreak-exposes-response-gaps-225725-1.htm",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-26T17:19:00.000Z"
+        },
+        {
+          "title": "Bird flu is raging on a mink farm. It could spark a human pandemic, experts say, but officials won’t act.",
+          "url": "https://www.cnn.com/2026/10/26/health/bird-flu-mink-farm-propublica",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-26T03:01:00.000Z"
+        },
+        {
+          "title": "Highly Pathogenic Avian Influenza Confirmed in Barron County",
+          "url": "https://wsau.com/2026/10/26/highly-pathogenic-avian-influenza-confirmed-in-barron-county-5/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-26T00:04:00.000Z"
+        },
+        {
+          "title": "Nearly 1 Million Chickens Slaughtered at Second-Largest Egg-Producing Farm in the U.S. amid Bird Flu Outbreak",
+          "url": "https://people.com/nearly-1-million-chickens-killed-at-egg-farm-as-nation-s-largest-bird-flu-outbreak-grows-12192789",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-25T08:30:00.000Z"
+        },
+        {
+          "title": "Nearly 1 Million Chickens Slaughtered at Second-Largest Egg-Producing Farm in the U.S. amid Bird Flu Outbreak",
+          "url": "https://www.yahoo.com/news/science/articles/nearly-1-million-chickens-slaughtered-153059381.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-25T08:30:00.000Z"
+        },
+        {
+          "title": "Nearly 1 million chickens killed at egg farm as nation’s largest bird flu outbreak grows",
+          "url": "https://ca.news.yahoo.com/nearly-1-million-chickens-killed-214057443.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-24T14:40:00.000Z"
+        },
+        {
+          "title": "Nearly 1 million chickens killed at egg farm as nation’s largest bird flu outbreak grows",
+          "url": "https://www.yahoo.com/news/science/articles/nearly-1-million-chickens-killed-214057443.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-24T14:40:00.000Z"
+        }
+      ]
+    },
     {
       "fingerprint": "4e0b598bc4684fed74de33adef3d4c9880a317cb",
       "disease": "классическая чума свиней",
@@ -165,84 +243,6 @@
       "created_at": "2026-10-28 06:40:14",
       "ai_at": "2026-10-28 06:40:36",
       "dup_count": 1
-    },
-    {
-      "fingerprint": "b87759a81b01c2e1c5ddc82560f024b35ed32bbc",
-      "disease": "грипп птиц",
-      "country": "США",
-      "distance_km": 5000,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "На мink-ферме в штате Юта продолжается эпидемия гриппа птиц в течение двух месяцев, что вызывает опасения по поводу пандемии.",
-      "source_id": "bing-world-ai",
-      "title": "Bird Flu Outbreak on Utah Mink Farm Lasts 2 Months, Raising Pandemic Fears",
-      "url": "https://www.yahoo.com/news/science/articles/bird-flu-outbreak-utah-mink-215806493.html",
-      "published_at": "2026-10-27T14:58:00.000Z",
-      "created_at": "2026-10-28 06:40:14",
-      "ai_at": "2026-10-28 06:40:41",
-      "dup_count": 16,
-      "dups": [
-        {
-          "title": "Utah mink farm bird flu: What to know about the H5N1 outbreak, mutation risks, and government response",
-          "url": "https://www.clarin.com/us-news/utah-mink-farm-bird-flu-what-to-know-about-the-h5n1-outbreak-mutation-risks-and-government-response_0_86WeCreZUJ.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-27T06:07:00.000Z"
-        },
-        {
-          "title": "Nearly 1 million chickens killed after bird flu outbreak hits one of America’s biggest egg producers",
-          "url": "https://www.msn.com/en-us/news/other/nearly-1-million-chickens-killed-after-bird-flu-outbreak-hits-one-of-america-s-biggest-egg-producers/ar-AA2g9GRj",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-27T02:04:35.000Z"
-        },
-        {
-          "title": "Utah Mink Farm Bird Flu Outbreak Exposes Response Gaps",
-          "url": "https://www.medindia.net/news/utah-mink-farm-bird-flu-outbreak-exposes-response-gaps-225725-1.htm",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-26T17:19:00.000Z"
-        },
-        {
-          "title": "Bird flu is raging on a mink farm. It could spark a human pandemic, experts say, but officials won’t act.",
-          "url": "https://www.cnn.com/2026/10/26/health/bird-flu-mink-farm-propublica",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-26T03:01:00.000Z"
-        },
-        {
-          "title": "Highly Pathogenic Avian Influenza Confirmed in Barron County",
-          "url": "https://wsau.com/2026/10/26/highly-pathogenic-avian-influenza-confirmed-in-barron-county-5/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-26T00:04:00.000Z"
-        },
-        {
-          "title": "Nearly 1 Million Chickens Slaughtered at Second-Largest Egg-Producing Farm in the U.S. amid Bird Flu Outbreak",
-          "url": "https://people.com/nearly-1-million-chickens-killed-at-egg-farm-as-nation-s-largest-bird-flu-outbreak-grows-12192789",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-25T08:30:00.000Z"
-        },
-        {
-          "title": "Nearly 1 Million Chickens Slaughtered at Second-Largest Egg-Producing Farm in the U.S. amid Bird Flu Outbreak",
-          "url": "https://www.yahoo.com/news/science/articles/nearly-1-million-chickens-slaughtered-153059381.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-25T08:30:00.000Z"
-        },
-        {
-          "title": "Nearly 1 million chickens killed at egg farm as nation’s largest bird flu outbreak grows",
-          "url": "https://ca.news.yahoo.com/nearly-1-million-chickens-killed-214057443.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-24T14:40:00.000Z"
-        },
-        {
-          "title": "Nearly 1 million chickens killed at egg farm as nation’s largest bird flu outbreak grows",
-          "url": "https://www.yahoo.com/news/science/articles/nearly-1-million-chickens-killed-214057443.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-24T14:40:00.000Z"
-        },
-        {
-          "title": "Highly pathogenic avian influenza confirmed in Barron County",
-          "url": "https://madison.com/article_98523f05-fa25-5321-9746-d98aac3336da.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-21T22:00:00.000Z"
-        }
-      ]
     },
     {
       "fingerprint": "9781db02696f724d4ef550c5326865101256d9d0",
@@ -1044,17 +1044,11 @@
       "published_at": "2026-10-18T16:59:00.000Z",
       "created_at": "2026-10-20 00:40:14",
       "ai_at": "2026-10-20 00:40:18",
-      "dup_count": 3,
+      "dup_count": 2,
       "dups": [
         {
           "title": "Farmers' protests",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad657157c814f0ab1d4002943825d12&url=https%3a%2f%2fwww.lemonde.fr%2fen%2ffrench-farmers-protests%2f&c=8172835141637647689&mkt=en-us",
-          "source_id": "bing-world-lsd",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "Farmers' protests",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ea61435c45bc85c30799d80032e8&url=https%3a%2f%2fwww.lemonde.fr%2fen%2ffrench-farmers-protests%2f&c=8172835141637647689&mkt=en-us",
           "source_id": "bing-world-lsd",
           "published_at": "2026-10-18T16:59:00.000Z"
         }
