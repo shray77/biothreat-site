@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-29T00:40:22.450Z",
+  "generated_at": "2026-10-29T10:40:18.207Z",
   "items": [
+    {
+      "fingerprint": "21f77b8a88a241951085f11238c26bb05b574b85",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-asf",
+      "title": "Atria reports 4% sales rise as pork export ban weighs on earnings",
+      "url": "https://www.foodbusinessmea.com/atria-reports-4-sales-rise-as-pork-export-ban-weighs-on-earnings/",
+      "published_at": "2026-10-29T02:28:00.000Z",
+      "created_at": "2026-10-29 10:40:15",
+      "ai_at": "2026-10-29 10:40:17",
+      "dup_count": 1
+    },
     {
       "fingerprint": "a0cb1c5e98e4b60a99ed67c565f19445cde4c7e3",
       "disease": "грипп птиц",
@@ -188,7 +204,7 @@
       "published_at": "2026-10-27T17:00:00.000Z",
       "created_at": "2026-10-28 06:40:14",
       "ai_at": "2026-10-28 06:40:32",
-      "dup_count": 7,
+      "dup_count": 6,
       "dups": [
         {
           "title": "Vietnam's Lao Cai culls 462 pigs in October as African swine fever toll for 2026 reaches 2,677",
@@ -217,12 +233,6 @@
         {
           "title": "Vietnam's Nghe An province tightens controls as African swine fever persists",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad63ebf750c46528406697d54ab29a5&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fvietnam-s-nghe-an-province-tightens-controls-as-african-swine-fever-persists&c=1890184905632616400&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "Vietnam's Nghe An province tightens controls as African swine fever persists",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad5ea62dec4440085a7685d20791a55&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fvietnam-s-nghe-an-province-tightens-controls-as-african-swine-fever-persists&c=1890184905632616400&mkt=en-us",
           "source_id": "bing-world-asf",
           "published_at": "2026-10-18T16:59:00.000Z"
         }
