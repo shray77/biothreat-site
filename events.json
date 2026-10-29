@@ -1,7 +1,65 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-29T14:40:23.284Z",
+  "generated_at": "2026-10-29T16:40:30.281Z",
   "items": [
+    {
+      "fingerprint": "19498ad9ba91b526251bfddf67eb4e2578314d6c",
+      "disease": "африканская чума свиней",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Министерство сельского хозяйства рассматривает одобрение трех вакцин против африканской чумы свиней в 2027 году.",
+      "source_id": "bing-world-asf",
+      "title": "Govt eyes 3 more vaccines vs. African swine fever in 2027",
+      "url": "https://businessmirror.com.ph/2026/10/29/govt-eyes-3-more-vaccines-vs-african-swine-fever-in-2027/",
+      "published_at": "2026-10-29T07:52:00.000Z",
+      "created_at": "2026-10-29 16:40:14",
+      "ai_at": "2026-10-29 16:40:20",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "b665efb9bc4283543b255f4f2380a5c8c294da0d",
+      "disease": "африканская чума свиней",
+      "country": "Филиппины",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Филиппины планируют второй rollout вакцины от африканской чумы свиней к концу ноября",
+      "source_id": "bing-world-asf",
+      "title": "Philippines plans second ASF vaccine rollout before end-November",
+      "url": "https://tradersunion.com/news/companies/show/4013761-philippines-asf-vaccine-rollout/",
+      "published_at": "2026-10-29T06:28:00.000Z",
+      "created_at": "2026-10-29 16:40:14",
+      "ai_at": "2026-10-29 16:40:25",
+      "dup_count": 5,
+      "dups": [
+        {
+          "title": "Cebu City tightens hog controls after ASF found in Sapangdaku",
+          "url": "https://www.sunstar.com.ph/cebu/cebu-city-tightens-hog-controls-after-asf-found-in-sapangdaku",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-22T05:38:00.000Z"
+        },
+        {
+          "title": "Cebu steps up measures to contain ASF outbreak",
+          "url": "https://www.manilatimes.net/2026/10/23/regions/cebu-steps-up-measures-to-contain-asf-outbreak/2452233",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-22T03:00:00.000Z"
+        },
+        {
+          "title": "ASF losses in Tabuk reach P211.7 million",
+          "url": "https://manilastandard.net/news/314809279/asf-losses-in-tabuk-reach-p211-7-million.html",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-22T02:05:00.000Z"
+        },
+        {
+          "title": "ASF spread contained",
+          "url": "https://www.sunstar.com.ph/cebu/asf-spread-contained",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-21T05:24:00.000Z"
+        }
+      ]
+    },
     {
       "fingerprint": "21f77b8a88a241951085f11238c26bb05b574b85",
       "disease": null,
@@ -16,6 +74,22 @@
       "published_at": "2026-10-29T02:28:00.000Z",
       "created_at": "2026-10-29 10:40:15",
       "ai_at": "2026-10-29 10:40:17",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "1bb528c3c23c0a1e44f6abbef7a745dbac33ab48",
+      "disease": "африканская чума свиней",
+      "country": "Италия",
+      "distance_km": 1800,
+      "level": "наблюдение",
+      "verdict": "probable",
+      "ai_summary": "В Италию сняли запрет на импорт итальянского ветчины",
+      "source_id": "bing-world-asf",
+      "title": "Japan moving toward lifting prosciutto ban",
+      "url": "https://www3.nhk.or.jp/nhkworld/news/20261029de68040/",
+      "published_at": "2026-10-28T17:00:00.000Z",
+      "created_at": "2026-10-29 16:40:14",
+      "ai_at": "2026-10-29 16:40:29",
       "dup_count": 1
     },
     {
@@ -220,7 +294,7 @@
       "published_at": "2026-10-27T17:00:00.000Z",
       "created_at": "2026-10-28 06:40:14",
       "ai_at": "2026-10-28 06:40:32",
-      "dup_count": 6,
+      "dup_count": 5,
       "dups": [
         {
           "title": "Vietnam's Lao Cai culls 462 pigs in October as African swine fever toll for 2026 reaches 2,677",
@@ -243,12 +317,6 @@
         {
           "title": "Vietnam's Nghe An province tightens controls as African swine fever persists",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c6fd24df6833a2ec3763e997d&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fvietnam-s-nghe-an-province-tightens-controls-as-african-swine-fever-persists&c=1890184905632616400&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "Vietnam's Nghe An province tightens controls as African swine fever persists",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad63ebf750c46528406697d54ab29a5&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fvietnam-s-nghe-an-province-tightens-controls-as-african-swine-fever-persists&c=1890184905632616400&mkt=en-us",
           "source_id": "bing-world-asf",
           "published_at": "2026-10-18T16:59:00.000Z"
         }
@@ -672,7 +740,7 @@
       "published_at": "2026-10-22T17:00:00.000Z",
       "created_at": "2026-10-23 04:40:14",
       "ai_at": "2026-10-23 04:40:19",
-      "dup_count": 8,
+      "dup_count": 6,
       "dups": [
         {
           "title": "Chief Secretary Reviews Situation Following Confirmation of African Swine Fever Outbreak; Directs Coordinated Containment Measures",
@@ -701,18 +769,6 @@
         {
           "title": "District Administration, South Andaman Intensifies Measures to Contain African Swine Fever",
           "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c6fd24df6833a2ec3763e997d&url=https%3a%2f%2fandamansheekha.com%2f164758%2f&c=13284402854791656180&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad63ebf750c46528406697d54ab29a5&url=https%3a%2f%2fthewaveandaman.com%2fafrican-swine-fever-pig-movement-ban-task-forces-islands%2f&c=10019437764613060175&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "District Administration, South Andaman Intensifies Measures to Contain African Swine Fever",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad63ebf750c46528406697d54ab29a5&url=https%3a%2f%2fandamansheekha.com%2f164758%2f&c=13284402854791656180&mkt=en-us",
           "source_id": "bing-world-asf",
           "published_at": "2026-10-18T16:59:00.000Z"
         }
@@ -773,42 +829,6 @@
       "created_at": "2026-10-22 18:40:15",
       "ai_at": "2026-10-22 18:40:27",
       "dup_count": 1
-    },
-    {
-      "fingerprint": "ea05630584f583cd7f22cdb6f1e3a905e86a194b",
-      "disease": "африканская чума свиней",
-      "country": "Филиппины",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "В городе Цебу усилены меры по контролю за猪",
-      "source_id": "bing-world-asf",
-      "title": "Cebu City tightens hog controls after ASF found in Sapangdaku",
-      "url": "https://www.sunstar.com.ph/cebu/cebu-city-tightens-hog-controls-after-asf-found-in-sapangdaku",
-      "published_at": "2026-10-22T05:38:00.000Z",
-      "created_at": "2026-10-22 18:40:15",
-      "ai_at": "2026-10-22 18:40:30",
-      "dup_count": 4,
-      "dups": [
-        {
-          "title": "Cebu steps up measures to contain ASF outbreak",
-          "url": "https://www.manilatimes.net/2026/10/23/regions/cebu-steps-up-measures-to-contain-asf-outbreak/2452233",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-22T03:00:00.000Z"
-        },
-        {
-          "title": "ASF losses in Tabuk reach P211.7 million",
-          "url": "https://manilastandard.net/news/314809279/asf-losses-in-tabuk-reach-p211-7-million.html",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-22T02:05:00.000Z"
-        },
-        {
-          "title": "ASF spread contained",
-          "url": "https://www.sunstar.com.ph/cebu/asf-spread-contained",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-21T05:24:00.000Z"
-        }
-      ]
     },
     {
       "fingerprint": "487e69c0f12000b34fca631c86440c51d7f00bf9",
