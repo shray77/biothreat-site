@@ -1,7 +1,49 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-29T16:40:30.281Z",
+  "generated_at": "2026-10-29T22:40:32.779Z",
   "items": [
+    {
+      "fingerprint": "b4580fcf16e5af16d1dc2223dc9e53021514960c",
+      "disease": "африканская чума свиней",
+      "country": "Вьетнам",
+      "distance_km": 1600,
+      "level": "наблюдение",
+      "verdict": "confirmed",
+      "ai_summary": "Вьетнам усиливает контроль над торговлей из-за африканской чумы свиней",
+      "source_id": "bing-world-asf",
+      "title": "African swine fever diễn biến phức tạp, Can Tho tightens management of trading activities",
+      "url": "https://news.laodong.vn/y-te/dich-ta-heo-chau-phi-dien-bien-phuc-tap-can-tho-siet-quan-ly-hoat-dong-mua-ban-1791567.ldo",
+      "published_at": "2026-10-29T13:55:00.000Z",
+      "created_at": "2026-10-29 22:40:15",
+      "ai_at": "2026-10-29 22:40:19",
+      "dup_count": 5,
+      "dups": [
+        {
+          "title": "African swine fever hits 78 sites in Vietnam's Dong Nai as Mekong Delta outbreaks widen",
+          "url": "https://www.efeedlink.com/articles/african-swine-fever-hits-78-sites-in-vietnams-dong-nai-as-mekong-delta-outbreaks-widen",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-27T17:00:00.000Z"
+        },
+        {
+          "title": "Vietnam's Lao Cai culls 462 pigs in October as African swine fever toll for 2026 reaches 2,677",
+          "url": "https://www.efeedlink.com/articles/vietnams-lao-cai-culls-462-pigs-in-october-as-african-swine-fever-toll-for-2026-reaches-2-677",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-26T17:00:00.000Z"
+        },
+        {
+          "title": "The source of African swine fever is complicated, Can Tho recommends cautious restocking",
+          "url": "https://news.laodong.vn/kinh-doanh/nguon-lay-dich-ta-heo-chau-phi-phuc-tap-can-tho-khuyen-cao-than-trong-tai-dan-1789581.ldo",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-26T09:54:00.000Z"
+        },
+        {
+          "title": "Vietnam's Nghe An province tightens controls as African swine fever persists",
+          "url": "https://www.efeedlink.com/articles/vietnam-s-nghe-an-province-tightens-controls-as-african-swine-fever-persists",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-18T16:59:00.000Z"
+        }
+      ]
+    },
     {
       "fingerprint": "19498ad9ba91b526251bfddf67eb4e2578314d6c",
       "disease": "африканская чума свиней",
@@ -61,6 +103,22 @@
       ]
     },
     {
+      "fingerprint": "1bdd33a0c3ac942a1530b0f9b6dd3a88e59de62d",
+      "disease": "африканская чума свиней",
+      "country": "Гренада",
+      "distance_km": 9600,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "Гренада усилила готовность к предотвращению, выявлению и реагированию на африканскую чуму свиней",
+      "source_id": "bing-world-asf",
+      "title": "Grenada strengthens African swine fever preparedness through regional surveillance and sample collection training",
+      "url": "https://dominicanewsonline.com/news/homepage/homepage-carousel/grenada-strengthens-african-swine-fever-preparedness-through-regional-surveillance-and-sample-collection-training/",
+      "published_at": "2026-10-29T05:36:00.000Z",
+      "created_at": "2026-10-29 22:40:15",
+      "ai_at": "2026-10-29 22:40:24",
+      "dup_count": 1
+    },
+    {
       "fingerprint": "21f77b8a88a241951085f11238c26bb05b574b85",
       "disease": null,
       "country": null,
@@ -74,6 +132,38 @@
       "published_at": "2026-10-29T02:28:00.000Z",
       "created_at": "2026-10-29 10:40:15",
       "ai_at": "2026-10-29 10:40:17",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "2c0ee687550454f29648509ad80e725f1a44f5b6",
+      "disease": "нодулярный дерматит",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Европейское агентство по лекарственным средствам рекомендует разрешение на использование вакцины против нодулярного дерматита у скота.",
+      "source_id": "bing-world-lsd",
+      "title": "EMA urges EU authorisation for vaccine against lumpy skin disease",
+      "url": "https://www.foodagribusiness.world/dairy/ema-urges-eu-authorisation-for-vaccine-against-lumpy-skin-disease",
+      "published_at": "2026-10-29T00:42:00.000Z",
+      "created_at": "2026-10-29 22:40:15",
+      "ai_at": "2026-10-29 22:40:27",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "82a69c9e98668ab1fda894bacae5a53a3bde9a4c",
+      "disease": "нодулярный дерматит",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Европейское агентство по лекарственным средствам рекомендует разрешить использование препарата Bovilis Lumpyvax для защиты скота от нодулярного дерматита.",
+      "source_id": "bing-world-lsd",
+      "title": "EMA recommends EU authorisation for Bovilis Lumpyvax against lumpy skin disease",
+      "url": "https://dairynews.today/news/ema_recommends_eu_authorisation_for_bovilis_lumpyvax_against_lumpy_skin_disease_3646946.html",
+      "published_at": "2026-10-28T17:00:00.000Z",
+      "created_at": "2026-10-29 22:40:15",
+      "ai_at": "2026-10-29 22:40:32",
       "dup_count": 1
     },
     {
@@ -279,48 +369,6 @@
       "created_at": "2026-10-28 06:40:14",
       "ai_at": "2026-10-28 06:40:26",
       "dup_count": 1
-    },
-    {
-      "fingerprint": "fb68663617e15502a68024562960db2715c92559",
-      "disease": "африканская чума свиней",
-      "country": "Вьетнам",
-      "distance_km": 1600,
-      "level": "наблюдение",
-      "verdict": "confirmed",
-      "ai_summary": "В Вьетнаме выявлены новые очаги африканской чумы свиней в провинциях Донг Най, Кантхо и Ангинь",
-      "source_id": "bing-world-asf",
-      "title": "African swine fever hits 78 sites in Vietnam's Dong Nai as Mekong Delta outbreaks widen",
-      "url": "https://www.efeedlink.com/articles/african-swine-fever-hits-78-sites-in-vietnams-dong-nai-as-mekong-delta-outbreaks-widen",
-      "published_at": "2026-10-27T17:00:00.000Z",
-      "created_at": "2026-10-28 06:40:14",
-      "ai_at": "2026-10-28 06:40:32",
-      "dup_count": 5,
-      "dups": [
-        {
-          "title": "Vietnam's Lao Cai culls 462 pigs in October as African swine fever toll for 2026 reaches 2,677",
-          "url": "https://www.efeedlink.com/articles/vietnams-lao-cai-culls-462-pigs-in-october-as-african-swine-fever-toll-for-2026-reaches-2-677",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-26T17:00:00.000Z"
-        },
-        {
-          "title": "The source of African swine fever is complicated, Can Tho recommends cautious restocking",
-          "url": "https://news.laodong.vn/kinh-doanh/nguon-lay-dich-ta-heo-chau-phi-phuc-tap-can-tho-khuyen-cao-than-trong-tai-dan-1789581.ldo",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-26T09:54:00.000Z"
-        },
-        {
-          "title": "Vietnam's Nghe An province tightens controls as African swine fever persists",
-          "url": "https://www.efeedlink.com/articles/vietnam-s-nghe-an-province-tightens-controls-as-african-swine-fever-persists",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "Vietnam's Nghe An province tightens controls as African swine fever persists",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c6fd24df6833a2ec3763e997d&url=https%3a%2f%2fwww.efeedlink.com%2farticles%2fvietnam-s-nghe-an-province-tightens-controls-as-african-swine-fever-persists&c=1890184905632616400&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        }
-      ]
     },
     {
       "fingerprint": "3aa52bb0d42ffb7a563bc2db93270f7883861a81",
@@ -740,7 +788,7 @@
       "published_at": "2026-10-22T17:00:00.000Z",
       "created_at": "2026-10-23 04:40:14",
       "ai_at": "2026-10-23 04:40:19",
-      "dup_count": 6,
+      "dup_count": 4,
       "dups": [
         {
           "title": "Chief Secretary Reviews Situation Following Confirmation of African Swine Fever Outbreak; Directs Coordinated Containment Measures",
@@ -757,18 +805,6 @@
         {
           "title": "District Administration, South Andaman Intensifies Measures to Contain African Swine Fever",
           "url": "https://andamansheekha.com/164758/",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "ASF Outbreak Triggers Island-Wide Pig Movement Ban, Task Forces Set Up Across Andaman and Nicobar",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c6fd24df6833a2ec3763e997d&url=https%3a%2f%2fthewaveandaman.com%2fafrican-swine-fever-pig-movement-ban-task-forces-islands%2f&c=10019437764613060175&mkt=en-us",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        },
-        {
-          "title": "District Administration, South Andaman Intensifies Measures to Contain African Swine Fever",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6931c6fd24df6833a2ec3763e997d&url=https%3a%2f%2fandamansheekha.com%2f164758%2f&c=13284402854791656180&mkt=en-us",
           "source_id": "bing-world-asf",
           "published_at": "2026-10-18T16:59:00.000Z"
         }
@@ -1078,15 +1114,7 @@
       "published_at": "2026-10-18T16:59:00.000Z",
       "created_at": "2026-10-20 00:40:14",
       "ai_at": "2026-10-20 00:40:18",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Farmers' protests",
-          "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad657157c814f0ab1d4002943825d12&url=https%3a%2f%2fwww.lemonde.fr%2fen%2ffrench-farmers-protests%2f&c=8172835141637647689&mkt=en-us",
-          "source_id": "bing-world-lsd",
-          "published_at": "2026-10-18T16:59:00.000Z"
-        }
-      ]
+      "dup_count": 1
     }
   ]
 }
