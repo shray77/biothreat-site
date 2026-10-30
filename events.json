@@ -1,39 +1,29 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-30T06:40:17.982Z",
+  "generated_at": "2026-10-30T18:40:19.041Z",
   "items": [
     {
-      "fingerprint": "ba9083aadcc1dbc0fbbbcbcad37a5d258752161d",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": null,
-      "source_id": "bing-world-fmd",
-      "title": "Ho Chi Minh City Hand-Foot-and-Mouth Outbreak Tops 44,000; EV71 Vaccine Won’t Cover Most Cases",
-      "url": "https://www.techtimes.com/articles/329717/20261029/ho-chi-minh-city-hand-foot-mouth-outbreak-tops-44000-ev71-vaccine-wont-cover-most-cases.htm",
-      "published_at": "2026-10-29T16:26:00.000Z",
-      "created_at": "2026-10-30 02:40:14",
-      "ai_at": "2026-10-30 02:40:17",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "b4160b9165f5dc0e73f4338c5e29b1c3935bcc16",
+      "fingerprint": "1779d7cf7a5f1db96f6c04419d154bd2eba61b11",
       "disease": "грипп птиц",
       "country": "США",
       "distance_km": 5000,
       "level": "фон",
       "verdict": "confirmed",
-      "ai_summary": "Появился случай вспышки H5N1 гриппа птиц на ферме в штате Юта",
+      "ai_summary": "В штате Айова выявлена вспышка высокопатогенного гриппа птицы H5N1",
       "source_id": "bing-world-ai",
-      "title": "The H5N1 Mink Outbreak, Explained: Why It Matters And What You Should Do",
-      "url": "https://health.yahoo.com/conditions/infectious/bird-flu/articles/h5n1-mink-outbreak-explained-why-223000248.html",
-      "published_at": "2026-10-29T15:30:00.000Z",
-      "created_at": "2026-10-30 06:40:14",
-      "ai_at": "2026-10-30 06:40:17",
+      "title": "Iowa reports eighth H5N1 avian influenza outbreak of 2026",
+      "url": "https://www.meatpoultry.com/articles/34256-iowa-reports-eighth-h5n1-avian-influenza-outbreak-of-2026",
+      "published_at": "2026-10-30T08:32:00.000Z",
+      "created_at": "2026-10-30 18:40:15",
+      "ai_at": "2026-10-30 18:40:18",
       "dup_count": 18,
       "dups": [
+        {
+          "title": "The H5N1 Mink Outbreak, Explained: Why It Matters And What You Should Do",
+          "url": "https://health.yahoo.com/conditions/infectious/bird-flu/articles/h5n1-mink-outbreak-explained-why-223000248.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-29T15:30:00.000Z"
+        },
         {
           "title": "Gov. Reynolds Issues Sac County Disaster Declaration Following Avian Flu Outbreak in Turkey Flock",
           "url": "https://www.1380kcim.com/2026/10/28/gov-reynolds-issues-sac-county-disaster-declaration-following-avian-flu-outbreak-in-turkey-flock/",
@@ -87,14 +77,24 @@
           "url": "https://people.com/nearly-1-million-chickens-killed-at-egg-farm-as-nation-s-largest-bird-flu-outbreak-grows-12192789",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-25T08:30:00.000Z"
-        },
-        {
-          "title": "Nearly 1 Million Chickens Slaughtered at Second-Largest Egg-Producing Farm in the U.S. amid Bird Flu Outbreak",
-          "url": "https://www.yahoo.com/news/science/articles/nearly-1-million-chickens-slaughtered-153059381.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-25T08:30:00.000Z"
         }
       ]
+    },
+    {
+      "fingerprint": "ba9083aadcc1dbc0fbbbcbcad37a5d258752161d",
+      "disease": "грипп птиц",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": null,
+      "source_id": "bing-world-fmd",
+      "title": "Ho Chi Minh City Hand-Foot-and-Mouth Outbreak Tops 44,000; EV71 Vaccine Won’t Cover Most Cases",
+      "url": "https://www.techtimes.com/articles/329717/20261029/ho-chi-minh-city-hand-foot-mouth-outbreak-tops-44000-ev71-vaccine-wont-cover-most-cases.htm",
+      "published_at": "2026-10-29T16:26:00.000Z",
+      "created_at": "2026-10-30 02:40:14",
+      "ai_at": "2026-10-30 02:40:17",
+      "dup_count": 1
     },
     {
       "fingerprint": "b4580fcf16e5af16d1dc2223dc9e53021514960c",
