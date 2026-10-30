@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-30T18:40:19.041Z",
+  "generated_at": "2026-10-30T20:40:20.360Z",
   "items": [
     {
       "fingerprint": "1779d7cf7a5f1db96f6c04419d154bd2eba61b11",
@@ -16,7 +16,7 @@
       "published_at": "2026-10-30T08:32:00.000Z",
       "created_at": "2026-10-30 18:40:15",
       "ai_at": "2026-10-30 18:40:18",
-      "dup_count": 18,
+      "dup_count": 17,
       "dups": [
         {
           "title": "The H5N1 Mink Outbreak, Explained: Why It Matters And What You Should Do",
@@ -79,6 +79,22 @@
           "published_at": "2026-10-25T08:30:00.000Z"
         }
       ]
+    },
+    {
+      "fingerprint": "ad0e015dd4732b1ba0a15dbc141fe0471434a90c",
+      "disease": "африканская чума свиней",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-asf",
+      "title": "Sri Lanka Warns of Renewed African Swine Fever Outbreak Risk",
+      "url": "https://slguardian.org/sri-lanka-warns-of-renewed-african-swine-fever-outbreak-risk/",
+      "published_at": "2026-10-30T01:01:00.000Z",
+      "created_at": "2026-10-30 20:40:15",
+      "ai_at": "2026-10-30 20:40:19",
+      "dup_count": 1
     },
     {
       "fingerprint": "ba9083aadcc1dbc0fbbbcbcad37a5d258752161d",
