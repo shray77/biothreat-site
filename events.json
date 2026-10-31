@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-31T08:40:29.421Z",
+  "generated_at": "2026-10-31T10:40:25.501Z",
   "items": [
     {
       "fingerprint": "24b05560fc53cfd9daaab1d190abced32f5561d2",
@@ -67,6 +67,22 @@
       "dup_count": 1
     },
     {
+      "fingerprint": "e98c14555b70f5621d64b1a1dc79223cd430d4f2",
+      "disease": null,
+      "country": "США",
+      "distance_km": 5000,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "В штате Колорадо обнаружен грипп птиц в молочном комплексе",
+      "source_id": "bing-world-ai",
+      "title": "Bird flu detected at Colorado dairy for first time since 2024 outbreak",
+      "url": "https://www.9news.com/article/news/health/bird-flu-detected-at-colorado-dairy-for-first-time-since-2024-outbreak/73-a3cfcbb4-953b-49da-8683-2b7ebf54af8e",
+      "published_at": "2026-10-30T16:52:00.000Z",
+      "created_at": "2026-10-31 10:40:14",
+      "ai_at": "2026-10-31 10:40:18",
+      "dup_count": 1
+    },
+    {
       "fingerprint": "1779d7cf7a5f1db96f6c04419d154bd2eba61b11",
       "disease": "грипп птиц",
       "country": "США",
@@ -80,8 +96,14 @@
       "published_at": "2026-10-30T08:32:00.000Z",
       "created_at": "2026-10-30 18:40:15",
       "ai_at": "2026-10-30 18:40:18",
-      "dup_count": 16,
+      "dup_count": 17,
       "dups": [
+        {
+          "title": "The H5N1 mink outbreak, explained: Why it matters and what you should do",
+          "url": "https://www.msn.com/en-us/money/general/the-h5n1-mink-outbreak-explained-why-it-matters-and-what-you-should-do/ar-AA2goqXQ",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-29T15:30:00.000Z"
+        },
         {
           "title": "The H5N1 Mink Outbreak, Explained: Why It Matters And What You Should Do",
           "url": "https://health.yahoo.com/conditions/infectious/bird-flu/articles/h5n1-mink-outbreak-explained-why-223000248.html",
@@ -135,12 +157,6 @@
           "url": "https://wsau.com/2026/10/26/highly-pathogenic-avian-influenza-confirmed-in-barron-county-5/",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-26T00:04:00.000Z"
-        },
-        {
-          "title": "Nearly 1 Million Chickens Slaughtered at Second-Largest Egg-Producing Farm in the U.S. amid Bird Flu Outbreak",
-          "url": "https://people.com/nearly-1-million-chickens-killed-at-egg-farm-as-nation-s-largest-bird-flu-outbreak-grows-12192789",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-25T08:30:00.000Z"
         }
       ]
     },
@@ -440,7 +456,7 @@
       "published_at": "2026-10-28T09:06:00.000Z",
       "created_at": "2026-10-30 02:40:14",
       "ai_at": "2026-10-30 02:40:37",
-      "dup_count": 5,
+      "dup_count": 4,
       "dups": [
         {
           "title": "Mexico suspends Brazilian poultry imports after Newcastle disease outbreak",
@@ -459,12 +475,6 @@
           "url": "https://agenciabrasil.ebc.com.br/en/saude/noticia/2026-10/outbreak-newcastle-disease-confirmed-south-brazil",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-20T07:39:00.000Z"
-        },
-        {
-          "title": "Mexico halts poultry imports from Brazil after Newcastle disease outbreak",
-          "url": "https://mx.ibtimes.com/mexico-halts-brazil-poultry-imports-3099",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-19T17:55:00.000Z"
         }
       ]
     },
@@ -1168,22 +1178,6 @@
       "published_at": "2026-10-20T11:12:00.000Z",
       "created_at": "2026-10-21 00:40:14",
       "ai_at": "2026-10-21 00:40:25",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "2d09fd290ff2b0d2bef59171ab94abf35decbcfa",
-      "disease": "африканская чума свиней",
-      "country": "Каталония (Испания)",
-      "distance_km": 3400,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В Каталонии африканская чума свиней стабилизировалась, но потребовалось усиление контроля.",
-      "source_id": "bing-world-asf",
-      "title": "African swine fever outbreak stabilizes but forces stricter controls in Catalonia",
-      "url": "https://ecomercioagrario.com/en/african-swine-fever-outbreak-stabilizes-but-forces-stricter-controls-in-catalonia/",
-      "published_at": "2026-10-19T17:00:00.000Z",
-      "created_at": "2026-10-21 20:40:13",
-      "ai_at": "2026-10-21 20:40:29",
       "dup_count": 1
     }
   ]
