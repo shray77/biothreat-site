@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-31T10:40:25.501Z",
+  "generated_at": "2026-10-31T16:40:18.884Z",
   "items": [
     {
       "fingerprint": "24b05560fc53cfd9daaab1d190abced32f5561d2",
@@ -67,37 +67,33 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "e98c14555b70f5621d64b1a1dc79223cd430d4f2",
-      "disease": null,
-      "country": "США",
-      "distance_km": 5000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В штате Колорадо обнаружен грипп птиц в молочном комплексе",
-      "source_id": "bing-world-ai",
-      "title": "Bird flu detected at Colorado dairy for first time since 2024 outbreak",
-      "url": "https://www.9news.com/article/news/health/bird-flu-detected-at-colorado-dairy-for-first-time-since-2024-outbreak/73-a3cfcbb4-953b-49da-8683-2b7ebf54af8e",
-      "published_at": "2026-10-30T16:52:00.000Z",
-      "created_at": "2026-10-31 10:40:14",
-      "ai_at": "2026-10-31 10:40:18",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "1779d7cf7a5f1db96f6c04419d154bd2eba61b11",
+      "fingerprint": "9080d0bdf4fd887ae9efeb8de92e6cac9ff375b3",
       "disease": "грипп птиц",
       "country": "США",
       "distance_km": 5000,
       "level": "фон",
       "verdict": "confirmed",
-      "ai_summary": "В штате Айова выявлена вспышка высокопатогенного гриппа птицы H5N1",
+      "ai_summary": "В Кolorado обнаружен грипп птиц на молочном ферме впервые с 2024 года",
       "source_id": "bing-world-ai",
-      "title": "Iowa reports eighth H5N1 avian influenza outbreak of 2026",
-      "url": "https://www.meatpoultry.com/articles/34256-iowa-reports-eighth-h5n1-avian-influenza-outbreak-of-2026",
-      "published_at": "2026-10-30T08:32:00.000Z",
-      "created_at": "2026-10-30 18:40:15",
-      "ai_at": "2026-10-30 18:40:18",
-      "dup_count": 17,
+      "title": "Bird flu detected at Colorado dairy for first time since 2024 outbreak",
+      "url": "https://www.yahoo.com/news/science/articles/bird-flu-detected-colorado-dairy-235355330.html",
+      "published_at": "2026-10-30T16:52:00.000Z",
+      "created_at": "2026-10-31 16:40:14",
+      "ai_at": "2026-10-31 16:40:18",
+      "dup_count": 19,
       "dups": [
+        {
+          "title": "Bird flu detected at Colorado dairy for first time since 2024 outbreak",
+          "url": "https://www.9news.com/article/news/health/bird-flu-detected-at-colorado-dairy-for-first-time-since-2024-outbreak/73-a3cfcbb4-953b-49da-8683-2b7ebf54af8e",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-30T16:52:00.000Z"
+        },
+        {
+          "title": "Iowa reports eighth H5N1 avian influenza outbreak of 2026",
+          "url": "https://www.meatpoultry.com/articles/34256-iowa-reports-eighth-h5n1-avian-influenza-outbreak-of-2026",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-30T08:32:00.000Z"
+        },
         {
           "title": "The H5N1 mink outbreak, explained: Why it matters and what you should do",
           "url": "https://www.msn.com/en-us/money/general/the-h5n1-mink-outbreak-explained-why-it-matters-and-what-you-should-do/ar-AA2goqXQ",
@@ -145,18 +141,6 @@
           "url": "https://www.medindia.net/news/utah-mink-farm-bird-flu-outbreak-exposes-response-gaps-225725-1.htm",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-26T17:19:00.000Z"
-        },
-        {
-          "title": "Bird flu is raging on a mink farm. It could spark a human pandemic, experts say, but officials won’t act.",
-          "url": "https://www.cnn.com/2026/10/26/health/bird-flu-mink-farm-propublica",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-26T03:01:00.000Z"
-        },
-        {
-          "title": "Highly Pathogenic Avian Influenza Confirmed in Barron County",
-          "url": "https://wsau.com/2026/10/26/highly-pathogenic-avian-influenza-confirmed-in-barron-county-5/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-26T00:04:00.000Z"
         }
       ]
     },
@@ -456,7 +440,7 @@
       "published_at": "2026-10-28T09:06:00.000Z",
       "created_at": "2026-10-30 02:40:14",
       "ai_at": "2026-10-30 02:40:37",
-      "dup_count": 4,
+      "dup_count": 3,
       "dups": [
         {
           "title": "Mexico suspends Brazilian poultry imports after Newcastle disease outbreak",
@@ -469,12 +453,6 @@
           "url": "https://mexiconewsdaily.com/news/mexico-suspends-chicken-imports-brazil/",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-20T15:43:00.000Z"
-        },
-        {
-          "title": "Outbreak of Newcastle disease confirmed in South Brazil",
-          "url": "https://agenciabrasil.ebc.com.br/en/saude/noticia/2026-10/outbreak-newcastle-disease-confirmed-south-brazil",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-20T07:39:00.000Z"
         }
       ]
     },
