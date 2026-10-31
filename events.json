@@ -1,7 +1,71 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-10-30T20:40:20.360Z",
+  "generated_at": "2026-10-31T08:40:29.421Z",
   "items": [
+    {
+      "fingerprint": "24b05560fc53cfd9daaab1d190abced32f5561d2",
+      "disease": "африканская чума свиней",
+      "country": "Филиппины",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Манила надеется получить разрешение на вторую вакцину от африканской чумы свиней к ноябрю.",
+      "source_id": "bing-world-asf",
+      "title": "Philippines Plans to Authorize Second ASF Vaccine by November",
+      "url": "https://english.pravda.ru/news/world/171197-philippines-second-asf-vaccine-authorization/",
+      "published_at": "2026-10-30T21:54:00.000Z",
+      "created_at": "2026-10-31 08:40:14",
+      "ai_at": "2026-10-31 08:40:19",
+      "dup_count": 6,
+      "dups": [
+        {
+          "title": "Philippines plans second ASF vaccine rollout before end-November",
+          "url": "https://tradersunion.com/news/companies/show/4013761-philippines-asf-vaccine-rollout/",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-29T06:28:00.000Z"
+        },
+        {
+          "title": "Cebu City tightens hog controls after ASF found in Sapangdaku",
+          "url": "https://www.sunstar.com.ph/cebu/cebu-city-tightens-hog-controls-after-asf-found-in-sapangdaku",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-22T05:38:00.000Z"
+        },
+        {
+          "title": "Cebu steps up measures to contain ASF outbreak",
+          "url": "https://www.manilatimes.net/2026/10/23/regions/cebu-steps-up-measures-to-contain-asf-outbreak/2452233",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-22T03:00:00.000Z"
+        },
+        {
+          "title": "ASF losses in Tabuk reach P211.7 million",
+          "url": "https://manilastandard.net/news/314809279/asf-losses-in-tabuk-reach-p211-7-million.html",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-22T02:05:00.000Z"
+        },
+        {
+          "title": "ASF spread contained",
+          "url": "https://www.sunstar.com.ph/cebu/asf-spread-contained",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-21T05:24:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "a7ae8374cc09ae98a1e9cceb0b33cfc6811d9f78",
+      "disease": "африканская чума свиней",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Программа по повышению осведомленности о заболевании африканской чумой свиней в школе Манглутан обучает учащихся распознаванию симптомов и мерам предосторожност",
+      "source_id": "bing-world-asf",
+      "title": "African Swine Fever Awareness Campaign Focuses on Early Detection and Prevention in Manglutan",
+      "url": "https://thewaveandaman.com/african-swine-fever-awareness-programme-manglutan-school/",
+      "published_at": "2026-10-30T17:00:00.000Z",
+      "created_at": "2026-10-31 08:40:14",
+      "ai_at": "2026-10-31 08:40:25",
+      "dup_count": 1
+    },
     {
       "fingerprint": "1779d7cf7a5f1db96f6c04419d154bd2eba61b11",
       "disease": "грипп птиц",
@@ -16,7 +80,7 @@
       "published_at": "2026-10-30T08:32:00.000Z",
       "created_at": "2026-10-30 18:40:15",
       "ai_at": "2026-10-30 18:40:18",
-      "dup_count": 17,
+      "dup_count": 16,
       "dups": [
         {
           "title": "The H5N1 Mink Outbreak, Explained: Why It Matters And What You Should Do",
@@ -77,6 +141,36 @@
           "url": "https://people.com/nearly-1-million-chickens-killed-at-egg-farm-as-nation-s-largest-bird-flu-outbreak-grows-12192789",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-25T08:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "5ab3fbe7f33ce85556eac4cbd835736c6d662ea0",
+      "disease": "африканская чума свиней",
+      "country": "Намибия",
+      "distance_km": 6500,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "Банк Намибии повышает ключевую ставку в связи с ростом инфляции и вспышкой африканской чумы свиней",
+      "source_id": "bing-world-fmd",
+      "title": "Central bank raises repo rate to 7% amid inflation pressures and FMD outbreak",
+      "url": "https://www.msn.com/en-xl/money/economy/central-bank-raises-repo-rate-to-7-amid-inflation-pressures-and-fmd-outbreak/ar-AA2gq0JZ",
+      "published_at": "2026-10-30T06:09:33.000Z",
+      "created_at": "2026-10-31 08:40:14",
+      "ai_at": "2026-10-31 08:40:28",
+      "dup_count": 3,
+      "dups": [
+        {
+          "title": "The legal, trade and compliance implications of Namibia’s FMD outbreak",
+          "url": "https://observer24.com.na/the-legal-trade-and-compliance-implications-of-namibias-fmd-outbreak/",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-26T22:32:00.000Z"
+        },
+        {
+          "title": "Agriculture Minister visits Zambezi Region to assess foot-and-mouth disease response",
+          "url": "https://economist.com.na/agriculture-minister-visits-zambezi-region-to-assess-foot-and-mouth-disease-response/",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-10-25T17:00:00.000Z"
         }
       ]
     },
@@ -187,48 +281,6 @@
       "created_at": "2026-10-29 16:40:14",
       "ai_at": "2026-10-29 16:40:20",
       "dup_count": 1
-    },
-    {
-      "fingerprint": "b665efb9bc4283543b255f4f2380a5c8c294da0d",
-      "disease": "африканская чума свиней",
-      "country": "Филиппины",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Филиппины планируют второй rollout вакцины от африканской чумы свиней к концу ноября",
-      "source_id": "bing-world-asf",
-      "title": "Philippines plans second ASF vaccine rollout before end-November",
-      "url": "https://tradersunion.com/news/companies/show/4013761-philippines-asf-vaccine-rollout/",
-      "published_at": "2026-10-29T06:28:00.000Z",
-      "created_at": "2026-10-29 16:40:14",
-      "ai_at": "2026-10-29 16:40:25",
-      "dup_count": 5,
-      "dups": [
-        {
-          "title": "Cebu City tightens hog controls after ASF found in Sapangdaku",
-          "url": "https://www.sunstar.com.ph/cebu/cebu-city-tightens-hog-controls-after-asf-found-in-sapangdaku",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-22T05:38:00.000Z"
-        },
-        {
-          "title": "Cebu steps up measures to contain ASF outbreak",
-          "url": "https://www.manilatimes.net/2026/10/23/regions/cebu-steps-up-measures-to-contain-asf-outbreak/2452233",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-22T03:00:00.000Z"
-        },
-        {
-          "title": "ASF losses in Tabuk reach P211.7 million",
-          "url": "https://manilastandard.net/news/314809279/asf-losses-in-tabuk-reach-p211-7-million.html",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-22T02:05:00.000Z"
-        },
-        {
-          "title": "ASF spread contained",
-          "url": "https://www.sunstar.com.ph/cebu/asf-spread-contained",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-21T05:24:00.000Z"
-        }
-      ]
     },
     {
       "fingerprint": "1bdd33a0c3ac942a1530b0f9b6dd3a88e59de62d",
@@ -588,23 +640,11 @@
       "published_at": "2026-10-27T05:20:45.000Z",
       "created_at": "2026-10-27 22:40:14",
       "ai_at": "2026-10-27 22:40:31",
-      "dup_count": 4,
+      "dup_count": 2,
       "dups": [
-        {
-          "title": "The legal, trade and compliance implications of Namibia’s FMD outbreak",
-          "url": "https://observer24.com.na/the-legal-trade-and-compliance-implications-of-namibias-fmd-outbreak/",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-26T22:32:00.000Z"
-        },
         {
           "title": "The legal, trade, and compliance implications of Namibia’s FMD outbreak",
           "url": "https://economist.com.na/the-legal-trade-and-compliance-implications-of-namibias-fmd-outbreak/",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-25T17:00:00.000Z"
-        },
-        {
-          "title": "Agriculture Minister visits Zambezi Region to assess foot-and-mouth disease response",
-          "url": "https://economist.com.na/agriculture-minister-visits-zambezi-region-to-assess-foot-and-mouth-disease-response/",
           "source_id": "bing-world-fmd",
           "published_at": "2026-10-25T17:00:00.000Z"
         }
@@ -882,15 +922,7 @@
       "published_at": "2026-10-23T02:42:00.000Z",
       "created_at": "2026-10-23 10:40:14",
       "ai_at": "2026-10-23 10:40:21",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "First avian influenza case of the season confirmed in England",
-          "url": "https://www.nfuonline.com/news/first-avian-influenza-case-of-the-season-confirmed-in-england/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-19T17:00:00.000Z"
-        }
-      ]
+      "dup_count": 1
     },
     {
       "fingerprint": "558be7c3da29ef639f8db659d288f641041546e0",
@@ -978,15 +1010,7 @@
       "published_at": "2026-10-21T21:18:00.000Z",
       "created_at": "2026-10-22 18:40:15",
       "ai_at": "2026-10-22 18:40:45",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "SA and Namibia reevaluate livestock trade after FMD outbreak",
-          "url": "https://www.foodformzansi.co.za/sa-and-namibia-reevaluate-livestock-trade-after-fmd-outbreak/",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-19T17:00:00.000Z"
-        }
-      ]
+      "dup_count": 1
     },
     {
       "fingerprint": "6bff0d9a17129cb25e5a7ca9027400e7614f1fe8",
