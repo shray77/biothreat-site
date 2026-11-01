@@ -81,13 +81,13 @@
 
   .map-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--ds-radius); overflow: hidden; margin: 18px 0 8px; }
   #map { height: 430px; width: 100%; background: var(--ds-surface2); }
-  .map-note { font: 11.5px var(--mono); color: var(--faint); padding: 8px 14px; border-top: 1px solid var(--border); display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap; }
+  .map-note { font: 12px var(--mono); color: var(--faint); padding: 8px 14px; border-top: 1px solid var(--border); display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap; }
   .map-note .legend { display: flex; gap: 12px; flex-wrap: wrap; }
   .map-note .legend i { display: inline-block; width: 9px; height: 9px; border-radius: 50%; margin-right: 5px; vertical-align: -1px; }
   [data-theme="dark"] .leaflet-tile-pane { filter: brightness(.6) contrast(1.15) saturate(.6); }
   .leaflet-popup-content-wrapper { background: var(--ds-surface); color: var(--ds-text); border-radius: var(--ds-radius); border: 1px solid var(--ds-border-strong); }
   .leaflet-popup-tip { background: #12161f; }
-  .leaflet-popup-content { margin: 12px 16px; font: 13px/1.5 var(--ds-font-sans); }
+  .leaflet-popup-content { margin: 12px 16px; font: 13px/1.5 var(--ds-font-sans); max-height: 340px; overflow-y: auto; }
   /* Leaflet 1.8+ вшивает флаг Украины в дефолтный префикс атрибуции — префикс
      заменён чистой ссылкой в initMap(); CSS-страховка, как в vet-meteo */
   .leaflet-attribution-flag { display: none !important; }
@@ -97,7 +97,8 @@
   .filters { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin: 18px 0 4px; }
   #q {
     flex: 1 1 260px; background: var(--surface); border: 1px solid var(--border); color: var(--text);
-    border-radius: 10px; padding: 9px 14px; font-size: 14px; outline: none;
+    border-radius: 10px; padding: 9px 14px; font-size: 14px;
+    /* outline не гасим: глобальный :focus-visible даёт контур 2px (QA-09 П4) */
   }
   #q:focus { border-color: color-mix(in srgb, var(--amber) 50%, transparent); }
   .chips { display: flex; gap: 8px; flex-wrap: wrap; margin: 8px 0 6px; }
@@ -125,7 +126,7 @@
   .card.noise { opacity: .45; }
   .card-top { display: flex; justify-content: space-between; gap: 10px; margin-bottom: 8px; align-items: center; flex-wrap: wrap; }
   .badges { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
-  .lvl, .verdict { font: 700 11px var(--mono); letter-spacing: .06em; padding: 3px 10px; border-radius: 999px; text-transform: uppercase; }
+  .lvl, .verdict { font: 700 12px var(--mono); letter-spacing: .06em; padding: 3px 10px; border-radius: 999px; text-transform: uppercase; }
   .lvl.l-граница { color: var(--red); background: var(--red-dim); border: 1px solid color-mix(in srgb, var(--red) 40%, transparent); }
   .lvl.l-высокая { color: var(--orange); background: var(--orange-dim); border: 1px solid color-mix(in srgb, var(--orange) 40%, transparent); }
   .lvl.l-повышенная { color: var(--accent); background: var(--accent-dim); border: 1px solid color-mix(in srgb, var(--amber) 40%, transparent); }
@@ -216,8 +217,8 @@
     <div class="map-note">
       <span id="map-note">карта загружается…</span>
       <span class="legend">
-        <span><i style="background:#f87171"></i>граница</span>
-        <span><i style="background:#fb923c"></i>высокая</span>
+        <span><i style="background:#B3261E"></i>граница</span>
+        <span><i style="background:#AC4E18"></i>высокая</span>
         <span><i style="background:#fbbf24"></i>повышенная</span>
         <span><i style="background:#7dd3fc"></i>наблюдение</span>
         <span><i style="background:#5d6a7d"></i>фон</span>
@@ -260,6 +261,9 @@ const timeAgo = (iso) => {
 const fmtDT = (s) => s ? new Date(/[zZ]$|[+-]\d\d(:?\d\d)?$/.test(s) ? s : s.replace(" ", "T") + "Z").toLocaleDateString("ru-RU", { day: "numeric", month: "short" }) : "—";
 const esc = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#39;");
 const VERDICT_RU = { confirmed: "подтверждено", probable: "вероятно", noise: "шум", pending: "ждёт ИИ" };
+/* QA-09 Ш4: поиск не знал аббревиатур, которыми оперирует сам README/мета («АЧС») —
+   добавляем привычные ветеринару сокращения в поисковую строку события */
+const DISEASE_ABBR = { "африканская чума свиней": "ачс", "классическая чума свиней": "кчс", "грипп птиц": "впгп" };
 /* Белые списки ИИ-производных полей: CSS-классы собираются только из них (Task 183) */
 const LEVELS = ["граница", "высокая", "повышенная", "наблюдение", "фон"];
 
@@ -318,6 +322,7 @@ const CENTROIDS = {
   "Доминика": [15.4, -61.4], "Сент-Люсия": [13.9, -61.0],
   "Гренада": [12.1, -61.7], "Антигуа и Барбуда": [17.1, -61.8],
   "Европа": [50.0, 15.0], "Карибские острова": [15.5, -73.5],
+  "Кипр": [35.1, 33.2], // SW-29/QA-09 Ш2: событие Кипра молча пропадало с карты
 };
 // ИИ иногда отвечает регионом вместо страны (Шотландия, Иллинойс) — рисуем
 // маркер страны-центроида, чтобы событие не пропадало с карты.
@@ -329,9 +334,14 @@ const REGION_FALLBACK = {
   "Миннесота": "США", "Висконсин": "США", "Мичиган": "США",
   "Индиана": "США", "Бавария": "Германия", "Саксония": "Германия",
   "Бранденбург": "Германия", "Карибские страны": "Карибские острова",
+  // алиасы написаний ИИ (SW-29 §7): синонимы одной страны склеиваются на карте и в счётчике
+  "Южно-Африканская Республика": "ЮАР", "Северная Англия": "Великобритания",
+  "Каталония (Испания)": "Испания",
 };
+/* маркеры «граница»/«высокая» — цвета ДС, как у бейджей: прежний #f87171 давал 2.77:1
+   на светлых тайлах Esri при требовании WCAG 1.4.11 ≥3:1 (QA-09 П3); легенда — те же значения */
 const LEVEL_COLOR = {
-  "граница": "#f87171", "высокая": "#fb923c", "повышенная": "#fbbf24",
+  "граница": "#B3261E", "высокая": "#AC4E18", "повышенная": "#fbbf24",
   "наблюдение": "#7dd3fc", "фон": "#5d6a7d",
 };
 
@@ -370,28 +380,48 @@ function initMap() {
   map.on("popupclose", function () { if (popupRenderPending) render(); });
 }
 
+/* Три формы множественного числа «сообщение» — QA-09 Б1: было 2 из 3
+   («+18 сообщения из других фидов» вместо «сообщений») */
+const pluralMsg = (n) => "сообщени" + (
+  n % 10 === 1 && n % 100 !== 11 ? "е" :
+  n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? "я" : "й");
+
+/* Блок одного события в попапе карты (QA-09 Б2: попап страны — список таких блоков) */
+const popupBlock = (it) =>
+  `<b>${esc(it.disease || "болезнь ?")}</b>${it.country ? " · " + esc(it.country) : ""}<br>` +
+  `${esc(it.ai_summary || it.title || "")}<br>` +
+  (it.dup_count > 1 ? `+${it.dup_count - 1} ${pluralMsg(it.dup_count - 1)} из других фидов<br>` : "") +
+  `<a href="${esc(it.url)}" target="_blank" rel="noopener">первоисточник ↗</a>`;
+
 function renderMap(list) {
   initMap();
   if (!map) { document.getElementById("map-note").textContent = "карта недоступна (leaflet не загрузился)"; return; }
   markers.clearLayers();
-  let plotted = 0;
+  /* QA-09 Б2: события одной страны рисовались одним центроидом и перекрывали
+     друг друга — клик открывал только верхний маркер. Группируем по центроиду:
+     один круг + попап-список всех событий группы (list уже отсортирован по уровню) */
+  const groups = new Map();
+  const noGeo = new Set();
   for (const it of list) {
     const c = it.country ? (CENTROIDS[it.country] || CENTROIDS[REGION_FALLBACK[it.country] || ""]) : null;
-    if (!c) continue;
-    plotted++;
-    const color = LEVEL_COLOR[it.level] || "#93a0b4";
-    const r = it.verdict === "confirmed" ? 9 : it.verdict === "probable" ? 7 : 5;
-    L.circleMarker(c, {
-      radius: r, color: color, weight: 2, fillColor: color, fillOpacity: .45, opacity: .9,
-    }).bindPopup(
-      `<b>${esc(it.disease || "болезнь ?")}</b>${it.country ? " · " + esc(it.country) : ""}<br>` +
-      `${esc(it.ai_summary || it.title || "")}<br>` +
-      (it.dup_count > 1 ? `+${it.dup_count - 1} сообщени${(it.dup_count - 1) % 10 === 1 && it.dup_count !== 11 ? "е" : "я"} из других фидов<br>` : "") +
-      `<a href="${esc(it.url)}" target="_blank" rel="noopener">новость ↗</a>`
-    ).addTo(markers);
+    if (!c) { if (it.country) noGeo.add(it.country); continue; }
+    const k = c[0] + "," + c[1];
+    if (!groups.has(k)) groups.set(k, { c: c, items: [] });
+    groups.get(k).items.push(it);
   }
+  let plotted = 0;
+  for (const g of groups.values()) {
+    plotted += g.items.length;
+    const top = g.items[0]; // старшее по уровню событие группы задаёт цвет круга
+    const color = LEVEL_COLOR[top.level] || "#93a0b4";
+    const r = g.items.some(i => i.verdict === "confirmed") ? 9 : g.items.some(i => i.verdict === "probable") ? 7 : 5;
+    L.circleMarker(g.c, {
+      radius: r, color: color, weight: 2, fillColor: color, fillOpacity: .45, opacity: .9,
+    }).bindPopup(g.items.map(popupBlock).join('<hr style="border:none;border-top:1px solid var(--border);margin:8px 0">')).addTo(markers);
+  }
+  /* QA-09 Ш2: страны без координат честно перечисляем в подписи, а не пропускаем молча */
   document.getElementById("map-note").textContent = plotted
-    ? `на карте ${plotted} из ${list.length} событий`
+    ? `на карте ${plotted} из ${list.length} событий` + (noGeo.size ? ` · без координат: ${[...noGeo].join(", ")}` : "")
     : "страны с координатами не найдены — карта пустая";
 }
 
@@ -429,7 +459,7 @@ function render() {
     if (verdict === "real" && v === "noise") return false;
     if (verdict !== "real" && verdict !== "all" && v !== verdict) return false;
     if (level && (it.level || "") !== level) return false;
-    if (q && !(it.title + " " + (it.ai_summary || "") + " " + (it.disease || "") + " " + (it.country || "")).toLowerCase().includes(q)) return false;
+    if (q && !(it.title + " " + (it.ai_summary || "") + " " + (it.disease || "") + " " + (DISEASE_ABBR[it.disease] || "") + " " + (it.country || "")).toLowerCase().includes(q)) return false;
     return true;
   }).sort((a, b) => {
     // неприсвоенный конвейером уровень («не определено» и любой мусор) —
@@ -439,7 +469,8 @@ function render() {
     return new Date(b.published_at || 0) - new Date(a.published_at || 0);
   });
   if (!list.length) {
-    feed.innerHTML = `<div class="empty"><b>Событий не найдено</b>Сбрось фильтры или запусти скан (run-now в репозитории).</div>`;
+    // QA-09 З3: тон на «вы», без жаргона репозитория («run-now» — про владельца, не про ветврача)
+    feed.innerHTML = `<div class="empty"><b>Событий не найдено</b>Сбросьте фильтры или смягчите запрос — возможно, условие слишком узкое.</div>`;
   } else {
     feed.innerHTML = list.map(card).join("");
   }
@@ -453,7 +484,9 @@ function renderMeta(j) {
     `<div class="stat"><b>${j.items.length}</b><span>событий в радаре</span></div>` +
     `<div class="stat"><b style="color:var(--red)">${n(i => i.verdict === "confirmed" && (i.level === "граница" || i.level === "высокая"))}</b><span>угроза у границы</span></div>` +
     `<div class="stat"><b>${n(i => i.verdict === "confirmed")}</b><span>подтверждено ИИ</span></div>` +
-    `<div class="stat"><b>${new Set(j.items.filter(i => i.verdict === "confirmed" && i.country).map(i => i.country)).size}</b><span>стран в радаре</span></div>` +
+    // QA-09 Ш1: синонимы стран (ЮАР/ЮАР-Респ., Англия/Северная Англия) считались
+    // разными странами (13 вместо 11) — склеиваем через алиасы REGION_FALLBACK
+    `<div class="stat"><b>${new Set(j.items.filter(i => i.verdict === "confirmed" && i.country).map(i => REGION_FALLBACK[i.country] || i.country)).size}</b><span>стран в радаре</span></div>` +
     `<div class="stat"><b style="color:var(--muted)">${n(i => !i.verdict)}</b><span>в очереди на ИИ</span></div>`;
 }
 
@@ -471,6 +504,7 @@ function renderChips() {
     ["повышенная", "повышенная"],
     ["наблюдение", "наблюдение"],
     ["фон", "фон"],
+    ["не определено", "не определено"], // QA-09 Ш3: самый массовый уровень нельзя было изолировать
   ], level, v => level = v);
   chipRow("chips-verdict", [
     ["real", "без шума"], ["confirmed", "подтверждено"], ["probable", "вероятно"], ["noise", "шум"], ["all", "вообще всё"],
@@ -491,8 +525,15 @@ async function refresh() {
     document.getElementById("meta").innerHTML = `<span class="dot err"></span><span>events.json недоступен</span>`;
     // сбой загрузки не должен оставлять ленту молча пустой (Task 184):
     // empty-state вместо «полупустой» страницы; устаревшие карточки не сносим
-    if (!ALL.length) document.getElementById("feed").innerHTML =
-      `<div class="empty"><b>Данные недоступны</b>Лента не загрузилась — обновится автоматически через 5&nbsp;мин.</div>`;
+    if (!ALL.length) {
+      document.getElementById("feed").innerHTML =
+        `<div class="empty"><b>Данные недоступны</b>Лента не загрузилась — обновится автоматически через 5&nbsp;мин.</div>`;
+      // QA-09 Ш5: при сбое данных статистика была пустым блоком, а подпись карты
+      // навсегда оставалась «карта загружается…» — ставим честные заглушки
+      document.getElementById("stats").innerHTML =
+        `<div class="stat"><b>…</b><span>статистика и карта ждут events.json — повтор через 5&nbsp;мин</span></div>`;
+      document.getElementById("map-note").textContent = "карта не загрузилась — events.json недоступен, повтор через 5 мин";
+    }
   }
 }
 document.getElementById("q").oninput = (e) => { q = e.target.value.toLowerCase().trim(); render(); };
