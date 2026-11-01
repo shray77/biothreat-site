@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-01T14:40:20.787Z",
+  "generated_at": "2026-11-01T16:40:16.994Z",
   "items": [
     {
       "fingerprint": "434077ad4f5de913a3a864d414077ded678aac3e",
@@ -16,6 +16,22 @@
       "published_at": "2026-11-01T04:59:00.000Z",
       "created_at": "2026-11-01 14:40:14",
       "ai_at": "2026-11-01 14:40:20",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "dfe39d1ab90f23903d8c02cf3dd102a3858f3776",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "H5N1 avian influenza: 2nd human case reported in Yakima County, Washington",
+      "url": "https://outbreaknewstoday.substack.com/p/h5n1-avian-influenza-2nd-human-case",
+      "published_at": "2026-10-31T21:04:00.000Z",
+      "created_at": "2026-11-01 16:40:14",
+      "ai_at": "2026-11-01 16:40:16",
       "dup_count": 1
     },
     {
@@ -1160,22 +1176,6 @@
       "published_at": "2026-10-20T11:21:00.000Z",
       "created_at": "2026-10-21 00:40:14",
       "ai_at": "2026-10-21 00:40:22",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "c40f107782959cd3c8299635aade5223b49917c3",
-      "disease": "грипп птиц",
-      "country": "Северная Англия",
-      "distance_km": 2500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Пुषточно подтверждена вспышка гриппа птиц в Нортумберленде",
-      "source_id": "bing-world-ai",
-      "title": "Bird flu outbreak in Northumberland confirmed with 10km surveillance zone now in place",
-      "url": "https://www.chroniclelive.co.uk/news/north-east-news/bird-flu-outbreak-northumberland-confirmed-34792987",
-      "published_at": "2026-10-20T11:12:00.000Z",
-      "created_at": "2026-10-21 00:40:14",
-      "ai_at": "2026-10-21 00:40:25",
       "dup_count": 1
     }
   ]
