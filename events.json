@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-01T12:40:18.313Z",
+  "generated_at": "2026-11-01T14:40:20.787Z",
   "items": [
+    {
+      "fingerprint": "434077ad4f5de913a3a864d414077ded678aac3e",
+      "disease": "африканская чума свиней",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "В городе усилены проверки на мясо из-за подозрения на африканскую чуму свиней.",
+      "source_id": "bing-world-asf",
+      "title": "Town requires meat inspection amid suspected swine fever case",
+      "url": "https://www.sunstar.com.ph/cebu/town-requires-meat-inspection-amid-suspected-swine-fever-case",
+      "published_at": "2026-11-01T04:59:00.000Z",
+      "created_at": "2026-11-01 14:40:14",
+      "ai_at": "2026-11-01 14:40:20",
+      "dup_count": 1
+    },
     {
       "fingerprint": "f873534aecb5e44c21fcd249e1b418d2583c4438",
       "disease": "нодулярный дерматит",
@@ -724,7 +740,7 @@
       "published_at": "2026-10-25T03:00:00.000Z",
       "created_at": "2026-10-25 14:40:14",
       "ai_at": "2026-10-25 14:40:20",
-      "dup_count": 4,
+      "dup_count": 3,
       "dups": [
         {
           "title": "Bird Flu in the UK: What the Latest Outbreak Means for You",
@@ -737,12 +753,6 @@
           "url": "https://metro.co.uk/2026/10/24/fears-christmas-turkey-shortage-bird-flu-outbreak-leads-mass-cull-29736359/",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-24T07:58:00.000Z"
-        },
-        {
-          "title": "Public urged to follow rules to help contain bird flu outbreak in Northumberland",
-          "url": "https://www.northumberlandgazette.co.uk/news/politics/council/public-urged-to-follow-rules-to-help-contain-bird-flu-outbreak-in-northumberland-9299833",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-20T10:44:00.000Z"
         }
       ]
     },
