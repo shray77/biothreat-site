@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-02T14:40:20.520Z",
+  "generated_at": "2026-11-02T18:40:19.323Z",
   "items": [
     {
       "fingerprint": "029f2e9d0e3884f9d6fcaeed0293fabcefdb2216",
@@ -31,6 +31,22 @@
           "published_at": "2026-10-22T04:46:00.000Z"
         }
       ]
+    },
+    {
+      "fingerprint": "cc2b5d36c5e3dfee9f7fc5f6f192f5648501da15",
+      "disease": "африканская чума свиней",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Департамент сельского хозяйства и окружающей среды проводит проверку работы по предотвращению и контролю африканской чумы свиней.",
+      "source_id": "bing-world-asf",
+      "title": "The Department of Agriculture and Environment inspects the work of preventing and controlling African swine fever.",
+      "url": "https://www.vietnam.vn/en/so-nong-nghiep-va-moi-truong-kiem-tra-cong-tac-phong-chong-benh-dich-ta-lon-chau-phi",
+      "published_at": "2026-11-01T23:47:00.000Z",
+      "created_at": "2026-11-02 18:40:15",
+      "ai_at": "2026-11-02 18:40:19",
+      "dup_count": 1
     },
     {
       "fingerprint": "36be9d7cf9c5d217846466c8fa6a60bed5909980",
@@ -1176,22 +1192,6 @@
       "published_at": "2026-10-21T09:41:27.000Z",
       "created_at": "2026-10-22 02:40:14",
       "ai_at": "2026-10-22 02:40:19",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "909e569eae12b12c66ee0de3267ea8f48219f3d4",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-fmd",
-      "title": "Namibia battles cattle disease outbreak as Europe suspends several meat imports",
-      "url": "https://www.ippmedia.co.tz/the-guardian/features/read/namibia-battles-cattle-disease-outbreak-as-europe-suspends-several-meat-imports-2026-10-21-145613",
-      "published_at": "2026-10-21T04:56:00.000Z",
-      "created_at": "2026-10-22 06:40:14",
-      "ai_at": "2026-10-22 06:40:22",
       "dup_count": 1
     }
   ]
