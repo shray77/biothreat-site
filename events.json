@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-02T02:40:17.939Z",
+  "generated_at": "2026-11-02T06:40:18.071Z",
   "items": [
+    {
+      "fingerprint": "36be9d7cf9c5d217846466c8fa6a60bed5909980",
+      "disease": "африканская чума свиней",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-asf",
+      "title": "Pig movements and pork exports at risk as industry reviews ASF defences",
+      "url": "https://www.farminguk.com/news/pig-movements-and-pork-exports-at-risk-as-industry-reviews-asf-defences_69398.html",
+      "published_at": "2026-11-01T16:01:00.000Z",
+      "created_at": "2026-11-02 06:40:14",
+      "ai_at": "2026-11-02 06:40:17",
+      "dup_count": 1
+    },
     {
       "fingerprint": "434077ad4f5de913a3a864d414077ded678aac3e",
       "disease": "африканская чума свиней",
@@ -1170,22 +1186,6 @@
       "published_at": "2026-10-21T02:18:00.000Z",
       "created_at": "2026-10-21 10:40:15",
       "ai_at": "2026-10-21 10:40:17",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "5de5858263e9da3e96179296445523c02ca208e2",
-      "disease": "болезнь ньюкасла",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-fmd",
-      "title": "Farmer feels 'helpless' after bluetongue outbreak",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2q5559vwdo",
-      "published_at": "2026-10-20T22:18:00.000Z",
-      "created_at": "2026-10-21 10:40:15",
-      "ai_at": "2026-10-21 10:40:19",
       "dup_count": 1
     }
   ]
