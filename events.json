@@ -1,7 +1,37 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-02T10:40:24.992Z",
+  "generated_at": "2026-11-02T14:40:20.520Z",
   "items": [
+    {
+      "fingerprint": "029f2e9d0e3884f9d6fcaeed0293fabcefdb2216",
+      "disease": "болезнь ньюкасла",
+      "country": "Бразилия",
+      "distance_km": 8000,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "Южноафриканская ассоциация по птицеводству поддерживает решение министерства сельского хозяйства не вводить ограничений на импорт птицы из Бразилии после вспышк",
+      "source_id": "bing-world-ai",
+      "title": "SAPA backs continued poultry imports from Brazil after NCD outbreak",
+      "url": "https://www.farmersweekly.co.za/agri-news/south-africa/sapa-backs-continued-poultry-imports-from-brazil-after-ncd-outbreak/",
+      "published_at": "2026-11-02T05:01:00.000Z",
+      "created_at": "2026-11-02 14:40:14",
+      "ai_at": "2026-11-02 14:40:19",
+      "dup_count": 3,
+      "dups": [
+        {
+          "title": "SA keeps poultry imports from Brazil open despite another chicken disease outbreak",
+          "url": "https://www.citizen.co.za/business/sa-keeps-poultry-imports-from-brazil-open-despite-another-chicken-disease-outbreak/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-28T09:06:00.000Z"
+        },
+        {
+          "title": "Mexico suspends Brazilian poultry imports after Newcastle disease outbreak",
+          "url": "https://www.foodbusinessmea.com/mexico-suspends-brazilian-poultry-imports-after-newcastle-disease-outbreak/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-22T04:46:00.000Z"
+        }
+      ]
+    },
     {
       "fingerprint": "36be9d7cf9c5d217846466c8fa6a60bed5909980",
       "disease": "африканская чума свиней",
@@ -537,30 +567,6 @@
       "created_at": "2026-10-30 02:40:14",
       "ai_at": "2026-10-30 02:40:35",
       "dup_count": 1
-    },
-    {
-      "fingerprint": "c2ce64013d1192671a5ada767e30a74ba2e2b5dd",
-      "disease": "болезнь ньюкасла",
-      "country": "Бразилия",
-      "distance_km": 8000,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "Южная Африка продолжает импортировать птицу из Бразилии",
-      "source_id": "bing-world-ai",
-      "title": "SA keeps poultry imports from Brazil open despite another chicken disease outbreak",
-      "url": "https://www.citizen.co.za/business/sa-keeps-poultry-imports-from-brazil-open-despite-another-chicken-disease-outbreak/",
-      "published_at": "2026-10-28T09:06:00.000Z",
-      "created_at": "2026-10-30 02:40:14",
-      "ai_at": "2026-10-30 02:40:37",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Mexico suspends Brazilian poultry imports after Newcastle disease outbreak",
-          "url": "https://www.foodbusinessmea.com/mexico-suspends-brazilian-poultry-imports-after-newcastle-disease-outbreak/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-22T04:46:00.000Z"
-        }
-      ]
     },
     {
       "fingerprint": "4e0b598bc4684fed74de33adef3d4c9880a317cb",
@@ -1186,22 +1192,6 @@
       "published_at": "2026-10-21T04:56:00.000Z",
       "created_at": "2026-10-22 06:40:14",
       "ai_at": "2026-10-22 06:40:22",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "3d8adbe749f3ed2282cfdddb878491f874419908",
-      "disease": null,
-      "country": "Китай",
-      "distance_km": 0,
-      "level": "граница",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-asf",
-      "title": "Chinese Pig Farmers Scramble to Sell Hogs at Deep Discounts Amid Suspected Swine Fever Outbreaks",
-      "url": "https://www.ntd.com/chinese-pig-farmers-scramble-to-sell-hogs-at-deep-discounts-amid-suspected-swine-fever-outbreaks_1180274.html",
-      "published_at": "2026-10-21T02:18:00.000Z",
-      "created_at": "2026-10-21 10:40:15",
-      "ai_at": "2026-10-21 10:40:17",
       "dup_count": 1
     }
   ]
