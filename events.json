@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-02T06:40:18.071Z",
+  "generated_at": "2026-11-02T10:40:24.992Z",
   "items": [
     {
       "fingerprint": "36be9d7cf9c5d217846466c8fa6a60bed5909980",
@@ -176,7 +176,7 @@
       "published_at": "2026-10-30T16:52:00.000Z",
       "created_at": "2026-10-31 16:40:14",
       "ai_at": "2026-10-31 16:40:18",
-      "dup_count": 19,
+      "dup_count": 18,
       "dups": [
         {
           "title": "Bird flu detected at Colorado dairy for first time since 2024 outbreak",
@@ -300,6 +300,22 @@
       "published_at": "2026-10-29T16:26:00.000Z",
       "created_at": "2026-10-30 02:40:14",
       "ai_at": "2026-10-30 02:40:17",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "db4d390a41787e929039060c357164774aadaf71",
+      "disease": null,
+      "country": "США",
+      "distance_km": 5000,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "В США обнаружена вспышка птичьего гриппа H5N1 у норок, что вызвало тревогу по поводу передачи этого заболевания млекопитающим и подчеркнуло недостатки в обеспеч",
+      "source_id": "bing-world-ai",
+      "title": "The H5N1 mink outbreak, explained: Why it matters and what you should do",
+      "url": "https://www.msn.com/en-us/news/other/the-h5n1-mink-outbreak-explained-why-it-matters-and-what-you-should-do/ar-AA2goqXQ",
+      "published_at": "2026-10-29T15:30:00.000Z",
+      "created_at": "2026-11-02 10:40:14",
+      "ai_at": "2026-11-02 10:40:24",
       "dup_count": 1
     },
     {
