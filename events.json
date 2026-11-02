@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-02T00:40:19.988Z",
+  "generated_at": "2026-11-02T02:40:17.939Z",
   "items": [
     {
       "fingerprint": "434077ad4f5de913a3a864d414077ded678aac3e",
@@ -32,6 +32,22 @@
       "published_at": "2026-11-01T02:00:00.000Z",
       "created_at": "2026-11-02 00:40:15",
       "ai_at": "2026-11-02 00:40:19",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "4899ec5b384952465ac15ca9daeb1f2eed4311ee",
+      "disease": "нодулярный дерматит",
+      "country": "Япония",
+      "distance_km": 60,
+      "level": "высокая",
+      "verdict": "confirmed",
+      "ai_summary": "Подтвержден случай нодулярного дерматита на ферме в городе Мияме.",
+      "source_id": "bing-world-lsd",
+      "title": "Lumpy Skin Disease in Miyama City | It does not transmit to humans — Staying calm and the role of the hub supporting livestock disease prevention 】",
+      "url": "https://note.com/itahashisatoshi/n/nb18e4b5cd402?hl=en",
+      "published_at": "2026-10-31T23:56:00.000Z",
+      "created_at": "2026-11-02 02:40:14",
+      "ai_at": "2026-11-02 02:40:17",
       "dup_count": 1
     },
     {
@@ -504,19 +520,13 @@
       "published_at": "2026-10-28T09:06:00.000Z",
       "created_at": "2026-10-30 02:40:14",
       "ai_at": "2026-10-30 02:40:37",
-      "dup_count": 3,
+      "dup_count": 2,
       "dups": [
         {
           "title": "Mexico suspends Brazilian poultry imports after Newcastle disease outbreak",
           "url": "https://www.foodbusinessmea.com/mexico-suspends-brazilian-poultry-imports-after-newcastle-disease-outbreak/",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-22T04:46:00.000Z"
-        },
-        {
-          "title": "Mexico suspends chicken imports from Brazil over Newcastle disease outbreak",
-          "url": "https://mexiconewsdaily.com/news/mexico-suspends-chicken-imports-brazil/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-20T15:43:00.000Z"
         }
       ]
     },
