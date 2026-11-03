@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-03T02:40:26.644Z",
+  "generated_at": "2026-11-03T10:40:19.002Z",
   "items": [
+    {
+      "fingerprint": "5b823185f2a7c4d35682a222af84b7e2eccd7521",
+      "disease": "рыбный тиф",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-fmd",
+      "title": "Kenya flagged at high risk of El Ni&#241;o-driven Rift Valley fever outbreaks",
+      "url": "https://eastleighvoice.co.ke/news/419171/kenya-flagged-at-high-risk-of-el-nino-driven-rift-valley-fever-outbreaks",
+      "published_at": "2026-11-02T22:04:00.000Z",
+      "created_at": "2026-11-03 10:40:15",
+      "ai_at": "2026-11-03 10:40:17",
+      "dup_count": 1
+    },
     {
       "fingerprint": "7f4005112c834c6e362cd938484df33c6ad8b80c",
       "disease": "грипп птиц",
@@ -1172,22 +1188,6 @@
       "published_at": "2026-10-21T20:00:00.000Z",
       "created_at": "2026-10-22 12:40:14",
       "ai_at": "2026-10-22 12:40:19",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "bd78830362f050072d48afb4d60490064bb0f5d5",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "РСПКА предлагает поддержку птицеводам при вспышках гриппа птиц",
-      "source_id": "bing-world-ai",
-      "title": "RSPCA Assured offers support to poultry farmers during bird flu outbreaks",
-      "url": "https://www.poultrynews.co.uk/health-welfare/rspca-assured-offers-support-to-poultry-farmers-during-bird-flu-outbreaks.html",
-      "published_at": "2026-10-21T17:00:00.000Z",
-      "created_at": "2026-10-22 06:40:14",
-      "ai_at": "2026-10-22 06:40:17",
       "dup_count": 1
     }
   ]
