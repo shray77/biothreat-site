@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-02T18:40:19.323Z",
+  "generated_at": "2026-11-03T00:40:20.912Z",
   "items": [
+    {
+      "fingerprint": "5cd61a787e3530e3d9e46dd66206576e4530cafb",
+      "disease": "бешенство",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Индия продлила аккредитацию на проведение ветеринарных клинических испытаний",
+      "source_id": "bing-world-lsd",
+      "title": "ICAR-NIVEDI, Bengaluru extends NABL accreditation to 28 veterinary clinical trials",
+      "url": "https://www.msn.com/en-in/news/other/icar-nivedi-bengaluru-extends-nabl-accreditation-to-28-veterinary-clinical-trials/ar-AA2gBDfY",
+      "published_at": "2026-11-02T10:35:37.000Z",
+      "created_at": "2026-11-03 00:40:14",
+      "ai_at": "2026-11-03 00:40:20",
+      "dup_count": 1
+    },
     {
       "fingerprint": "029f2e9d0e3884f9d6fcaeed0293fabcefdb2216",
       "disease": "болезнь ньюкасла",
@@ -158,7 +174,7 @@
       "published_at": "2026-10-30T21:54:00.000Z",
       "created_at": "2026-10-31 08:40:14",
       "ai_at": "2026-10-31 08:40:19",
-      "dup_count": 6,
+      "dup_count": 5,
       "dups": [
         {
           "title": "Philippines plans second ASF vaccine rollout before end-November",
@@ -183,12 +199,6 @@
           "url": "https://manilastandard.net/news/314809279/asf-losses-in-tabuk-reach-p211-7-million.html",
           "source_id": "bing-world-asf",
           "published_at": "2026-10-22T02:05:00.000Z"
-        },
-        {
-          "title": "ASF spread contained",
-          "url": "https://www.sunstar.com.ph/cebu/asf-spread-contained",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-21T05:24:00.000Z"
         }
       ]
     },
