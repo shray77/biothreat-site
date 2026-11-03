@@ -6,6 +6,27 @@
     <description>Радар трансграничных болезней животных: ящур, АЧС, грипп птиц, нодулярный дерматит — с оценкой угрозы для РФ. Информационный сервис «как есть»: не официальная система оповещения, не ветеринарная консультация, ИИ и уровни могут ошибаться. Условия: https://shray77.github.io/biothreat-site/terms.html</description>
     <language>ru</language>
     <item>
+      <title>[фон] грипп птиц — США: Hong Kong suspends import of poultry products from US county after outbreak of bird flu in region</title>
+      <link>https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/02/hong-kong-suspends-import-of-poultry-products-from-us-county--after-outbreak-of-bird-flu-in-region</link>
+      <guid isPermaLink="false">7f4005112c834c6e362cd938484df33c6ad8b80c</guid>
+      <pubDate>Mon, 02 Nov 2026 14:31:00 GMT</pubDate>
+      <description>В США обнаружен грипп птиц, поэтому власти Хонконга запретили импорт птицы из американского округа · verdict: probable · Hong Kong suspends import of poultry products from US county after outbreak of bird flu in region</description>
+    </item>
+    <item>
+      <title>[не определено] грипп птиц: HRPH investigates suspected bird flu outbreak in backyard flock</title>
+      <link>https://www.chch.com/chch-news/hrph-investigates-suspected-bird-flu-outbreak-in-backyard-flock/</link>
+      <guid isPermaLink="false">14037b495f079ec67d3682896791554df851f9fe</guid>
+      <pubDate>Mon, 02 Nov 2026 10:55:00 GMT</pubDate>
+      <description>verdict: probable · HRPH investigates suspected bird flu outbreak in backyard flock</description>
+    </item>
+    <item>
+      <title>[фон] США: US dairy worker dies from bird flu as outbreak rages in cattle</title>
+      <link>https://www.yahoo.com/news/us/articles/us-dairy-worker-dies-bird-184409004.html</link>
+      <guid isPermaLink="false">0b1d8f59635db802cdb472375b55dbc2f4652246</guid>
+      <pubDate>Mon, 02 Nov 2026 10:44:00 GMT</pubDate>
+      <description>Смерть человека от птичьего гриппа в США · verdict: probable · US dairy worker dies from bird flu as outbreak rages in cattle</description>
+    </item>
+    <item>
       <title>[не определено] бешенство: ICAR-NIVEDI, Bengaluru extends NABL accreditation to 28 veterinary clinical trials</title>
       <link>https://www.msn.com/en-in/news/other/icar-nivedi-bengaluru-extends-nabl-accreditation-to-28-veterinary-clinical-trials/ar-AA2gBDfY</link>
       <guid isPermaLink="false">5cd61a787e3530e3d9e46dd66206576e4530cafb</guid>
@@ -81,13 +102,6 @@
       <guid isPermaLink="false">a7ae8374cc09ae98a1e9cceb0b33cfc6811d9f78</guid>
       <pubDate>Fri, 30 Oct 2026 17:00:00 GMT</pubDate>
       <description>Программа по повышению осведомленности о заболевании африканской чумой свиней в школе Манглутан обучает учащихся распознаванию симптомов и мерам предосторожност · verdict: probable · African Swine Fever Awareness Campaign Focuses on Early Detection and Prevention in Manglutan</description>
-    </item>
-    <item>
-      <title>[фон] грипп птиц — США: Bird flu detected at Colorado dairy for first time since 2024 outbreak</title>
-      <link>https://www.yahoo.com/news/science/articles/bird-flu-detected-colorado-dairy-235355330.html</link>
-      <guid isPermaLink="false">9080d0bdf4fd887ae9efeb8de92e6cac9ff375b3</guid>
-      <pubDate>Fri, 30 Oct 2026 16:52:00 GMT</pubDate>
-      <description>В Кolorado обнаружен грипп птиц на молочном ферме впервые с 2024 года · verdict: confirmed · Bird flu detected at Colorado dairy for first time since 2024 outbreak</description>
     </item>
     <item>
       <title>[фон] африканская чума свиней — Намибия: Central bank raises repo rate to 7% amid inflation pressures and FMD outbreak</title>
@@ -424,20 +438,6 @@
       <guid isPermaLink="false">bd78830362f050072d48afb4d60490064bb0f5d5</guid>
       <pubDate>Wed, 21 Oct 2026 17:00:00 GMT</pubDate>
       <description>РСПКА предлагает поддержку птицеводам при вспышках гриппа птиц · verdict: probable · RSPCA Assured offers support to poultry farmers during bird flu outbreaks</description>
-    </item>
-    <item>
-      <title>[фон] грипп птиц — Индия: Vandalur Zoo Bird Flu Outbreak Shuts Chennai Park for Sanitisation</title>
-      <link>https://urbanacres.in/vandalur-zoo-bird-flu-outbreak-shuts-chennai-park-for-sanitisation/</link>
-      <guid isPermaLink="false">3afbde851527831a92cae84d0a11730fff83f9e8</guid>
-      <pubDate>Wed, 21 Oct 2026 09:42:00 GMT</pubDate>
-      <description>В парке Вандалур, в котором произошли случаи птичьего гриппа, закрыты на два дня водные пруды, чтобы провести дезинфекцию. · verdict: confirmed · Vandalur Zoo Bird Flu Outbreak Shuts Chennai Park for Sanitisation</description>
-    </item>
-    <item>
-      <title>[не определено] грипп птиц: Vandalur Zoo announces two-day closure following bird flu outbreak</title>
-      <link>https://www.msn.com/en-in/news/other/vandalur-zoo-announces-two-day-closure-following-bird-flu-outbreak/ar-AA2fKNW3</link>
-      <guid isPermaLink="false">812031748e17c9436645f948f6032a618f9a4376</guid>
-      <pubDate>Wed, 21 Oct 2026 09:41:27 GMT</pubDate>
-      <description>В зоопарке Вандалур после выявления гриппа птиц на двухдневнуюsanitizeцию. · verdict: confirmed · Vandalur Zoo announces two-day closure following bird flu outbreak</description>
     </item>
   </channel>
 </rss>
