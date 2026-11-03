@@ -1,7 +1,117 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-03T00:40:20.912Z",
+  "generated_at": "2026-11-03T02:40:26.644Z",
   "items": [
+    {
+      "fingerprint": "7f4005112c834c6e362cd938484df33c6ad8b80c",
+      "disease": "грипп птиц",
+      "country": "США",
+      "distance_km": 5000,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "В США обнаружен грипп птиц, поэтому власти Хонконга запретили импорт птицы из американского округа",
+      "source_id": "bing-world-ai",
+      "title": "Hong Kong suspends import of poultry products from US county after outbreak of bird flu in region",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/02/hong-kong-suspends-import-of-poultry-products-from-us-county--after-outbreak-of-bird-flu-in-region",
+      "published_at": "2026-11-02T14:31:00.000Z",
+      "created_at": "2026-11-03 02:40:14",
+      "ai_at": "2026-11-03 02:40:18",
+      "dup_count": 20,
+      "dups": [
+        {
+          "title": "Washington State Reports First US Avian Influenza Death of 2026",
+          "url": "https://www.contagionlive.com/view/washington-reports-first-us-avian-influenza-death-of-2026-in-yakima-county",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-02T13:00:00.000Z"
+        },
+        {
+          "title": "Bird flu detected at Colorado dairy for first time since 2024 outbreak",
+          "url": "https://www.yahoo.com/news/science/articles/bird-flu-detected-colorado-dairy-235355330.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-30T16:52:00.000Z"
+        },
+        {
+          "title": "Bird flu detected at Colorado dairy for first time since 2024 outbreak",
+          "url": "https://www.9news.com/article/news/health/bird-flu-detected-at-colorado-dairy-for-first-time-since-2024-outbreak/73-a3cfcbb4-953b-49da-8683-2b7ebf54af8e",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-30T16:52:00.000Z"
+        },
+        {
+          "title": "Iowa reports eighth H5N1 avian influenza outbreak of 2026",
+          "url": "https://www.meatpoultry.com/articles/34256-iowa-reports-eighth-h5n1-avian-influenza-outbreak-of-2026",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-30T08:32:00.000Z"
+        },
+        {
+          "title": "The H5N1 mink outbreak, explained: Why it matters and what you should do",
+          "url": "https://www.msn.com/en-us/money/general/the-h5n1-mink-outbreak-explained-why-it-matters-and-what-you-should-do/ar-AA2goqXQ",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-29T15:30:00.000Z"
+        },
+        {
+          "title": "The H5N1 Mink Outbreak, Explained: Why It Matters And What You Should Do",
+          "url": "https://health.yahoo.com/conditions/infectious/bird-flu/articles/h5n1-mink-outbreak-explained-why-223000248.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-29T15:30:00.000Z"
+        },
+        {
+          "title": "Gov. Reynolds Issues Sac County Disaster Declaration Following Avian Flu Outbreak in Turkey Flock",
+          "url": "https://www.1380kcim.com/2026/10/28/gov-reynolds-issues-sac-county-disaster-declaration-following-avian-flu-outbreak-in-turkey-flock/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-28T10:51:00.000Z"
+        },
+        {
+          "title": "Arkansas Department of Agriculture urges poultry owners to watch for avian influenza, confirms first case of season",
+          "url": "https://www.kark.com/news/business/arkansas-department-of-agriculture-urges-poultry-owners-to-watch-for-avian-influenza-confirms-first-case-of-season/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-28T09:13:00.000Z"
+        },
+        {
+          "title": "Bird Flu Outbreak on Utah Mink Farm Lasts 2 Months, Raising Pandemic Fears",
+          "url": "https://www.yahoo.com/news/science/articles/bird-flu-outbreak-utah-mink-215806493.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-27T14:58:00.000Z"
+        },
+        {
+          "title": "Utah mink farm bird flu: What to know about the H5N1 outbreak, mutation risks, and government response",
+          "url": "https://www.clarin.com/us-news/utah-mink-farm-bird-flu-what-to-know-about-the-h5n1-outbreak-mutation-risks-and-government-response_0_86WeCreZUJ.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-27T06:07:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "14037b495f079ec67d3682896791554df851f9fe",
+      "disease": "грипп птиц",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "HRPH investigates suspected bird flu outbreak in backyard flock",
+      "url": "https://www.chch.com/chch-news/hrph-investigates-suspected-bird-flu-outbreak-in-backyard-flock/",
+      "published_at": "2026-11-02T10:55:00.000Z",
+      "created_at": "2026-11-03 02:40:14",
+      "ai_at": "2026-11-03 02:40:23",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "0b1d8f59635db802cdb472375b55dbc2f4652246",
+      "disease": null,
+      "country": "США",
+      "distance_km": 5000,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "Смерть человека от птичьего гриппа в США",
+      "source_id": "bing-world-ai",
+      "title": "US dairy worker dies from bird flu as outbreak rages in cattle",
+      "url": "https://www.yahoo.com/news/us/articles/us-dairy-worker-dies-bird-184409004.html",
+      "published_at": "2026-11-02T10:44:00.000Z",
+      "created_at": "2026-11-03 02:40:14",
+      "ai_at": "2026-11-03 02:40:26",
+      "dup_count": 1
+    },
     {
       "fingerprint": "5cd61a787e3530e3d9e46dd66206576e4530cafb",
       "disease": "бешенство",
@@ -217,84 +327,6 @@
       "created_at": "2026-10-31 08:40:14",
       "ai_at": "2026-10-31 08:40:25",
       "dup_count": 1
-    },
-    {
-      "fingerprint": "9080d0bdf4fd887ae9efeb8de92e6cac9ff375b3",
-      "disease": "грипп птиц",
-      "country": "США",
-      "distance_km": 5000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В Кolorado обнаружен грипп птиц на молочном ферме впервые с 2024 года",
-      "source_id": "bing-world-ai",
-      "title": "Bird flu detected at Colorado dairy for first time since 2024 outbreak",
-      "url": "https://www.yahoo.com/news/science/articles/bird-flu-detected-colorado-dairy-235355330.html",
-      "published_at": "2026-10-30T16:52:00.000Z",
-      "created_at": "2026-10-31 16:40:14",
-      "ai_at": "2026-10-31 16:40:18",
-      "dup_count": 18,
-      "dups": [
-        {
-          "title": "Bird flu detected at Colorado dairy for first time since 2024 outbreak",
-          "url": "https://www.9news.com/article/news/health/bird-flu-detected-at-colorado-dairy-for-first-time-since-2024-outbreak/73-a3cfcbb4-953b-49da-8683-2b7ebf54af8e",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-30T16:52:00.000Z"
-        },
-        {
-          "title": "Iowa reports eighth H5N1 avian influenza outbreak of 2026",
-          "url": "https://www.meatpoultry.com/articles/34256-iowa-reports-eighth-h5n1-avian-influenza-outbreak-of-2026",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-30T08:32:00.000Z"
-        },
-        {
-          "title": "The H5N1 mink outbreak, explained: Why it matters and what you should do",
-          "url": "https://www.msn.com/en-us/money/general/the-h5n1-mink-outbreak-explained-why-it-matters-and-what-you-should-do/ar-AA2goqXQ",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-29T15:30:00.000Z"
-        },
-        {
-          "title": "The H5N1 Mink Outbreak, Explained: Why It Matters And What You Should Do",
-          "url": "https://health.yahoo.com/conditions/infectious/bird-flu/articles/h5n1-mink-outbreak-explained-why-223000248.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-29T15:30:00.000Z"
-        },
-        {
-          "title": "Gov. Reynolds Issues Sac County Disaster Declaration Following Avian Flu Outbreak in Turkey Flock",
-          "url": "https://www.1380kcim.com/2026/10/28/gov-reynolds-issues-sac-county-disaster-declaration-following-avian-flu-outbreak-in-turkey-flock/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-28T10:51:00.000Z"
-        },
-        {
-          "title": "Arkansas Department of Agriculture urges poultry owners to watch for avian influenza, confirms first case of season",
-          "url": "https://www.kark.com/news/business/arkansas-department-of-agriculture-urges-poultry-owners-to-watch-for-avian-influenza-confirms-first-case-of-season/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-28T09:13:00.000Z"
-        },
-        {
-          "title": "Bird Flu Outbreak on Utah Mink Farm Lasts 2 Months, Raising Pandemic Fears",
-          "url": "https://www.yahoo.com/news/science/articles/bird-flu-outbreak-utah-mink-215806493.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-27T14:58:00.000Z"
-        },
-        {
-          "title": "Utah mink farm bird flu: What to know about the H5N1 outbreak, mutation risks, and government response",
-          "url": "https://www.clarin.com/us-news/utah-mink-farm-bird-flu-what-to-know-about-the-h5n1-outbreak-mutation-risks-and-government-response_0_86WeCreZUJ.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-27T06:07:00.000Z"
-        },
-        {
-          "title": "Nearly 1 million chickens killed after bird flu outbreak hits one of America’s biggest egg producers",
-          "url": "https://www.msn.com/en-us/news/other/nearly-1-million-chickens-killed-after-bird-flu-outbreak-hits-one-of-america-s-biggest-egg-producers/ar-AA2g9GRj",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-27T02:04:35.000Z"
-        },
-        {
-          "title": "Utah Mink Farm Bird Flu Outbreak Exposes Response Gaps",
-          "url": "https://www.medindia.net/news/utah-mink-farm-bird-flu-outbreak-exposes-response-gaps-225725-1.htm",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-26T17:19:00.000Z"
-        }
-      ]
     },
     {
       "fingerprint": "5ab3fbe7f33ce85556eac4cbd835736c6d662ea0",
@@ -1156,52 +1188,6 @@
       "published_at": "2026-10-21T17:00:00.000Z",
       "created_at": "2026-10-22 06:40:14",
       "ai_at": "2026-10-22 06:40:17",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "3afbde851527831a92cae84d0a11730fff83f9e8",
-      "disease": "грипп птиц",
-      "country": "Индия",
-      "distance_km": 3000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В парке Вандалур, в котором произошли случаи птичьего гриппа, закрыты на два дня водные пруды, чтобы провести дезинфекцию.",
-      "source_id": "bing-world-ai",
-      "title": "Vandalur Zoo Bird Flu Outbreak Shuts Chennai Park for Sanitisation",
-      "url": "https://urbanacres.in/vandalur-zoo-bird-flu-outbreak-shuts-chennai-park-for-sanitisation/",
-      "published_at": "2026-10-21T09:42:00.000Z",
-      "created_at": "2026-10-21 20:40:13",
-      "ai_at": "2026-10-21 20:40:19",
-      "dup_count": 3,
-      "dups": [
-        {
-          "title": "Chennai’s Vandalur Zoo to close for sanitisation following bird flu outbreak",
-          "url": "https://www.msn.com/en-in/news/other/chennai-s-vandalur-zoo-to-close-for-sanitisation-following-bird-flu-outbreak/ar-AA2fKDLa",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-21T09:01:33.000Z"
-        },
-        {
-          "title": "Chennai’s Vandalur Zoo to close for sanitisation following bird flu outbreak",
-          "url": "https://www.msn.com/en-in/money/general/chennai-s-vandalur-zoo-to-close-for-sanitisation-following-bird-flu-outbreak/ar-AA2fKDLa",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-21T09:01:33.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "812031748e17c9436645f948f6032a618f9a4376",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "В зоопарке Вандалур после выявления гриппа птиц на двухдневнуюsanitizeцию.",
-      "source_id": "bing-world-ai",
-      "title": "Vandalur Zoo announces two-day closure following bird flu outbreak",
-      "url": "https://www.msn.com/en-in/news/other/vandalur-zoo-announces-two-day-closure-following-bird-flu-outbreak/ar-AA2fKNW3",
-      "published_at": "2026-10-21T09:41:27.000Z",
-      "created_at": "2026-10-22 02:40:14",
-      "ai_at": "2026-10-22 02:40:19",
       "dup_count": 1
     }
   ]
