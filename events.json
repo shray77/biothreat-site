@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-04T18:40:20.932Z",
+  "generated_at": "2026-11-04T20:40:23.472Z",
   "items": [
     {
       "fingerprint": "d299c2d7e8b24e2d8f2ca12b171b0191ed4f6578",
@@ -223,6 +223,22 @@
       "dup_count": 1
     },
     {
+      "fingerprint": "92cc2b19feadcc8754efbc46b67e3c853c89a37a",
+      "disease": "африканская чума свиней",
+      "country": "Венгрия",
+      "distance_km": 1200,
+      "level": "наблюдение",
+      "verdict": "probable",
+      "ai_summary": "Сенат Венгрии принял законопроект по поддержке фермеров в 20 евро на каждого свиню, для предотвращения африканской свиной чумы.",
+      "source_id": "bing-world-asf",
+      "title": "The Senate adopted Tanczos Barna’s proposal for support of 20 euros per pig, aimed at preventing African swine fever.",
+      "url": "https://informat.ro/en/current-affairs/senate-adopts-eur20-support-for-each-pig-146426",
+      "published_at": "2026-11-02T10:18:00.000Z",
+      "created_at": "2026-11-04 20:40:14",
+      "ai_at": "2026-11-04 20:40:23",
+      "dup_count": 1
+    },
+    {
       "fingerprint": "cc2b5d36c5e3dfee9f7fc5f6f192f5648501da15",
       "disease": "африканская чума свиней",
       "country": null,
@@ -348,19 +364,13 @@
       "published_at": "2026-10-30T21:54:00.000Z",
       "created_at": "2026-10-31 08:40:14",
       "ai_at": "2026-10-31 08:40:19",
-      "dup_count": 3,
+      "dup_count": 2,
       "dups": [
         {
           "title": "Philippines plans second ASF vaccine rollout before end-November",
           "url": "https://tradersunion.com/news/companies/show/4013761-philippines-asf-vaccine-rollout/",
           "source_id": "bing-world-asf",
           "published_at": "2026-10-29T06:28:00.000Z"
-        },
-        {
-          "title": "Cebu City tightens hog controls after ASF found in Sapangdaku",
-          "url": "https://www.sunstar.com.ph/cebu/cebu-city-tightens-hog-controls-after-asf-found-in-sapangdaku",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-22T05:38:00.000Z"
         }
       ]
     },
