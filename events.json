@@ -1,39 +1,113 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-03T10:40:19.002Z",
+  "generated_at": "2026-11-04T14:41:01.337Z",
   "items": [
     {
-      "fingerprint": "5b823185f2a7c4d35682a222af84b7e2eccd7521",
-      "disease": "рыбный тиф",
+      "fingerprint": "d299c2d7e8b24e2d8f2ca12b171b0191ed4f6578",
+      "disease": "грипп птиц",
+      "country": "Южная Корея",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "В провинции Кёнги обнаружен случай птичьего гриппа на птицефабрике",
+      "source_id": "bing-world-ai",
+      "title": "New avian influenza case detected in Gyeonggi Province",
+      "url": "https://www.ajupress.com/view/20261104142925224",
+      "published_at": "2026-11-04T06:00:00.000Z",
+      "created_at": "2026-11-04 14:40:15",
+      "ai_at": "2026-11-04 14:40:19",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "3961e14f9d425047debf3dec497eef052f264b26",
+      "disease": "африканская чума свиней",
       "country": null,
       "distance_km": null,
       "level": "не определено",
       "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-fmd",
-      "title": "Kenya flagged at high risk of El Ni&#241;o-driven Rift Valley fever outbreaks",
-      "url": "https://eastleighvoice.co.ke/news/419171/kenya-flagged-at-high-risk-of-el-nino-driven-rift-valley-fever-outbreaks",
-      "published_at": "2026-11-02T22:04:00.000Z",
-      "created_at": "2026-11-03 10:40:15",
-      "ai_at": "2026-11-03 10:40:17",
+      "ai_summary": "Департамент сельского хозяйства не предпринимает эффективных действий против африканской чумы свиней в провинциях, где она присутствует уже несколько лет.",
+      "source_id": "bing-world-asf",
+      "title": "Espinoza: What has the DA done on ASF?",
+      "url": "https://www.sunstar.com.ph/cebu/espinoza-what-has-the-da-done-on-asf",
+      "published_at": "2026-11-04T02:37:00.000Z",
+      "created_at": "2026-11-04 14:40:15",
+      "ai_at": "2026-11-04 14:40:38",
       "dup_count": 1
     },
     {
-      "fingerprint": "7f4005112c834c6e362cd938484df33c6ad8b80c",
+      "fingerprint": "d2ad70aaafa8009553c6dc147ff91d21138b1b53",
+      "disease": null,
+      "country": "Великобритания",
+      "distance_km": 2500,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "Британские фермеры опасаются, что стрессы в системе противодействия болезням животных могут привести к пропуску новых вспышек",
+      "source_id": "bing-world-fmd",
+      "title": "UK livestock disease defences under strain as outbreaks surge, MPs warned",
+      "url": "https://www.farminguk.com/news/uk-livestock-disease-defences-under-strain-as-outbreaks-surge-mps-warned_69412.html",
+      "published_at": "2026-11-03T16:00:00.000Z",
+      "created_at": "2026-11-04 14:40:15",
+      "ai_at": "2026-11-04 14:40:44",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "0ec01e96d9cd31f6bdafa7498d3028c49a0f3e7f",
+      "disease": "болезнь ньюкасла",
+      "country": "Бразилия",
+      "distance_km": 8000,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "Южно-Африканская Республика продолжает импорт птицы из Бразилии после вспышки болезни ньюкасла",
+      "source_id": "bing-world-ai",
+      "title": "SAPA supports continued Brazilian poultry imports despite Newcastle disease outbreak",
+      "url": "https://www.foodbusinessmea.com/sapa-supports-continued-brazilian-poultry-imports-despite-newcastle-disease-outbreak/",
+      "published_at": "2026-11-03T07:58:00.000Z",
+      "created_at": "2026-11-04 14:40:15",
+      "ai_at": "2026-11-04 14:40:52",
+      "dup_count": 4,
+      "dups": [
+        {
+          "title": "SAPA backs continued poultry imports from Brazil after NCD outbreak",
+          "url": "https://www.farmersweekly.co.za/agri-news/south-africa/sapa-backs-continued-poultry-imports-from-brazil-after-ncd-outbreak/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-02T05:01:00.000Z"
+        },
+        {
+          "title": "SA keeps poultry imports from Brazil open despite another chicken disease outbreak",
+          "url": "https://www.citizen.co.za/business/sa-keeps-poultry-imports-from-brazil-open-despite-another-chicken-disease-outbreak/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-28T09:06:00.000Z"
+        },
+        {
+          "title": "Mexico suspends Brazilian poultry imports after Newcastle disease outbreak",
+          "url": "https://www.foodbusinessmea.com/mexico-suspends-brazilian-poultry-imports-after-newcastle-disease-outbreak/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-22T04:46:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "1b1fe7cbf42157bffcd04b8a53cc75905dccee97",
       "disease": "грипп птиц",
       "country": "США",
       "distance_km": 5000,
       "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "В США обнаружен грипп птиц, поэтому власти Хонконга запретили импорт птицы из американского округа",
+      "verdict": "confirmed",
+      "ai_summary": "Зафиксирована вспышка гриппа птиц на молочном ферме в Вашингтоне",
       "source_id": "bing-world-ai",
-      "title": "Hong Kong suspends import of poultry products from US county after outbreak of bird flu in region",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/02/hong-kong-suspends-import-of-poultry-products-from-us-county--after-outbreak-of-bird-flu-in-region",
-      "published_at": "2026-11-02T14:31:00.000Z",
-      "created_at": "2026-11-03 02:40:14",
-      "ai_at": "2026-11-03 02:40:18",
+      "title": "H5N1 avian influenza death reported in Washington dairy outbreak",
+      "url": "https://www.meatpoultry.com/articles/34269-h5n1-avian-influenza-death-reported-in-washington-dairy-outbreak",
+      "published_at": "2026-11-03T07:45:00.000Z",
+      "created_at": "2026-11-04 14:40:15",
+      "ai_at": "2026-11-04 14:40:59",
       "dup_count": 20,
       "dups": [
+        {
+          "title": "Hong Kong suspends import of poultry products from US county after outbreak of bird flu in region",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/02/hong-kong-suspends-import-of-poultry-products-from-us-county--after-outbreak-of-bird-flu-in-region",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-02T14:31:00.000Z"
+        },
         {
           "title": "Washington State Reports First US Avian Influenza Death of 2026",
           "url": "https://www.contagionlive.com/view/washington-reports-first-us-avian-influenza-death-of-2026-in-yakima-county",
@@ -87,14 +161,24 @@
           "url": "https://www.yahoo.com/news/science/articles/bird-flu-outbreak-utah-mink-215806493.html",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-27T14:58:00.000Z"
-        },
-        {
-          "title": "Utah mink farm bird flu: What to know about the H5N1 outbreak, mutation risks, and government response",
-          "url": "https://www.clarin.com/us-news/utah-mink-farm-bird-flu-what-to-know-about-the-h5n1-outbreak-mutation-risks-and-government-response_0_86WeCreZUJ.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-27T06:07:00.000Z"
         }
       ]
+    },
+    {
+      "fingerprint": "5b823185f2a7c4d35682a222af84b7e2eccd7521",
+      "disease": "рыбный тиф",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-fmd",
+      "title": "Kenya flagged at high risk of El Ni&#241;o-driven Rift Valley fever outbreaks",
+      "url": "https://eastleighvoice.co.ke/news/419171/kenya-flagged-at-high-risk-of-el-nino-driven-rift-valley-fever-outbreaks",
+      "published_at": "2026-11-02T22:04:00.000Z",
+      "created_at": "2026-11-03 10:40:15",
+      "ai_at": "2026-11-03 10:40:17",
+      "dup_count": 1
     },
     {
       "fingerprint": "14037b495f079ec67d3682896791554df851f9fe",
@@ -143,36 +227,6 @@
       "created_at": "2026-11-03 00:40:14",
       "ai_at": "2026-11-03 00:40:20",
       "dup_count": 1
-    },
-    {
-      "fingerprint": "029f2e9d0e3884f9d6fcaeed0293fabcefdb2216",
-      "disease": "болезнь ньюкасла",
-      "country": "Бразилия",
-      "distance_km": 8000,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "Южноафриканская ассоциация по птицеводству поддерживает решение министерства сельского хозяйства не вводить ограничений на импорт птицы из Бразилии после вспышк",
-      "source_id": "bing-world-ai",
-      "title": "SAPA backs continued poultry imports from Brazil after NCD outbreak",
-      "url": "https://www.farmersweekly.co.za/agri-news/south-africa/sapa-backs-continued-poultry-imports-from-brazil-after-ncd-outbreak/",
-      "published_at": "2026-11-02T05:01:00.000Z",
-      "created_at": "2026-11-02 14:40:14",
-      "ai_at": "2026-11-02 14:40:19",
-      "dup_count": 3,
-      "dups": [
-        {
-          "title": "SA keeps poultry imports from Brazil open despite another chicken disease outbreak",
-          "url": "https://www.citizen.co.za/business/sa-keeps-poultry-imports-from-brazil-open-despite-another-chicken-disease-outbreak/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-28T09:06:00.000Z"
-        },
-        {
-          "title": "Mexico suspends Brazilian poultry imports after Newcastle disease outbreak",
-          "url": "https://www.foodbusinessmea.com/mexico-suspends-brazilian-poultry-imports-after-newcastle-disease-outbreak/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-22T04:46:00.000Z"
-        }
-      ]
     },
     {
       "fingerprint": "cc2b5d36c5e3dfee9f7fc5f6f192f5648501da15",
@@ -300,7 +354,7 @@
       "published_at": "2026-10-30T21:54:00.000Z",
       "created_at": "2026-10-31 08:40:14",
       "ai_at": "2026-10-31 08:40:19",
-      "dup_count": 5,
+      "dup_count": 3,
       "dups": [
         {
           "title": "Philippines plans second ASF vaccine rollout before end-November",
@@ -313,18 +367,6 @@
           "url": "https://www.sunstar.com.ph/cebu/cebu-city-tightens-hog-controls-after-asf-found-in-sapangdaku",
           "source_id": "bing-world-asf",
           "published_at": "2026-10-22T05:38:00.000Z"
-        },
-        {
-          "title": "Cebu steps up measures to contain ASF outbreak",
-          "url": "https://www.manilatimes.net/2026/10/23/regions/cebu-steps-up-measures-to-contain-asf-outbreak/2452233",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-22T03:00:00.000Z"
-        },
-        {
-          "title": "ASF losses in Tabuk reach P211.7 million",
-          "url": "https://manilastandard.net/news/314809279/asf-losses-in-tabuk-reach-p211-7-million.html",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-22T02:05:00.000Z"
         }
       ]
     },
@@ -1156,38 +1198,6 @@
       "published_at": "2026-10-22T06:41:00.000Z",
       "created_at": "2026-10-22 18:40:15",
       "ai_at": "2026-10-22 18:40:27",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "12060e3ee8d459ff6cc6692725c759280a81d298",
-      "disease": "африканская чума свиней",
-      "country": "Южно-Африканская Республика",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "Подтверждено африканская чума свиней у куду в национальном парке Addo в Южно-Африканской Республике",
-      "source_id": "bing-world-fmd",
-      "title": "Foot-and-mouth disease confirmed in kudu at Addo Park in South Africa — Daily Maverick",
-      "url": "https://ua.news/en/dovkolo-svitu/u-parku-addo-v-par-pidtverdili-iashchur-u-kudu-daily-maverick",
-      "published_at": "2026-10-21T21:18:00.000Z",
-      "created_at": "2026-10-22 18:40:15",
-      "ai_at": "2026-10-22 18:40:45",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "6bff0d9a17129cb25e5a7ca9027400e7614f1fe8",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "Воскресенье и понедельник зоопарк был закрыт для посетителей в связи с вспышкой гриппа птиц",
-      "source_id": "bing-world-ai",
-      "title": "Vandalur Zoo closed for public for 2 days following outbreak of Avian influenza",
-      "url": "https://www.centralchronicle.com/vandalur-zoo-closed-for-public-for-2-days-following-outbreak-of-avian-influenza/",
-      "published_at": "2026-10-21T20:00:00.000Z",
-      "created_at": "2026-10-22 12:40:14",
-      "ai_at": "2026-10-22 12:40:19",
       "dup_count": 1
     }
   ]
