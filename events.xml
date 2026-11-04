@@ -6,18 +6,46 @@
     <description>Радар трансграничных болезней животных: ящур, АЧС, грипп птиц, нодулярный дерматит — с оценкой угрозы для РФ. Информационный сервис «как есть»: не официальная система оповещения, не ветеринарная консультация, ИИ и уровни могут ошибаться. Условия: https://shray77.github.io/biothreat-site/terms.html</description>
     <language>ru</language>
     <item>
+      <title>[не определено] грипп птиц — Южная Корея: New avian influenza case detected in Gyeonggi Province</title>
+      <link>https://www.ajupress.com/view/20261104142925224</link>
+      <guid isPermaLink="false">d299c2d7e8b24e2d8f2ca12b171b0191ed4f6578</guid>
+      <pubDate>Wed, 04 Nov 2026 06:00:00 GMT</pubDate>
+      <description>В провинции Кёнги обнаружен случай птичьего гриппа на птицефабрике · verdict: confirmed · New avian influenza case detected in Gyeonggi Province</description>
+    </item>
+    <item>
+      <title>[не определено] африканская чума свиней: Espinoza: What has the DA done on ASF?</title>
+      <link>https://www.sunstar.com.ph/cebu/espinoza-what-has-the-da-done-on-asf</link>
+      <guid isPermaLink="false">3961e14f9d425047debf3dec497eef052f264b26</guid>
+      <pubDate>Wed, 04 Nov 2026 02:37:00 GMT</pubDate>
+      <description>Департамент сельского хозяйства не предпринимает эффективных действий против африканской чумы свиней в провинциях, где она присутствует уже несколько лет. · verdict: probable · Espinoza: What has the DA done on ASF?</description>
+    </item>
+    <item>
+      <title>[фон] Великобритания: UK livestock disease defences under strain as outbreaks surge, MPs warned</title>
+      <link>https://www.farminguk.com/news/uk-livestock-disease-defences-under-strain-as-outbreaks-surge-mps-warned_69412.html</link>
+      <guid isPermaLink="false">d2ad70aaafa8009553c6dc147ff91d21138b1b53</guid>
+      <pubDate>Tue, 03 Nov 2026 16:00:00 GMT</pubDate>
+      <description>Британские фермеры опасаются, что стрессы в системе противодействия болезням животных могут привести к пропуску новых вспышек · verdict: probable · UK livestock disease defences under strain as outbreaks surge, MPs warned</description>
+    </item>
+    <item>
+      <title>[фон] болезнь ньюкасла — Бразилия: SAPA supports continued Brazilian poultry imports despite Newcastle disease outbreak</title>
+      <link>https://www.foodbusinessmea.com/sapa-supports-continued-brazilian-poultry-imports-despite-newcastle-disease-outbreak/</link>
+      <guid isPermaLink="false">0ec01e96d9cd31f6bdafa7498d3028c49a0f3e7f</guid>
+      <pubDate>Tue, 03 Nov 2026 07:58:00 GMT</pubDate>
+      <description>Южно-Африканская Республика продолжает импорт птицы из Бразилии после вспышки болезни ньюкасла · verdict: probable · SAPA supports continued Brazilian poultry imports despite Newcastle disease outbreak</description>
+    </item>
+    <item>
+      <title>[фон] грипп птиц — США: H5N1 avian influenza death reported in Washington dairy outbreak</title>
+      <link>https://www.meatpoultry.com/articles/34269-h5n1-avian-influenza-death-reported-in-washington-dairy-outbreak</link>
+      <guid isPermaLink="false">1b1fe7cbf42157bffcd04b8a53cc75905dccee97</guid>
+      <pubDate>Tue, 03 Nov 2026 07:45:00 GMT</pubDate>
+      <description>Зафиксирована вспышка гриппа птиц на молочном ферме в Вашингтоне · verdict: confirmed · H5N1 avian influenza death reported in Washington dairy outbreak</description>
+    </item>
+    <item>
       <title>[не определено] рыбный тиф: Kenya flagged at high risk of El Ni&amp;#241;o-driven Rift Valley fever outbreaks</title>
       <link>https://eastleighvoice.co.ke/news/419171/kenya-flagged-at-high-risk-of-el-nino-driven-rift-valley-fever-outbreaks</link>
       <guid isPermaLink="false">5b823185f2a7c4d35682a222af84b7e2eccd7521</guid>
       <pubDate>Mon, 02 Nov 2026 22:04:00 GMT</pubDate>
       <description>verdict: probable · Kenya flagged at high risk of El Ni&amp;#241;o-driven Rift Valley fever outbreaks</description>
-    </item>
-    <item>
-      <title>[фон] грипп птиц — США: Hong Kong suspends import of poultry products from US county after outbreak of bird flu in region</title>
-      <link>https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/02/hong-kong-suspends-import-of-poultry-products-from-us-county--after-outbreak-of-bird-flu-in-region</link>
-      <guid isPermaLink="false">7f4005112c834c6e362cd938484df33c6ad8b80c</guid>
-      <pubDate>Mon, 02 Nov 2026 14:31:00 GMT</pubDate>
-      <description>В США обнаружен грипп птиц, поэтому власти Хонконга запретили импорт птицы из американского округа · verdict: probable · Hong Kong suspends import of poultry products from US county after outbreak of bird flu in region</description>
     </item>
     <item>
       <title>[не определено] грипп птиц: HRPH investigates suspected bird flu outbreak in backyard flock</title>
@@ -39,13 +67,6 @@
       <guid isPermaLink="false">5cd61a787e3530e3d9e46dd66206576e4530cafb</guid>
       <pubDate>Mon, 02 Nov 2026 10:35:37 GMT</pubDate>
       <description>Индия продлила аккредитацию на проведение ветеринарных клинических испытаний · verdict: probable · ICAR-NIVEDI, Bengaluru extends NABL accreditation to 28 veterinary clinical trials</description>
-    </item>
-    <item>
-      <title>[фон] болезнь ньюкасла — Бразилия: SAPA backs continued poultry imports from Brazil after NCD outbreak</title>
-      <link>https://www.farmersweekly.co.za/agri-news/south-africa/sapa-backs-continued-poultry-imports-from-brazil-after-ncd-outbreak/</link>
-      <guid isPermaLink="false">029f2e9d0e3884f9d6fcaeed0293fabcefdb2216</guid>
-      <pubDate>Mon, 02 Nov 2026 05:01:00 GMT</pubDate>
-      <description>Южноафриканская ассоциация по птицеводству поддерживает решение министерства сельского хозяйства не вводить ограничений на импорт птицы из Бразилии после вспышк · verdict: probable · SAPA backs continued poultry imports from Brazil after NCD outbreak</description>
     </item>
     <item>
       <title>[не определено] африканская чума свиней: The Department of Agriculture and Environment inspects the work of preventing and controlling African swine fever.</title>
@@ -424,20 +445,6 @@
       <guid isPermaLink="false">d4efd92ff81febdc1e711eed96900aeb94a8e35f</guid>
       <pubDate>Thu, 22 Oct 2026 06:41:00 GMT</pubDate>
       <description>Несмотря на рост затрат из-за конфликта на Ближнем Востоке и появление африканской чумы свиней, компания Atria Plc зафиксировала еще один квартал прибыльного ро · verdict: probable · Growth achieved by Atria despite business uncertainties</description>
-    </item>
-    <item>
-      <title>[не определено] африканская чума свиней — Южно-Африканская Республика: Foot-and-mouth disease confirmed in kudu at Addo Park in South Africa — Daily Maverick</title>
-      <link>https://ua.news/en/dovkolo-svitu/u-parku-addo-v-par-pidtverdili-iashchur-u-kudu-daily-maverick</link>
-      <guid isPermaLink="false">12060e3ee8d459ff6cc6692725c759280a81d298</guid>
-      <pubDate>Wed, 21 Oct 2026 21:18:00 GMT</pubDate>
-      <description>Подтверждено африканская чума свиней у куду в национальном парке Addo в Южно-Африканской Республике · verdict: confirmed · Foot-and-mouth disease confirmed in kudu at Addo Park in South Africa — Daily Maverick</description>
-    </item>
-    <item>
-      <title>[не определено] грипп птиц: Vandalur Zoo closed for public for 2 days following outbreak of Avian influenza</title>
-      <link>https://www.centralchronicle.com/vandalur-zoo-closed-for-public-for-2-days-following-outbreak-of-avian-influenza/</link>
-      <guid isPermaLink="false">6bff0d9a17129cb25e5a7ca9027400e7614f1fe8</guid>
-      <pubDate>Wed, 21 Oct 2026 20:00:00 GMT</pubDate>
-      <description>Воскресенье и понедельник зоопарк был закрыт для посетителей в связи с вспышкой гриппа птиц · verdict: confirmed · Vandalur Zoo closed for public for 2 days following outbreak of Avian influenza</description>
     </item>
   </channel>
 </rss>
