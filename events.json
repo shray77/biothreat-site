@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-04T14:41:01.337Z",
+  "generated_at": "2026-11-04T18:40:20.932Z",
   "items": [
     {
       "fingerprint": "d299c2d7e8b24e2d8f2ca12b171b0191ed4f6578",
@@ -35,73 +35,27 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "d2ad70aaafa8009553c6dc147ff91d21138b1b53",
-      "disease": null,
-      "country": "Великобритания",
-      "distance_km": 2500,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "Британские фермеры опасаются, что стрессы в системе противодействия болезням животных могут привести к пропуску новых вспышек",
-      "source_id": "bing-world-fmd",
-      "title": "UK livestock disease defences under strain as outbreaks surge, MPs warned",
-      "url": "https://www.farminguk.com/news/uk-livestock-disease-defences-under-strain-as-outbreaks-surge-mps-warned_69412.html",
-      "published_at": "2026-11-03T16:00:00.000Z",
-      "created_at": "2026-11-04 14:40:15",
-      "ai_at": "2026-11-04 14:40:44",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "0ec01e96d9cd31f6bdafa7498d3028c49a0f3e7f",
-      "disease": "болезнь ньюкасла",
-      "country": "Бразилия",
-      "distance_km": 8000,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "Южно-Африканская Республика продолжает импорт птицы из Бразилии после вспышки болезни ньюкасла",
-      "source_id": "bing-world-ai",
-      "title": "SAPA supports continued Brazilian poultry imports despite Newcastle disease outbreak",
-      "url": "https://www.foodbusinessmea.com/sapa-supports-continued-brazilian-poultry-imports-despite-newcastle-disease-outbreak/",
-      "published_at": "2026-11-03T07:58:00.000Z",
-      "created_at": "2026-11-04 14:40:15",
-      "ai_at": "2026-11-04 14:40:52",
-      "dup_count": 4,
-      "dups": [
-        {
-          "title": "SAPA backs continued poultry imports from Brazil after NCD outbreak",
-          "url": "https://www.farmersweekly.co.za/agri-news/south-africa/sapa-backs-continued-poultry-imports-from-brazil-after-ncd-outbreak/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-02T05:01:00.000Z"
-        },
-        {
-          "title": "SA keeps poultry imports from Brazil open despite another chicken disease outbreak",
-          "url": "https://www.citizen.co.za/business/sa-keeps-poultry-imports-from-brazil-open-despite-another-chicken-disease-outbreak/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-28T09:06:00.000Z"
-        },
-        {
-          "title": "Mexico suspends Brazilian poultry imports after Newcastle disease outbreak",
-          "url": "https://www.foodbusinessmea.com/mexico-suspends-brazilian-poultry-imports-after-newcastle-disease-outbreak/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-22T04:46:00.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "1b1fe7cbf42157bffcd04b8a53cc75905dccee97",
+      "fingerprint": "2c038df1bedc59599beae593ebaf5d25f47e3d28",
       "disease": "грипп птиц",
       "country": "США",
       "distance_km": 5000,
       "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Зафиксирована вспышка гриппа птиц на молочном ферме в Вашингтоне",
+      "verdict": "probable",
+      "ai_summary": "В штате Вашингтон зафиксирована вспышка гриппа птиц, риск для человека остается низким.",
       "source_id": "bing-world-ai",
-      "title": "H5N1 avian influenza death reported in Washington dairy outbreak",
-      "url": "https://www.meatpoultry.com/articles/34269-h5n1-avian-influenza-death-reported-in-washington-dairy-outbreak",
-      "published_at": "2026-11-03T07:45:00.000Z",
-      "created_at": "2026-11-04 14:40:15",
-      "ai_at": "2026-11-04 14:40:59",
-      "dup_count": 20,
+      "title": "In Our View: Avian influenza in state necessitates attention",
+      "url": "https://www.columbian.com/news/2026/nov/04/in-our-view-avian-influenza-in-state-necessitates-attention/",
+      "published_at": "2026-11-03T22:03:00.000Z",
+      "created_at": "2026-11-04 18:40:15",
+      "ai_at": "2026-11-04 18:40:20",
+      "dup_count": 21,
       "dups": [
+        {
+          "title": "H5N1 avian influenza death reported in Washington dairy outbreak",
+          "url": "https://www.meatpoultry.com/articles/34269-h5n1-avian-influenza-death-reported-in-washington-dairy-outbreak",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-03T07:45:00.000Z"
+        },
         {
           "title": "Hong Kong suspends import of poultry products from US county after outbreak of bird flu in region",
           "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/02/hong-kong-suspends-import-of-poultry-products-from-us-county--after-outbreak-of-bird-flu-in-region",
@@ -155,12 +109,52 @@
           "url": "https://www.kark.com/news/business/arkansas-department-of-agriculture-urges-poultry-owners-to-watch-for-avian-influenza-confirms-first-case-of-season/",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-28T09:13:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "d2ad70aaafa8009553c6dc147ff91d21138b1b53",
+      "disease": null,
+      "country": "Великобритания",
+      "distance_km": 2500,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "Британские фермеры опасаются, что стрессы в системе противодействия болезням животных могут привести к пропуску новых вспышек",
+      "source_id": "bing-world-fmd",
+      "title": "UK livestock disease defences under strain as outbreaks surge, MPs warned",
+      "url": "https://www.farminguk.com/news/uk-livestock-disease-defences-under-strain-as-outbreaks-surge-mps-warned_69412.html",
+      "published_at": "2026-11-03T16:00:00.000Z",
+      "created_at": "2026-11-04 14:40:15",
+      "ai_at": "2026-11-04 14:40:44",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "0ec01e96d9cd31f6bdafa7498d3028c49a0f3e7f",
+      "disease": "болезнь ньюкасла",
+      "country": "Бразилия",
+      "distance_km": 8000,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "Южно-Африканская Республика продолжает импорт птицы из Бразилии после вспышки болезни ньюкасла",
+      "source_id": "bing-world-ai",
+      "title": "SAPA supports continued Brazilian poultry imports despite Newcastle disease outbreak",
+      "url": "https://www.foodbusinessmea.com/sapa-supports-continued-brazilian-poultry-imports-despite-newcastle-disease-outbreak/",
+      "published_at": "2026-11-03T07:58:00.000Z",
+      "created_at": "2026-11-04 14:40:15",
+      "ai_at": "2026-11-04 14:40:52",
+      "dup_count": 3,
+      "dups": [
+        {
+          "title": "SAPA backs continued poultry imports from Brazil after NCD outbreak",
+          "url": "https://www.farmersweekly.co.za/agri-news/south-africa/sapa-backs-continued-poultry-imports-from-brazil-after-ncd-outbreak/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-02T05:01:00.000Z"
         },
         {
-          "title": "Bird Flu Outbreak on Utah Mink Farm Lasts 2 Months, Raising Pandemic Fears",
-          "url": "https://www.yahoo.com/news/science/articles/bird-flu-outbreak-utah-mink-215806493.html",
+          "title": "SA keeps poultry imports from Brazil open despite another chicken disease outbreak",
+          "url": "https://www.citizen.co.za/business/sa-keeps-poultry-imports-from-brazil-open-despite-another-chicken-disease-outbreak/",
           "source_id": "bing-world-ai",
-          "published_at": "2026-10-27T14:58:00.000Z"
+          "published_at": "2026-10-28T09:06:00.000Z"
         }
       ]
     },
