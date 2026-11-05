@@ -1,7 +1,65 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-05T06:40:26.000Z",
+  "generated_at": "2026-11-05T12:40:45.313Z",
   "items": [
+    {
+      "fingerprint": "f82172b833802367595202e276e1a89e663856bb",
+      "disease": "грипп птиц",
+      "country": "Великобритания",
+      "distance_km": 2500,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "Подтвержден очаг гриппа птиц на птицефабрике в Северном Линкольншире.",
+      "source_id": "bing-world-ai",
+      "title": "Bird flu outbreak confirmed at poultry farm",
+      "url": "https://www.yahoo.com/news/world/articles/bird-flu-outbreak-confirmed-poultry-110531612.html",
+      "published_at": "2026-11-05T03:05:00.000Z",
+      "created_at": "2026-11-05 12:40:15",
+      "ai_at": "2026-11-05 12:40:20",
+      "dup_count": 5,
+      "dups": [
+        {
+          "title": "Bird flu outbreak strikes Lincolnshire duck farm, triggering poultry cull",
+          "url": "https://www.farminguk.com/news/bird-flu-outbreak-strikes-lincolnshire-duck-farm-triggering-poultry-cull_69424.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-04T22:18:00.000Z"
+        },
+        {
+          "title": "Avian Influenza – Staying Vigilant",
+          "url": "https://www.farminglife.com/business/avian-influenza-staying-vigilant-9306438",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-25T03:00:00.000Z"
+        },
+        {
+          "title": "Bird Flu in the UK: What the Latest Outbreak Means for You",
+          "url": "https://www.webtech360.com/detail/bird-flu-in-the-uk-what-the-latest-outbreak-means-en-trend-hp2-99911514.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-24T17:00:00.000Z"
+        },
+        {
+          "title": "Fears of Christmas turkey shortage after bird flu outbreak leads to mass cull",
+          "url": "https://metro.co.uk/2026/10/24/fears-christmas-turkey-shortage-bird-flu-outbreak-leads-mass-cull-29736359/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-24T07:58:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "516c8b954688417b666b4eb1af3c0d280d5fc19d",
+      "disease": "африканская чума свиней",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Разработан план действий в случае вспышки африканской чумы свиней у диких свиней в Манитобе",
+      "source_id": "bing-world-asf",
+      "title": "Squeal on Pigs develops African swine fever plan",
+      "url": "https://www.brandonsun.com/westman-this-week/2026/11/05/squeal-on-pigs-develops-african-swine-fever-plan",
+      "published_at": "2026-11-04T23:01:00.000Z",
+      "created_at": "2026-11-05 12:40:15",
+      "ai_at": "2026-11-05 12:40:24",
+      "dup_count": 1
+    },
     {
       "fingerprint": "3d497b582fd1a2d050cae41ebe564a1736565ebf",
       "disease": null,
@@ -17,6 +75,64 @@
       "created_at": "2026-11-05 06:40:14",
       "ai_at": "2026-11-05 06:40:17",
       "dup_count": 1
+    },
+    {
+      "fingerprint": "b3424e97814b5fb3aa56eff7f0d9b0f6178e6685",
+      "disease": "грипп птиц",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "США приостановили ввоз птицы из Норвегии и Великобритании из-за вспышки гриппа птиц",
+      "source_id": "bing-world-ai",
+      "title": "Hong Kong Suspends Import of Poultry from Norway and UK Due to Avian Influenza Outbreaks",
+      "url": "https://www.bastillepost.com/global/article/6328904-hong-kong-suspends-import-of-poultry-from-norway-and-uk-due-to-avian-influenza-outbreaks",
+      "published_at": "2026-11-04T20:13:00.000Z",
+      "created_at": "2026-11-05 12:40:15",
+      "ai_at": "2026-11-05 12:40:32",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "d73ac5e80575dffa2ee148e7177cf2a00ca38037",
+      "disease": "африканская чума свиней",
+      "country": "Вьетнам",
+      "distance_km": 1600,
+      "level": "наблюдение",
+      "verdict": "confirmed",
+      "ai_summary": "В Вьетнаме в провинции Кьенг Гия и Хошимине уничтожено 3700 свиней в связи с африканской свиной чумой",
+      "source_id": "bing-world-asf",
+      "title": "African swine fever outbreaks put Vietnam's Mekong Delta pig herds at risk",
+      "url": "https://news.tuoitre.vn/african-swine-fever-outbreaks-put-vietnams-mekong-delta-pig-herds-at-risk-103261105145838069.htm",
+      "published_at": "2026-11-04T17:18:00.000Z",
+      "created_at": "2026-11-05 12:40:15",
+      "ai_at": "2026-11-05 12:40:37",
+      "dup_count": 5,
+      "dups": [
+        {
+          "title": "African swine fever diễn biến phức tạp, Can Tho tightens management of trading activities",
+          "url": "https://news.laodong.vn/y-te/dich-ta-heo-chau-phi-dien-bien-phuc-tap-can-tho-siet-quan-ly-hoat-dong-mua-ban-1791567.ldo",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-29T13:55:00.000Z"
+        },
+        {
+          "title": "African swine fever hits 78 sites in Vietnam's Dong Nai as Mekong Delta outbreaks widen",
+          "url": "https://www.efeedlink.com/articles/african-swine-fever-hits-78-sites-in-vietnams-dong-nai-as-mekong-delta-outbreaks-widen",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-27T17:00:00.000Z"
+        },
+        {
+          "title": "Vietnam's Lao Cai culls 462 pigs in October as African swine fever toll for 2026 reaches 2,677",
+          "url": "https://www.efeedlink.com/articles/vietnams-lao-cai-culls-462-pigs-in-october-as-african-swine-fever-toll-for-2026-reaches-2-677",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-26T17:00:00.000Z"
+        },
+        {
+          "title": "The source of African swine fever is complicated, Can Tho recommends cautious restocking",
+          "url": "https://news.laodong.vn/kinh-doanh/nguon-lay-dich-ta-heo-chau-phi-phuc-tap-can-tho-khuyen-cao-than-trong-tai-dan-1789581.ldo",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-26T09:54:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "e154b08eed2fa02b24295efab9e7e3e56d55e973",
@@ -102,8 +218,14 @@
       "published_at": "2026-11-03T22:03:00.000Z",
       "created_at": "2026-11-04 18:40:15",
       "ai_at": "2026-11-04 18:40:20",
-      "dup_count": 21,
+      "dup_count": 22,
       "dups": [
+        {
+          "title": "OPINION: Pay attention to avian influenza outbreak in central Washington",
+          "url": "https://www.lmtribune.com/opinion/pay-attention-to-avian-influenza-in-central-wa-f0e51ca7",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-03T16:00:00.000Z"
+        },
         {
           "title": "H5N1 avian influenza death reported in Washington dairy outbreak",
           "url": "https://www.meatpoultry.com/articles/34269-h5n1-avian-influenza-death-reported-in-washington-dairy-outbreak",
@@ -157,12 +279,6 @@
           "url": "https://www.1380kcim.com/2026/10/28/gov-reynolds-issues-sac-county-disaster-declaration-following-avian-flu-outbreak-in-turkey-flock/",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-28T10:51:00.000Z"
-        },
-        {
-          "title": "Arkansas Department of Agriculture urges poultry owners to watch for avian influenza, confirms first case of season",
-          "url": "https://www.kark.com/news/business/arkansas-department-of-agriculture-urges-poultry-owners-to-watch-for-avian-influenza-confirms-first-case-of-season/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-28T09:13:00.000Z"
         }
       ]
     },
@@ -497,42 +613,6 @@
       "created_at": "2026-11-02 10:40:14",
       "ai_at": "2026-11-02 10:40:24",
       "dup_count": 1
-    },
-    {
-      "fingerprint": "b4580fcf16e5af16d1dc2223dc9e53021514960c",
-      "disease": "африканская чума свиней",
-      "country": "Вьетнам",
-      "distance_km": 1600,
-      "level": "наблюдение",
-      "verdict": "confirmed",
-      "ai_summary": "Вьетнам усиливает контроль над торговлей из-за африканской чумы свиней",
-      "source_id": "bing-world-asf",
-      "title": "African swine fever diễn biến phức tạp, Can Tho tightens management of trading activities",
-      "url": "https://news.laodong.vn/y-te/dich-ta-heo-chau-phi-dien-bien-phuc-tap-can-tho-siet-quan-ly-hoat-dong-mua-ban-1791567.ldo",
-      "published_at": "2026-10-29T13:55:00.000Z",
-      "created_at": "2026-10-29 22:40:15",
-      "ai_at": "2026-10-29 22:40:19",
-      "dup_count": 4,
-      "dups": [
-        {
-          "title": "African swine fever hits 78 sites in Vietnam's Dong Nai as Mekong Delta outbreaks widen",
-          "url": "https://www.efeedlink.com/articles/african-swine-fever-hits-78-sites-in-vietnams-dong-nai-as-mekong-delta-outbreaks-widen",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-27T17:00:00.000Z"
-        },
-        {
-          "title": "Vietnam's Lao Cai culls 462 pigs in October as African swine fever toll for 2026 reaches 2,677",
-          "url": "https://www.efeedlink.com/articles/vietnams-lao-cai-culls-462-pigs-in-october-as-african-swine-fever-toll-for-2026-reaches-2-677",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-26T17:00:00.000Z"
-        },
-        {
-          "title": "The source of African swine fever is complicated, Can Tho recommends cautious restocking",
-          "url": "https://news.laodong.vn/kinh-doanh/nguon-lay-dich-ta-heo-chau-phi-phuc-tap-can-tho-khuyen-cao-than-trong-tai-dan-1789581.ldo",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-26T09:54:00.000Z"
-        }
-      ]
     },
     {
       "fingerprint": "acc05697e871c6ac6c0344ab9470d520d63e7497",
@@ -957,36 +1037,6 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "b16db6125e8d448f3aa7e5873e5e6549a551f674",
-      "disease": "грипп птиц",
-      "country": "Великобритания",
-      "distance_km": 2500,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "Великобритания готова к возможной вспышке гриппа птиц",
-      "source_id": "bing-world-ai",
-      "title": "Avian Influenza – Staying Vigilant",
-      "url": "https://www.farminglife.com/business/avian-influenza-staying-vigilant-9306438",
-      "published_at": "2026-10-25T03:00:00.000Z",
-      "created_at": "2026-10-25 14:40:14",
-      "ai_at": "2026-10-25 14:40:20",
-      "dup_count": 3,
-      "dups": [
-        {
-          "title": "Bird Flu in the UK: What the Latest Outbreak Means for You",
-          "url": "https://www.webtech360.com/detail/bird-flu-in-the-uk-what-the-latest-outbreak-means-en-trend-hp2-99911514.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-24T17:00:00.000Z"
-        },
-        {
-          "title": "Fears of Christmas turkey shortage after bird flu outbreak leads to mass cull",
-          "url": "https://metro.co.uk/2026/10/24/fears-christmas-turkey-shortage-bird-flu-outbreak-leads-mass-cull-29736359/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-24T07:58:00.000Z"
-        }
-      ]
-    },
-    {
       "fingerprint": "9a99c071ada8f1a57bae39fae33f9a62dc8ee193",
       "disease": "ящур",
       "country": "Кипр",
@@ -1096,102 +1146,6 @@
       "published_at": "2026-10-23T09:34:00.000Z",
       "created_at": "2026-10-24 00:40:14",
       "ai_at": "2026-10-24 00:40:21",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "0fdffe0f54c8a72ae40029ec7552feb1abe90bc1",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "В Нигерии усилены меры по борьбе с распространением птичьего гриппа",
-      "source_id": "bing-world-ai",
-      "title": "FG, FAO Intensify Efforts To Contain Avian Influenza, Strengthen Animal Movement Control",
-      "url": "https://fmino.gov.ng/fg-fao-intensify-efforts-to-contain-avian-influenza-strengthen-animal-movement-control/",
-      "published_at": "2026-10-23T09:17:00.000Z",
-      "created_at": "2026-10-24 06:40:14",
-      "ai_at": "2026-10-24 06:40:20",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "8d568c3db6781329ab1b9cc2d0c29e20005641c4",
-      "disease": "африканская чума свиней",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "В регионе усиливают мониторинг и профилактические меры из-за проступания африканской чумы свиней",
-      "source_id": "bing-world-asf",
-      "title": "African swine fever diễn biến phức tạp, Can Tho tightens prevention and control",
-      "url": "https://news.laodong.vn/xa-hoi/dich-ta-heo-chau-phi-dien-bien-phuc-tap-can-tho-siet-chat-phong-chong-1788228.ldo",
-      "published_at": "2026-10-23T08:59:00.000Z",
-      "created_at": "2026-10-24 00:40:14",
-      "ai_at": "2026-10-24 00:40:24",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "6c80b653b073fd3fa56bc86ae0642c3b382d2d64",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Ветеринары боятся возвращения в Великобританию африканской чумы свиней из-за схожих симптомов с бутунгутной болезнью",
-      "source_id": "bing-world-fmd",
-      "title": "‘Terrified’: vet’s FMD fears amid bluetongue outbreak",
-      "url": "https://www.vettimes.com/news/vets/livestock/terrified-vets-fmd-fears-amid-bluetongue-outbreak",
-      "published_at": "2026-10-23T07:51:00.000Z",
-      "created_at": "2026-10-23 16:40:15",
-      "ai_at": "2026-10-23 16:40:21",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "41424cbfa7c246c0273807ce5f732ea44ea7488b",
-      "disease": "грипп птиц",
-      "country": "Англия",
-      "distance_km": 2500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В Англии зафиксирована первая вспышка гриппа птиц в сезоне, в результате чего было забито 32 000 кур.",
-      "source_id": "bing-world-ai",
-      "title": "England Records First Avian Influenza Outbreak of Season as 32,000 Hens Culled",
-      "url": "https://streamlinefeed.co.ke/news/england-records-first-avian-influenza-outbreak-of-season-as-32000-hens-culled",
-      "published_at": "2026-10-23T02:42:00.000Z",
-      "created_at": "2026-10-23 10:40:14",
-      "ai_at": "2026-10-23 10:40:21",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "558be7c3da29ef639f8db659d288f641041546e0",
-      "disease": "африканская чума свиней",
-      "country": "Индия",
-      "distance_km": 3000,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "Власти Андаманских островов призвали владельцев свиней изолировать заболевших животных и сообщать о случаях смерти.",
-      "source_id": "bing-world-asf",
-      "title": "Andaman Issues African Swine Fever Advisory, Urges Pig Owners to Isolate Sick Animals",
-      "url": "https://thewaveandaman.com/andaman-african-swine-fever-advisory-pig-movement-ban/",
-      "published_at": "2026-10-22T17:00:00.000Z",
-      "created_at": "2026-10-23 04:40:14",
-      "ai_at": "2026-10-23 04:40:19",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "1c631a360cad1e493cdf5bebbdc3c3ee3e278279",
-      "disease": "африканская чума свиней",
-      "country": "ЮАР",
-      "distance_km": 7000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Кризис африканской чумы свиней в парке Addo Elephant National Park углубляется",
-      "source_id": "bing-world-fmd",
-      "title": "Angry neighbours, game sales in jeopardy as Addo’s foot-and-mouth disease crisis deepens",
-      "url": "https://www.dailymaverick.co.za/article/2026-10-22-angry-neighbours-game-sales-in-jeopardy-as-addos-foot-and-mouth-disease-crisis-deepens/",
-      "published_at": "2026-10-22T10:06:00.000Z",
-      "created_at": "2026-10-23 04:40:14",
-      "ai_at": "2026-10-23 04:40:23",
       "dup_count": 1
     }
   ]
