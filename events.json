@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-05T00:40:19.635Z",
+  "generated_at": "2026-11-05T06:40:26.000Z",
   "items": [
+    {
+      "fingerprint": "3d497b582fd1a2d050cae41ebe564a1736565ebf",
+      "disease": null,
+      "country": "Намибия",
+      "distance_km": 6500,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "В Намибии вспышка АЧС испытывает не только ветеринарный контроль, но и экономику",
+      "source_id": "bing-world-fmd",
+      "title": "FMD outbreak: How much is Namibia’s beef industry really losing?",
+      "url": "https://observer24.com.na/fmd-outbreak-how-much-is-namibias-beef-industry-really-losing/",
+      "published_at": "2026-11-04T22:00:00.000Z",
+      "created_at": "2026-11-05 06:40:14",
+      "ai_at": "2026-11-05 06:40:17",
+      "dup_count": 1
+    },
     {
       "fingerprint": "e154b08eed2fa02b24295efab9e7e3e56d55e973",
       "disease": "грипп птиц",
@@ -23,6 +39,36 @@
           "url": "https://www.ajupress.com/view/20261104142925224",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-04T06:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "12d5709c4ba4cd4c07d8c271576409d7c32969a2",
+      "disease": "африканская чума свиней",
+      "country": "Филиппины",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Илокос-Норте признали свободным от африканской чумы свиней",
+      "source_id": "bing-world-asf",
+      "title": "Ilocos Norte tagged ASF-recovered",
+      "url": "https://thechronicle.com.ph/ilocos-norte-tagged-asf-recovered/",
+      "published_at": "2026-11-04T05:12:00.000Z",
+      "created_at": "2026-11-05 06:40:14",
+      "ai_at": "2026-11-05 06:40:21",
+      "dup_count": 3,
+      "dups": [
+        {
+          "title": "Philippines Plans to Authorize Second ASF Vaccine by November",
+          "url": "https://english.pravda.ru/news/world/171197-philippines-second-asf-vaccine-authorization/",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-30T21:54:00.000Z"
+        },
+        {
+          "title": "Philippines plans second ASF vaccine rollout before end-November",
+          "url": "https://tradersunion.com/news/companies/show/4013761-philippines-asf-vaccine-rollout/",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-29T06:28:00.000Z"
         }
       ]
     },
@@ -357,30 +403,6 @@
       "created_at": "2026-11-01 12:40:14",
       "ai_at": "2026-11-01 12:40:18",
       "dup_count": 1
-    },
-    {
-      "fingerprint": "24b05560fc53cfd9daaab1d190abced32f5561d2",
-      "disease": "африканская чума свиней",
-      "country": "Филиппины",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Манила надеется получить разрешение на вторую вакцину от африканской чумы свиней к ноябрю.",
-      "source_id": "bing-world-asf",
-      "title": "Philippines Plans to Authorize Second ASF Vaccine by November",
-      "url": "https://english.pravda.ru/news/world/171197-philippines-second-asf-vaccine-authorization/",
-      "published_at": "2026-10-30T21:54:00.000Z",
-      "created_at": "2026-10-31 08:40:14",
-      "ai_at": "2026-10-31 08:40:19",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Philippines plans second ASF vaccine rollout before end-November",
-          "url": "https://tradersunion.com/news/companies/show/4013761-philippines-asf-vaccine-rollout/",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-29T06:28:00.000Z"
-        }
-      ]
     },
     {
       "fingerprint": "a7ae8374cc09ae98a1e9cceb0b33cfc6811d9f78",
@@ -1170,30 +1192,6 @@
       "published_at": "2026-10-22T10:06:00.000Z",
       "created_at": "2026-10-23 04:40:14",
       "ai_at": "2026-10-23 04:40:23",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Angry neighbours, game sales in jeopardy as Addo’s foot-and-mouth disease crisis deepens",
-          "url": "https://www.dailymaverick.co.za/article/2026-10-22-angry-neighbours-game-sales-in-jeopardy-as-addos-foot-and-mouth-disease-crisis-deepens/?dm_medium=card-link&dm_campaign=top_reads&dm_position=3",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-22T10:06:00.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "1124c68e2b42d93bffd9602d69a1653b8dce9302",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Проект по прогнозированию и предотвращению африканской чумы свиней.",
-      "source_id": "bing-world-asf",
-      "title": "Global project targets African swine fever prediction, prevention",
-      "url": "https://www.nationalhogfarmer.com/livestock-management/global-project-targets-african-swine-fever-prediction-prevention",
-      "published_at": "2026-10-22T08:39:00.000Z",
-      "created_at": "2026-10-22 18:40:15",
-      "ai_at": "2026-10-22 18:40:22",
       "dup_count": 1
     }
   ]
