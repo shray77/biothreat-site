@@ -1,22 +1,30 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-04T20:40:23.472Z",
+  "generated_at": "2026-11-05T00:40:19.635Z",
   "items": [
     {
-      "fingerprint": "d299c2d7e8b24e2d8f2ca12b171b0191ed4f6578",
+      "fingerprint": "e154b08eed2fa02b24295efab9e7e3e56d55e973",
       "disease": "грипп птиц",
       "country": "Южная Корея",
       "distance_km": null,
       "level": "не определено",
       "verdict": "confirmed",
-      "ai_summary": "В провинции Кёнги обнаружен случай птичьего гриппа на птицефабрике",
+      "ai_summary": "Подтверждено заражение гриппом птиц на ферме по разведению яиц в Южной Корее",
       "source_id": "bing-world-ai",
-      "title": "New avian influenza case detected in Gyeonggi Province",
-      "url": "https://www.ajupress.com/view/20261104142925224",
-      "published_at": "2026-11-04T06:00:00.000Z",
-      "created_at": "2026-11-04 14:40:15",
-      "ai_at": "2026-11-04 14:40:19",
-      "dup_count": 1
+      "title": "Yeoncheon-gun activates emergency response center after H5 avian influenza confirmed at egg farm",
+      "url": "https://biz.heraldcorp.com/article/10926345",
+      "published_at": "2026-11-04T10:09:00.000Z",
+      "created_at": "2026-11-05 00:40:14",
+      "ai_at": "2026-11-05 00:40:19",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "New avian influenza case detected in Gyeonggi Province",
+          "url": "https://www.ajupress.com/view/20261104142925224",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-04T06:00:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "3961e14f9d425047debf3dec497eef052f264b26",
@@ -1186,22 +1194,6 @@
       "published_at": "2026-10-22T08:39:00.000Z",
       "created_at": "2026-10-22 18:40:15",
       "ai_at": "2026-10-22 18:40:22",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "d4efd92ff81febdc1e711eed96900aeb94a8e35f",
-      "disease": "африканская чума свиней",
-      "country": "Финляндия",
-      "distance_km": 0,
-      "level": "граница",
-      "verdict": "probable",
-      "ai_summary": "Несмотря на рост затрат из-за конфликта на Ближнем Востоке и появление африканской чумы свиней, компания Atria Plc зафиксировала еще один квартал прибыльного ро",
-      "source_id": "bing-world-asf",
-      "title": "Growth achieved by Atria despite business uncertainties",
-      "url": "https://www.wattagnet.com/business-markets/news/15838181/growth-achieved-by-atria-despite-business-uncertainties",
-      "published_at": "2026-10-22T06:41:00.000Z",
-      "created_at": "2026-10-22 18:40:15",
-      "ai_at": "2026-10-22 18:40:27",
       "dup_count": 1
     }
   ]
