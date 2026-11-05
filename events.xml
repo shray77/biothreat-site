@@ -6,11 +6,39 @@
     <description>Радар трансграничных болезней животных: ящур, АЧС, грипп птиц, нодулярный дерматит — с оценкой угрозы для РФ. Информационный сервис «как есть»: не официальная система оповещения, не ветеринарная консультация, ИИ и уровни могут ошибаться. Условия: https://shray77.github.io/biothreat-site/terms.html</description>
     <language>ru</language>
     <item>
+      <title>[фон] грипп птиц — Великобритания: Bird flu outbreak confirmed at poultry farm</title>
+      <link>https://www.yahoo.com/news/world/articles/bird-flu-outbreak-confirmed-poultry-110531612.html</link>
+      <guid isPermaLink="false">f82172b833802367595202e276e1a89e663856bb</guid>
+      <pubDate>Thu, 05 Nov 2026 03:05:00 GMT</pubDate>
+      <description>Подтвержден очаг гриппа птиц на птицефабрике в Северном Линкольншире. · verdict: confirmed · Bird flu outbreak confirmed at poultry farm</description>
+    </item>
+    <item>
+      <title>[не определено] африканская чума свиней: Squeal on Pigs develops African swine fever plan</title>
+      <link>https://www.brandonsun.com/westman-this-week/2026/11/05/squeal-on-pigs-develops-african-swine-fever-plan</link>
+      <guid isPermaLink="false">516c8b954688417b666b4eb1af3c0d280d5fc19d</guid>
+      <pubDate>Wed, 04 Nov 2026 23:01:00 GMT</pubDate>
+      <description>Разработан план действий в случае вспышки африканской чумы свиней у диких свиней в Манитобе · verdict: probable · Squeal on Pigs develops African swine fever plan</description>
+    </item>
+    <item>
       <title>[фон] Намибия: FMD outbreak: How much is Namibia’s beef industry really losing?</title>
       <link>https://observer24.com.na/fmd-outbreak-how-much-is-namibias-beef-industry-really-losing/</link>
       <guid isPermaLink="false">3d497b582fd1a2d050cae41ebe564a1736565ebf</guid>
       <pubDate>Wed, 04 Nov 2026 22:00:00 GMT</pubDate>
       <description>В Намибии вспышка АЧС испытывает не только ветеринарный контроль, но и экономику · verdict: probable · FMD outbreak: How much is Namibia’s beef industry really losing?</description>
+    </item>
+    <item>
+      <title>[не определено] грипп птиц: Hong Kong Suspends Import of Poultry from Norway and UK Due to Avian Influenza Outbreaks</title>
+      <link>https://www.bastillepost.com/global/article/6328904-hong-kong-suspends-import-of-poultry-from-norway-and-uk-due-to-avian-influenza-outbreaks</link>
+      <guid isPermaLink="false">b3424e97814b5fb3aa56eff7f0d9b0f6178e6685</guid>
+      <pubDate>Wed, 04 Nov 2026 20:13:00 GMT</pubDate>
+      <description>США приостановили ввоз птицы из Норвегии и Великобритании из-за вспышки гриппа птиц · verdict: probable · Hong Kong Suspends Import of Poultry from Norway and UK Due to Avian Influenza Outbreaks</description>
+    </item>
+    <item>
+      <title>[наблюдение] африканская чума свиней — Вьетнам: African swine fever outbreaks put Vietnam's Mekong Delta pig herds at risk</title>
+      <link>https://news.tuoitre.vn/african-swine-fever-outbreaks-put-vietnams-mekong-delta-pig-herds-at-risk-103261105145838069.htm</link>
+      <guid isPermaLink="false">d73ac5e80575dffa2ee148e7177cf2a00ca38037</guid>
+      <pubDate>Wed, 04 Nov 2026 17:18:00 GMT</pubDate>
+      <description>В Вьетнаме в провинции Кьенг Гия и Хошимине уничтожено 3700 свиней в связи с африканской свиной чумой · verdict: confirmed · African swine fever outbreaks put Vietnam's Mekong Delta pig herds at risk</description>
     </item>
     <item>
       <title>[не определено] грипп птиц — Южная Корея: Yeoncheon-gun activates emergency response center after H5 avian influenza confirmed at egg farm</title>
@@ -172,13 +200,6 @@
       <guid isPermaLink="false">db4d390a41787e929039060c357164774aadaf71</guid>
       <pubDate>Thu, 29 Oct 2026 15:30:00 GMT</pubDate>
       <description>В США обнаружена вспышка птичьего гриппа H5N1 у норок, что вызвало тревогу по поводу передачи этого заболевания млекопитающим и подчеркнуло недостатки в обеспеч · verdict: probable · The H5N1 mink outbreak, explained: Why it matters and what you should do</description>
-    </item>
-    <item>
-      <title>[наблюдение] африканская чума свиней — Вьетнам: African swine fever diễn biến phức tạp, Can Tho tightens management of trading activities</title>
-      <link>https://news.laodong.vn/y-te/dich-ta-heo-chau-phi-dien-bien-phuc-tap-can-tho-siet-quan-ly-hoat-dong-mua-ban-1791567.ldo</link>
-      <guid isPermaLink="false">b4580fcf16e5af16d1dc2223dc9e53021514960c</guid>
-      <pubDate>Thu, 29 Oct 2026 13:55:00 GMT</pubDate>
-      <description>Вьетнам усиливает контроль над торговлей из-за африканской чумы свиней · verdict: confirmed · African swine fever diễn biến phức tạp, Can Tho tightens management of trading activities</description>
     </item>
     <item>
       <title>[наблюдение] грипп птиц — Нидерланды: Netherlands introduces nationwide poultry housing measures after avian flu outbreaks</title>
@@ -349,13 +370,6 @@
       <description>verdict: probable · Nigerian Government, FAO Intensify Avian Influenza Control</description>
     </item>
     <item>
-      <title>[фон] грипп птиц — Великобритания: Avian Influenza – Staying Vigilant</title>
-      <link>https://www.farminglife.com/business/avian-influenza-staying-vigilant-9306438</link>
-      <guid isPermaLink="false">b16db6125e8d448f3aa7e5873e5e6549a551f674</guid>
-      <pubDate>Sun, 25 Oct 2026 03:00:00 GMT</pubDate>
-      <description>Великобритания готова к возможной вспышке гриппа птиц · verdict: probable · Avian Influenza – Staying Vigilant</description>
-    </item>
-    <item>
       <title>[не определено] ящур — Кипр: Cyprus Approves Nearly 2 Million Euros in Compensation for Farmers Hit by Foot-and-Mouth Outbreak</title>
       <link>https://famagusta-gazette.com/cyprus-approves-nearly-2-million-euros-in-compensation-for-farmers-hit-by-foot-and-mouth-outbreak/</link>
       <guid isPermaLink="false">9a99c071ada8f1a57bae39fae33f9a62dc8ee193</guid>
@@ -403,48 +417,6 @@
       <guid isPermaLink="false">2681400540238063cc415bbb0e573d3ee0d90f1e</guid>
       <pubDate>Fri, 23 Oct 2026 09:34:00 GMT</pubDate>
       <description>В провинции Куанг Трий усиливаются случаи заражений. Здравоохранительный департамент просит расследовать эпидемии в течение 48 часов и усилить надзор за сообщес · verdict: probable · Quang Tri requests handling of infectious disease outbreaks within 48 hours</description>
-    </item>
-    <item>
-      <title>[не определено] грипп птиц: FG, FAO Intensify Efforts To Contain Avian Influenza, Strengthen Animal Movement Control</title>
-      <link>https://fmino.gov.ng/fg-fao-intensify-efforts-to-contain-avian-influenza-strengthen-animal-movement-control/</link>
-      <guid isPermaLink="false">0fdffe0f54c8a72ae40029ec7552feb1abe90bc1</guid>
-      <pubDate>Fri, 23 Oct 2026 09:17:00 GMT</pubDate>
-      <description>В Нигерии усилены меры по борьбе с распространением птичьего гриппа · verdict: probable · FG, FAO Intensify Efforts To Contain Avian Influenza, Strengthen Animal Movement Control</description>
-    </item>
-    <item>
-      <title>[не определено] африканская чума свиней: African swine fever diễn biến phức tạp, Can Tho tightens prevention and control</title>
-      <link>https://news.laodong.vn/xa-hoi/dich-ta-heo-chau-phi-dien-bien-phuc-tap-can-tho-siet-chat-phong-chong-1788228.ldo</link>
-      <guid isPermaLink="false">8d568c3db6781329ab1b9cc2d0c29e20005641c4</guid>
-      <pubDate>Fri, 23 Oct 2026 08:59:00 GMT</pubDate>
-      <description>В регионе усиливают мониторинг и профилактические меры из-за проступания африканской чумы свиней · verdict: probable · African swine fever diễn biến phức tạp, Can Tho tightens prevention and control</description>
-    </item>
-    <item>
-      <title>[не определено] ‘Terrified’: vet’s FMD fears amid bluetongue outbreak</title>
-      <link>https://www.vettimes.com/news/vets/livestock/terrified-vets-fmd-fears-amid-bluetongue-outbreak</link>
-      <guid isPermaLink="false">6c80b653b073fd3fa56bc86ae0642c3b382d2d64</guid>
-      <pubDate>Fri, 23 Oct 2026 07:51:00 GMT</pubDate>
-      <description>Ветеринары боятся возвращения в Великобританию африканской чумы свиней из-за схожих симптомов с бутунгутной болезнью · verdict: probable · ‘Terrified’: vet’s FMD fears amid bluetongue outbreak</description>
-    </item>
-    <item>
-      <title>[фон] грипп птиц — Англия: England Records First Avian Influenza Outbreak of Season as 32,000 Hens Culled</title>
-      <link>https://streamlinefeed.co.ke/news/england-records-first-avian-influenza-outbreak-of-season-as-32000-hens-culled</link>
-      <guid isPermaLink="false">41424cbfa7c246c0273807ce5f732ea44ea7488b</guid>
-      <pubDate>Fri, 23 Oct 2026 02:42:00 GMT</pubDate>
-      <description>В Англии зафиксирована первая вспышка гриппа птиц в сезоне, в результате чего было забито 32 000 кур. · verdict: confirmed · England Records First Avian Influenza Outbreak of Season as 32,000 Hens Culled</description>
-    </item>
-    <item>
-      <title>[фон] африканская чума свиней — Индия: Andaman Issues African Swine Fever Advisory, Urges Pig Owners to Isolate Sick Animals</title>
-      <link>https://thewaveandaman.com/andaman-african-swine-fever-advisory-pig-movement-ban/</link>
-      <guid isPermaLink="false">558be7c3da29ef639f8db659d288f641041546e0</guid>
-      <pubDate>Thu, 22 Oct 2026 17:00:00 GMT</pubDate>
-      <description>Власти Андаманских островов призвали владельцев свиней изолировать заболевших животных и сообщать о случаях смерти. · verdict: probable · Andaman Issues African Swine Fever Advisory, Urges Pig Owners to Isolate Sick Animals</description>
-    </item>
-    <item>
-      <title>[фон] африканская чума свиней — ЮАР: Angry neighbours, game sales in jeopardy as Addo’s foot-and-mouth disease crisis deepens</title>
-      <link>https://www.dailymaverick.co.za/article/2026-10-22-angry-neighbours-game-sales-in-jeopardy-as-addos-foot-and-mouth-disease-crisis-deepens/</link>
-      <guid isPermaLink="false">1c631a360cad1e493cdf5bebbdc3c3ee3e278279</guid>
-      <pubDate>Thu, 22 Oct 2026 10:06:00 GMT</pubDate>
-      <description>Кризис африканской чумы свиней в парке Addo Elephant National Park углубляется · verdict: confirmed · Angry neighbours, game sales in jeopardy as Addo’s foot-and-mouth disease crisis deepens</description>
     </item>
   </channel>
 </rss>
