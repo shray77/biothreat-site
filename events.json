@@ -1,7 +1,47 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-05T12:40:45.313Z",
+  "generated_at": "2026-11-05T18:40:23.535Z",
   "items": [
+    {
+      "fingerprint": "89b0f2e8908a9be2392672ddcd326955bd25f8d1",
+      "disease": "африканская чума свиней",
+      "country": "Канада",
+      "distance_km": 4500,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "Разработан план по борьбе с африканской чумой свиней в дикой свинье в Канаде.",
+      "source_id": "bing-world-asf",
+      "title": "Squeal on Pigs develops African swine fever plan",
+      "url": "https://www.thespec.com/news/canada/squeal-on-pigs-develops-african-swine-fever-plan/article_91c74b6c-8ef4-52b5-aecf-83fb1e432aae.html",
+      "published_at": "2026-11-05T07:04:00.000Z",
+      "created_at": "2026-11-05 18:40:14",
+      "ai_at": "2026-11-05 18:40:20",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Squeal on Pigs develops African swine fever plan",
+          "url": "https://www.brandonsun.com/westman-this-week/2026/11/05/squeal-on-pigs-develops-african-swine-fever-plan",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-11-04T23:01:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "a065cd8254f6dc64317b91772852d48dd208b653",
+      "disease": "грипп птиц",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Hong Kong Bans Poultry From Norway, Britain Over Avian Influenza Concerns",
+      "url": "https://www.businesstoday.com.my/2026/11/05/hong-kong-bans-poultry-from-norway-britain-over-avian-influenza-concerns/",
+      "published_at": "2026-11-05T05:46:00.000Z",
+      "created_at": "2026-11-05 18:40:14",
+      "ai_at": "2026-11-05 18:40:23",
+      "dup_count": 1
+    },
     {
       "fingerprint": "f82172b833802367595202e276e1a89e663856bb",
       "disease": "грипп птиц",
@@ -43,22 +83,6 @@
           "published_at": "2026-10-24T07:58:00.000Z"
         }
       ]
-    },
-    {
-      "fingerprint": "516c8b954688417b666b4eb1af3c0d280d5fc19d",
-      "disease": "африканская чума свиней",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Разработан план действий в случае вспышки африканской чумы свиней у диких свиней в Манитобе",
-      "source_id": "bing-world-asf",
-      "title": "Squeal on Pigs develops African swine fever plan",
-      "url": "https://www.brandonsun.com/westman-this-week/2026/11/05/squeal-on-pigs-develops-african-swine-fever-plan",
-      "published_at": "2026-11-04T23:01:00.000Z",
-      "created_at": "2026-11-05 12:40:15",
-      "ai_at": "2026-11-05 12:40:24",
-      "dup_count": 1
     },
     {
       "fingerprint": "3d497b582fd1a2d050cae41ebe564a1736565ebf",
@@ -1114,38 +1138,6 @@
       "published_at": "2026-10-23T17:00:00.000Z",
       "created_at": "2026-10-24 10:40:14",
       "ai_at": "2026-10-24 10:40:19",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "51cfee600f058b9ae32259da4eaf25a3383e31e1",
-      "disease": null,
-      "country": "Филиппины",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "В городе Себу подтверждены случаи африканской чумы свиней, усилено наблюдение",
-      "source_id": "bing-world-asf",
-      "title": "Cebu City clarifies ASF outbreak in Sapangdaku, sets up checkpoints",
-      "url": "https://cebudailynews.inquirer.net/778377/cebu-city-sets-up-checkpoints-clarifies-asf-cases-in-sapangdaku",
-      "published_at": "2026-10-23T16:40:00.000Z",
-      "created_at": "2026-10-24 06:40:14",
-      "ai_at": "2026-10-24 06:40:18",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "2681400540238063cc415bbb0e573d3ee0d90f1e",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "В провинции Куанг Трий усиливаются случаи заражений. Здравоохранительный департамент просит расследовать эпидемии в течение 48 часов и усилить надзор за сообщес",
-      "source_id": "bing-world-fmd",
-      "title": "Quang Tri requests handling of infectious disease outbreaks within 48 hours",
-      "url": "https://news.laodong.vn/suc-khoe/quang-tri-yeu-cau-xu-ly-o-dich-truyen-nhiem-trong-48-gio-1788220.ldo",
-      "published_at": "2026-10-23T09:34:00.000Z",
-      "created_at": "2026-10-24 00:40:14",
-      "ai_at": "2026-10-24 00:40:21",
       "dup_count": 1
     }
   ]
