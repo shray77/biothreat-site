@@ -6,11 +6,25 @@
     <description>Радар трансграничных болезней животных: ящур, АЧС, грипп птиц, нодулярный дерматит — с оценкой угрозы для РФ. Информационный сервис «как есть»: не официальная система оповещения, не ветеринарная консультация, ИИ и уровни могут ошибаться. Условия: https://shray77.github.io/biothreat-site/terms.html</description>
     <language>ru</language>
     <item>
+      <title>[фон] Намибия: FMD outbreak: How much is Namibia’s beef industry really losing?</title>
+      <link>https://observer24.com.na/fmd-outbreak-how-much-is-namibias-beef-industry-really-losing/</link>
+      <guid isPermaLink="false">3d497b582fd1a2d050cae41ebe564a1736565ebf</guid>
+      <pubDate>Wed, 04 Nov 2026 22:00:00 GMT</pubDate>
+      <description>В Намибии вспышка АЧС испытывает не только ветеринарный контроль, но и экономику · verdict: probable · FMD outbreak: How much is Namibia’s beef industry really losing?</description>
+    </item>
+    <item>
       <title>[не определено] грипп птиц — Южная Корея: Yeoncheon-gun activates emergency response center after H5 avian influenza confirmed at egg farm</title>
       <link>https://biz.heraldcorp.com/article/10926345</link>
       <guid isPermaLink="false">e154b08eed2fa02b24295efab9e7e3e56d55e973</guid>
       <pubDate>Wed, 04 Nov 2026 10:09:00 GMT</pubDate>
       <description>Подтверждено заражение гриппом птиц на ферме по разведению яиц в Южной Корее · verdict: confirmed · Yeoncheon-gun activates emergency response center after H5 avian influenza confirmed at egg farm</description>
+    </item>
+    <item>
+      <title>[не определено] африканская чума свиней — Филиппины: Ilocos Norte tagged ASF-recovered</title>
+      <link>https://thechronicle.com.ph/ilocos-norte-tagged-asf-recovered/</link>
+      <guid isPermaLink="false">12d5709c4ba4cd4c07d8c271576409d7c32969a2</guid>
+      <pubDate>Wed, 04 Nov 2026 05:12:00 GMT</pubDate>
+      <description>Илокос-Норте признали свободным от африканской чумы свиней · verdict: probable · Ilocos Norte tagged ASF-recovered</description>
     </item>
     <item>
       <title>[не определено] африканская чума свиней: Espinoza: What has the DA done on ASF?</title>
@@ -123,13 +137,6 @@
       <guid isPermaLink="false">f873534aecb5e44c21fcd249e1b418d2583c4438</guid>
       <pubDate>Sat, 31 Oct 2026 16:13:00 GMT</pubDate>
       <description>В индийском штате Пенджаб снова обнаружен нодулярный дерматит · verdict: probable · Lumpy skin disease returns to Faridkot after four years</description>
-    </item>
-    <item>
-      <title>[не определено] африканская чума свиней — Филиппины: Philippines Plans to Authorize Second ASF Vaccine by November</title>
-      <link>https://english.pravda.ru/news/world/171197-philippines-second-asf-vaccine-authorization/</link>
-      <guid isPermaLink="false">24b05560fc53cfd9daaab1d190abced32f5561d2</guid>
-      <pubDate>Fri, 30 Oct 2026 21:54:00 GMT</pubDate>
-      <description>Манила надеется получить разрешение на вторую вакцину от африканской чумы свиней к ноябрю. · verdict: probable · Philippines Plans to Authorize Second ASF Vaccine by November</description>
     </item>
     <item>
       <title>[не определено] африканская чума свиней: African Swine Fever Awareness Campaign Focuses on Early Detection and Prevention in Manglutan</title>
@@ -438,13 +445,6 @@
       <guid isPermaLink="false">1c631a360cad1e493cdf5bebbdc3c3ee3e278279</guid>
       <pubDate>Thu, 22 Oct 2026 10:06:00 GMT</pubDate>
       <description>Кризис африканской чумы свиней в парке Addo Elephant National Park углубляется · verdict: confirmed · Angry neighbours, game sales in jeopardy as Addo’s foot-and-mouth disease crisis deepens</description>
-    </item>
-    <item>
-      <title>[не определено] Global project targets African swine fever prediction, prevention</title>
-      <link>https://www.nationalhogfarmer.com/livestock-management/global-project-targets-african-swine-fever-prediction-prevention</link>
-      <guid isPermaLink="false">1124c68e2b42d93bffd9602d69a1653b8dce9302</guid>
-      <pubDate>Thu, 22 Oct 2026 08:39:00 GMT</pubDate>
-      <description>Проект по прогнозированию и предотвращению африканской чумы свиней. · verdict: probable · Global project targets African swine fever prediction, prevention</description>
     </item>
   </channel>
 </rss>
