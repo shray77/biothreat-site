@@ -6,11 +6,53 @@
     <description>Радар трансграничных болезней животных: ящур, АЧС, грипп птиц, нодулярный дерматит — с оценкой угрозы для РФ. Информационный сервис «как есть»: не официальная система оповещения, не ветеринарная консультация, ИИ и уровни могут ошибаться. Условия: https://shray77.github.io/biothreat-site/terms.html</description>
     <language>ru</language>
     <item>
+      <title>[фон] грипп птиц — Великобритания: Bird flu outbreak near Biggar prompts new control zones</title>
+      <link>https://www.peeblesshirenews.com/news/26706035.bird-flu-outbreak-near-biggar-prompts-new-control-zones/</link>
+      <guid isPermaLink="false">b3994528832965ebf7fd0b87d5e3b5b452f2bf60</guid>
+      <pubDate>Fri, 06 Nov 2026 08:55:00 GMT</pubDate>
+      <description>Зафиксирована вспышка гриппа птиц близ Биггара, введены контрольные зоны · verdict: confirmed · Bird flu outbreak near Biggar prompts new control zones</description>
+    </item>
+    <item>
+      <title>[не определено] грипп птиц — Южная Корея: Over 300,000 birds culled after bird flu outbreaks detected in South Korea, Mexico</title>
+      <link>https://www.msn.com/en-ca/news/other/over-300-000-birds-culled-after-bird-flu-outbreaks-detected-in-south-korea-mexico/ar-AA2gT0kD</link>
+      <guid isPermaLink="false">b034d1c19b50fba70e8f76b24ff54cb7bcaf4a19</guid>
+      <pubDate>Fri, 06 Nov 2026 06:30:03 GMT</pubDate>
+      <description>Подтверждены вспышки гриппа птиц в Южной Корее, вырезано более 300 тысяч птиц · verdict: probable · Over 300,000 birds culled after bird flu outbreaks detected in South Korea, Mexico</description>
+    </item>
+    <item>
+      <title>[фон] грипп птиц — США: New HPAI outbreak in Iowa</title>
+      <link>https://www.petfoodprocessing.net/articles/21057-new-hpai-outbreak-in-iowa</link>
+      <guid isPermaLink="false">23f79e8869e05649c9dcf08c51bd9efb4a941525</guid>
+      <pubDate>Fri, 06 Nov 2026 05:00:00 GMT</pubDate>
+      <description>Зафиксирован случай высокопатогенного птичий гриппа в штате Айова. · verdict: confirmed · New HPAI outbreak in Iowa</description>
+    </item>
+    <item>
+      <title>[фон] грипп птиц — Мексика: Mexico reports bird flu outbreak in Yucatan Peninsula</title>
+      <link>https://www.yahoo.com/news/world/articles/mexico-reports-bird-flu-outbreak-114426424.html</link>
+      <guid isPermaLink="false">99baa3788528324cf70c8de96d4603fc08ba88c9</guid>
+      <pubDate>Fri, 06 Nov 2026 03:44:00 GMT</pubDate>
+      <description>В Мексике зарегистрировано вспышка высокопатогенного гриппа птиц на ферме в полуострове Юкатан. · verdict: confirmed · Mexico reports bird flu outbreak in Yucatan Peninsula</description>
+    </item>
+    <item>
       <title>[фон] Индия: India holds National Exercise to bolster preparedness against Foot-and-Mouth Disease SAT-1</title>
       <link>https://www.bizzbuzz.news/industry/agriculture/india-holds-national-exercise-to-bolster-preparedness-against-foot-and-mouth-disease-sat-1-1414271</link>
       <guid isPermaLink="false">c4dfd17d41e82b576dc9628b52b365dade2aa1ba</guid>
       <pubDate>Fri, 06 Nov 2026 00:11:00 GMT</pubDate>
       <description>В Индии провели учения по готовности к борьбе с африканской чумой свиней. · verdict: probable · India holds National Exercise to bolster preparedness against Foot-and-Mouth Disease SAT-1</description>
+    </item>
+    <item>
+      <title>[граница] нодулярный дерматит — Россия: Hundreds of cow carcasses reportedly burned near village outside Moscow following disease outbreak</title>
+      <link>https://meduza.io/en/news/2026/11/06/hundreds-of-cow-carcasses-reportedly-burned-near-village-outside-moscow-following-disease-outbreak</link>
+      <guid isPermaLink="false">7b01c5ba9363a3284c77f5d4eba19a9dc1e3e777</guid>
+      <pubDate>Thu, 05 Nov 2026 23:33:00 GMT</pubDate>
+      <description>В Подмосковье сожжено более 800 трупов коров, больных нодулярным дерматитом. · verdict: confirmed · Hundreds of cow carcasses reportedly burned near village outside Moscow following disease outbreak</description>
+    </item>
+    <item>
+      <title>[не определено] Greece Plans Livestock Sector Recovery Amid Disease Outbreaks</title>
+      <link>https://www.tovima.com/society/greece-plans-livestock-sector-recovery-amid-disease-outbreaks/</link>
+      <guid isPermaLink="false">0f7f83d6097b211f995c4dc7a9867b95e38ced6a</guid>
+      <pubDate>Thu, 05 Nov 2026 19:30:00 GMT</pubDate>
+      <description>Греция работает над восстановлением отрасли животноводства в условиях вспышек заболеваний · verdict: probable · Greece Plans Livestock Sector Recovery Amid Disease Outbreaks</description>
     </item>
     <item>
       <title>[не определено] India prepares for foot-and-mouth disease threat after it spreads to 17 West Asian countries</title>
@@ -20,25 +62,11 @@
       <description>verdict: probable · India prepares for foot-and-mouth disease threat after it spreads to 17 West Asian countries</description>
     </item>
     <item>
-      <title>[не определено] грипп птиц — Южная Корея: “H5 avian influenza antigen detected at duck farm in Jangheung” ... Gwangju Special City launches emergency containment measures</title>
-      <link>https://en.fnnews.com/news/202611061247269145</link>
-      <guid isPermaLink="false">bd2faf2f1787ca6c8ae1fccd3f3470b387903da3</guid>
-      <pubDate>Thu, 05 Nov 2026 14:56:00 GMT</pubDate>
-      <description>На ферме в городе Джанхунг обнаружен антиген гриппа птиц, введены меры по локализации · verdict: confirmed · “H5 avian influenza antigen detected at duck farm in Jangheung” ... Gwangju Special City launches emergency containment measures</description>
-    </item>
-    <item>
       <title>[не определено] грипп птиц: Gyeonggi Province Strengthens Quarantine Measures to Prevent Spread of Avian Influenza</title>
       <link>https://news.sbs.co.kr/english/article.do?news_id=N1008833848</link>
       <guid isPermaLink="false">62a0ac9fedf4b0cfa11171d6b27e3e6aa2014783</guid>
       <pubDate>Thu, 05 Nov 2026 13:16:00 GMT</pubDate>
       <description>Провинция Гьонгги усиливает меры по проверке для предотвращения распространения гриппа птиц · verdict: probable · Gyeonggi Province Strengthens Quarantine Measures to Prevent Spread of Avian Influenza</description>
-    </item>
-    <item>
-      <title>[фон] грипп птиц — США: Avian influenza spread beyond a backyard coop on an Illinois farm, analysis finds</title>
-      <link>https://phys.org/news/2026-11-avian-influenza-backyard-coop-illinois.html</link>
-      <guid isPermaLink="false">2c20eb05104ff716b50e6473c1e3781e2ee824ec</guid>
-      <pubDate>Thu, 05 Nov 2026 12:30:00 GMT</pubDate>
-      <description>Вспышка высокопатогенного птичий гриппа на ферме в Иллинойсе распространилась и на местного кота и диких мышей. · verdict: confirmed · Avian influenza spread beyond a backyard coop on an Illinois farm, analysis finds</description>
     </item>
     <item>
       <title>[фон] африканская чума свиней — Канада: Squeal on Pigs develops African swine fever plan</title>
@@ -53,13 +81,6 @@
       <guid isPermaLink="false">a065cd8254f6dc64317b91772852d48dd208b653</guid>
       <pubDate>Thu, 05 Nov 2026 05:46:00 GMT</pubDate>
       <description>verdict: probable · Hong Kong Bans Poultry From Norway, Britain Over Avian Influenza Concerns</description>
-    </item>
-    <item>
-      <title>[фон] грипп птиц — Великобритания: Bird flu outbreak confirmed at poultry farm</title>
-      <link>https://www.yahoo.com/news/world/articles/bird-flu-outbreak-confirmed-poultry-110531612.html</link>
-      <guid isPermaLink="false">f82172b833802367595202e276e1a89e663856bb</guid>
-      <pubDate>Thu, 05 Nov 2026 03:05:00 GMT</pubDate>
-      <description>Подтвержден очаг гриппа птиц на птицефабрике в Северном Линкольншире. · verdict: confirmed · Bird flu outbreak confirmed at poultry farm</description>
     </item>
     <item>
       <title>[фон] Намибия: FMD outbreak: How much is Namibia’s beef industry really losing?</title>
@@ -293,13 +314,6 @@
       <description>В Италию сняли запрет на импорт итальянского ветчины · verdict: probable · Japan moving toward lifting prosciutto ban</description>
     </item>
     <item>
-      <title>[граница] нодулярный дерматит — Россия: Lumpy skin disease outbreak detected at Ernst livestock research center near Moscow</title>
-      <link>https://dairynews.today/news/v_podmoskove_vyyavili_ochag_uzelkovogo_dermatita_krs_v_institute_imeni_ernsta_9790328.html</link>
-      <guid isPermaLink="false">31a945cc03ae941dca7d7cd0f5be29df2e38e49f</guid>
-      <pubDate>Wed, 28 Oct 2026 17:00:00 GMT</pubDate>
-      <description>Вздутизная болезнь скота выявлена на исследовательском центре при Москве · verdict: confirmed · Lumpy skin disease outbreak detected at Ernst livestock research center near Moscow</description>
-    </item>
-    <item>
       <title>[не определено] грипп птиц — Камбоджа: Cambodia, India, Taiwan confirm new avian flu outbreaks in poultry</title>
       <link>https://www.wattagnet.com/poultry-meat/diseases-health/avian-influenza/news/16050265/cambodia-india-taiwan-confirm-new-avian-flu-outbreaks-in-poultry</link>
       <guid isPermaLink="false">04a2ca75876c223350e67c7c1669d3e64e302e71</guid>
@@ -396,13 +410,6 @@
       <guid isPermaLink="false">8b49a0505a0efd3b1de513fbe0d6914836b31a9f</guid>
       <pubDate>Mon, 26 Oct 2026 03:32:00 GMT</pubDate>
       <description>verdict: probable · Nigerian Government, FAO Intensify Avian Influenza Control</description>
-    </item>
-    <item>
-      <title>[не определено] ящур — Кипр: Cyprus Approves Nearly 2 Million Euros in Compensation for Farmers Hit by Foot-and-Mouth Outbreak</title>
-      <link>https://famagusta-gazette.com/cyprus-approves-nearly-2-million-euros-in-compensation-for-farmers-hit-by-foot-and-mouth-outbreak/</link>
-      <guid isPermaLink="false">9a99c071ada8f1a57bae39fae33f9a62dc8ee193</guid>
-      <pubDate>Sat, 24 Oct 2026 17:00:00 GMT</pubDate>
-      <description>Власти Кипра одобрили выплаты в 1,9 млн. евро фермерам, пострадавшим от ящура · verdict: probable · Cyprus Approves Nearly 2 Million Euros in Compensation for Farmers Hit by Foot-and-Mouth Outbreak</description>
     </item>
   </channel>
 </rss>
