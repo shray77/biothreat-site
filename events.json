@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-06T06:40:26.317Z",
+  "generated_at": "2026-11-06T12:40:18.432Z",
   "items": [
+    {
+      "fingerprint": "c4dfd17d41e82b576dc9628b52b365dade2aa1ba",
+      "disease": null,
+      "country": "Индия",
+      "distance_km": 3000,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "В Индии провели учения по готовности к борьбе с африканской чумой свиней.",
+      "source_id": "bing-world-fmd",
+      "title": "India holds National Exercise to bolster preparedness against Foot-and-Mouth Disease SAT-1",
+      "url": "https://www.bizzbuzz.news/industry/agriculture/india-holds-national-exercise-to-bolster-preparedness-against-foot-and-mouth-disease-sat-1-1414271",
+      "published_at": "2026-11-06T00:11:00.000Z",
+      "created_at": "2026-11-06 12:40:14",
+      "ai_at": "2026-11-06 12:40:18",
+      "dup_count": 1
+    },
     {
       "fingerprint": "7ea8f31d7438a68f04b82c736e54f7fbaf234abd",
       "disease": null,
@@ -1106,22 +1122,6 @@
       "published_at": "2026-10-24T17:00:00.000Z",
       "created_at": "2026-10-25 06:40:14",
       "ai_at": "2026-10-25 06:40:18",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "932a019c66ae8d392be57be7270fcdc6ea000e80",
-      "disease": "африканская чума свиней",
-      "country": "Украина",
-      "distance_km": 0,
-      "level": "граница",
-      "verdict": "probable",
-      "ai_summary": "В Украине может возникнуть дефицит свинины из-за африканской чумы свиней",
-      "source_id": "bing-world-asf",
-      "title": "A pork shortage is forecast in Ukraine due to African swine fever",
-      "url": "https://ua.news/en/ukraine/cherez-afrikansku-chumu-svinei-v-ukrayini-prognozuiut-defitsit-svinini",
-      "published_at": "2026-10-24T13:17:00.000Z",
-      "created_at": "2026-10-25 00:40:14",
-      "ai_at": "2026-10-25 00:40:26",
       "dup_count": 1
     }
   ]
