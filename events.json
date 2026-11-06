@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-06T18:40:40.606Z",
+  "generated_at": "2026-11-06T20:40:19.093Z",
   "items": [
     {
       "fingerprint": "b3994528832965ebf7fd0b87d5e3b5b452f2bf60",
@@ -82,7 +82,7 @@
       "published_at": "2026-11-06T05:00:00.000Z",
       "created_at": "2026-11-06 18:40:14",
       "ai_at": "2026-11-06 18:40:24",
-      "dup_count": 22,
+      "dup_count": 21,
       "dups": [
         {
           "title": "Avian influenza spread beyond a backyard coop on an Illinois farm, analysis finds",
@@ -179,21 +179,27 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "7b01c5ba9363a3284c77f5d4eba19a9dc1e3e777",
+      "fingerprint": "342c76a035f2dc66084b46b3be7d24d384954c16",
       "disease": "нодулярный дерматит",
       "country": "Россия",
       "distance_km": 0,
       "level": "граница",
       "verdict": "confirmed",
-      "ai_summary": "В Подмосковье сожжено более 800 трупов коров, больных нодулярным дерматитом.",
-      "source_id": "bing-world-fmd",
+      "ai_summary": "В Московской области сожжено более 800 тел скота, заболевшего нодулярным дерматитом",
+      "source_id": "bing-world-lsd",
       "title": "Hundreds of cow carcasses reportedly burned near village outside Moscow following disease outbreak",
       "url": "https://meduza.io/en/news/2026/11/06/hundreds-of-cow-carcasses-reportedly-burned-near-village-outside-moscow-following-disease-outbreak",
       "published_at": "2026-11-05T23:33:00.000Z",
-      "created_at": "2026-11-06 18:40:14",
-      "ai_at": "2026-11-06 18:40:37",
-      "dup_count": 2,
+      "created_at": "2026-11-06 20:40:14",
+      "ai_at": "2026-11-06 20:40:18",
+      "dup_count": 3,
       "dups": [
+        {
+          "title": "Hundreds of cow carcasses reportedly burned near village outside Moscow following disease outbreak",
+          "url": "https://meduza.io/en/news/2026/11/06/hundreds-of-cow-carcasses-reportedly-burned-near-village-outside-moscow-following-disease-outbreak",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-11-05T23:33:00.000Z"
+        },
         {
           "title": "Lumpy skin disease outbreak detected at Ernst livestock research center near Moscow",
           "url": "https://dairynews.today/news/v_podmoskove_vyyavili_ochag_uzelkovogo_dermatita_krs_v_institute_imeni_ernsta_9790328.html",
