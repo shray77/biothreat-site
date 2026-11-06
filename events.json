@@ -1,89 +1,51 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-06T20:40:19.093Z",
+  "generated_at": "2026-11-06T22:40:39.655Z",
   "items": [
     {
-      "fingerprint": "b3994528832965ebf7fd0b87d5e3b5b452f2bf60",
-      "disease": "грипп птиц",
-      "country": "Великобритания",
-      "distance_km": 2500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Зафиксирована вспышка гриппа птиц близ Биггара, введены контрольные зоны",
-      "source_id": "bing-world-ai",
-      "title": "Bird flu outbreak near Biggar prompts new control zones",
-      "url": "https://www.peeblesshirenews.com/news/26706035.bird-flu-outbreak-near-biggar-prompts-new-control-zones/",
-      "published_at": "2026-11-06T08:55:00.000Z",
-      "created_at": "2026-11-06 18:40:14",
-      "ai_at": "2026-11-06 18:40:17",
-      "dup_count": 3,
-      "dups": [
-        {
-          "title": "Bird flu outbreak confirmed at poultry farm",
-          "url": "https://www.yahoo.com/news/world/articles/bird-flu-outbreak-confirmed-poultry-110531612.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-05T03:05:00.000Z"
-        },
-        {
-          "title": "Bird flu outbreak strikes Lincolnshire duck farm, triggering poultry cull",
-          "url": "https://www.farminguk.com/news/bird-flu-outbreak-strikes-lincolnshire-duck-farm-triggering-poultry-cull_69424.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-04T22:18:00.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "b034d1c19b50fba70e8f76b24ff54cb7bcaf4a19",
-      "disease": "грипп птиц",
-      "country": "Южная Корея",
+      "fingerprint": "903c480948df5f357b879fe4f75339fa1ab84cb1",
+      "disease": null,
+      "country": null,
       "distance_km": null,
       "level": "не определено",
       "verdict": "probable",
-      "ai_summary": "Подтверждены вспышки гриппа птиц в Южной Корее, вырезано более 300 тысяч птиц",
+      "ai_summary": "Продолжающиеся вспышки высокопатогенного птичьего гриппа побуждают чиновников напомнить о повышенных мерах биосicherности для производителей птицы и молока.",
       "source_id": "bing-world-ai",
-      "title": "Over 300,000 birds culled after bird flu outbreaks detected in South Korea, Mexico",
-      "url": "https://www.msn.com/en-ca/news/other/over-300-000-birds-culled-after-bird-flu-outbreaks-detected-in-south-korea-mexico/ar-AA2gT0kD",
-      "published_at": "2026-11-06T06:30:03.000Z",
-      "created_at": "2026-11-06 18:40:14",
-      "ai_at": "2026-11-06 18:40:21",
-      "dup_count": 4,
-      "dups": [
-        {
-          "title": "“H5 avian influenza antigen detected at duck farm in Jangheung” ... Gwangju Special City launches emergency containment measures",
-          "url": "https://en.fnnews.com/news/202611061247269145",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-05T14:56:00.000Z"
-        },
-        {
-          "title": "Yeoncheon-gun activates emergency response center after H5 avian influenza confirmed at egg farm",
-          "url": "https://biz.heraldcorp.com/article/10926345",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-04T10:09:00.000Z"
-        },
-        {
-          "title": "New avian influenza case detected in Gyeonggi Province",
-          "url": "https://www.ajupress.com/view/20261104142925224",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-04T06:00:00.000Z"
-        }
-      ]
+      "title": "HPAI outbreaks prompt biosecurity reminders for poultry and dairy producers",
+      "url": "https://brownfieldagnews.com/news/hpai-outbreaks-prompt-biosecurity-reminders-for-poultry-and-dairy-producers/",
+      "published_at": "2026-11-06T13:53:00.000Z",
+      "created_at": "2026-11-06 22:40:14",
+      "ai_at": "2026-11-06 22:40:19",
+      "dup_count": 1
     },
     {
-      "fingerprint": "23f79e8869e05649c9dcf08c51bd9efb4a941525",
+      "fingerprint": "0bc588362a28993fc2f88be59b134fccd93066a6",
       "disease": "грипп птиц",
       "country": "США",
       "distance_km": 5000,
       "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Зафиксирован случай высокопатогенного птичий гриппа в штате Айова.",
+      "verdict": "probable",
+      "ai_summary": "Жителям Южной Каролины рекомендовано принять меры предосторожности против птичьего гриппа.",
       "source_id": "bing-world-ai",
-      "title": "New HPAI outbreak in Iowa",
-      "url": "https://www.petfoodprocessing.net/articles/21057-new-hpai-outbreak-in-iowa",
-      "published_at": "2026-11-06T05:00:00.000Z",
-      "created_at": "2026-11-06 18:40:14",
-      "ai_at": "2026-11-06 18:40:24",
-      "dup_count": 21,
+      "title": "South Carolinians urged to take precautions against avian influenza. Here's what to know",
+      "url": "https://www.southcarolinapublicradio.org/sc-news/2026-11-06/south-carolinians-urged-to-take-precautions-against-avian-influenza-heres-what-to-know",
+      "published_at": "2026-11-06T12:40:00.000Z",
+      "created_at": "2026-11-06 22:40:14",
+      "ai_at": "2026-11-06 22:40:22",
+      "dup_count": 20,
       "dups": [
+        {
+          "title": "SCDNR issues advisory regarding avian influenza activity in wild birds",
+          "url": "https://www.coladaily.com/communities/scdnr-issues-advisory-regarding-avian-influenza-activity-in-wild-birds/article_103b85e8-629a-4099-b905-f91c65372946.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-06T07:56:00.000Z"
+        },
+        {
+          "title": "New HPAI outbreak in Iowa",
+          "url": "https://www.petfoodprocessing.net/articles/21057-new-hpai-outbreak-in-iowa",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-06T05:00:00.000Z"
+        },
         {
           "title": "Avian influenza spread beyond a backyard coop on an Illinois farm, analysis finds",
           "url": "https://phys.org/news/2026-11-avian-influenza-backyard-coop-illinois.html",
@@ -131,18 +93,128 @@
           "url": "https://www.9news.com/article/news/health/bird-flu-detected-at-colorado-dairy-for-first-time-since-2024-outbreak/73-a3cfcbb4-953b-49da-8683-2b7ebf54af8e",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-30T16:52:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "4f41df148f5e3a173b2d3610f97cdf2da5d4bed6",
+      "disease": "грипп птиц",
+      "country": "Индiana",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "Вдобавление к 21 штату с зараженными коровами.",
+      "source_id": "bing-world-ai",
+      "title": "Avian influenza confirmed in Indiana dairy cattle",
+      "url": "https://www.dvm360.com/view/avian-influenza-confirmed-in-indiana-dairy-cattle",
+      "published_at": "2026-11-06T12:00:00.000Z",
+      "created_at": "2026-11-06 22:40:14",
+      "ai_at": "2026-11-06 22:40:26",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "b3994528832965ebf7fd0b87d5e3b5b452f2bf60",
+      "disease": "грипп птиц",
+      "country": "Великобритания",
+      "distance_km": 2500,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "Зафиксирована вспышка гриппа птиц близ Биггара, введены контрольные зоны",
+      "source_id": "bing-world-ai",
+      "title": "Bird flu outbreak near Biggar prompts new control zones",
+      "url": "https://www.peeblesshirenews.com/news/26706035.bird-flu-outbreak-near-biggar-prompts-new-control-zones/",
+      "published_at": "2026-11-06T08:55:00.000Z",
+      "created_at": "2026-11-06 18:40:14",
+      "ai_at": "2026-11-06 18:40:17",
+      "dup_count": 3,
+      "dups": [
+        {
+          "title": "Bird flu outbreak confirmed at poultry farm",
+          "url": "https://www.yahoo.com/news/world/articles/bird-flu-outbreak-confirmed-poultry-110531612.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-05T03:05:00.000Z"
         },
         {
-          "title": "Iowa reports eighth H5N1 avian influenza outbreak of 2026",
-          "url": "https://www.meatpoultry.com/articles/34256-iowa-reports-eighth-h5n1-avian-influenza-outbreak-of-2026",
+          "title": "Bird flu outbreak strikes Lincolnshire duck farm, triggering poultry cull",
+          "url": "https://www.farminguk.com/news/bird-flu-outbreak-strikes-lincolnshire-duck-farm-triggering-poultry-cull_69424.html",
           "source_id": "bing-world-ai",
-          "published_at": "2026-10-30T08:32:00.000Z"
+          "published_at": "2026-11-04T22:18:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "4614572bf4a93fce79431b9cc4c7c36624a10d7d",
+      "disease": "гибридная птица",
+      "country": "Мексика",
+      "distance_km": 9000,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "Подтвержден случай гибридной птицы в Мексике",
+      "source_id": "bing-world-ai",
+      "title": "H5N1 avian influenza appears in Mexican laying hens",
+      "url": "https://www.wattagnet.com/poultry-meat/diseases-health/avian-influenza/news/16424515/h5n1-avian-influenza-appears-in-mexican-laying-hens",
+      "published_at": "2026-11-06T07:46:00.000Z",
+      "created_at": "2026-11-06 22:40:14",
+      "ai_at": "2026-11-06 22:40:31",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "b034d1c19b50fba70e8f76b24ff54cb7bcaf4a19",
+      "disease": "грипп птиц",
+      "country": "Южная Корея",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Подтверждены вспышки гриппа птиц в Южной Корее, вырезано более 300 тысяч птиц",
+      "source_id": "bing-world-ai",
+      "title": "Over 300,000 birds culled after bird flu outbreaks detected in South Korea, Mexico",
+      "url": "https://www.msn.com/en-ca/news/other/over-300-000-birds-culled-after-bird-flu-outbreaks-detected-in-south-korea-mexico/ar-AA2gT0kD",
+      "published_at": "2026-11-06T06:30:03.000Z",
+      "created_at": "2026-11-06 18:40:14",
+      "ai_at": "2026-11-06 18:40:21",
+      "dup_count": 4,
+      "dups": [
+        {
+          "title": "“H5 avian influenza antigen detected at duck farm in Jangheung” ... Gwangju Special City launches emergency containment measures",
+          "url": "https://en.fnnews.com/news/202611061247269145",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-05T14:56:00.000Z"
         },
         {
-          "title": "The H5N1 mink outbreak, explained: Why it matters and what you should do",
-          "url": "https://www.msn.com/en-us/money/general/the-h5n1-mink-outbreak-explained-why-it-matters-and-what-you-should-do/ar-AA2goqXQ",
+          "title": "Yeoncheon-gun activates emergency response center after H5 avian influenza confirmed at egg farm",
+          "url": "https://biz.heraldcorp.com/article/10926345",
           "source_id": "bing-world-ai",
-          "published_at": "2026-10-29T15:30:00.000Z"
+          "published_at": "2026-11-04T10:09:00.000Z"
+        },
+        {
+          "title": "New avian influenza case detected in Gyeonggi Province",
+          "url": "https://www.ajupress.com/view/20261104142925224",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-04T06:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "285482c718e1f99d5759d1c35defd6a3ddd2b40b",
+      "disease": "грипп птиц",
+      "country": "Индия",
+      "distance_km": 3000,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "В Индии прошел национальный обучающий сценарий по борьбе с ФМД",
+      "source_id": "bing-world-fmd",
+      "title": "India holds National Exercise to bolster preparedness against Foot-and-Mouth Disease SAT-1",
+      "url": "https://www.indiatribune.com/public/india-holds-national-exercise-to-bolster-preparedness-against-foot-and-mouth-disease-sat-1",
+      "published_at": "2026-11-06T05:01:00.000Z",
+      "created_at": "2026-11-06 22:40:14",
+      "ai_at": "2026-11-06 22:40:35",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "India holds National Exercise to bolster preparedness against Foot-and-Mouth Disease SAT-1",
+          "url": "https://www.bizzbuzz.news/industry/agriculture/india-holds-national-exercise-to-bolster-preparedness-against-foot-and-mouth-disease-sat-1-1414271",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-11-06T00:11:00.000Z"
         }
       ]
     },
@@ -160,22 +232,6 @@
       "published_at": "2026-11-06T03:44:00.000Z",
       "created_at": "2026-11-06 18:40:14",
       "ai_at": "2026-11-06 18:40:34",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "c4dfd17d41e82b576dc9628b52b365dade2aa1ba",
-      "disease": null,
-      "country": "Индия",
-      "distance_km": 3000,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "В Индии провели учения по готовности к борьбе с африканской чумой свиней.",
-      "source_id": "bing-world-fmd",
-      "title": "India holds National Exercise to bolster preparedness against Foot-and-Mouth Disease SAT-1",
-      "url": "https://www.bizzbuzz.news/industry/agriculture/india-holds-national-exercise-to-bolster-preparedness-against-foot-and-mouth-disease-sat-1-1414271",
-      "published_at": "2026-11-06T00:11:00.000Z",
-      "created_at": "2026-11-06 12:40:14",
-      "ai_at": "2026-11-06 12:40:18",
       "dup_count": 1
     },
     {
@@ -270,8 +326,14 @@
       "published_at": "2026-11-05T07:04:00.000Z",
       "created_at": "2026-11-05 18:40:14",
       "ai_at": "2026-11-05 18:40:20",
-      "dup_count": 2,
+      "dup_count": 3,
       "dups": [
+        {
+          "title": "Squeal on Pigs develops African swine fever plan",
+          "url": "https://www.brandonsun.com/local/2026/11/05/squeal-on-pigs-develops-african-swine-fever-plan",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-11-05T06:03:00.000Z"
+        },
         {
           "title": "Squeal on Pigs develops African swine fever plan",
           "url": "https://www.brandonsun.com/westman-this-week/2026/11/05/squeal-on-pigs-develops-african-swine-fever-plan",
@@ -684,19 +746,13 @@
       "published_at": "2026-10-30T06:09:33.000Z",
       "created_at": "2026-10-31 08:40:14",
       "ai_at": "2026-10-31 08:40:28",
-      "dup_count": 3,
+      "dup_count": 2,
       "dups": [
         {
           "title": "The legal, trade and compliance implications of Namibia’s FMD outbreak",
           "url": "https://observer24.com.na/the-legal-trade-and-compliance-implications-of-namibias-fmd-outbreak/",
           "source_id": "bing-world-fmd",
           "published_at": "2026-10-26T22:32:00.000Z"
-        },
-        {
-          "title": "Agriculture Minister visits Zambezi Region to assess foot-and-mouth disease response",
-          "url": "https://economist.com.na/agriculture-minister-visits-zambezi-region-to-assess-foot-and-mouth-disease-response/",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-25T17:00:00.000Z"
         }
       ]
     },
@@ -1088,15 +1144,7 @@
       "published_at": "2026-10-27T05:20:45.000Z",
       "created_at": "2026-10-27 22:40:14",
       "ai_at": "2026-10-27 22:40:31",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "The legal, trade, and compliance implications of Namibia’s FMD outbreak",
-          "url": "https://economist.com.na/the-legal-trade-and-compliance-implications-of-namibias-fmd-outbreak/",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-25T17:00:00.000Z"
-        }
-      ]
+      "dup_count": 1
     },
     {
       "fingerprint": "a054e3e7dc705d797ca45c7beca34cd260d8e468",
@@ -1112,38 +1160,6 @@
       "published_at": "2026-10-26T17:50:00.000Z",
       "created_at": "2026-10-27 22:40:14",
       "ai_at": "2026-10-27 22:40:37",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "7124d866a2e8436cc99d7c0a79abe7eddaed4396",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "Bird flu outbreak at Utah mink farm sparks concerns about government response",
-      "url": "https://www.aol.com/articles/bird-flu-outbreak-utah-mink-120003000.html",
-      "published_at": "2026-10-26T07:52:00.000Z",
-      "created_at": "2026-10-27 00:40:14",
-      "ai_at": "2026-10-27 18:40:41",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "8b49a0505a0efd3b1de513fbe0d6914836b31a9f",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "Nigerian Government, FAO Intensify Avian Influenza Control",
-      "url": "https://von.gov.ng/nigerian-government-fao-intensify-avian-influenza-control/",
-      "published_at": "2026-10-26T03:32:00.000Z",
-      "created_at": "2026-10-26 20:40:14",
-      "ai_at": "2026-10-26 20:40:20",
       "dup_count": 1
     }
   ]
