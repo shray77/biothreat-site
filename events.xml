@@ -6,6 +6,13 @@
     <description>Радар трансграничных болезней животных: ящур, АЧС, грипп птиц, нодулярный дерматит — с оценкой угрозы для РФ. Информационный сервис «как есть»: не официальная система оповещения, не ветеринарная консультация, ИИ и уровни могут ошибаться. Условия: https://shray77.github.io/biothreat-site/terms.html</description>
     <language>ru</language>
     <item>
+      <title>[фон] грипп птиц — США: Avian influenza spread beyond a backyard coop on an Illinois farm, analysis finds</title>
+      <link>https://phys.org/news/2026-11-avian-influenza-backyard-coop-illinois.html</link>
+      <guid isPermaLink="false">2c20eb05104ff716b50e6473c1e3781e2ee824ec</guid>
+      <pubDate>Thu, 05 Nov 2026 12:30:00 GMT</pubDate>
+      <description>Вспышка высокопатогенного птичий гриппа на ферме в Иллинойсе распространилась и на местного кота и диких мышей. · verdict: confirmed · Avian influenza spread beyond a backyard coop on an Illinois farm, analysis finds</description>
+    </item>
+    <item>
       <title>[фон] африканская чума свиней — Канада: Squeal on Pigs develops African swine fever plan</title>
       <link>https://www.thespec.com/news/canada/squeal-on-pigs-develops-african-swine-fever-plan/article_91c74b6c-8ef4-52b5-aecf-83fb1e432aae.html</link>
       <guid isPermaLink="false">89b0f2e8908a9be2392672ddcd326955bd25f8d1</guid>
@@ -67,13 +74,6 @@
       <guid isPermaLink="false">3961e14f9d425047debf3dec497eef052f264b26</guid>
       <pubDate>Wed, 04 Nov 2026 02:37:00 GMT</pubDate>
       <description>Департамент сельского хозяйства не предпринимает эффективных действий против африканской чумы свиней в провинциях, где она присутствует уже несколько лет. · verdict: probable · Espinoza: What has the DA done on ASF?</description>
-    </item>
-    <item>
-      <title>[фон] грипп птиц — США: In Our View: Avian influenza in state necessitates attention</title>
-      <link>https://www.columbian.com/news/2026/nov/04/in-our-view-avian-influenza-in-state-necessitates-attention/</link>
-      <guid isPermaLink="false">2c038df1bedc59599beae593ebaf5d25f47e3d28</guid>
-      <pubDate>Tue, 03 Nov 2026 22:03:00 GMT</pubDate>
-      <description>В штате Вашингтон зафиксирована вспышка гриппа птиц, риск для человека остается низким. · verdict: probable · In Our View: Avian influenza in state necessitates attention</description>
     </item>
     <item>
       <title>[фон] Великобритания: UK livestock disease defences under strain as outbreaks surge, MPs warned</title>
@@ -403,13 +403,6 @@
       <guid isPermaLink="false">fcf6faac6b99fd53cd7f2bcfc40f1106928a3393</guid>
       <pubDate>Fri, 23 Oct 2026 21:31:00 GMT</pubDate>
       <description>Вспышка гриппа птиц нанесла ущерб поставкам индюшачьей птицы на Рождество · verdict: confirmed · Bird flu outbreak sparks fears for Christmas turkey supply as 32,000 birds culled</description>
-    </item>
-    <item>
-      <title>[фон] США: Illinois HPAI Outbreak: Nearly 935,000 Layers Depopulated</title>
-      <link>https://www.poultrymed.com/ID-Eng-GermanT241026</link>
-      <guid isPermaLink="false">63c8dfd6921ad5b7edd1ea58a72a31482d0ee03a</guid>
-      <pubDate>Fri, 23 Oct 2026 17:00:00 GMT</pubDate>
-      <description>В штате Иллинойс подтверждена вспышка гриппа птиц, уничтожено nearly 935 000 линьших кур. · verdict: confirmed · Illinois HPAI Outbreak: Nearly 935,000 Layers Depopulated</description>
     </item>
   </channel>
 </rss>
