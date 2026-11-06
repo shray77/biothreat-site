@@ -1,7 +1,69 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-06T00:40:26.490Z",
+  "generated_at": "2026-11-06T06:40:26.317Z",
   "items": [
+    {
+      "fingerprint": "7ea8f31d7438a68f04b82c736e54f7fbaf234abd",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-fmd",
+      "title": "India prepares for foot-and-mouth disease threat after it spreads to 17 West Asian countries",
+      "url": "https://www.newindianexpress.com/states/karnataka/2026/Nov/06/india-prepares-for-foot-and-mouth-disease-threat-after-it-spreads-to-17-west-asian-countries",
+      "published_at": "2026-11-05T19:03:00.000Z",
+      "created_at": "2026-11-06 06:40:14",
+      "ai_at": "2026-11-06 06:40:17",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "bd2faf2f1787ca6c8ae1fccd3f3470b387903da3",
+      "disease": "грипп птиц",
+      "country": "Южная Корея",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "На ферме в городе Джанхунг обнаружен антиген гриппа птиц, введены меры по локализации",
+      "source_id": "bing-world-ai",
+      "title": "“H5 avian influenza antigen detected at duck farm in Jangheung” ... Gwangju Special City launches emergency containment measures",
+      "url": "https://en.fnnews.com/news/202611061247269145",
+      "published_at": "2026-11-05T14:56:00.000Z",
+      "created_at": "2026-11-06 06:40:14",
+      "ai_at": "2026-11-06 06:40:21",
+      "dup_count": 3,
+      "dups": [
+        {
+          "title": "Yeoncheon-gun activates emergency response center after H5 avian influenza confirmed at egg farm",
+          "url": "https://biz.heraldcorp.com/article/10926345",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-04T10:09:00.000Z"
+        },
+        {
+          "title": "New avian influenza case detected in Gyeonggi Province",
+          "url": "https://www.ajupress.com/view/20261104142925224",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-04T06:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "62a0ac9fedf4b0cfa11171d6b27e3e6aa2014783",
+      "disease": "грипп птиц",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Провинция Гьонгги усиливает меры по проверке для предотвращения распространения гриппа птиц",
+      "source_id": "bing-world-ai",
+      "title": "Gyeonggi Province Strengthens Quarantine Measures to Prevent Spread of Avian Influenza",
+      "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008833848",
+      "published_at": "2026-11-05T13:16:00.000Z",
+      "created_at": "2026-11-06 06:40:14",
+      "ai_at": "2026-11-06 06:40:25",
+      "dup_count": 1
+    },
     {
       "fingerprint": "2c20eb05104ff716b50e6473c1e3781e2ee824ec",
       "disease": "грипп птиц",
@@ -134,7 +196,7 @@
       "published_at": "2026-11-05T03:05:00.000Z",
       "created_at": "2026-11-05 12:40:15",
       "ai_at": "2026-11-05 12:40:20",
-      "dup_count": 5,
+      "dup_count": 4,
       "dups": [
         {
           "title": "Bird flu outbreak strikes Lincolnshire duck farm, triggering poultry cull",
@@ -153,12 +215,6 @@
           "url": "https://www.webtech360.com/detail/bird-flu-in-the-uk-what-the-latest-outbreak-means-en-trend-hp2-99911514.html",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-24T17:00:00.000Z"
-        },
-        {
-          "title": "Fears of Christmas turkey shortage after bird flu outbreak leads to mass cull",
-          "url": "https://metro.co.uk/2026/10/24/fears-christmas-turkey-shortage-bird-flu-outbreak-leads-mass-cull-29736359/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-24T07:58:00.000Z"
         }
       ]
     },
@@ -233,30 +289,6 @@
           "url": "https://news.laodong.vn/kinh-doanh/nguon-lay-dich-ta-heo-chau-phi-phuc-tap-can-tho-khuyen-cao-than-trong-tai-dan-1789581.ldo",
           "source_id": "bing-world-asf",
           "published_at": "2026-10-26T09:54:00.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "e154b08eed2fa02b24295efab9e7e3e56d55e973",
-      "disease": "грипп птиц",
-      "country": "Южная Корея",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "Подтверждено заражение гриппом птиц на ферме по разведению яиц в Южной Корее",
-      "source_id": "bing-world-ai",
-      "title": "Yeoncheon-gun activates emergency response center after H5 avian influenza confirmed at egg farm",
-      "url": "https://biz.heraldcorp.com/article/10926345",
-      "published_at": "2026-11-04T10:09:00.000Z",
-      "created_at": "2026-11-05 00:40:14",
-      "ai_at": "2026-11-05 00:40:19",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "New avian influenza case detected in Gyeonggi Province",
-          "url": "https://www.ajupress.com/view/20261104142925224",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-04T06:00:00.000Z"
         }
       ]
     },
@@ -1090,38 +1122,6 @@
       "published_at": "2026-10-24T13:17:00.000Z",
       "created_at": "2026-10-25 00:40:14",
       "ai_at": "2026-10-25 00:40:26",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "4ec57dd9f9dde0149c9a7491bf7cffefe92292f2",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "Avian Influenza cases intensify worldwide: Here's how to reduce your risk",
-      "url": "https://www.geo.tv/latest/688152-avian-influenza-cases-intensify-worldwide-heres-how-to-reduce-your-risk",
-      "published_at": "2026-10-24T11:42:00.000Z",
-      "created_at": "2026-10-24 20:40:14",
-      "ai_at": "2026-10-24 20:40:17",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "fcf6faac6b99fd53cd7f2bcfc40f1106928a3393",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "Вспышка гриппа птиц нанесла ущерб поставкам индюшачьей птицы на Рождество",
-      "source_id": "bing-world-ai",
-      "title": "Bird flu outbreak sparks fears for Christmas turkey supply as 32,000 birds culled",
-      "url": "https://uk.news.yahoo.com/bird-flu-outbreak-sparks-fears-113148129.html",
-      "published_at": "2026-10-23T21:31:00.000Z",
-      "created_at": "2026-10-24 14:40:14",
-      "ai_at": "2026-10-24 14:40:19",
       "dup_count": 1
     }
   ]
