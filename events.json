@@ -1,39 +1,29 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-06T22:40:39.655Z",
+  "generated_at": "2026-11-07T02:40:27.981Z",
   "items": [
     {
-      "fingerprint": "903c480948df5f357b879fe4f75339fa1ab84cb1",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Продолжающиеся вспышки высокопатогенного птичьего гриппа побуждают чиновников напомнить о повышенных мерах биосicherности для производителей птицы и молока.",
-      "source_id": "bing-world-ai",
-      "title": "HPAI outbreaks prompt biosecurity reminders for poultry and dairy producers",
-      "url": "https://brownfieldagnews.com/news/hpai-outbreaks-prompt-biosecurity-reminders-for-poultry-and-dairy-producers/",
-      "published_at": "2026-11-06T13:53:00.000Z",
-      "created_at": "2026-11-06 22:40:14",
-      "ai_at": "2026-11-06 22:40:19",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "0bc588362a28993fc2f88be59b134fccd93066a6",
+      "fingerprint": "f8fe937cd8c332f0d2dab11e3db4ce3fae9aa2ed",
       "disease": "грипп птиц",
       "country": "США",
       "distance_km": 5000,
       "level": "фон",
       "verdict": "probable",
-      "ai_summary": "Жителям Южной Каролины рекомендовано принять меры предосторожности против птичьего гриппа.",
+      "ai_summary": "В США выявлены случаи высокопатогенного гриппа птиц у диких птиц.",
       "source_id": "bing-world-ai",
-      "title": "South Carolinians urged to take precautions against avian influenza. Here's what to know",
-      "url": "https://www.southcarolinapublicradio.org/sc-news/2026-11-06/south-carolinians-urged-to-take-precautions-against-avian-influenza-heres-what-to-know",
-      "published_at": "2026-11-06T12:40:00.000Z",
-      "created_at": "2026-11-06 22:40:14",
-      "ai_at": "2026-11-06 22:40:22",
-      "dup_count": 20,
+      "title": "SCDNR Advises Public of Avian Influenza Activity in Wild Birds",
+      "url": "https://www.fortmillsun.com/2026/11/06/scdnr-advises-public-of-avian-influenza-activity-in-wild-birds/",
+      "published_at": "2026-11-06T13:58:00.000Z",
+      "created_at": "2026-11-07 02:40:14",
+      "ai_at": "2026-11-07 02:40:19",
+      "dup_count": 21,
       "dups": [
+        {
+          "title": "South Carolinians urged to take precautions against avian influenza. Here's what to know",
+          "url": "https://www.southcarolinapublicradio.org/sc-news/2026-11-06/south-carolinians-urged-to-take-precautions-against-avian-influenza-heres-what-to-know",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-06T12:40:00.000Z"
+        },
         {
           "title": "SCDNR issues advisory regarding avian influenza activity in wild birds",
           "url": "https://www.coladaily.com/communities/scdnr-issues-advisory-regarding-avian-influenza-activity-in-wild-birds/article_103b85e8-629a-4099-b905-f91c65372946.html",
@@ -87,14 +77,24 @@
           "url": "https://www.yahoo.com/news/science/articles/bird-flu-detected-colorado-dairy-235355330.html",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-30T16:52:00.000Z"
-        },
-        {
-          "title": "Bird flu detected at Colorado dairy for first time since 2024 outbreak",
-          "url": "https://www.9news.com/article/news/health/bird-flu-detected-at-colorado-dairy-for-first-time-since-2024-outbreak/73-a3cfcbb4-953b-49da-8683-2b7ebf54af8e",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-30T16:52:00.000Z"
         }
       ]
+    },
+    {
+      "fingerprint": "903c480948df5f357b879fe4f75339fa1ab84cb1",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Продолжающиеся вспышки высокопатогенного птичьего гриппа побуждают чиновников напомнить о повышенных мерах биосicherности для производителей птицы и молока.",
+      "source_id": "bing-world-ai",
+      "title": "HPAI outbreaks prompt biosecurity reminders for poultry and dairy producers",
+      "url": "https://brownfieldagnews.com/news/hpai-outbreaks-prompt-biosecurity-reminders-for-poultry-and-dairy-producers/",
+      "published_at": "2026-11-06T13:53:00.000Z",
+      "created_at": "2026-11-06 22:40:14",
+      "ai_at": "2026-11-06 22:40:19",
+      "dup_count": 1
     },
     {
       "fingerprint": "4f41df148f5e3a173b2d3610f97cdf2da5d4bed6",
@@ -159,21 +159,27 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "b034d1c19b50fba70e8f76b24ff54cb7bcaf4a19",
+      "fingerprint": "b850a0f264cf88fbdd0647067add43a7124add4d",
       "disease": "грипп птиц",
       "country": "Южная Корея",
       "distance_km": null,
       "level": "не определено",
       "verdict": "probable",
-      "ai_summary": "Подтверждены вспышки гриппа птиц в Южной Корее, вырезано более 300 тысяч птиц",
+      "ai_summary": "В Южной Корее выявили случаи птичьего гриппа, уничтожено более 300 000 птиц",
       "source_id": "bing-world-ai",
       "title": "Over 300,000 birds culled after bird flu outbreaks detected in South Korea, Mexico",
-      "url": "https://www.msn.com/en-ca/news/other/over-300-000-birds-culled-after-bird-flu-outbreaks-detected-in-south-korea-mexico/ar-AA2gT0kD",
+      "url": "https://www.msn.com/en-ca/news/other/over-300000-birds-culled-after-bird-flu-outbreaks-detected-in-south-korea-mexico/ar-AA2gT0kD",
       "published_at": "2026-11-06T06:30:03.000Z",
-      "created_at": "2026-11-06 18:40:14",
-      "ai_at": "2026-11-06 18:40:21",
-      "dup_count": 4,
+      "created_at": "2026-11-07 02:40:14",
+      "ai_at": "2026-11-07 02:40:23",
+      "dup_count": 5,
       "dups": [
+        {
+          "title": "Over 300,000 birds culled after bird flu outbreaks detected in South Korea, Mexico",
+          "url": "https://www.msn.com/en-ca/news/other/over-300-000-birds-culled-after-bird-flu-outbreaks-detected-in-south-korea-mexico/ar-AA2gT0kD",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-06T06:30:03.000Z"
+        },
         {
           "title": "“H5 avian influenza antigen detected at duck farm in Jangheung” ... Gwangju Special City launches emergency containment measures",
           "url": "https://en.fnnews.com/news/202611061247269145",
@@ -232,6 +238,22 @@
       "published_at": "2026-11-06T03:44:00.000Z",
       "created_at": "2026-11-06 18:40:14",
       "ai_at": "2026-11-06 18:40:34",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "a5e8fc5aa8e214d47e1be03ef302554d760a2f1d",
+      "disease": "грипп птиц",
+      "country": "Орегон",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "Выявлен грипп птиц в птицеферме в Орегоне, убито почти 95 тысяч кур.",
+      "source_id": "bing-world-ai",
+      "title": "Nearly 95,000 chickens euthanized after Oregon bird flu outbreak",
+      "url": "https://youroregonnews.com/2026/11/06/nearly-95000-chickens-euthanized-after-oregon-bird-flu-outbreak-2/",
+      "published_at": "2026-11-06T03:17:00.000Z",
+      "created_at": "2026-11-07 02:40:14",
+      "ai_at": "2026-11-07 02:40:27",
       "dup_count": 1
     },
     {
@@ -404,7 +426,7 @@
       "published_at": "2026-11-04T17:18:00.000Z",
       "created_at": "2026-11-05 12:40:15",
       "ai_at": "2026-11-05 12:40:37",
-      "dup_count": 5,
+      "dup_count": 3,
       "dups": [
         {
           "title": "African swine fever diễn biến phức tạp, Can Tho tightens management of trading activities",
@@ -417,18 +439,6 @@
           "url": "https://www.efeedlink.com/articles/african-swine-fever-hits-78-sites-in-vietnams-dong-nai-as-mekong-delta-outbreaks-widen",
           "source_id": "bing-world-asf",
           "published_at": "2026-10-27T17:00:00.000Z"
-        },
-        {
-          "title": "Vietnam's Lao Cai culls 462 pigs in October as African swine fever toll for 2026 reaches 2,677",
-          "url": "https://www.efeedlink.com/articles/vietnams-lao-cai-culls-462-pigs-in-october-as-african-swine-fever-toll-for-2026-reaches-2-677",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-26T17:00:00.000Z"
-        },
-        {
-          "title": "The source of African swine fever is complicated, Can Tho recommends cautious restocking",
-          "url": "https://news.laodong.vn/kinh-doanh/nguon-lay-dich-ta-heo-chau-phi-phuc-tap-can-tho-khuyen-cao-than-trong-tai-dan-1789581.ldo",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-26T09:54:00.000Z"
         }
       ]
     },
@@ -1018,19 +1028,13 @@
       "published_at": "2026-10-28T01:36:00.000Z",
       "created_at": "2026-10-28 12:40:14",
       "ai_at": "2026-10-28 12:40:20",
-      "dup_count": 3,
+      "dup_count": 2,
       "dups": [
         {
           "title": "Hong Kong Suspends Poultry Imports from Denmark and Minnesota Due to Avian Influenza Outbreaks",
           "url": "https://www.bastillepost.com/global/article/6295074-hong-kong-suspends-poultry-imports-from-denmark-and-minnesota-due-to-avian-influenza-outbreaks",
           "source_id": "bing-world-ai",
           "published_at": "2026-10-27T12:23:00.000Z"
-        },
-        {
-          "title": "Denmark, U.K. record season’s first farm avian flu outbreaks",
-          "url": "https://www.wattagnet.com/poultry-meat/diseases-health/avian-influenza/news/15975382/denmark-uk-record-seasons-first-farm-avian-flu-outbreaks",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-26T10:27:00.000Z"
         }
       ]
     },
