@@ -6,18 +6,18 @@
     <description>Радар трансграничных болезней животных: ящур, АЧС, грипп птиц, нодулярный дерматит — с оценкой угрозы для РФ. Информационный сервис «как есть»: не официальная система оповещения, не ветеринарная консультация, ИИ и уровни могут ошибаться. Условия: https://shray77.github.io/biothreat-site/terms.html</description>
     <language>ru</language>
     <item>
+      <title>[фон] грипп птиц — США: SCDNR Advises Public of Avian Influenza Activity in Wild Birds</title>
+      <link>https://www.fortmillsun.com/2026/11/06/scdnr-advises-public-of-avian-influenza-activity-in-wild-birds/</link>
+      <guid isPermaLink="false">f8fe937cd8c332f0d2dab11e3db4ce3fae9aa2ed</guid>
+      <pubDate>Fri, 06 Nov 2026 13:58:00 GMT</pubDate>
+      <description>В США выявлены случаи высокопатогенного гриппа птиц у диких птиц. · verdict: probable · SCDNR Advises Public of Avian Influenza Activity in Wild Birds</description>
+    </item>
+    <item>
       <title>[не определено] HPAI outbreaks prompt biosecurity reminders for poultry and dairy producers</title>
       <link>https://brownfieldagnews.com/news/hpai-outbreaks-prompt-biosecurity-reminders-for-poultry-and-dairy-producers/</link>
       <guid isPermaLink="false">903c480948df5f357b879fe4f75339fa1ab84cb1</guid>
       <pubDate>Fri, 06 Nov 2026 13:53:00 GMT</pubDate>
       <description>Продолжающиеся вспышки высокопатогенного птичьего гриппа побуждают чиновников напомнить о повышенных мерах биосicherности для производителей птицы и молока. · verdict: probable · HPAI outbreaks prompt biosecurity reminders for poultry and dairy producers</description>
-    </item>
-    <item>
-      <title>[фон] грипп птиц — США: South Carolinians urged to take precautions against avian influenza. Here's what to know</title>
-      <link>https://www.southcarolinapublicradio.org/sc-news/2026-11-06/south-carolinians-urged-to-take-precautions-against-avian-influenza-heres-what-to-know</link>
-      <guid isPermaLink="false">0bc588362a28993fc2f88be59b134fccd93066a6</guid>
-      <pubDate>Fri, 06 Nov 2026 12:40:00 GMT</pubDate>
-      <description>Жителям Южной Каролины рекомендовано принять меры предосторожности против птичьего гриппа. · verdict: probable · South Carolinians urged to take precautions against avian influenza. Here's what to know</description>
     </item>
     <item>
       <title>[не определено] грипп птиц — Индiana: Avian influenza confirmed in Indiana dairy cattle</title>
@@ -42,10 +42,10 @@
     </item>
     <item>
       <title>[не определено] грипп птиц — Южная Корея: Over 300,000 birds culled after bird flu outbreaks detected in South Korea, Mexico</title>
-      <link>https://www.msn.com/en-ca/news/other/over-300-000-birds-culled-after-bird-flu-outbreaks-detected-in-south-korea-mexico/ar-AA2gT0kD</link>
-      <guid isPermaLink="false">b034d1c19b50fba70e8f76b24ff54cb7bcaf4a19</guid>
+      <link>https://www.msn.com/en-ca/news/other/over-300000-birds-culled-after-bird-flu-outbreaks-detected-in-south-korea-mexico/ar-AA2gT0kD</link>
+      <guid isPermaLink="false">b850a0f264cf88fbdd0647067add43a7124add4d</guid>
       <pubDate>Fri, 06 Nov 2026 06:30:03 GMT</pubDate>
-      <description>Подтверждены вспышки гриппа птиц в Южной Корее, вырезано более 300 тысяч птиц · verdict: probable · Over 300,000 birds culled after bird flu outbreaks detected in South Korea, Mexico</description>
+      <description>В Южной Корее выявили случаи птичьего гриппа, уничтожено более 300 000 птиц · verdict: probable · Over 300,000 birds culled after bird flu outbreaks detected in South Korea, Mexico</description>
     </item>
     <item>
       <title>[фон] грипп птиц — Индия: India holds National Exercise to bolster preparedness against Foot-and-Mouth Disease SAT-1</title>
@@ -60,6 +60,13 @@
       <guid isPermaLink="false">99baa3788528324cf70c8de96d4603fc08ba88c9</guid>
       <pubDate>Fri, 06 Nov 2026 03:44:00 GMT</pubDate>
       <description>В Мексике зарегистрировано вспышка высокопатогенного гриппа птиц на ферме в полуострове Юкатан. · verdict: confirmed · Mexico reports bird flu outbreak in Yucatan Peninsula</description>
+    </item>
+    <item>
+      <title>[не определено] грипп птиц — Орегон: Nearly 95,000 chickens euthanized after Oregon bird flu outbreak</title>
+      <link>https://youroregonnews.com/2026/11/06/nearly-95000-chickens-euthanized-after-oregon-bird-flu-outbreak-2/</link>
+      <guid isPermaLink="false">a5e8fc5aa8e214d47e1be03ef302554d760a2f1d</guid>
+      <pubDate>Fri, 06 Nov 2026 03:17:00 GMT</pubDate>
+      <description>Выявлен грипп птиц в птицеферме в Орегоне, убито почти 95 тысяч кур. · verdict: confirmed · Nearly 95,000 chickens euthanized after Oregon bird flu outbreak</description>
     </item>
     <item>
       <title>[граница] нодулярный дерматит — Россия: Hundreds of cow carcasses reportedly burned near village outside Moscow following disease outbreak</title>
