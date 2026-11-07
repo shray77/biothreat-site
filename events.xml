@@ -6,6 +6,13 @@
     <description>Радар трансграничных болезней животных: ящур, АЧС, грипп птиц, нодулярный дерматит — с оценкой угрозы для РФ. Информационный сервис «как есть»: не официальная система оповещения, не ветеринарная консультация, ИИ и уровни могут ошибаться. Условия: https://shray77.github.io/biothreat-site/terms.html</description>
     <language>ru</language>
     <item>
+      <title>[наблюдение] грипп птиц — Дания: Avian Influenza in Denmark</title>
+      <link>https://www.poultrymed.com/ID-Eng-DenHPAI071126</link>
+      <guid isPermaLink="false">f052ed62a4dfd3fdbae03d417c67fa3f09261b6c</guid>
+      <pubDate>Fri, 06 Nov 2026 16:00:00 GMT</pubDate>
+      <description>Повышена угроза появления птичьего гриппа в Дании · verdict: probable · Avian Influenza in Denmark</description>
+    </item>
+    <item>
       <title>[фон] грипп птиц — США: SCDNR Advises Public of Avian Influenza Activity in Wild Birds</title>
       <link>https://www.fortmillsun.com/2026/11/06/scdnr-advises-public-of-avian-influenza-activity-in-wild-birds/</link>
       <guid isPermaLink="false">f8fe937cd8c332f0d2dab11e3db4ce3fae9aa2ed</guid>
@@ -361,13 +368,6 @@
       <guid isPermaLink="false">9d37d80c9d4be7b13d6ebf2b0cb2d0bbfd936047</guid>
       <pubDate>Wed, 28 Oct 2026 03:27:00 GMT</pubDate>
       <description>Подтвержден случай африканской чумы свиней на свиновом ферме в округе Ганхва в Инчхоне. · verdict: confirmed · Another FMD case detected just before quarantine restrictions are lifted... Additional outbreak at a cattle farm in Ganghwa, Incheon</description>
-    </item>
-    <item>
-      <title>[наблюдение] грипп птиц — Дания: Hong Kong suspends poultry imports from Danish municipality after bird flu outbreak</title>
-      <link>https://scandasia.com/hong-kong-suspends-poultry-imports-from-danish-municipality-after-bird-flu-outbreak-2/</link>
-      <guid isPermaLink="false">bbcacae33c55eacc954b097c73f98e5616aaee11</guid>
-      <pubDate>Wed, 28 Oct 2026 01:36:00 GMT</pubDate>
-      <description>В связи с вспышкой гриппа птиц в датской общине Хонг-Конг приостановил ввоз птицы из этой области. · verdict: probable · Hong Kong suspends poultry imports from Danish municipality after bird flu outbreak</description>
     </item>
     <item>
       <title>[не определено] грипп птиц: H5N1 Avian Influenza Emerges as a Global Threat to Already Declining Vulture Populations</title>
