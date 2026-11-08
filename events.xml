@@ -6,11 +6,18 @@
     <description>Радар трансграничных болезней животных: ящур, АЧС, грипп птиц, нодулярный дерматит — с оценкой угрозы для РФ. Информационный сервис «как есть»: не официальная система оповещения, не ветеринарная консультация, ИИ и уровни могут ошибаться. Условия: https://shray77.github.io/biothreat-site/terms.html</description>
     <language>ru</language>
     <item>
-      <title>[фон] грипп птиц — США: SCDNR advises Public of Avian Influenza Activity in Wild Birds</title>
-      <link>https://wnegradio.com/scdnr-advises-public-of-avian-influenza-activity-in-wild-birds/</link>
-      <guid isPermaLink="false">863c520c05f447244eddd618ae125f3ad0e18fd7</guid>
-      <pubDate>Sat, 07 Nov 2026 12:20:00 GMT</pubDate>
-      <description>В штате Южная Каролина зафиксирована вспышка гриппа птиц у диких птиц. · verdict: probable · SCDNR advises Public of Avian Influenza Activity in Wild Birds</description>
+      <title>[фон] грипп птиц — Великобритания: Two new bird flu outbreaks hit poultry farms in Yorkshire and Lancashire</title>
+      <link>https://www.farminguk.com/news/two-new-bird-flu-outbreaks-hit-poultry-farms-in-yorkshire-and-lancashire_69440.html</link>
+      <guid isPermaLink="false">80b14bcee46c42aeb886286b94fa53e9da2067aa</guid>
+      <pubDate>Sat, 07 Nov 2026 15:59:00 GMT</pubDate>
+      <description>Подтверждены вспышки гриппа птиц на птицефабриках в Йоркшире и Ланкашире · verdict: confirmed · Two new bird flu outbreaks hit poultry farms in Yorkshire and Lancashire</description>
+    </item>
+    <item>
+      <title>[фон] грипп птиц — США: California bird flu outbreak hits 1.3 million laying hens ahead of holiday baking rush</title>
+      <link>https://uk.news.yahoo.com/california-bird-flu-outbreak-hits-042000776.html</link>
+      <guid isPermaLink="false">0e6716775612ed696935297530d42a5098e3b0c4</guid>
+      <pubDate>Sat, 07 Nov 2026 15:59:00 GMT</pubDate>
+      <description>В Калифорнии произошла вспышка гриппа птиц, затронувшая 1,3 миллиона несушек, перед праздничным сезоном приготовления тортов · verdict: confirmed · California bird flu outbreak hits 1.3 million laying hens ahead of holiday baking rush</description>
     </item>
     <item>
       <title>[не определено] африканская чума свиней — Филиппины: Ilocos Norte, Ilocos Sur among areas that have recovered from ASF</title>
@@ -39,13 +46,6 @@
       <guid isPermaLink="false">4f41df148f5e3a173b2d3610f97cdf2da5d4bed6</guid>
       <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
       <description>Вдобавление к 21 штату с зараженными коровами. · verdict: confirmed · Avian influenza confirmed in Indiana dairy cattle</description>
-    </item>
-    <item>
-      <title>[фон] грипп птиц — Великобритания: Bird flu outbreak near Biggar prompts new control zones</title>
-      <link>https://www.peeblesshirenews.com/news/26706035.bird-flu-outbreak-near-biggar-prompts-new-control-zones/</link>
-      <guid isPermaLink="false">b3994528832965ebf7fd0b87d5e3b5b452f2bf60</guid>
-      <pubDate>Fri, 06 Nov 2026 08:55:00 GMT</pubDate>
-      <description>Зафиксирована вспышка гриппа птиц близ Биггара, введены контрольные зоны · verdict: confirmed · Bird flu outbreak near Biggar prompts new control zones</description>
     </item>
     <item>
       <title>[фон] гибридная птица — Мексика: H5N1 avian influenza appears in Mexican laying hens</title>
@@ -410,13 +410,6 @@
       <guid isPermaLink="false">bfca3bb4433928ae20df906e44490fae968c579d</guid>
       <pubDate>Tue, 27 Oct 2026 08:43:00 GMT</pubDate>
       <description>Университет Шеффилда возглавляет международную программу по улучшению прогнозирования и предотвращения африканской свиной чумы. · verdict: probable · University of Sheffield leads research to tackle global threat of African swine fever</description>
-    </item>
-    <item>
-      <title>[фон] Намибия: The legal, trade and compliance implications of Namibia’s FMD outbreak</title>
-      <link>https://www.msn.com/en-za/money/general/the-legal-trade-and-compliance-implications-of-namibia-s-fmd-outbreak/ar-AA2gb0Ds</link>
-      <guid isPermaLink="false">a0cd46a8b4577dcb9e54fa018977967a8ce86245</guid>
-      <pubDate>Tue, 27 Oct 2026 05:20:45 GMT</pubDate>
-      <description>Аналитика по юридическим последствиям вспышки африканской чумы свиней в Намибии · verdict: probable · The legal, trade and compliance implications of Namibia’s FMD outbreak</description>
     </item>
   </channel>
 </rss>
