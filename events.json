@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-08T14:40:23.769Z",
+  "generated_at": "2026-11-08T18:40:19.695Z",
   "items": [
     {
       "fingerprint": "cd646dbf1f13bcb1e903cc4c24cfc13a97107fe1",
@@ -16,8 +16,20 @@
       "published_at": "2026-11-08T03:45:00.000Z",
       "created_at": "2026-11-08 14:40:14",
       "ai_at": "2026-11-08 14:40:20",
-      "dup_count": 5,
+      "dup_count": 7,
       "dups": [
+        {
+          "title": "Bird flu outbreak confirmed at Lancashire poultry farm near Garstang with 3km protection zone in force",
+          "url": "https://www.blackpoolgazette.co.uk/news/bird-flu-outbreak-confirmed-at-lancashire-poultry-farm-near-garstang-with-3km-protection-zone-in-force-9337337?itm_source=Internal&itm_campaign=breaking-news-ticker&itm_channel=homepage_banner&itm_content=8",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-08T03:38:00.000Z"
+        },
+        {
+          "title": "Bird flu outbreak confirmed at Lancashire poultry farm near Garstang with 3km protection zone in force",
+          "url": "https://www.blackpoolgazette.co.uk/news/bird-flu-outbreak-confirmed-at-lancashire-poultry-farm-near-garstang-with-3km-protection-zone-in-force-9337337?itm_source=Internal&itm_campaign=breaking-news-ticker&itm_channel=homepage_banner&itm_content=4",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-08T03:38:00.000Z"
+        },
         {
           "title": "Two new bird flu outbreaks hit poultry farms in Yorkshire and Lancashire",
           "url": "https://www.farminguk.com/news/two-new-bird-flu-outbreaks-hit-poultry-farms-in-yorkshire-and-lancashire_69440.html",
@@ -43,22 +55,6 @@
           "published_at": "2026-11-04T22:18:00.000Z"
         }
       ]
-    },
-    {
-      "fingerprint": "7c4bcb3b0a00a513173b8336ce54d64ddd8b4f46",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "Потверждены два случая Highly pathogenic avian influenza H5N1 в птицеферме в Ланкашире.",
-      "source_id": "bing-world-ai",
-      "title": "Bird flu outbreak confirmed at Lancashire poultry farm near Garstang with 3km protection zone in force",
-      "url": "https://www.blackpoolgazette.co.uk/news/bird-flu-outbreak-confirmed-at-lancashire-poultry-farm-near-garstang-with-3km-protection-zone-in-force-9337337?itm_source=Internal&itm_campaign=breaking-news-ticker&itm_channel=homepage_banner&itm_content=4",
-      "published_at": "2026-11-08T03:38:00.000Z",
-      "created_at": "2026-11-08 14:40:14",
-      "ai_at": "2026-11-08 14:40:23",
-      "dup_count": 1
     },
     {
       "fingerprint": "0e6716775612ed696935297530d42a5098e3b0c4",
@@ -1130,22 +1126,6 @@
       "published_at": "2026-10-27T12:23:00.000Z",
       "created_at": "2026-10-28 06:40:14",
       "ai_at": "2026-10-28 06:40:45",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "6cf420bedfa49c7cd0558ae9df5151939dbe1217",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Кризис среди лебедей на озере Манзанита в США из-за птичьего гриппа",
-      "source_id": "bing-world-ai",
-      "title": "Concern grows for UNR's beloved Manzanita Lake geese amid bird flu outbreak",
-      "url": "https://www.2news.com/news/local/concern-grows-for-unrs-beloved-manzanita-lake-geese-amid-bird-flu-outbreak/article_af025793-1dcf-406d-b0fb-9a3638009c10.html",
-      "published_at": "2026-10-27T11:41:00.000Z",
-      "created_at": "2026-10-28 06:40:14",
-      "ai_at": "2026-10-28 06:40:48",
       "dup_count": 1
     }
   ]
