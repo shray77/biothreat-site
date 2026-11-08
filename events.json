@@ -1,23 +1,29 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-08T08:40:24.944Z",
+  "generated_at": "2026-11-08T14:40:23.769Z",
   "items": [
     {
-      "fingerprint": "80b14bcee46c42aeb886286b94fa53e9da2067aa",
+      "fingerprint": "cd646dbf1f13bcb1e903cc4c24cfc13a97107fe1",
       "disease": "грипп птиц",
       "country": "Великобритания",
       "distance_km": 2500,
       "level": "фон",
       "verdict": "confirmed",
-      "ai_summary": "Подтверждены вспышки гриппа птиц на птицефабриках в Йоркшире и Ланкашире",
+      "ai_summary": "Подтвержден случай птичий грипп на птицефабрике в Ланкашире",
       "source_id": "bing-world-ai",
-      "title": "Two new bird flu outbreaks hit poultry farms in Yorkshire and Lancashire",
-      "url": "https://www.farminguk.com/news/two-new-bird-flu-outbreaks-hit-poultry-farms-in-yorkshire-and-lancashire_69440.html",
-      "published_at": "2026-11-07T15:59:00.000Z",
-      "created_at": "2026-11-08 08:40:14",
-      "ai_at": "2026-11-08 08:40:18",
-      "dup_count": 4,
+      "title": "Bird flu outbreak confirmed at Lancashire poultry farm near Garstang",
+      "url": "https://www.lep.co.uk/news/bird-flu-outbreak-confirmed-at-lancashire-poultry-farm-near-garstang-9337370",
+      "published_at": "2026-11-08T03:45:00.000Z",
+      "created_at": "2026-11-08 14:40:14",
+      "ai_at": "2026-11-08 14:40:20",
+      "dup_count": 5,
       "dups": [
+        {
+          "title": "Two new bird flu outbreaks hit poultry farms in Yorkshire and Lancashire",
+          "url": "https://www.farminguk.com/news/two-new-bird-flu-outbreaks-hit-poultry-farms-in-yorkshire-and-lancashire_69440.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-07T15:59:00.000Z"
+        },
         {
           "title": "Bird flu outbreak near Biggar prompts new control zones",
           "url": "https://www.peeblesshirenews.com/news/26706035.bird-flu-outbreak-near-biggar-prompts-new-control-zones/",
@@ -39,6 +45,22 @@
       ]
     },
     {
+      "fingerprint": "7c4bcb3b0a00a513173b8336ce54d64ddd8b4f46",
+      "disease": "грипп птиц",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "Потверждены два случая Highly pathogenic avian influenza H5N1 в птицеферме в Ланкашире.",
+      "source_id": "bing-world-ai",
+      "title": "Bird flu outbreak confirmed at Lancashire poultry farm near Garstang with 3km protection zone in force",
+      "url": "https://www.blackpoolgazette.co.uk/news/bird-flu-outbreak-confirmed-at-lancashire-poultry-farm-near-garstang-with-3km-protection-zone-in-force-9337337?itm_source=Internal&itm_campaign=breaking-news-ticker&itm_channel=homepage_banner&itm_content=4",
+      "published_at": "2026-11-08T03:38:00.000Z",
+      "created_at": "2026-11-08 14:40:14",
+      "ai_at": "2026-11-08 14:40:23",
+      "dup_count": 1
+    },
+    {
       "fingerprint": "0e6716775612ed696935297530d42a5098e3b0c4",
       "disease": "грипп птиц",
       "country": "США",
@@ -52,7 +74,7 @@
       "published_at": "2026-11-07T15:59:00.000Z",
       "created_at": "2026-11-08 08:40:14",
       "ai_at": "2026-11-08 08:40:24",
-      "dup_count": 21,
+      "dup_count": 20,
       "dups": [
         {
           "title": "SCDNR advises Public of Avian Influenza Activity in Wild Birds",
@@ -1124,22 +1146,6 @@
       "published_at": "2026-10-27T11:41:00.000Z",
       "created_at": "2026-10-28 06:40:14",
       "ai_at": "2026-10-28 06:40:48",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "bfca3bb4433928ae20df906e44490fae968c579d",
-      "disease": "африканская чума свиней",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Университет Шеффилда возглавляет международную программу по улучшению прогнозирования и предотвращения африканской свиной чумы.",
-      "source_id": "bing-world-asf",
-      "title": "University of Sheffield leads research to tackle global threat of African swine fever",
-      "url": "https://www.pig-world.co.uk/news/university-of-sheffield-leads-research-to-tackle-global-threat-of-african-swine-fever.html",
-      "published_at": "2026-10-27T08:43:00.000Z",
-      "created_at": "2026-10-28 06:40:14",
-      "ai_at": "2026-10-28 06:40:54",
       "dup_count": 1
     }
   ]
