@@ -1,59 +1,29 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-07T20:40:18.645Z",
+  "generated_at": "2026-11-08T02:40:20.727Z",
   "items": [
     {
-      "fingerprint": "b254bd63530b4d511c30e3b7dae6a82d6b844d36",
-      "disease": "грипп птиц",
-      "country": "Дания",
-      "distance_km": 1200,
-      "level": "наблюдение",
-      "verdict": "probable",
-      "ai_summary": "В Дании повышен уровень угрозы заражения птичьим гриппом",
-      "source_id": "bing-world-ai",
-      "title": "Poultrymed | Avian Influenza in Denmark",
-      "url": "https://www.europesays.com/3359324/",
-      "published_at": "2026-11-07T09:42:00.000Z",
-      "created_at": "2026-11-07 20:40:14",
-      "ai_at": "2026-11-07 20:40:18",
-      "dup_count": 4,
-      "dups": [
-        {
-          "title": "Avian Influenza in Denmark",
-          "url": "https://www.poultrymed.com/ID-Eng-DenHPAI071126",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-06T16:00:00.000Z"
-        },
-        {
-          "title": "Hong Kong suspends poultry imports from Danish municipality after bird flu outbreak",
-          "url": "https://scandasia.com/hong-kong-suspends-poultry-imports-from-danish-municipality-after-bird-flu-outbreak-2/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-28T01:36:00.000Z"
-        },
-        {
-          "title": "Hong Kong Suspends Poultry Imports from Denmark and Minnesota Due to Avian Influenza Outbreaks",
-          "url": "https://www.bastillepost.com/global/article/6295074-hong-kong-suspends-poultry-imports-from-denmark-and-minnesota-due-to-avian-influenza-outbreaks",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-27T12:23:00.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "f8fe937cd8c332f0d2dab11e3db4ce3fae9aa2ed",
+      "fingerprint": "863c520c05f447244eddd618ae125f3ad0e18fd7",
       "disease": "грипп птиц",
       "country": "США",
       "distance_km": 5000,
       "level": "фон",
       "verdict": "probable",
-      "ai_summary": "В США выявлены случаи высокопатогенного гриппа птиц у диких птиц.",
+      "ai_summary": "В штате Южная Каролина зафиксирована вспышка гриппа птиц у диких птиц.",
       "source_id": "bing-world-ai",
-      "title": "SCDNR Advises Public of Avian Influenza Activity in Wild Birds",
-      "url": "https://www.fortmillsun.com/2026/11/06/scdnr-advises-public-of-avian-influenza-activity-in-wild-birds/",
-      "published_at": "2026-11-06T13:58:00.000Z",
-      "created_at": "2026-11-07 02:40:14",
-      "ai_at": "2026-11-07 02:40:19",
+      "title": "SCDNR advises Public of Avian Influenza Activity in Wild Birds",
+      "url": "https://wnegradio.com/scdnr-advises-public-of-avian-influenza-activity-in-wild-birds/",
+      "published_at": "2026-11-07T12:20:00.000Z",
+      "created_at": "2026-11-08 02:40:14",
+      "ai_at": "2026-11-08 02:40:18",
       "dup_count": 20,
       "dups": [
+        {
+          "title": "SCDNR Advises Public of Avian Influenza Activity in Wild Birds",
+          "url": "https://www.fortmillsun.com/2026/11/06/scdnr-advises-public-of-avian-influenza-activity-in-wild-birds/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-06T13:58:00.000Z"
+        },
         {
           "title": "South Carolinians urged to take precautions against avian influenza. Here's what to know",
           "url": "https://www.southcarolinapublicradio.org/sc-news/2026-11-06/south-carolinians-urged-to-take-precautions-against-avian-influenza-heres-what-to-know",
@@ -107,12 +77,78 @@
           "url": "https://www.contagionlive.com/view/washington-reports-first-us-avian-influenza-death-of-2026-in-yakima-county",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-02T13:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "bbdd7a6820e2485d4b4dda18872f785204392d67",
+      "disease": "африканская чума свиней",
+      "country": "Филиппины",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Прогресс по борьбе со свининой",
+      "source_id": "bing-world-asf",
+      "title": "Ilocos Norte, Ilocos Sur among areas that have recovered from ASF",
+      "url": "https://newsinfo.inquirer.net/2337834/ilocos-norte-ilocos-sur-among-areas-that-have-recovered-from-asf",
+      "published_at": "2026-11-07T10:30:00.000Z",
+      "created_at": "2026-11-08 02:40:14",
+      "ai_at": "2026-11-08 02:40:20",
+      "dup_count": 4,
+      "dups": [
+        {
+          "title": "Ilocos Norte tagged ASF-recovered",
+          "url": "https://thechronicle.com.ph/ilocos-norte-tagged-asf-recovered/",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-11-04T05:12:00.000Z"
         },
         {
-          "title": "Bird flu detected at Colorado dairy for first time since 2024 outbreak",
-          "url": "https://www.yahoo.com/news/science/articles/bird-flu-detected-colorado-dairy-235355330.html",
+          "title": "Philippines Plans to Authorize Second ASF Vaccine by November",
+          "url": "https://english.pravda.ru/news/world/171197-philippines-second-asf-vaccine-authorization/",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-30T21:54:00.000Z"
+        },
+        {
+          "title": "Philippines plans second ASF vaccine rollout before end-November",
+          "url": "https://tradersunion.com/news/companies/show/4013761-philippines-asf-vaccine-rollout/",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-29T06:28:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "b254bd63530b4d511c30e3b7dae6a82d6b844d36",
+      "disease": "грипп птиц",
+      "country": "Дания",
+      "distance_km": 1200,
+      "level": "наблюдение",
+      "verdict": "probable",
+      "ai_summary": "В Дании повышен уровень угрозы заражения птичьим гриппом",
+      "source_id": "bing-world-ai",
+      "title": "Poultrymed | Avian Influenza in Denmark",
+      "url": "https://www.europesays.com/3359324/",
+      "published_at": "2026-11-07T09:42:00.000Z",
+      "created_at": "2026-11-07 20:40:14",
+      "ai_at": "2026-11-07 20:40:18",
+      "dup_count": 4,
+      "dups": [
+        {
+          "title": "Avian Influenza in Denmark",
+          "url": "https://www.poultrymed.com/ID-Eng-DenHPAI071126",
           "source_id": "bing-world-ai",
-          "published_at": "2026-10-30T16:52:00.000Z"
+          "published_at": "2026-11-06T16:00:00.000Z"
+        },
+        {
+          "title": "Hong Kong suspends poultry imports from Danish municipality after bird flu outbreak",
+          "url": "https://scandasia.com/hong-kong-suspends-poultry-imports-from-danish-municipality-after-bird-flu-outbreak-2/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-28T01:36:00.000Z"
+        },
+        {
+          "title": "Hong Kong Suspends Poultry Imports from Denmark and Minnesota Due to Avian Influenza Outbreaks",
+          "url": "https://www.bastillepost.com/global/article/6295074-hong-kong-suspends-poultry-imports-from-denmark-and-minnesota-due-to-avian-influenza-outbreaks",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-10-27T12:23:00.000Z"
         }
       ]
     },
@@ -479,36 +515,6 @@
       ]
     },
     {
-      "fingerprint": "12d5709c4ba4cd4c07d8c271576409d7c32969a2",
-      "disease": "африканская чума свиней",
-      "country": "Филиппины",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Илокос-Норте признали свободным от африканской чумы свиней",
-      "source_id": "bing-world-asf",
-      "title": "Ilocos Norte tagged ASF-recovered",
-      "url": "https://thechronicle.com.ph/ilocos-norte-tagged-asf-recovered/",
-      "published_at": "2026-11-04T05:12:00.000Z",
-      "created_at": "2026-11-05 06:40:14",
-      "ai_at": "2026-11-05 06:40:21",
-      "dup_count": 3,
-      "dups": [
-        {
-          "title": "Philippines Plans to Authorize Second ASF Vaccine by November",
-          "url": "https://english.pravda.ru/news/world/171197-philippines-second-asf-vaccine-authorization/",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-30T21:54:00.000Z"
-        },
-        {
-          "title": "Philippines plans second ASF vaccine rollout before end-November",
-          "url": "https://tradersunion.com/news/companies/show/4013761-philippines-asf-vaccine-rollout/",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-29T06:28:00.000Z"
-        }
-      ]
-    },
-    {
       "fingerprint": "3961e14f9d425047debf3dec497eef052f264b26",
       "disease": "африканская чума свиней",
       "country": null,
@@ -792,15 +798,7 @@
       "published_at": "2026-10-30T06:09:33.000Z",
       "created_at": "2026-10-31 08:40:14",
       "ai_at": "2026-10-31 08:40:28",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "The legal, trade and compliance implications of Namibia’s FMD outbreak",
-          "url": "https://observer24.com.na/the-legal-trade-and-compliance-implications-of-namibias-fmd-outbreak/",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-10-26T22:32:00.000Z"
-        }
-      ]
+      "dup_count": 1
     },
     {
       "fingerprint": "ad0e015dd4732b1ba0a15dbc141fe0471434a90c",
