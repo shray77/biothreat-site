@@ -6,11 +6,18 @@
     <description>Радар трансграничных болезней животных: ящур, АЧС, грипп птиц, нодулярный дерматит — с оценкой угрозы для РФ. Информационный сервис «как есть»: не официальная система оповещения, не ветеринарная консультация, ИИ и уровни могут ошибаться. Условия: https://shray77.github.io/biothreat-site/terms.html</description>
     <language>ru</language>
     <item>
-      <title>[фон] грипп птиц — Великобритания: Two new bird flu outbreaks hit poultry farms in Yorkshire and Lancashire</title>
-      <link>https://www.farminguk.com/news/two-new-bird-flu-outbreaks-hit-poultry-farms-in-yorkshire-and-lancashire_69440.html</link>
-      <guid isPermaLink="false">80b14bcee46c42aeb886286b94fa53e9da2067aa</guid>
-      <pubDate>Sat, 07 Nov 2026 15:59:00 GMT</pubDate>
-      <description>Подтверждены вспышки гриппа птиц на птицефабриках в Йоркшире и Ланкашире · verdict: confirmed · Two new bird flu outbreaks hit poultry farms in Yorkshire and Lancashire</description>
+      <title>[фон] грипп птиц — Великобритания: Bird flu outbreak confirmed at Lancashire poultry farm near Garstang</title>
+      <link>https://www.lep.co.uk/news/bird-flu-outbreak-confirmed-at-lancashire-poultry-farm-near-garstang-9337370</link>
+      <guid isPermaLink="false">cd646dbf1f13bcb1e903cc4c24cfc13a97107fe1</guid>
+      <pubDate>Sun, 08 Nov 2026 03:45:00 GMT</pubDate>
+      <description>Подтвержден случай птичий грипп на птицефабрике в Ланкашире · verdict: confirmed · Bird flu outbreak confirmed at Lancashire poultry farm near Garstang</description>
+    </item>
+    <item>
+      <title>[не определено] грипп птиц: Bird flu outbreak confirmed at Lancashire poultry farm near Garstang with 3km protection zone in force</title>
+      <link>https://www.blackpoolgazette.co.uk/news/bird-flu-outbreak-confirmed-at-lancashire-poultry-farm-near-garstang-with-3km-protection-zone-in-force-9337337?itm_source=Internal&amp;itm_campaign=breaking-news-ticker&amp;itm_channel=homepage_banner&amp;itm_content=4</link>
+      <guid isPermaLink="false">7c4bcb3b0a00a513173b8336ce54d64ddd8b4f46</guid>
+      <pubDate>Sun, 08 Nov 2026 03:38:00 GMT</pubDate>
+      <description>Потверждены два случая Highly pathogenic avian influenza H5N1 в птицеферме в Ланкашире. · verdict: confirmed · Bird flu outbreak confirmed at Lancashire poultry farm near Garstang with 3km protection zone in force</description>
     </item>
     <item>
       <title>[фон] грипп птиц — США: California bird flu outbreak hits 1.3 million laying hens ahead of holiday baking rush</title>
@@ -403,13 +410,6 @@
       <guid isPermaLink="false">6cf420bedfa49c7cd0558ae9df5151939dbe1217</guid>
       <pubDate>Tue, 27 Oct 2026 11:41:00 GMT</pubDate>
       <description>Кризис среди лебедей на озере Манзанита в США из-за птичьего гриппа · verdict: probable · Concern grows for UNR's beloved Manzanita Lake geese amid bird flu outbreak</description>
-    </item>
-    <item>
-      <title>[не определено] африканская чума свиней: University of Sheffield leads research to tackle global threat of African swine fever</title>
-      <link>https://www.pig-world.co.uk/news/university-of-sheffield-leads-research-to-tackle-global-threat-of-african-swine-fever.html</link>
-      <guid isPermaLink="false">bfca3bb4433928ae20df906e44490fae968c579d</guid>
-      <pubDate>Tue, 27 Oct 2026 08:43:00 GMT</pubDate>
-      <description>Университет Шеффилда возглавляет международную программу по улучшению прогнозирования и предотвращения африканской свиной чумы. · verdict: probable · University of Sheffield leads research to tackle global threat of African swine fever</description>
     </item>
   </channel>
 </rss>
