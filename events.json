@@ -1,7 +1,39 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-09T14:40:28.778Z",
+  "generated_at": "2026-11-09T16:40:37.168Z",
   "items": [
+    {
+      "fingerprint": "fb70e91d5256a1212026cb964dc945d4508cb277",
+      "disease": "грипп птиц",
+      "country": "Англия",
+      "distance_km": 2500,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "Подтверждены два случая птичьего гриппа в Англии",
+      "source_id": "bing-world-ai",
+      "title": "Two new bird flu outbreaks confirmed in England",
+      "url": "https://www.farmersguide.co.uk/livestock/poultry/two-new-bird-flu-outbreaks-confirmed-in-england/",
+      "published_at": "2026-11-09T07:37:00.000Z",
+      "created_at": "2026-11-09 16:40:14",
+      "ai_at": "2026-11-09 16:40:18",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "f69d1b14824424e82f003c3d8eca97e41c96730b",
+      "disease": null,
+      "country": "Молдова",
+      "distance_km": 450,
+      "level": "повышенная",
+      "verdict": "confirmed",
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "The epizootic situation in Moldova: rabies, avian influenza and plague",
+      "url": "https://logos-pres.md/en/news/the-epizootic-situation-in-moldova-rabies-avian-influenza-and-plague/",
+      "published_at": "2026-11-09T04:53:00.000Z",
+      "created_at": "2026-11-09 16:40:14",
+      "ai_at": "2026-11-09 16:40:20",
+      "dup_count": 1
+    },
     {
       "fingerprint": "310b928a21c37bca9c4cd20164d9f36db07923f9",
       "disease": "африканская чума свиней",
@@ -19,6 +51,94 @@
       "dup_count": 1
     },
     {
+      "fingerprint": "146767114d28f7ae6c628b917ad36154f2682d6f",
+      "disease": "лампасная болезнь",
+      "country": "Индия",
+      "distance_km": 3000,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "В деревнях Мадхогарх обнаружены симптомы лампасной болезни у коров.",
+      "source_id": "bing-world-lsd",
+      "title": "उपली और नवल की ढाणी में लंपी की आशंका:पशुपालकों ने सर्वे, इलाज और ...",
+      "url": "https://www.bhaskar.com/local/rajasthan/alwar/madhogarh/news/madhogarh-lumpy-skin-disease-cows-survey-vaccination-demand-139636674.html",
+      "published_at": "2026-11-09T01:34:00.000Z",
+      "created_at": "2026-11-09 16:40:14",
+      "ai_at": "2026-11-09 16:40:23",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "15e62c2e750451d4b390661293934db376269a53",
+      "disease": "грипп птиц",
+      "country": "Южная Корея",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "Зафиксирована вспышка гриппа птиц на ферме в Южной Корее",
+      "source_id": "bing-world-ai",
+      "title": "South Korea reports H5N9 bird flu outbreak on Gyeonggi farm",
+      "url": "https://www.thepoultrysite.com/news/2026/11/south-korea-reports-h5n9-bird-flu-outbreak-on-gyeonggi-farm",
+      "published_at": "2026-11-09T00:16:00.000Z",
+      "created_at": "2026-11-09 16:40:14",
+      "ai_at": "2026-11-09 16:40:26",
+      "dup_count": 6,
+      "dups": [
+        {
+          "title": "Over 300,000 birds culled after bird flu outbreaks detected in South Korea, Mexico",
+          "url": "https://www.msn.com/en-ca/news/other/over-300000-birds-culled-after-bird-flu-outbreaks-detected-in-south-korea-mexico/ar-AA2gT0kD",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-06T06:30:03.000Z"
+        },
+        {
+          "title": "Over 300,000 birds culled after bird flu outbreaks detected in South Korea, Mexico",
+          "url": "https://www.msn.com/en-ca/news/other/over-300-000-birds-culled-after-bird-flu-outbreaks-detected-in-south-korea-mexico/ar-AA2gT0kD",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-06T06:30:03.000Z"
+        },
+        {
+          "title": "“H5 avian influenza antigen detected at duck farm in Jangheung” ... Gwangju Special City launches emergency containment measures",
+          "url": "https://en.fnnews.com/news/202611061247269145",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-05T14:56:00.000Z"
+        },
+        {
+          "title": "Yeoncheon-gun activates emergency response center after H5 avian influenza confirmed at egg farm",
+          "url": "https://biz.heraldcorp.com/article/10926345",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-04T10:09:00.000Z"
+        },
+        {
+          "title": "New avian influenza case detected in Gyeonggi Province",
+          "url": "https://www.ajupress.com/view/20261104142925224",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-04T06:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "6421d2573d5191242fed4b34f707809a56bda0fb",
+      "disease": "грипп птиц",
+      "country": "Мексика",
+      "distance_km": 9000,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "Отмечен первый случай высокопатогенного гриппа птиц на птицефабрике в юкатанском полуострове",
+      "source_id": "bing-world-ai",
+      "title": "Mexico reports first bird flu outbreak in poultry in two years",
+      "url": "https://www.thepoultrysite.com/news/2026/11/mexico-reports-first-bird-flu-outbreak-in-poultry-in-two-years",
+      "published_at": "2026-11-09T00:11:00.000Z",
+      "created_at": "2026-11-09 16:40:14",
+      "ai_at": "2026-11-09 16:40:30",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Mexico reports bird flu outbreak in Yucatan Peninsula",
+          "url": "https://www.yahoo.com/news/world/articles/mexico-reports-bird-flu-outbreak-114426424.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-06T03:44:00.000Z"
+        }
+      ]
+    },
+    {
       "fingerprint": "4e6c284329fa75395f9f07074d30ad65b089cccc",
       "disease": "африканская чума свиней",
       "country": "Эстония",
@@ -32,6 +152,38 @@
       "published_at": "2026-11-08T23:56:00.000Z",
       "created_at": "2026-11-09 14:40:14",
       "ai_at": "2026-11-09 14:40:26",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "8ab55e43ed0b3a9df44532361f0fba108a836a8f",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Hong Kong Suspends Poultry Imports from Korea and US Amid Avian Influenza Outbreaks",
+      "url": "https://www.bastillepost.com/global/article/6340181-hong-kong-suspends-poultry-imports-from-korea-and-us-amid-avian-influenza-outbreaks",
+      "published_at": "2026-11-08T21:00:00.000Z",
+      "created_at": "2026-11-09 16:40:14",
+      "ai_at": "2026-11-09 16:40:32",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "cb7537c842ba612f4070db320f8c1c2e58105096",
+      "disease": "грипп птиц",
+      "country": "Австралия",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Питомники должны остерегаться, поскольку может усилиться эпидемия птичьего гриппа",
+      "source_id": "bing-world-ai",
+      "title": "‘Here to stay forever’: Australians urged to prioritise backyard biosecurity amid bird flu outbreak",
+      "url": "https://www.news.com.au/news/here-to-stay-forever-australians-urged-to-prioritise-backyard-biosecurity-amid-bird-flu-outbreak/news-story/ab3b965cf6e12c4b0229db9ccf2bf59f",
+      "published_at": "2026-11-08T21:00:00.000Z",
+      "created_at": "2026-11-09 16:40:14",
+      "ai_at": "2026-11-09 16:40:36",
       "dup_count": 1
     },
     {
@@ -124,7 +276,7 @@
       "published_at": "2026-11-07T20:20:49.000Z",
       "created_at": "2026-11-09 00:40:14",
       "ai_at": "2026-11-09 00:40:20",
-      "dup_count": 20,
+      "dup_count": 19,
       "dups": [
         {
           "title": "California bird flu outbreak hits 1.3 million laying hens ahead of holiday baking rush",
@@ -238,19 +390,13 @@
       "published_at": "2026-11-07T09:42:00.000Z",
       "created_at": "2026-11-07 20:40:14",
       "ai_at": "2026-11-07 20:40:18",
-      "dup_count": 3,
+      "dup_count": 2,
       "dups": [
         {
           "title": "Avian Influenza in Denmark",
           "url": "https://www.poultrymed.com/ID-Eng-DenHPAI071126",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-06T16:00:00.000Z"
-        },
-        {
-          "title": "Hong Kong suspends poultry imports from Danish municipality after bird flu outbreak",
-          "url": "https://scandasia.com/hong-kong-suspends-poultry-imports-from-danish-municipality-after-bird-flu-outbreak-2/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-28T01:36:00.000Z"
         }
       ]
     },
@@ -303,48 +449,6 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "b850a0f264cf88fbdd0647067add43a7124add4d",
-      "disease": "грипп птиц",
-      "country": "Южная Корея",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "В Южной Корее выявили случаи птичьего гриппа, уничтожено более 300 000 птиц",
-      "source_id": "bing-world-ai",
-      "title": "Over 300,000 birds culled after bird flu outbreaks detected in South Korea, Mexico",
-      "url": "https://www.msn.com/en-ca/news/other/over-300000-birds-culled-after-bird-flu-outbreaks-detected-in-south-korea-mexico/ar-AA2gT0kD",
-      "published_at": "2026-11-06T06:30:03.000Z",
-      "created_at": "2026-11-07 02:40:14",
-      "ai_at": "2026-11-07 02:40:23",
-      "dup_count": 5,
-      "dups": [
-        {
-          "title": "Over 300,000 birds culled after bird flu outbreaks detected in South Korea, Mexico",
-          "url": "https://www.msn.com/en-ca/news/other/over-300-000-birds-culled-after-bird-flu-outbreaks-detected-in-south-korea-mexico/ar-AA2gT0kD",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-06T06:30:03.000Z"
-        },
-        {
-          "title": "“H5 avian influenza antigen detected at duck farm in Jangheung” ... Gwangju Special City launches emergency containment measures",
-          "url": "https://en.fnnews.com/news/202611061247269145",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-05T14:56:00.000Z"
-        },
-        {
-          "title": "Yeoncheon-gun activates emergency response center after H5 avian influenza confirmed at egg farm",
-          "url": "https://biz.heraldcorp.com/article/10926345",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-04T10:09:00.000Z"
-        },
-        {
-          "title": "New avian influenza case detected in Gyeonggi Province",
-          "url": "https://www.ajupress.com/view/20261104142925224",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-04T06:00:00.000Z"
-        }
-      ]
-    },
-    {
       "fingerprint": "285482c718e1f99d5759d1c35defd6a3ddd2b40b",
       "disease": "грипп птиц",
       "country": "Индия",
@@ -367,22 +471,6 @@
           "published_at": "2026-11-06T00:11:00.000Z"
         }
       ]
-    },
-    {
-      "fingerprint": "99baa3788528324cf70c8de96d4603fc08ba88c9",
-      "disease": "грипп птиц",
-      "country": "Мексика",
-      "distance_km": 9000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В Мексике зарегистрировано вспышка высокопатогенного гриппа птиц на ферме в полуострове Юкатан.",
-      "source_id": "bing-world-ai",
-      "title": "Mexico reports bird flu outbreak in Yucatan Peninsula",
-      "url": "https://www.yahoo.com/news/world/articles/mexico-reports-bird-flu-outbreak-114426424.html",
-      "published_at": "2026-11-06T03:44:00.000Z",
-      "created_at": "2026-11-06 18:40:14",
-      "ai_at": "2026-11-06 18:40:34",
-      "dup_count": 1
     },
     {
       "fingerprint": "a5e8fc5aa8e214d47e1be03ef302554d760a2f1d",
@@ -626,19 +714,13 @@
       "published_at": "2026-11-03T07:58:00.000Z",
       "created_at": "2026-11-04 14:40:15",
       "ai_at": "2026-11-04 14:40:52",
-      "dup_count": 3,
+      "dup_count": 2,
       "dups": [
         {
           "title": "SAPA backs continued poultry imports from Brazil after NCD outbreak",
           "url": "https://www.farmersweekly.co.za/agri-news/south-africa/sapa-backs-continued-poultry-imports-from-brazil-after-ncd-outbreak/",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-02T05:01:00.000Z"
-        },
-        {
-          "title": "SA keeps poultry imports from Brazil open despite another chicken disease outbreak",
-          "url": "https://www.citizen.co.za/business/sa-keeps-poultry-imports-from-brazil-open-despite-another-chicken-disease-outbreak/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-10-28T09:06:00.000Z"
         }
       ]
     },
@@ -1072,70 +1154,6 @@
       "published_at": "2026-10-28T10:14:00.000Z",
       "created_at": "2026-10-30 02:40:14",
       "ai_at": "2026-10-30 02:40:35",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "4e0b598bc4684fed74de33adef3d4c9880a317cb",
-      "disease": "классическая чума свиней",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "Случаи классической чумы свиней вновь задержали открытие ферм.",
-      "source_id": "bing-world-fmd",
-      "title": "Foot-and-Mouth Disease Delays Reopening of Livestock Farms",
-      "url": "https://en.politis.com.cy/news/cy-news/1059456/foot-and-mouth-disease-delays-reopening-of-livestock-farms",
-      "published_at": "2026-10-28T06:59:00.000Z",
-      "created_at": "2026-10-28 18:40:14",
-      "ai_at": "2026-10-28 18:40:18",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "9d37d80c9d4be7b13d6ebf2b0cb2d0bbfd936047",
-      "disease": "африканская чума свиней",
-      "country": "Южная Корея",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "Подтвержден случай африканской чумы свиней на свиновом ферме в округе Ганхва в Инчхоне.",
-      "source_id": "bing-world-fmd",
-      "title": "Another FMD case detected just before quarantine restrictions are lifted... Additional outbreak at a cattle farm in Ganghwa, Incheon",
-      "url": "https://en.fnnews.com/news/202610290022512318",
-      "published_at": "2026-10-28T03:27:00.000Z",
-      "created_at": "2026-10-28 18:40:14",
-      "ai_at": "2026-10-28 18:40:22",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "d8df3b17612e8c8560252254bb344b084dbf2109",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Заболевание птиц может угрожать вымерающим воронам",
-      "source_id": "bing-world-ai",
-      "title": "H5N1 Avian Influenza Emerges as a Global Threat to Already Declining Vulture Populations",
-      "url": "https://bioengineer.org/h5n1-avian-influenza-emerges-as-a-global-threat-to-already-declining-vulture-populations/",
-      "published_at": "2026-10-27T17:00:00.000Z",
-      "created_at": "2026-10-28 06:40:14",
-      "ai_at": "2026-10-28 06:40:20",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "6747f7078e75d0a1a7246e10e29c7b025810a4c7",
-      "disease": "африканская чума свиней",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Южные регионы усиливают меры по контролю за распространением африканской свиной болезни",
-      "source_id": "bing-world-asf",
-      "title": "Southern localities step up fight against African swine fever",
-      "url": "https://en.sggp.org.vn/southern-localities-step-up-fight-against-african-swine-fever-post130584.html",
-      "published_at": "2026-10-27T17:00:00.000Z",
-      "created_at": "2026-10-28 06:40:14",
-      "ai_at": "2026-10-28 06:40:26",
       "dup_count": 1
     }
   ]
