@@ -6,6 +6,13 @@
     <description>Радар трансграничных болезней животных: ящур, АЧС, грипп птиц, нодулярный дерматит — с оценкой угрозы для РФ. Информационный сервис «как есть»: не официальная система оповещения, не ветеринарная консультация, ИИ и уровни могут ошибаться. Условия: https://shray77.github.io/biothreat-site/terms.html</description>
     <language>ru</language>
     <item>
+      <title>[фон] грипп птиц — Великобритания: Bird flu outbreak at Garstang farm means chickens culled and protection zone in place</title>
+      <link>https://www.blogpreston.co.uk/2026/11/bird-flu-outbreak-at-garstang-farm-means-chickens-culled-and-protection-zone-in-place/</link>
+      <guid isPermaLink="false">397c288fea138f451408b86605b21a31cdf7cdd1</guid>
+      <pubDate>Mon, 09 Nov 2026 08:34:00 GMT</pubDate>
+      <description>Вспышка гриппа птиц на ферме в Гарстанге. Поражены курицы, создана защитная зона. · verdict: confirmed · Bird flu outbreak at Garstang farm means chickens culled and protection zone in place</description>
+    </item>
+    <item>
       <title>[фон] грипп птиц — Англия: Two new bird flu outbreaks confirmed in England</title>
       <link>https://www.farmersguide.co.uk/livestock/poultry/two-new-bird-flu-outbreaks-confirmed-in-england/</link>
       <guid isPermaLink="false">fb70e91d5256a1212026cb964dc945d4508cb277</guid>
@@ -74,13 +81,6 @@
       <guid isPermaLink="false">b3b8cfae982041de616f4f8d03824e87fa6c3b18</guid>
       <pubDate>Sun, 08 Nov 2026 20:36:00 GMT</pubDate>
       <description>verdict: probable · DA eyes approval of Korean, US ASF vaccines by 2027</description>
-    </item>
-    <item>
-      <title>[фон] грипп птиц — Великобритания: Bird flu outbreak confirmed at Lancashire poultry farm near Garstang</title>
-      <link>https://www.lep.co.uk/news/bird-flu-outbreak-confirmed-at-lancashire-poultry-farm-near-garstang-9337370</link>
-      <guid isPermaLink="false">cd646dbf1f13bcb1e903cc4c24cfc13a97107fe1</guid>
-      <pubDate>Sun, 08 Nov 2026 03:45:00 GMT</pubDate>
-      <description>Подтвержден случай птичий грипп на птицефабрике в Ланкашире · verdict: confirmed · Bird flu outbreak confirmed at Lancashire poultry farm near Garstang</description>
     </item>
     <item>
       <title>[фон] грипп птиц — Калифорния: California bird flu outbreak hits 1.3 million laying hens ahead of holiday baking rush</title>
@@ -403,13 +403,6 @@
       <guid isPermaLink="false">1bb528c3c23c0a1e44f6abbef7a745dbac33ab48</guid>
       <pubDate>Wed, 28 Oct 2026 17:00:00 GMT</pubDate>
       <description>В Италию сняли запрет на импорт итальянского ветчины · verdict: probable · Japan moving toward lifting prosciutto ban</description>
-    </item>
-    <item>
-      <title>[не определено] грипп птиц — Камбоджа: Cambodia, India, Taiwan confirm new avian flu outbreaks in poultry</title>
-      <link>https://www.wattagnet.com/poultry-meat/diseases-health/avian-influenza/news/16050265/cambodia-india-taiwan-confirm-new-avian-flu-outbreaks-in-poultry</link>
-      <guid isPermaLink="false">04a2ca75876c223350e67c7c1669d3e64e302e71</guid>
-      <pubDate>Wed, 28 Oct 2026 10:14:00 GMT</pubDate>
-      <description>В Камбодже, Индии и Тайване зарегистрированы вспышки гриппа птиц в птицеводстве. · verdict: confirmed · Cambodia, India, Taiwan confirm new avian flu outbreaks in poultry</description>
     </item>
   </channel>
 </rss>
