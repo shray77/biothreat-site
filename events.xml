@@ -6,11 +6,25 @@
     <description>Радар трансграничных болезней животных: ящур, АЧС, грипп птиц, нодулярный дерматит — с оценкой угрозы для РФ. Информационный сервис «как есть»: не официальная система оповещения, не ветеринарная консультация, ИИ и уровни могут ошибаться. Условия: https://shray77.github.io/biothreat-site/terms.html</description>
     <language>ru</language>
     <item>
-      <title>[не определено] ящур — Кипр: First Farm Begins Restocking After Foot-and-Mouth Outbreak</title>
-      <link>https://en.politis.com.cy/news/cy-news/1066342/first-farm-begins-restocking-after-foot-and-mouth-outbreak</link>
-      <guid isPermaLink="false">625c0a0428b0a8279bda99168b9ebf859b2a5b7a</guid>
-      <pubDate>Tue, 10 Nov 2026 05:24:00 GMT</pubDate>
-      <description>На ферме в Пахне в понедельник начнутся работы по восстановлению поголовья после вспышки ящура. · verdict: confirmed · First Farm Begins Restocking After Foot-and-Mouth Outbreak</description>
+      <title>[не определено] ящур — Кипр: Government gives farms green light to start restocking after foot-and-mouth outbreak</title>
+      <link>https://knews.kathimerini.com.cy/en/news/government-gives-farms-green-light-to-start-restocking-after-foot-and-mouth-outbreak</link>
+      <guid isPermaLink="false">e97c654150fa86e7f874d11ec8cd37b7eea9fce7</guid>
+      <pubDate>Tue, 10 Nov 2026 09:11:00 GMT</pubDate>
+      <description>Правительство разрешило фермам начать наполнение после вспышки ящура · verdict: confirmed · Government gives farms green light to start restocking after foot-and-mouth outbreak</description>
+    </item>
+    <item>
+      <title>[фон] грипп птиц — Шотландия: Scotland declares bird flu prevention zone after fresh outbreak</title>
+      <link>https://nz.news.yahoo.com/scotland-declares-bird-flu-prevention-170142359.html</link>
+      <guid isPermaLink="false">b7bc17019ea9217f3006ee57f0d274a0e97cd7ef</guid>
+      <pubDate>Tue, 10 Nov 2026 09:01:00 GMT</pubDate>
+      <description>В Шотландии объявлен запрет на передвижение птиц после выявления вспышки гриппа птиц. · verdict: probable · Scotland declares bird flu prevention zone after fresh outbreak</description>
+    </item>
+    <item>
+      <title>[не определено] африканская чума свиней — Кипр: First animals return to a Limassol farm since foot-and-mouth outbreak led to mass culling</title>
+      <link>https://www.kiprinform.com/en/news/first-animals-return-to-a-limassol-farm-since-foot-and-mouth-outbreak-led-to-mass-culling/</link>
+      <guid isPermaLink="false">88f6070fc0cf9edd1a0a25dcecccbae0274de13b</guid>
+      <pubDate>Tue, 10 Nov 2026 06:44:00 GMT</pubDate>
+      <description>В Кипре после вспышки африканской чумы свиней вернулись на ферму первые животные · verdict: confirmed · First animals return to a Limassol farm since foot-and-mouth outbreak led to mass culling</description>
     </item>
     <item>
       <title>[фон] грипп птиц — Индия: After Maharashtra bird flu outbreak, why are poultry farmers seeking H5N1 vaccination?</title>
@@ -368,27 +382,6 @@
       <guid isPermaLink="false">1bdd33a0c3ac942a1530b0f9b6dd3a88e59de62d</guid>
       <pubDate>Thu, 29 Oct 2026 05:36:00 GMT</pubDate>
       <description>Гренада усилила готовность к предотвращению, выявлению и реагированию на африканскую чуму свиней · verdict: probable · Grenada strengthens African swine fever preparedness through regional surveillance and sample collection training</description>
-    </item>
-    <item>
-      <title>[не определено] грипп птиц: AI Model Forecasts Avian Influenza Outbreak Risk Across Canada</title>
-      <link>https://bioengineer.org/ai-model-forecasts-avian-influenza-outbreak-risk-across-canada/</link>
-      <guid isPermaLink="false">d77be0e841c41718e5f9476e950fb2fe03bc6aa2</guid>
-      <pubDate>Thu, 29 Oct 2026 04:43:00 GMT</pubDate>
-      <description>Аналитик оценивает риск вспышки гриппа птиц в Канаде · verdict: probable · AI Model Forecasts Avian Influenza Outbreak Risk Across Canada</description>
-    </item>
-    <item>
-      <title>[не определено] Atria reports 4% sales rise as pork export ban weighs on earnings</title>
-      <link>https://www.foodbusinessmea.com/atria-reports-4-sales-rise-as-pork-export-ban-weighs-on-earnings/</link>
-      <guid isPermaLink="false">21f77b8a88a241951085f11238c26bb05b574b85</guid>
-      <pubDate>Thu, 29 Oct 2026 02:28:00 GMT</pubDate>
-      <description>verdict: probable · Atria reports 4% sales rise as pork export ban weighs on earnings</description>
-    </item>
-    <item>
-      <title>[не определено] нодулярный дерматит: EMA urges EU authorisation for vaccine against lumpy skin disease</title>
-      <link>https://www.foodagribusiness.world/dairy/ema-urges-eu-authorisation-for-vaccine-against-lumpy-skin-disease</link>
-      <guid isPermaLink="false">2c0ee687550454f29648509ad80e725f1a44f5b6</guid>
-      <pubDate>Thu, 29 Oct 2026 00:42:00 GMT</pubDate>
-      <description>Европейское агентство по лекарственным средствам рекомендует разрешение на использование вакцины против нодулярного дерматита у скота. · verdict: probable · EMA urges EU authorisation for vaccine against lumpy skin disease</description>
     </item>
   </channel>
 </rss>
