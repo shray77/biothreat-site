@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-10T08:40:28.799Z",
+  "generated_at": "2026-11-10T14:40:43.204Z",
   "items": [
+    {
+      "fingerprint": "625c0a0428b0a8279bda99168b9ebf859b2a5b7a",
+      "disease": "ящур",
+      "country": "Кипр",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "На ферме в Пахне в понедельник начнутся работы по восстановлению поголовья после вспышки ящура.",
+      "source_id": "bing-world-fmd",
+      "title": "First Farm Begins Restocking After Foot-and-Mouth Outbreak",
+      "url": "https://en.politis.com.cy/news/cy-news/1066342/first-farm-begins-restocking-after-foot-and-mouth-outbreak",
+      "published_at": "2026-11-10T05:24:00.000Z",
+      "created_at": "2026-11-10 14:40:15",
+      "ai_at": "2026-11-10 14:40:19",
+      "dup_count": 1
+    },
     {
       "fingerprint": "53be6f59e5ee75c94d3457682bdb8c897e690088",
       "disease": "грипп птиц",
@@ -29,6 +45,36 @@
           "url": "https://www.bizzbuzz.news/industry/agriculture/india-holds-national-exercise-to-bolster-preparedness-against-foot-and-mouth-disease-sat-1-1414271",
           "source_id": "bing-world-fmd",
           "published_at": "2026-11-06T00:11:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "0b3c5649a5aa70cf0f1890b5aaa9bf46ec305ef5",
+      "disease": "африканская чума свиней",
+      "country": "Вьетнам",
+      "distance_km": 1600,
+      "level": "наблюдение",
+      "verdict": "confirmed",
+      "ai_summary": "Вьетнам запустил кампанию по борьбе с африканской чумой свиней после того, как в 57 деревнях подтвердились случаи этой болезни",
+      "source_id": "bing-world-asf",
+      "title": "Vietnam's Thanh Hoa launches peak ASF campaign as outbreaks persist in 57 villages",
+      "url": "https://www.efeedlink.com/articles/vietnams-thanh-hoa-launches-peak-asf-campaign-as-outbreaks-persist-in-57-villages",
+      "published_at": "2026-11-09T16:00:00.000Z",
+      "created_at": "2026-11-10 14:40:15",
+      "ai_at": "2026-11-10 14:40:32",
+      "dup_count": 3,
+      "dups": [
+        {
+          "title": "African swine fever outbreaks put Vietnam's Mekong Delta pig herds at risk",
+          "url": "https://news.tuoitre.vn/african-swine-fever-outbreaks-put-vietnams-mekong-delta-pig-herds-at-risk-103261105145838069.htm",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-11-04T17:18:00.000Z"
+        },
+        {
+          "title": "African swine fever diễn biến phức tạp, Can Tho tightens management of trading activities",
+          "url": "https://news.laodong.vn/y-te/dich-ta-heo-chau-phi-dien-bien-phuc-tap-can-tho-siet-quan-ly-hoat-dong-mua-ban-1791567.ldo",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-10-29T13:55:00.000Z"
         }
       ]
     },
@@ -663,30 +709,6 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "d73ac5e80575dffa2ee148e7177cf2a00ca38037",
-      "disease": "африканская чума свиней",
-      "country": "Вьетнам",
-      "distance_km": 1600,
-      "level": "наблюдение",
-      "verdict": "confirmed",
-      "ai_summary": "В Вьетнаме в провинции Кьенг Гия и Хошимине уничтожено 3700 свиней в связи с африканской свиной чумой",
-      "source_id": "bing-world-asf",
-      "title": "African swine fever outbreaks put Vietnam's Mekong Delta pig herds at risk",
-      "url": "https://news.tuoitre.vn/african-swine-fever-outbreaks-put-vietnams-mekong-delta-pig-herds-at-risk-103261105145838069.htm",
-      "published_at": "2026-11-04T17:18:00.000Z",
-      "created_at": "2026-11-05 12:40:15",
-      "ai_at": "2026-11-05 12:40:37",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "African swine fever diễn biến phức tạp, Can Tho tightens management of trading activities",
-          "url": "https://news.laodong.vn/y-te/dich-ta-heo-chau-phi-dien-bien-phuc-tap-can-tho-siet-quan-ly-hoat-dong-mua-ban-1791567.ldo",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-29T13:55:00.000Z"
-        }
-      ]
-    },
-    {
       "fingerprint": "3961e14f9d425047debf3dec497eef052f264b26",
       "disease": "африканская чума свиней",
       "country": null,
@@ -1108,38 +1130,6 @@
       "published_at": "2026-10-29T00:42:00.000Z",
       "created_at": "2026-10-29 22:40:15",
       "ai_at": "2026-10-29 22:40:27",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "49cdec61012b621aaa1e9fc97326c3ed165e36ed",
-      "disease": "африканская чума свиней",
-      "country": "Алжир",
-      "distance_km": 3400,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В Алжире запрещены ввоз и экспорт живой крупной рогатой живности после вспышки африканской чумы свиней",
-      "source_id": "bing-world-fmd",
-      "title": "Algeria Halts Live Cattle Imports as Foot-and-Mouth Disease Resurfaces",
-      "url": "https://www.ecofinagency.com/news-agriculture/2910-60234-algeria-halts-live-cattle-imports-as-foot-and-mouth-disease-resurfaces",
-      "published_at": "2026-10-28T23:31:00.000Z",
-      "created_at": "2026-10-30 02:40:14",
-      "ai_at": "2026-10-30 02:40:31",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "82a69c9e98668ab1fda894bacae5a53a3bde9a4c",
-      "disease": "нодулярный дерматит",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Европейское агентство по лекарственным средствам рекомендует разрешить использование препарата Bovilis Lumpyvax для защиты скота от нодулярного дерматита.",
-      "source_id": "bing-world-lsd",
-      "title": "EMA recommends EU authorisation for Bovilis Lumpyvax against lumpy skin disease",
-      "url": "https://dairynews.today/news/ema_recommends_eu_authorisation_for_bovilis_lumpyvax_against_lumpy_skin_disease_3646946.html",
-      "published_at": "2026-10-28T17:00:00.000Z",
-      "created_at": "2026-10-29 22:40:15",
-      "ai_at": "2026-10-29 22:40:32",
       "dup_count": 1
     }
   ]
