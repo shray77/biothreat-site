@@ -1,7 +1,109 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-10T20:40:30.634Z",
+  "generated_at": "2026-11-11T00:40:27.812Z",
   "items": [
+    {
+      "fingerprint": "64a965214cbb198d46958cd92cb752c479e5c56a",
+      "disease": "нодулярный дерматит",
+      "country": "Индия",
+      "distance_km": 3000,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "Изучалось эффективность различных сред для выявления вируса нодулярного дерматита в окружающей среде в штате Гуджарат",
+      "source_id": "bing-world-lsd",
+      "title": "Drinking Water Leads Routine Environmental Surveillance for Lumpy Skin Disease Virus",
+      "url": "https://bioengineer.org/drinking-water-leads-routine-environmental-surveillance-for-lumpy-skin-disease-virus/",
+      "published_at": "2026-11-10T15:01:00.000Z",
+      "created_at": "2026-11-11 00:40:15",
+      "ai_at": "2026-11-11 00:40:20",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Lumpy skin disease returns to Faridkot after four years",
+          "url": "https://www.daijiworld.com/news/newsDisplay?newsID=1334066",
+          "source_id": "bing-world-lsd",
+          "published_at": "2026-10-31T16:13:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "8f37ec2b0683a5f629f9425de832191ecb12e018",
+      "disease": "грипп птиц",
+      "country": "Великобритания",
+      "distance_km": 2500,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "Заблокирован импорт домашней птицы из Великобритании из-за вспышки гриппа птиц",
+      "source_id": "bing-world-ai",
+      "title": "Hong Kong Suspends Poultry Imports from UK Due to H5N1 Avian Influenza Outbreak",
+      "url": "https://www.bastillepost.com/global/article/6344516-hong-kong-suspends-poultry-imports-from-uk-due-to-h5n1-avian-influenza-outbreak",
+      "published_at": "2026-11-10T11:27:00.000Z",
+      "created_at": "2026-11-11 00:40:15",
+      "ai_at": "2026-11-11 00:40:23",
+      "dup_count": 11,
+      "dups": [
+        {
+          "title": "Another poultry farm hit by bird flu as Norfolk outbreak confirmed",
+          "url": "https://www.farminguk.com/news/another-poultry-farm-hit-by-bird-flu-as-norfolk-outbreak-confirmed_69451.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-09T16:00:00.000Z"
+        },
+        {
+          "title": "Bird flu outbreak at Garstang farm means chickens culled and protection zone in place",
+          "url": "https://www.blogpreston.co.uk/2026/11/bird-flu-outbreak-at-garstang-farm-means-chickens-culled-and-protection-zone-in-place/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-09T08:34:00.000Z"
+        },
+        {
+          "title": "Bird flu outbreak confirmed at Lancashire poultry farm near Garstang",
+          "url": "https://www.lep.co.uk/news/bird-flu-outbreak-confirmed-at-lancashire-poultry-farm-near-garstang-9337370",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-08T03:45:00.000Z"
+        },
+        {
+          "title": "Bird flu outbreak confirmed at Lancashire poultry farm near Garstang with 3km protection zone in force",
+          "url": "https://www.blackpoolgazette.co.uk/news/bird-flu-outbreak-confirmed-at-lancashire-poultry-farm-near-garstang-with-3km-protection-zone-in-force-9337337",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-08T03:38:00.000Z"
+        },
+        {
+          "title": "Bird flu outbreak confirmed at Lancashire poultry farm near Garstang with 3km protection zone in force",
+          "url": "https://www.blackpoolgazette.co.uk/news/bird-flu-outbreak-confirmed-at-lancashire-poultry-farm-near-garstang-with-3km-protection-zone-in-force-9337337?itm_source=Internal&itm_campaign=breaking-news-ticker&itm_channel=homepage_banner&itm_content=8",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-08T03:38:00.000Z"
+        },
+        {
+          "title": "Bird flu outbreak confirmed at Lancashire poultry farm near Garstang with 3km protection zone in force",
+          "url": "https://www.blackpoolgazette.co.uk/news/bird-flu-outbreak-confirmed-at-lancashire-poultry-farm-near-garstang-with-3km-protection-zone-in-force-9337337?itm_source=Internal&itm_campaign=breaking-news-ticker&itm_channel=homepage_banner&itm_content=4",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-08T03:38:00.000Z"
+        },
+        {
+          "title": "Two new bird flu outbreaks hit poultry farms in Yorkshire and Lancashire",
+          "url": "https://www.farminguk.com/news/two-new-bird-flu-outbreaks-hit-poultry-farms-in-yorkshire-and-lancashire_69440.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-07T15:59:00.000Z"
+        },
+        {
+          "title": "Bird flu outbreak near Biggar prompts new control zones",
+          "url": "https://www.peeblesshirenews.com/news/26706035.bird-flu-outbreak-near-biggar-prompts-new-control-zones/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-06T08:55:00.000Z"
+        },
+        {
+          "title": "Bird flu outbreak confirmed at poultry farm",
+          "url": "https://www.yahoo.com/news/world/articles/bird-flu-outbreak-confirmed-poultry-110531612.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-05T03:05:00.000Z"
+        },
+        {
+          "title": "Bird flu outbreak strikes Lincolnshire duck farm, triggering poultry cull",
+          "url": "https://www.farminguk.com/news/bird-flu-outbreak-strikes-lincolnshire-duck-farm-triggering-poultry-cull_69424.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-04T22:18:00.000Z"
+        }
+      ]
+    },
     {
       "fingerprint": "e97c654150fa86e7f874d11ec8cd37b7eea9fce7",
       "disease": "ящур",
@@ -40,7 +142,15 @@
       "published_at": "2026-11-10T09:01:00.000Z",
       "created_at": "2026-11-10 20:40:15",
       "ai_at": "2026-11-10 20:40:26",
-      "dup_count": 1
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Scotland declares bird flu prevention zone after fresh outbreak",
+          "url": "https://uk.news.yahoo.com/scotland-declares-bird-flu-prevention-170142359.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-10T01:01:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "88f6070fc0cf9edd1a0a25dcecccbae0274de13b",
@@ -115,78 +225,6 @@
           "url": "https://news.laodong.vn/y-te/dich-ta-heo-chau-phi-dien-bien-phuc-tap-can-tho-siet-quan-ly-hoat-dong-mua-ban-1791567.ldo",
           "source_id": "bing-world-asf",
           "published_at": "2026-10-29T13:55:00.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "a1a8d8d2ba60c99ad27c74ae36bda54260343645",
-      "disease": "грипп птиц",
-      "country": "Великобритания",
-      "distance_km": 2500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Зафиксирована вспышка гриппа птиц на коммерческой птицефабрике в Норфолке.",
-      "source_id": "bing-world-ai",
-      "title": "Another poultry farm hit by bird flu as Norfolk outbreak confirmed",
-      "url": "https://www.farminguk.com/news/another-poultry-farm-hit-by-bird-flu-as-norfolk-outbreak-confirmed_69451.html",
-      "published_at": "2026-11-09T16:00:00.000Z",
-      "created_at": "2026-11-10 08:40:14",
-      "ai_at": "2026-11-10 08:40:22",
-      "dup_count": 10,
-      "dups": [
-        {
-          "title": "Bird flu outbreak at Garstang farm means chickens culled and protection zone in place",
-          "url": "https://www.blogpreston.co.uk/2026/11/bird-flu-outbreak-at-garstang-farm-means-chickens-culled-and-protection-zone-in-place/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-09T08:34:00.000Z"
-        },
-        {
-          "title": "Bird flu outbreak confirmed at Lancashire poultry farm near Garstang",
-          "url": "https://www.lep.co.uk/news/bird-flu-outbreak-confirmed-at-lancashire-poultry-farm-near-garstang-9337370",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-08T03:45:00.000Z"
-        },
-        {
-          "title": "Bird flu outbreak confirmed at Lancashire poultry farm near Garstang with 3km protection zone in force",
-          "url": "https://www.blackpoolgazette.co.uk/news/bird-flu-outbreak-confirmed-at-lancashire-poultry-farm-near-garstang-with-3km-protection-zone-in-force-9337337",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-08T03:38:00.000Z"
-        },
-        {
-          "title": "Bird flu outbreak confirmed at Lancashire poultry farm near Garstang with 3km protection zone in force",
-          "url": "https://www.blackpoolgazette.co.uk/news/bird-flu-outbreak-confirmed-at-lancashire-poultry-farm-near-garstang-with-3km-protection-zone-in-force-9337337?itm_source=Internal&itm_campaign=breaking-news-ticker&itm_channel=homepage_banner&itm_content=8",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-08T03:38:00.000Z"
-        },
-        {
-          "title": "Bird flu outbreak confirmed at Lancashire poultry farm near Garstang with 3km protection zone in force",
-          "url": "https://www.blackpoolgazette.co.uk/news/bird-flu-outbreak-confirmed-at-lancashire-poultry-farm-near-garstang-with-3km-protection-zone-in-force-9337337?itm_source=Internal&itm_campaign=breaking-news-ticker&itm_channel=homepage_banner&itm_content=4",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-08T03:38:00.000Z"
-        },
-        {
-          "title": "Two new bird flu outbreaks hit poultry farms in Yorkshire and Lancashire",
-          "url": "https://www.farminguk.com/news/two-new-bird-flu-outbreaks-hit-poultry-farms-in-yorkshire-and-lancashire_69440.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-07T15:59:00.000Z"
-        },
-        {
-          "title": "Bird flu outbreak near Biggar prompts new control zones",
-          "url": "https://www.peeblesshirenews.com/news/26706035.bird-flu-outbreak-near-biggar-prompts-new-control-zones/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-06T08:55:00.000Z"
-        },
-        {
-          "title": "Bird flu outbreak confirmed at poultry farm",
-          "url": "https://www.yahoo.com/news/world/articles/bird-flu-outbreak-confirmed-poultry-110531612.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-05T03:05:00.000Z"
-        },
-        {
-          "title": "Bird flu outbreak strikes Lincolnshire duck farm, triggering poultry cull",
-          "url": "https://www.farminguk.com/news/bird-flu-outbreak-strikes-lincolnshire-duck-farm-triggering-poultry-cull_69424.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-04T22:18:00.000Z"
         }
       ]
     },
@@ -488,7 +526,7 @@
       "published_at": "2026-11-07T10:30:00.000Z",
       "created_at": "2026-11-08 02:40:14",
       "ai_at": "2026-11-08 02:40:20",
-      "dup_count": 4,
+      "dup_count": 3,
       "dups": [
         {
           "title": "Ilocos Norte tagged ASF-recovered",
@@ -501,12 +539,6 @@
           "url": "https://english.pravda.ru/news/world/171197-philippines-second-asf-vaccine-authorization/",
           "source_id": "bing-world-asf",
           "published_at": "2026-10-30T21:54:00.000Z"
-        },
-        {
-          "title": "Philippines plans second ASF vaccine rollout before end-November",
-          "url": "https://tradersunion.com/news/companies/show/4013761-philippines-asf-vaccine-rollout/",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-29T06:28:00.000Z"
         }
       ]
     },
@@ -981,22 +1013,6 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "f873534aecb5e44c21fcd249e1b418d2583c4438",
-      "disease": "нодулярный дерматит",
-      "country": "Индия",
-      "distance_km": 3000,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "В индийском штате Пенджаб снова обнаружен нодулярный дерматит",
-      "source_id": "bing-world-lsd",
-      "title": "Lumpy skin disease returns to Faridkot after four years",
-      "url": "https://www.daijiworld.com/news/newsDisplay?newsID=1334066",
-      "published_at": "2026-10-31T16:13:00.000Z",
-      "created_at": "2026-11-01 12:40:14",
-      "ai_at": "2026-11-01 12:40:18",
-      "dup_count": 1
-    },
-    {
       "fingerprint": "a7ae8374cc09ae98a1e9cceb0b33cfc6811d9f78",
       "disease": "африканская чума свиней",
       "country": null,
@@ -1090,38 +1106,6 @@
       "published_at": "2026-10-29T08:44:00.000Z",
       "created_at": "2026-10-30 02:40:14",
       "ai_at": "2026-10-30 02:40:20",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "19498ad9ba91b526251bfddf67eb4e2578314d6c",
-      "disease": "африканская чума свиней",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Министерство сельского хозяйства рассматривает одобрение трех вакцин против африканской чумы свиней в 2027 году.",
-      "source_id": "bing-world-asf",
-      "title": "Govt eyes 3 more vaccines vs. African swine fever in 2027",
-      "url": "https://businessmirror.com.ph/2026/10/29/govt-eyes-3-more-vaccines-vs-african-swine-fever-in-2027/",
-      "published_at": "2026-10-29T07:52:00.000Z",
-      "created_at": "2026-10-29 16:40:14",
-      "ai_at": "2026-10-29 16:40:20",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "1bdd33a0c3ac942a1530b0f9b6dd3a88e59de62d",
-      "disease": "африканская чума свиней",
-      "country": "Гренада",
-      "distance_km": 9600,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "Гренада усилила готовность к предотвращению, выявлению и реагированию на африканскую чуму свиней",
-      "source_id": "bing-world-asf",
-      "title": "Grenada strengthens African swine fever preparedness through regional surveillance and sample collection training",
-      "url": "https://dominicanewsonline.com/news/homepage/homepage-carousel/grenada-strengthens-african-swine-fever-preparedness-through-regional-surveillance-and-sample-collection-training/",
-      "published_at": "2026-10-29T05:36:00.000Z",
-      "created_at": "2026-10-29 22:40:15",
-      "ai_at": "2026-10-29 22:40:24",
       "dup_count": 1
     }
   ]
