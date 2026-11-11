@@ -6,6 +6,20 @@
     <description>Радар трансграничных болезней животных: ящур, АЧС, грипп птиц, нодулярный дерматит — с оценкой угрозы для РФ. Информационный сервис «как есть»: не официальная система оповещения, не ветеринарная консультация, ИИ и уровни могут ошибаться. Условия: https://shray77.github.io/biothreat-site/terms.html</description>
     <language>ru</language>
     <item>
+      <title>[фон] нодулярный дерматит — Индия: Drinking Water Leads Routine Environmental Surveillance for Lumpy Skin Disease Virus</title>
+      <link>https://bioengineer.org/drinking-water-leads-routine-environmental-surveillance-for-lumpy-skin-disease-virus/</link>
+      <guid isPermaLink="false">64a965214cbb198d46958cd92cb752c479e5c56a</guid>
+      <pubDate>Tue, 10 Nov 2026 15:01:00 GMT</pubDate>
+      <description>Изучалось эффективность различных сред для выявления вируса нодулярного дерматита в окружающей среде в штате Гуджарат · verdict: probable · Drinking Water Leads Routine Environmental Surveillance for Lumpy Skin Disease Virus</description>
+    </item>
+    <item>
+      <title>[фон] грипп птиц — Великобритания: Hong Kong Suspends Poultry Imports from UK Due to H5N1 Avian Influenza Outbreak</title>
+      <link>https://www.bastillepost.com/global/article/6344516-hong-kong-suspends-poultry-imports-from-uk-due-to-h5n1-avian-influenza-outbreak</link>
+      <guid isPermaLink="false">8f37ec2b0683a5f629f9425de832191ecb12e018</guid>
+      <pubDate>Tue, 10 Nov 2026 11:27:00 GMT</pubDate>
+      <description>Заблокирован импорт домашней птицы из Великобритании из-за вспышки гриппа птиц · verdict: probable · Hong Kong Suspends Poultry Imports from UK Due to H5N1 Avian Influenza Outbreak</description>
+    </item>
+    <item>
       <title>[не определено] ящур — Кипр: Government gives farms green light to start restocking after foot-and-mouth outbreak</title>
       <link>https://knews.kathimerini.com.cy/en/news/government-gives-farms-green-light-to-start-restocking-after-foot-and-mouth-outbreak</link>
       <guid isPermaLink="false">e97c654150fa86e7f874d11ec8cd37b7eea9fce7</guid>
@@ -39,13 +53,6 @@
       <guid isPermaLink="false">0b3c5649a5aa70cf0f1890b5aaa9bf46ec305ef5</guid>
       <pubDate>Mon, 09 Nov 2026 16:00:00 GMT</pubDate>
       <description>Вьетнам запустил кампанию по борьбе с африканской чумой свиней после того, как в 57 деревнях подтвердились случаи этой болезни · verdict: confirmed · Vietnam's Thanh Hoa launches peak ASF campaign as outbreaks persist in 57 villages</description>
-    </item>
-    <item>
-      <title>[фон] грипп птиц — Великобритания: Another poultry farm hit by bird flu as Norfolk outbreak confirmed</title>
-      <link>https://www.farminguk.com/news/another-poultry-farm-hit-by-bird-flu-as-norfolk-outbreak-confirmed_69451.html</link>
-      <guid isPermaLink="false">a1a8d8d2ba60c99ad27c74ae36bda54260343645</guid>
-      <pubDate>Mon, 09 Nov 2026 16:00:00 GMT</pubDate>
-      <description>Зафиксирована вспышка гриппа птиц на коммерческой птицефабрике в Норфолке. · verdict: confirmed · Another poultry farm hit by bird flu as Norfolk outbreak confirmed</description>
     </item>
     <item>
       <title>[не определено] грипп птиц — Южная Корея: Hong Kong Suspends Poultry Imports from Areas in Korea and US Amid Avian Influenza Outbreaks</title>
@@ -321,13 +328,6 @@
       <description>verdict: probable · H5N1 avian influenza: 2nd human case reported in Yakima County, Washington</description>
     </item>
     <item>
-      <title>[фон] нодулярный дерматит — Индия: Lumpy skin disease returns to Faridkot after four years</title>
-      <link>https://www.daijiworld.com/news/newsDisplay?newsID=1334066</link>
-      <guid isPermaLink="false">f873534aecb5e44c21fcd249e1b418d2583c4438</guid>
-      <pubDate>Sat, 31 Oct 2026 16:13:00 GMT</pubDate>
-      <description>В индийском штате Пенджаб снова обнаружен нодулярный дерматит · verdict: probable · Lumpy skin disease returns to Faridkot after four years</description>
-    </item>
-    <item>
       <title>[не определено] африканская чума свиней: African Swine Fever Awareness Campaign Focuses on Early Detection and Prevention in Manglutan</title>
       <link>https://thewaveandaman.com/african-swine-fever-awareness-programme-manglutan-school/</link>
       <guid isPermaLink="false">a7ae8374cc09ae98a1e9cceb0b33cfc6811d9f78</guid>
@@ -368,20 +368,6 @@
       <guid isPermaLink="false">acc05697e871c6ac6c0344ab9470d520d63e7497</guid>
       <pubDate>Thu, 29 Oct 2026 08:44:00 GMT</pubDate>
       <description>В Нидерландах введены обязательные indoor-conditions для птицеводства после серии вспышек гриппа птиц · verdict: confirmed · Netherlands introduces nationwide poultry housing measures after avian flu outbreaks</description>
-    </item>
-    <item>
-      <title>[не определено] африканская чума свиней: Govt eyes 3 more vaccines vs. African swine fever in 2027</title>
-      <link>https://businessmirror.com.ph/2026/10/29/govt-eyes-3-more-vaccines-vs-african-swine-fever-in-2027/</link>
-      <guid isPermaLink="false">19498ad9ba91b526251bfddf67eb4e2578314d6c</guid>
-      <pubDate>Thu, 29 Oct 2026 07:52:00 GMT</pubDate>
-      <description>Министерство сельского хозяйства рассматривает одобрение трех вакцин против африканской чумы свиней в 2027 году. · verdict: probable · Govt eyes 3 more vaccines vs. African swine fever in 2027</description>
-    </item>
-    <item>
-      <title>[фон] африканская чума свиней — Гренада: Grenada strengthens African swine fever preparedness through regional surveillance and sample collection training</title>
-      <link>https://dominicanewsonline.com/news/homepage/homepage-carousel/grenada-strengthens-african-swine-fever-preparedness-through-regional-surveillance-and-sample-collection-training/</link>
-      <guid isPermaLink="false">1bdd33a0c3ac942a1530b0f9b6dd3a88e59de62d</guid>
-      <pubDate>Thu, 29 Oct 2026 05:36:00 GMT</pubDate>
-      <description>Гренада усилила готовность к предотвращению, выявлению и реагированию на африканскую чуму свиней · verdict: probable · Grenada strengthens African swine fever preparedness through regional surveillance and sample collection training</description>
     </item>
   </channel>
 </rss>
