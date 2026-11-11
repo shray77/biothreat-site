@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-11T00:40:27.812Z",
+  "generated_at": "2026-11-11T08:40:24.212Z",
   "items": [
+    {
+      "fingerprint": "eed2038821a4e171dda162a64252ad96952ba8ea",
+      "disease": "африканская чума свиней",
+      "country": "Южно-Африканская Республика",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "В Южной Африке выявлены новые случаи африканской чумы свиней, что вызывает опасения для скотоводства и охоты на дикую зверь",
+      "source_id": "bing-world-fmd",
+      "title": "Foot-and-mouth disease spreads to SA’s wildlife",
+      "url": "https://www.moneyweb.co.za/news/south-africa/foot-and-mouth-disease-spreads-to-sas-wildlife/",
+      "published_at": "2026-11-10T18:50:00.000Z",
+      "created_at": "2026-11-11 08:40:15",
+      "ai_at": "2026-11-11 08:40:22",
+      "dup_count": 1
+    },
     {
       "fingerprint": "64a965214cbb198d46958cd92cb752c479e5c56a",
       "disease": "нодулярный дерматит",
@@ -1090,22 +1106,6 @@
       "published_at": "2026-10-29T15:30:00.000Z",
       "created_at": "2026-11-02 10:40:14",
       "ai_at": "2026-11-02 10:40:24",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "acc05697e871c6ac6c0344ab9470d520d63e7497",
-      "disease": "грипп птиц",
-      "country": "Нидерланды",
-      "distance_km": 1600,
-      "level": "наблюдение",
-      "verdict": "confirmed",
-      "ai_summary": "В Нидерландах введены обязательные indoor-conditions для птицеводства после серии вспышек гриппа птиц",
-      "source_id": "bing-world-ai",
-      "title": "Netherlands introduces nationwide poultry housing measures after avian flu outbreaks",
-      "url": "https://www.poultrynews.co.uk/health-welfare/netherlands-introduces-nationwide-poultry-housing-measures-after-avian-flu-outbreaks.html",
-      "published_at": "2026-10-29T08:44:00.000Z",
-      "created_at": "2026-10-30 02:40:14",
-      "ai_at": "2026-10-30 02:40:20",
       "dup_count": 1
     }
   ]
