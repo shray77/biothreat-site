@@ -6,6 +6,20 @@
     <description>Радар трансграничных болезней животных: ящур, АЧС, грипп птиц, нодулярный дерматит — с оценкой угрозы для РФ. Информационный сервис «как есть»: не официальная система оповещения, не ветеринарная консультация, ИИ и уровни могут ошибаться. Условия: https://shray77.github.io/biothreat-site/terms.html</description>
     <language>ru</language>
     <item>
+      <title>[фон] грипп птиц — Англия: Bird flu: Keepers ordered to keep poultry indoors following outbreak in Yorkshire</title>
+      <link>https://www.yorkshirepost.co.uk/news/bird-flu-keepers-ordered-to-keep-poultry-indoors-following-outbreak-in-yorkshire-9344714</link>
+      <guid isPermaLink="false">00446f05d53548f76e180ef99dea1f13b466c036</guid>
+      <pubDate>Wed, 11 Nov 2026 05:37:00 GMT</pubDate>
+      <description>В Англии случаи птичьего гриппа продолжают расти, поэтому птицеводов обязали держать птиц indoors. · verdict: confirmed · Bird flu: Keepers ordered to keep poultry indoors following outbreak in Yorkshire</description>
+    </item>
+    <item>
+      <title>[не определено] грипп птиц — Южная Корея: Hong Kong Suspends Poultry Imports Amid Avian Influenza Outbreaks in Korea and Netherlands</title>
+      <link>https://www.bastillepost.com/global/article/6348802-hong-kong-suspends-poultry-imports-amid-avian-influenza-outbreaks-in-korea-and-netherlands</link>
+      <guid isPermaLink="false">040bee8c6160a94846cd40f22dc2f6c56c0e44e7</guid>
+      <pubDate>Tue, 10 Nov 2026 19:34:00 GMT</pubDate>
+      <description>Власти Гонконга приостановили импорт птицы из Южной Кореи и Нидерландов в связи с вспышкой гриппа птиц · verdict: probable · Hong Kong Suspends Poultry Imports Amid Avian Influenza Outbreaks in Korea and Netherlands</description>
+    </item>
+    <item>
       <title>[не определено] африканская чума свиней — Южно-Африканская Республика: Foot-and-mouth disease spreads to SA’s wildlife</title>
       <link>https://www.moneyweb.co.za/news/south-africa/foot-and-mouth-disease-spreads-to-sas-wildlife/</link>
       <guid isPermaLink="false">eed2038821a4e171dda162a64252ad96952ba8ea</guid>
@@ -67,20 +81,6 @@
       <guid isPermaLink="false">0b3c5649a5aa70cf0f1890b5aaa9bf46ec305ef5</guid>
       <pubDate>Mon, 09 Nov 2026 16:00:00 GMT</pubDate>
       <description>Вьетнам запустил кампанию по борьбе с африканской чумой свиней после того, как в 57 деревнях подтвердились случаи этой болезни · verdict: confirmed · Vietnam's Thanh Hoa launches peak ASF campaign as outbreaks persist in 57 villages</description>
-    </item>
-    <item>
-      <title>[не определено] грипп птиц — Южная Корея: Hong Kong Suspends Poultry Imports from Areas in Korea and US Amid Avian Influenza Outbreaks</title>
-      <link>https://www.bastillepost.com/global/article/6340181-hong-kong-suspends-poultry-imports-from-areas-in-korea-and-us-amid-avian-influenza-outbreaks</link>
-      <guid isPermaLink="false">f073aff8f05d1fcba48061d95301fec86ed6d4b2</guid>
-      <pubDate>Mon, 09 Nov 2026 11:00:00 GMT</pubDate>
-      <description>В Hong Kong приостановили импорт птицы из зон в Южной Корее и США из-за вспышек заболевания гриппом птиц. · verdict: probable · Hong Kong Suspends Poultry Imports from Areas in Korea and US Amid Avian Influenza Outbreaks</description>
-    </item>
-    <item>
-      <title>[фон] грипп птиц — Англия: Two new bird flu outbreaks confirmed in England</title>
-      <link>https://www.farmersguide.co.uk/livestock/poultry/two-new-bird-flu-outbreaks-confirmed-in-england/</link>
-      <guid isPermaLink="false">fb70e91d5256a1212026cb964dc945d4508cb277</guid>
-      <pubDate>Mon, 09 Nov 2026 07:37:00 GMT</pubDate>
-      <description>Подтверждены два случая птичьего гриппа в Англии · verdict: confirmed · Two new bird flu outbreaks confirmed in England</description>
     </item>
     <item>
       <title>[повышенная] Молдова: The epizootic situation in Moldova: rabies, avian influenza and plague</title>
@@ -368,13 +368,6 @@
       <guid isPermaLink="false">ba9083aadcc1dbc0fbbbcbcad37a5d258752161d</guid>
       <pubDate>Thu, 29 Oct 2026 16:26:00 GMT</pubDate>
       <description>verdict: confirmed · Ho Chi Minh City Hand-Foot-and-Mouth Outbreak Tops 44,000; EV71 Vaccine Won’t Cover Most Cases</description>
-    </item>
-    <item>
-      <title>[фон] США: The H5N1 mink outbreak, explained: Why it matters and what you should do</title>
-      <link>https://www.msn.com/en-us/news/other/the-h5n1-mink-outbreak-explained-why-it-matters-and-what-you-should-do/ar-AA2goqXQ</link>
-      <guid isPermaLink="false">db4d390a41787e929039060c357164774aadaf71</guid>
-      <pubDate>Thu, 29 Oct 2026 15:30:00 GMT</pubDate>
-      <description>В США обнаружена вспышка птичьего гриппа H5N1 у норок, что вызвало тревогу по поводу передачи этого заболевания млекопитающим и подчеркнуло недостатки в обеспеч · verdict: probable · The H5N1 mink outbreak, explained: Why it matters and what you should do</description>
     </item>
   </channel>
 </rss>
