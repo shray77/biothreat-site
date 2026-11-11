@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-11T08:40:24.212Z",
+  "generated_at": "2026-11-11T12:40:17.538Z",
   "items": [
     {
       "fingerprint": "eed2038821a4e171dda162a64252ad96952ba8ea",
@@ -16,6 +16,22 @@
       "published_at": "2026-11-10T18:50:00.000Z",
       "created_at": "2026-11-11 08:40:15",
       "ai_at": "2026-11-11 08:40:22",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "0b4325dcd743b25e6b9614df7402d03810d5dc6b",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-asf",
+      "title": "EXPLAINER: How do bird flu, ASF threaten livestock?",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/1009108/explainer-how-do-bird-flu-asf-threaten-livestock/story/",
+      "published_at": "2026-11-10T16:15:00.000Z",
+      "created_at": "2026-11-11 12:40:14",
+      "ai_at": "2026-11-11 12:40:17",
       "dup_count": 1
     },
     {
@@ -228,19 +244,13 @@
       "published_at": "2026-11-09T16:00:00.000Z",
       "created_at": "2026-11-10 14:40:15",
       "ai_at": "2026-11-10 14:40:32",
-      "dup_count": 3,
+      "dup_count": 2,
       "dups": [
         {
           "title": "African swine fever outbreaks put Vietnam's Mekong Delta pig herds at risk",
           "url": "https://news.tuoitre.vn/african-swine-fever-outbreaks-put-vietnams-mekong-delta-pig-herds-at-risk-103261105145838069.htm",
           "source_id": "bing-world-asf",
           "published_at": "2026-11-04T17:18:00.000Z"
-        },
-        {
-          "title": "African swine fever diễn biến phức tạp, Can Tho tightens management of trading activities",
-          "url": "https://news.laodong.vn/y-te/dich-ta-heo-chau-phi-dien-bien-phuc-tap-can-tho-siet-quan-ly-hoat-dong-mua-ban-1791567.ldo",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-29T13:55:00.000Z"
         }
       ]
     },
