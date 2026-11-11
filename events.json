@@ -1,7 +1,97 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-11T12:40:17.538Z",
+  "generated_at": "2026-11-11T16:40:29.882Z",
   "items": [
+    {
+      "fingerprint": "00446f05d53548f76e180ef99dea1f13b466c036",
+      "disease": "грипп птиц",
+      "country": "Англия",
+      "distance_km": 2500,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "В Англии случаи птичьего гриппа продолжают расти, поэтому птицеводов обязали держать птиц indoors.",
+      "source_id": "bing-world-ai",
+      "title": "Bird flu: Keepers ordered to keep poultry indoors following outbreak in Yorkshire",
+      "url": "https://www.yorkshirepost.co.uk/news/bird-flu-keepers-ordered-to-keep-poultry-indoors-following-outbreak-in-yorkshire-9344714",
+      "published_at": "2026-11-11T05:37:00.000Z",
+      "created_at": "2026-11-11 16:40:15",
+      "ai_at": "2026-11-11 16:40:19",
+      "dup_count": 3,
+      "dups": [
+        {
+          "title": "Bird flu outbreak: Keepers ordered to keep poultry indoors following outbreak in Yorkshire",
+          "url": "https://www.yorkshirepost.co.uk/news/bird-flu-outbreak-keepers-ordered-to-keep-poultry-indoors-following-outbreak-in-yorkshire-9344714",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-11T05:22:00.000Z"
+        },
+        {
+          "title": "Two new bird flu outbreaks confirmed in England",
+          "url": "https://www.farmersguide.co.uk/livestock/poultry/two-new-bird-flu-outbreaks-confirmed-in-england/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-09T07:37:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "040bee8c6160a94846cd40f22dc2f6c56c0e44e7",
+      "disease": "грипп птиц",
+      "country": "Южная Корея",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Власти Гонконга приостановили импорт птицы из Южной Кореи и Нидерландов в связи с вспышкой гриппа птиц",
+      "source_id": "bing-world-ai",
+      "title": "Hong Kong Suspends Poultry Imports Amid Avian Influenza Outbreaks in Korea and Netherlands",
+      "url": "https://www.bastillepost.com/global/article/6348802-hong-kong-suspends-poultry-imports-amid-avian-influenza-outbreaks-in-korea-and-netherlands",
+      "published_at": "2026-11-10T19:34:00.000Z",
+      "created_at": "2026-11-11 16:40:15",
+      "ai_at": "2026-11-11 16:40:29",
+      "dup_count": 8,
+      "dups": [
+        {
+          "title": "Hong Kong Suspends Poultry Imports from Areas in Korea and US Amid Avian Influenza Outbreaks",
+          "url": "https://www.bastillepost.com/global/article/6340181-hong-kong-suspends-poultry-imports-from-areas-in-korea-and-us-amid-avian-influenza-outbreaks",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-09T11:00:00.000Z"
+        },
+        {
+          "title": "South Korea reports H5N9 bird flu outbreak on Gyeonggi farm",
+          "url": "https://www.thepoultrysite.com/news/2026/11/south-korea-reports-h5n9-bird-flu-outbreak-on-gyeonggi-farm",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-09T00:16:00.000Z"
+        },
+        {
+          "title": "Over 300,000 birds culled after bird flu outbreaks detected in South Korea, Mexico",
+          "url": "https://www.msn.com/en-ca/news/other/over-300000-birds-culled-after-bird-flu-outbreaks-detected-in-south-korea-mexico/ar-AA2gT0kD",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-06T06:30:03.000Z"
+        },
+        {
+          "title": "Over 300,000 birds culled after bird flu outbreaks detected in South Korea, Mexico",
+          "url": "https://www.msn.com/en-ca/news/other/over-300-000-birds-culled-after-bird-flu-outbreaks-detected-in-south-korea-mexico/ar-AA2gT0kD",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-06T06:30:03.000Z"
+        },
+        {
+          "title": "“H5 avian influenza antigen detected at duck farm in Jangheung” ... Gwangju Special City launches emergency containment measures",
+          "url": "https://en.fnnews.com/news/202611061247269145",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-05T14:56:00.000Z"
+        },
+        {
+          "title": "Yeoncheon-gun activates emergency response center after H5 avian influenza confirmed at egg farm",
+          "url": "https://biz.heraldcorp.com/article/10926345",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-04T10:09:00.000Z"
+        },
+        {
+          "title": "New avian influenza case detected in Gyeonggi Province",
+          "url": "https://www.ajupress.com/view/20261104142925224",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-04T06:00:00.000Z"
+        }
+      ]
+    },
     {
       "fingerprint": "eed2038821a4e171dda162a64252ad96952ba8ea",
       "disease": "африканская чума свиней",
@@ -255,76 +345,6 @@
       ]
     },
     {
-      "fingerprint": "f073aff8f05d1fcba48061d95301fec86ed6d4b2",
-      "disease": "грипп птиц",
-      "country": "Южная Корея",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "В Hong Kong приостановили импорт птицы из зон в Южной Корее и США из-за вспышек заболевания гриппом птиц.",
-      "source_id": "bing-world-ai",
-      "title": "Hong Kong Suspends Poultry Imports from Areas in Korea and US Amid Avian Influenza Outbreaks",
-      "url": "https://www.bastillepost.com/global/article/6340181-hong-kong-suspends-poultry-imports-from-areas-in-korea-and-us-amid-avian-influenza-outbreaks",
-      "published_at": "2026-11-09T11:00:00.000Z",
-      "created_at": "2026-11-10 08:40:14",
-      "ai_at": "2026-11-10 08:40:28",
-      "dup_count": 7,
-      "dups": [
-        {
-          "title": "South Korea reports H5N9 bird flu outbreak on Gyeonggi farm",
-          "url": "https://www.thepoultrysite.com/news/2026/11/south-korea-reports-h5n9-bird-flu-outbreak-on-gyeonggi-farm",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-09T00:16:00.000Z"
-        },
-        {
-          "title": "Over 300,000 birds culled after bird flu outbreaks detected in South Korea, Mexico",
-          "url": "https://www.msn.com/en-ca/news/other/over-300000-birds-culled-after-bird-flu-outbreaks-detected-in-south-korea-mexico/ar-AA2gT0kD",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-06T06:30:03.000Z"
-        },
-        {
-          "title": "Over 300,000 birds culled after bird flu outbreaks detected in South Korea, Mexico",
-          "url": "https://www.msn.com/en-ca/news/other/over-300-000-birds-culled-after-bird-flu-outbreaks-detected-in-south-korea-mexico/ar-AA2gT0kD",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-06T06:30:03.000Z"
-        },
-        {
-          "title": "“H5 avian influenza antigen detected at duck farm in Jangheung” ... Gwangju Special City launches emergency containment measures",
-          "url": "https://en.fnnews.com/news/202611061247269145",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-05T14:56:00.000Z"
-        },
-        {
-          "title": "Yeoncheon-gun activates emergency response center after H5 avian influenza confirmed at egg farm",
-          "url": "https://biz.heraldcorp.com/article/10926345",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-04T10:09:00.000Z"
-        },
-        {
-          "title": "New avian influenza case detected in Gyeonggi Province",
-          "url": "https://www.ajupress.com/view/20261104142925224",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-04T06:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "fb70e91d5256a1212026cb964dc945d4508cb277",
-      "disease": "грипп птиц",
-      "country": "Англия",
-      "distance_km": 2500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Подтверждены два случая птичьего гриппа в Англии",
-      "source_id": "bing-world-ai",
-      "title": "Two new bird flu outbreaks confirmed in England",
-      "url": "https://www.farmersguide.co.uk/livestock/poultry/two-new-bird-flu-outbreaks-confirmed-in-england/",
-      "published_at": "2026-11-09T07:37:00.000Z",
-      "created_at": "2026-11-09 16:40:14",
-      "ai_at": "2026-11-09 16:40:18",
-      "dup_count": 1
-    },
-    {
       "fingerprint": "f69d1b14824424e82f003c3d8eca97e41c96730b",
       "disease": null,
       "country": "Молдова",
@@ -474,7 +494,7 @@
       "published_at": "2026-11-07T20:20:49.000Z",
       "created_at": "2026-11-09 00:40:14",
       "ai_at": "2026-11-09 00:40:20",
-      "dup_count": 18,
+      "dup_count": 16,
       "dups": [
         {
           "title": "California bird flu outbreak hits 1.3 million laying hens ahead of holiday baking rush",
@@ -1100,22 +1120,6 @@
       "published_at": "2026-10-29T16:26:00.000Z",
       "created_at": "2026-10-30 02:40:14",
       "ai_at": "2026-10-30 02:40:17",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "db4d390a41787e929039060c357164774aadaf71",
-      "disease": null,
-      "country": "США",
-      "distance_km": 5000,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "В США обнаружена вспышка птичьего гриппа H5N1 у норок, что вызвало тревогу по поводу передачи этого заболевания млекопитающим и подчеркнуло недостатки в обеспеч",
-      "source_id": "bing-world-ai",
-      "title": "The H5N1 mink outbreak, explained: Why it matters and what you should do",
-      "url": "https://www.msn.com/en-us/news/other/the-h5n1-mink-outbreak-explained-why-it-matters-and-what-you-should-do/ar-AA2goqXQ",
-      "published_at": "2026-10-29T15:30:00.000Z",
-      "created_at": "2026-11-02 10:40:14",
-      "ai_at": "2026-11-02 10:40:24",
       "dup_count": 1
     }
   ]
