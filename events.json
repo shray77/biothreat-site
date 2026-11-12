@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-12T04:40:31.062Z",
+  "generated_at": "2026-11-12T08:40:50.559Z",
   "items": [
+    {
+      "fingerprint": "6f304a14c6bf759d4c4ace13a3265000096abdae",
+      "disease": "африканская чума свиней",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Африканская чума свиней и другие заболевания животных передаются быстрее, чем системы мониторинга.",
+      "source_id": "bing-world-asf",
+      "title": "Weakest links: The state of livestock biosecurity across Asia-Pacific",
+      "url": "https://www.msn.com/en-in/news/other/weakest-links-the-state-of-livestock-biosecurity-across-asia-pacific/ar-AA2hgHVl",
+      "published_at": "2026-11-11T22:39:11.000Z",
+      "created_at": "2026-11-12 08:40:14",
+      "ai_at": "2026-11-12 08:40:18",
+      "dup_count": 1
+    },
     {
       "fingerprint": "65ca0775d014595489861d41497df6ad72f92385",
       "disease": "грипп птиц",
@@ -16,13 +32,19 @@
       "published_at": "2026-11-11T17:54:00.000Z",
       "created_at": "2026-11-12 04:40:15",
       "ai_at": "2026-11-12 04:40:19",
-      "dup_count": 15,
+      "dup_count": 16,
       "dups": [
         {
           "title": "Washington bird flu outbreak kills dairy worker in Yakima Valley",
           "url": "https://www.msn.com/en-us/news/other/washington-bird-flu-outbreak-kills-dairy-worker-in-yakima-valley/vi-AA2hfHmD",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-11T17:16:37.000Z"
+        },
+        {
+          "title": "Avian Flu Outbreak in Illinois Spread from Backyard Poultry to Mammals",
+          "url": "https://bioengineer.org/avian-flu-outbreak-in-illinois-spread-from-backyard-poultry-to-mammals/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-11T16:00:00.000Z"
         },
         {
           "title": "Breaking: Avian influenza detected in Worcester County chicken flock",
@@ -71,12 +93,70 @@
           "url": "https://phys.org/news/2026-11-avian-influenza-backyard-coop-illinois.html",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-05T12:30:00.000Z"
-        },
+        }
+      ]
+    },
+    {
+      "fingerprint": "a3b1bf4673c5775a71a7faa2c7bdb094f6a4b89b",
+      "disease": "грипп птиц",
+      "country": "Япония",
+      "distance_km": 60,
+      "level": "высокая",
+      "verdict": "confirmed",
+      "ai_summary": "Подтвержден первый случай гриппа птиц в сезоне на птицефабрике в городе Камеока, префектура Киото.",
+      "source_id": "bing-world-ai",
+      "title": "First Avian Influenza Case of the Season Confirmed at Chicken Farm in Kyoto, Japan",
+      "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008843168",
+      "published_at": "2026-11-11T17:07:00.000Z",
+      "created_at": "2026-11-12 08:40:14",
+      "ai_at": "2026-11-12 08:40:21",
+      "dup_count": 2,
+      "dups": [
         {
-          "title": "In Our View: Avian influenza in state necessitates attention",
-          "url": "https://www.columbian.com/news/2026/nov/04/in-our-view-avian-influenza-in-state-necessitates-attention/",
+          "title": "Japan reports 1st bird flu outbreak of the season",
+          "url": "https://english.news.cn/20261112/d7358a6a7c2640529eff609c999ff288/c.html",
           "source_id": "bing-world-ai",
-          "published_at": "2026-11-03T22:03:00.000Z"
+          "published_at": "2026-11-11T15:42:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "dde0af5df715a95741b36db16f31fb5dd67097f2",
+      "disease": "африканская чума свиней",
+      "country": "Украина",
+      "distance_km": 0,
+      "level": "граница",
+      "verdict": "probable",
+      "ai_summary": "В Украине ожидается потенциальный дефицит свиней из-за распространения африканской чумы свиней",
+      "source_id": "bing-world-asf",
+      "title": "Ukraine may face potential pig shortage as ASF spreads",
+      "url": "https://www.foodagribusiness.world/pigs/ukraine-may-face-potential-pig-shortage-as-asf-spreads",
+      "published_at": "2026-11-11T16:00:00.000Z",
+      "created_at": "2026-11-12 08:40:14",
+      "ai_at": "2026-11-12 08:40:40",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "cdb183c40b2853c82f5da6700eb9c912c2c2daf6",
+      "disease": "африканская чума свиней",
+      "country": "Южно-Африканская Республика",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "В Южной Африке африканская чума свиней распространяется среди дикой природы, увеличивая риски для сельского хозяйства",
+      "source_id": "bing-world-fmd",
+      "title": "South Africa wildlife outbreaks widen foot-and-mouth disease risks for livestock sector",
+      "url": "https://tradersunion.com/news/economic-data/show/4206683-south-africa-wildlife-foot-mouth-disease/",
+      "published_at": "2026-11-11T16:00:00.000Z",
+      "created_at": "2026-11-12 08:40:14",
+      "ai_at": "2026-11-12 08:40:43",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Foot-and-mouth disease spreads to SA’s wildlife",
+          "url": "https://www.moneyweb.co.za/news/south-africa/foot-and-mouth-disease-spreads-to-sas-wildlife/",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-11-10T18:50:00.000Z"
         }
       ]
     },
@@ -235,22 +315,6 @@
       ]
     },
     {
-      "fingerprint": "eed2038821a4e171dda162a64252ad96952ba8ea",
-      "disease": "африканская чума свиней",
-      "country": "Южно-Африканская Республика",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "В Южной Африке выявлены новые случаи африканской чумы свиней, что вызывает опасения для скотоводства и охоты на дикую зверь",
-      "source_id": "bing-world-fmd",
-      "title": "Foot-and-mouth disease spreads to SA’s wildlife",
-      "url": "https://www.moneyweb.co.za/news/south-africa/foot-and-mouth-disease-spreads-to-sas-wildlife/",
-      "published_at": "2026-11-10T18:50:00.000Z",
-      "created_at": "2026-11-11 08:40:15",
-      "ai_at": "2026-11-11 08:40:22",
-      "dup_count": 1
-    },
-    {
       "fingerprint": "0b4325dcd743b25e6b9614df7402d03810d5dc6b",
       "disease": null,
       "country": null,
@@ -280,15 +344,7 @@
       "published_at": "2026-11-10T15:01:00.000Z",
       "created_at": "2026-11-11 00:40:15",
       "ai_at": "2026-11-11 00:40:20",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Lumpy skin disease returns to Faridkot after four years",
-          "url": "https://www.daijiworld.com/news/newsDisplay?newsID=1334066",
-          "source_id": "bing-world-lsd",
-          "published_at": "2026-10-31T16:13:00.000Z"
-        }
-      ]
+      "dup_count": 1
     },
     {
       "fingerprint": "8f37ec2b0683a5f629f9425de832191ecb12e018",
@@ -1056,86 +1112,6 @@
       "published_at": "2026-11-01T23:47:00.000Z",
       "created_at": "2026-11-02 18:40:15",
       "ai_at": "2026-11-02 18:40:19",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "36be9d7cf9c5d217846466c8fa6a60bed5909980",
-      "disease": "африканская чума свиней",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-asf",
-      "title": "Pig movements and pork exports at risk as industry reviews ASF defences",
-      "url": "https://www.farminguk.com/news/pig-movements-and-pork-exports-at-risk-as-industry-reviews-asf-defences_69398.html",
-      "published_at": "2026-11-01T16:01:00.000Z",
-      "created_at": "2026-11-02 06:40:14",
-      "ai_at": "2026-11-02 06:40:17",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "434077ad4f5de913a3a864d414077ded678aac3e",
-      "disease": "африканская чума свиней",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "В городе усилены проверки на мясо из-за подозрения на африканскую чуму свиней.",
-      "source_id": "bing-world-asf",
-      "title": "Town requires meat inspection amid suspected swine fever case",
-      "url": "https://www.sunstar.com.ph/cebu/town-requires-meat-inspection-amid-suspected-swine-fever-case",
-      "published_at": "2026-11-01T04:59:00.000Z",
-      "created_at": "2026-11-01 14:40:14",
-      "ai_at": "2026-11-01 14:40:20",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "d0c3bc11646fad6123c82ee8b608d4b3580c4124",
-      "disease": "острые кишечные заболевания",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Количество случаев отрясшейся болезни в Хошимине превышает 44 тысячи",
-      "source_id": "bing-world-fmd",
-      "title": "Ho Chi Minh City steps up hand, foot and mouth disease prevention as cases exceed 44,000",
-      "url": "https://en.vietnamplus.vn/ho-chi-minh-city-steps-up-hand-foot-and-mouth-disease-prevention-as-cases-exceed-44000-post354647.vnp",
-      "published_at": "2026-11-01T02:00:00.000Z",
-      "created_at": "2026-11-02 00:40:15",
-      "ai_at": "2026-11-02 00:40:19",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "4899ec5b384952465ac15ca9daeb1f2eed4311ee",
-      "disease": "нодулярный дерматит",
-      "country": "Япония",
-      "distance_km": 60,
-      "level": "высокая",
-      "verdict": "confirmed",
-      "ai_summary": "Подтвержден случай нодулярного дерматита на ферме в городе Мияме.",
-      "source_id": "bing-world-lsd",
-      "title": "Lumpy Skin Disease in Miyama City | It does not transmit to humans — Staying calm and the role of the hub supporting livestock disease prevention 】",
-      "url": "https://note.com/itahashisatoshi/n/nb18e4b5cd402?hl=en",
-      "published_at": "2026-10-31T23:56:00.000Z",
-      "created_at": "2026-11-02 02:40:14",
-      "ai_at": "2026-11-02 02:40:17",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "dfe39d1ab90f23903d8c02cf3dd102a3858f3776",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "H5N1 avian influenza: 2nd human case reported in Yakima County, Washington",
-      "url": "https://outbreaknewstoday.substack.com/p/h5n1-avian-influenza-2nd-human-case",
-      "published_at": "2026-10-31T21:04:00.000Z",
-      "created_at": "2026-11-01 16:40:14",
-      "ai_at": "2026-11-01 16:40:16",
       "dup_count": 1
     }
   ]
