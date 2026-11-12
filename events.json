@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-12T12:42:34.578Z",
+  "generated_at": "2026-11-12T14:40:19.877Z",
   "items": [
     {
       "fingerprint": "fce17585a94286f0d06380d7aa147493ccbdae0b",
@@ -160,18 +160,18 @@
     },
     {
       "fingerprint": "b6842df1a8563b526b2192c299e370ac48aff2e3",
-      "disease": null,
-      "country": null,
+      "disease": "африканская чума свиней",
+      "country": "Австралия",
       "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Правительства Австралии предлагают уничтожить диких свиней из-за возможного проникновения африканской чумы свиней.",
       "source_id": "bing-world-fmd",
       "title": "Calls for feral pig cull to stem foot-and-mouth disease threat",
       "url": "https://iview.abc.net.au/show/abc-news-sa/series/0/video/SACL202213996908",
       "published_at": "2026-11-11T16:00:00.000Z",
       "created_at": "2026-11-12 12:40:14",
-      "ai_at": null,
+      "ai_at": "2026-11-12 14:40:19",
       "dup_count": 1
     },
     {
