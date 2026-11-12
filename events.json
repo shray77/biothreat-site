@@ -1,22 +1,30 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-12T18:42:36.481Z",
+  "generated_at": "2026-11-12T20:42:21.214Z",
   "items": [
     {
       "fingerprint": "0af6833328089556054626406b81ea30f8e431a1",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
+      "disease": "африканская чума свиней",
+      "country": "Финляндия",
+      "distance_km": 0,
+      "level": "граница",
+      "verdict": "probable",
+      "ai_summary": "Финляндия собирается установить в юго-восточной части 83-километровую временную электрифицированную ограждение, чтобы сдерживать африканскую чуму свиней у диких",
       "source_id": "bing-world-asf",
       "title": "Finland plans to install 83 km of electric fencing due to ASF — YLE News",
       "url": "https://ua.news/en/dovkolo-svitu/finliandiia-planuie-vstanoviti-83-km-elektroogorozhi-cherez-achs-yle-news",
       "published_at": "2026-11-12T07:55:00.000Z",
       "created_at": "2026-11-12 18:40:14",
-      "ai_at": null,
-      "dup_count": 1
+      "ai_at": "2026-11-12 20:42:20",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Finland building 83-km fence to contain African swine fever outbreak in wild boar",
+          "url": "https://yle.fi/a/74-20256634",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-11-12T05:35:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "81068aa91ef6497df717553e696a8450fad6203b",
@@ -113,22 +121,6 @@
       ]
     },
     {
-      "fingerprint": "216d85efa7ca2cb9459e0897ddb24511754386f9",
-      "disease": "африканская чума свиней",
-      "country": "Финляндия",
-      "distance_km": 0,
-      "level": "граница",
-      "verdict": "probable",
-      "ai_summary": "В Финляндии строят особый забор для борьбы с африканской чумой свиней",
-      "source_id": "bing-world-asf",
-      "title": "Finland building 83-km fence to contain African swine fever outbreak in wild boar",
-      "url": "https://yle.fi/a/74-20256634",
-      "published_at": "2026-11-12T05:35:00.000Z",
-      "created_at": "2026-11-12 18:40:14",
-      "ai_at": "2026-11-12 18:42:28",
-      "dup_count": 1
-    },
-    {
       "fingerprint": "bf16a0e6be75ae77d7a662318442ac9694e103f6",
       "disease": null,
       "country": "США",
@@ -206,7 +198,7 @@
       "published_at": "2026-11-11T17:54:00.000Z",
       "created_at": "2026-11-12 04:40:15",
       "ai_at": "2026-11-12 04:40:19",
-      "dup_count": 14,
+      "dup_count": 13,
       "dups": [
         {
           "title": "Washington bird flu outbreak kills dairy worker in Yakima Valley",
@@ -481,6 +473,22 @@
           "published_at": "2026-11-09T07:37:00.000Z"
         }
       ]
+    },
+    {
+      "fingerprint": "9887d5db3c4a4114f2be2021f6651e59a49f02de",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-lsd",
+      "title": "[Bovine Viral Disease] What is \"Lumpy Skin Disease\"? Why is there such a fuss when the mortality rate is low?",
+      "url": "https://note.com/pre_mix/n/n3472a4d89e8f?hl=en",
+      "published_at": "2026-11-10T23:53:00.000Z",
+      "created_at": "2026-11-12 20:40:15",
+      "ai_at": null,
+      "dup_count": 1
     },
     {
       "fingerprint": "040bee8c6160a94846cd40f22dc2f6c56c0e44e7",
