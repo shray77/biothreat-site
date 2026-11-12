@@ -1,7 +1,39 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-12T08:40:50.559Z",
+  "generated_at": "2026-11-12T12:42:34.578Z",
   "items": [
+    {
+      "fingerprint": "fce17585a94286f0d06380d7aa147493ccbdae0b",
+      "disease": "грипп птиц",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "В округе у дома принца Георга и его брата цыплят постреляли.",
+      "source_id": "bing-world-ai",
+      "title": "Prince George, Princess Charlotte and Prince Louis must now keep pet chickens indoors as hundreds of the birds are culled a mile from their home in bird flu outbreak",
+      "url": "https://www.dailymail.com/news/article-16286699/Prince-George-Princess-Charlotte-Louis-chickens-bird-flu.html",
+      "published_at": "2026-11-12T03:49:00.000Z",
+      "created_at": "2026-11-12 12:40:14",
+      "ai_at": "2026-11-12 12:40:17",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "30a2ff3c39dc8c35c19c2a2b02d07706be100e55",
+      "disease": "грипп птиц",
+      "country": "Лаос",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Исследование выявляет 12 генотипов гриппа птиц в Лаосе",
+      "source_id": "bing-world-ai",
+      "title": "Study Identifies Twelve Avian Influenza Genotypes Circulating Across Laos",
+      "url": "https://bioengineer.org/study-identifies-twelve-avian-influenza-genotypes-circulating-across-laos/",
+      "published_at": "2026-11-12T01:54:00.000Z",
+      "created_at": "2026-11-12 12:40:14",
+      "ai_at": "2026-11-12 12:40:22",
+      "dup_count": 1
+    },
     {
       "fingerprint": "6f304a14c6bf759d4c4ace13a3265000096abdae",
       "disease": "африканская чума свиней",
@@ -32,8 +64,14 @@
       "published_at": "2026-11-11T17:54:00.000Z",
       "created_at": "2026-11-12 04:40:15",
       "ai_at": "2026-11-12 04:40:19",
-      "dup_count": 16,
+      "dup_count": 17,
       "dups": [
+        {
+          "title": "Washington bird flu outbreak kills dairy worker in Yakima Valley",
+          "url": "https://www.msn.com/en-us/money/general/washington-bird-flu-outbreak-kills-dairy-worker-in-yakima-valley/vi-AA2hfHmD",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-11T17:16:37.000Z"
+        },
         {
           "title": "Washington bird flu outbreak kills dairy worker in Yakima Valley",
           "url": "https://www.msn.com/en-us/news/other/washington-bird-flu-outbreak-kills-dairy-worker-in-yakima-valley/vi-AA2hfHmD",
@@ -87,12 +125,6 @@
           "url": "https://www.petfoodprocessing.net/articles/21057-new-hpai-outbreak-in-iowa",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-06T05:00:00.000Z"
-        },
-        {
-          "title": "Avian influenza spread beyond a backyard coop on an Illinois farm, analysis finds",
-          "url": "https://phys.org/news/2026-11-avian-influenza-backyard-coop-illinois.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-05T12:30:00.000Z"
         }
       ]
     },
@@ -110,8 +142,14 @@
       "published_at": "2026-11-11T17:07:00.000Z",
       "created_at": "2026-11-12 08:40:14",
       "ai_at": "2026-11-12 08:40:21",
-      "dup_count": 2,
+      "dup_count": 3,
       "dups": [
+        {
+          "title": "Japan braces for bird flu outbreak after first farm case",
+          "url": "https://www3.nhk.or.jp/nhkworld/news/20261112de74866/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-11T16:00:00.000Z"
+        },
         {
           "title": "Japan reports 1st bird flu outbreak of the season",
           "url": "https://english.news.cn/20261112/d7358a6a7c2640529eff609c999ff288/c.html",
@@ -119,6 +157,22 @@
           "published_at": "2026-11-11T15:42:00.000Z"
         }
       ]
+    },
+    {
+      "fingerprint": "b6842df1a8563b526b2192c299e370ac48aff2e3",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-fmd",
+      "title": "Calls for feral pig cull to stem foot-and-mouth disease threat",
+      "url": "https://iview.abc.net.au/show/abc-news-sa/series/0/video/SACL202213996908",
+      "published_at": "2026-11-11T16:00:00.000Z",
+      "created_at": "2026-11-12 12:40:14",
+      "ai_at": null,
+      "dup_count": 1
     },
     {
       "fingerprint": "dde0af5df715a95741b36db16f31fb5dd67097f2",
@@ -190,6 +244,22 @@
       "published_at": "2026-11-11T13:04:56.000Z",
       "created_at": "2026-11-12 00:40:14",
       "ai_at": "2026-11-12 00:40:19",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "a328ccee48827d0522a46e5ce08b833a293c0cfa",
+      "disease": "африканская чума свиней",
+      "country": "Индия",
+      "distance_km": 3000,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "В штате Ассам зафиксирована вспышка африканской чумы свиней, запрещена продажа свинины в радиусе 10 км",
+      "source_id": "bing-world-asf",
+      "title": "African Swine Fever Outbreak in Assam's Bokakhat, Pork Sales Banned Within 10-Km Radius",
+      "url": "https://english.hindusthansamachar.in/Encyc/2026/11/12/African-Swine-Fever-Outbreak-i.php",
+      "published_at": "2026-11-11T13:04:00.000Z",
+      "created_at": "2026-11-12 12:40:14",
+      "ai_at": "2026-11-12 12:42:34",
       "dup_count": 1
     },
     {
@@ -1008,15 +1078,7 @@
       "published_at": "2026-11-03T07:58:00.000Z",
       "created_at": "2026-11-04 14:40:15",
       "ai_at": "2026-11-04 14:40:52",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "SAPA backs continued poultry imports from Brazil after NCD outbreak",
-          "url": "https://www.farmersweekly.co.za/agri-news/south-africa/sapa-backs-continued-poultry-imports-from-brazil-after-ncd-outbreak/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-02T05:01:00.000Z"
-        }
-      ]
+      "dup_count": 1
     },
     {
       "fingerprint": "5b823185f2a7c4d35682a222af84b7e2eccd7521",
@@ -1032,86 +1094,6 @@
       "published_at": "2026-11-02T22:04:00.000Z",
       "created_at": "2026-11-03 10:40:15",
       "ai_at": "2026-11-03 10:40:17",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "14037b495f079ec67d3682896791554df851f9fe",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "HRPH investigates suspected bird flu outbreak in backyard flock",
-      "url": "https://www.chch.com/chch-news/hrph-investigates-suspected-bird-flu-outbreak-in-backyard-flock/",
-      "published_at": "2026-11-02T10:55:00.000Z",
-      "created_at": "2026-11-03 02:40:14",
-      "ai_at": "2026-11-03 02:40:23",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "0b1d8f59635db802cdb472375b55dbc2f4652246",
-      "disease": null,
-      "country": "США",
-      "distance_km": 5000,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "Смерть человека от птичьего гриппа в США",
-      "source_id": "bing-world-ai",
-      "title": "US dairy worker dies from bird flu as outbreak rages in cattle",
-      "url": "https://www.yahoo.com/news/us/articles/us-dairy-worker-dies-bird-184409004.html",
-      "published_at": "2026-11-02T10:44:00.000Z",
-      "created_at": "2026-11-03 02:40:14",
-      "ai_at": "2026-11-03 02:40:26",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "5cd61a787e3530e3d9e46dd66206576e4530cafb",
-      "disease": "бешенство",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Индия продлила аккредитацию на проведение ветеринарных клинических испытаний",
-      "source_id": "bing-world-lsd",
-      "title": "ICAR-NIVEDI, Bengaluru extends NABL accreditation to 28 veterinary clinical trials",
-      "url": "https://www.msn.com/en-in/news/other/icar-nivedi-bengaluru-extends-nabl-accreditation-to-28-veterinary-clinical-trials/ar-AA2gBDfY",
-      "published_at": "2026-11-02T10:35:37.000Z",
-      "created_at": "2026-11-03 00:40:14",
-      "ai_at": "2026-11-03 00:40:20",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "92cc2b19feadcc8754efbc46b67e3c853c89a37a",
-      "disease": "африканская чума свиней",
-      "country": "Венгрия",
-      "distance_km": 1200,
-      "level": "наблюдение",
-      "verdict": "probable",
-      "ai_summary": "Сенат Венгрии принял законопроект по поддержке фермеров в 20 евро на каждого свиню, для предотвращения африканской свиной чумы.",
-      "source_id": "bing-world-asf",
-      "title": "The Senate adopted Tanczos Barna’s proposal for support of 20 euros per pig, aimed at preventing African swine fever.",
-      "url": "https://informat.ro/en/current-affairs/senate-adopts-eur20-support-for-each-pig-146426",
-      "published_at": "2026-11-02T10:18:00.000Z",
-      "created_at": "2026-11-04 20:40:14",
-      "ai_at": "2026-11-04 20:40:23",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "cc2b5d36c5e3dfee9f7fc5f6f192f5648501da15",
-      "disease": "африканская чума свиней",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Департамент сельского хозяйства и окружающей среды проводит проверку работы по предотвращению и контролю африканской чумы свиней.",
-      "source_id": "bing-world-asf",
-      "title": "The Department of Agriculture and Environment inspects the work of preventing and controlling African swine fever.",
-      "url": "https://www.vietnam.vn/en/so-nong-nghiep-va-moi-truong-kiem-tra-cong-tac-phong-chong-benh-dich-ta-lon-chau-phi",
-      "published_at": "2026-11-01T23:47:00.000Z",
-      "created_at": "2026-11-02 18:40:15",
-      "ai_at": "2026-11-02 18:40:19",
       "dup_count": 1
     }
   ]
