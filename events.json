@@ -1,7 +1,133 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-11T16:40:29.882Z",
+  "generated_at": "2026-11-12T00:40:29.554Z",
   "items": [
+    {
+      "fingerprint": "abdc7fd1f18eea6c081b2c73e1bf8c15ed26d664",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Baloxavir and Molnupiravir Protect Immunosuppressed Hamsters Against Severe Avian Influenza",
+      "url": "https://bioengineer.org/baloxavir-and-molnupiravir-protect-immunosuppressed-hamsters-against-severe-avian-influenza/",
+      "published_at": "2026-11-11T13:54:00.000Z",
+      "created_at": "2026-11-12 00:40:14",
+      "ai_at": "2026-11-12 00:40:16",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "195fad835e65e4317148b2a403e199d749e8a9a9",
+      "disease": "грипп птиц",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "В штате Вашингтон зарегистрирован первый случай смерти от птичьего гриппа",
+      "source_id": "bing-world-ai",
+      "title": "First bird flu death hits WA, dairy outbreak spreads",
+      "url": "https://www.msn.com/en-us/money/general/first-bird-flu-death-hits-wa-dairy-outbreak-spreads/ar-AA2heHuJ",
+      "published_at": "2026-11-11T13:04:56.000Z",
+      "created_at": "2026-11-12 00:40:14",
+      "ai_at": "2026-11-12 00:40:19",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "69fda53f2a79d8b40e9a4414065ff7e4f13fa4d7",
+      "disease": "грипп птиц",
+      "country": "Монтана",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "В Монтане сохраняется высокая степень опасности от птичьего гриппа",
+      "source_id": "bing-world-ai",
+      "title": "Avian influenza a continuing concern",
+      "url": "https://www.choteauacantha.com/news/article_8d5e09b1-6531-4c1b-9d84-a9e4a3099ff0.html",
+      "published_at": "2026-11-11T13:01:00.000Z",
+      "created_at": "2026-11-12 00:40:14",
+      "ai_at": "2026-11-12 00:40:22",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "a69f724684e9c7650ef34a8d9d92f23deafc1095",
+      "disease": "грипп птиц",
+      "country": "США",
+      "distance_km": 5000,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "В штате Мэриленд выявлен случай высокопатогенного гриппа птиц в куриной ферме",
+      "source_id": "bing-world-ai",
+      "title": "Breaking: Avian influenza detected in Worcester County chicken flock",
+      "url": "https://www.delmarvanow.com/story/news/local/maryland/2026/11/11/avian-influenza-detected-in-worcester-county-chicken-flock-breaking/92725004007/",
+      "published_at": "2026-11-11T08:44:00.000Z",
+      "created_at": "2026-11-12 00:40:14",
+      "ai_at": "2026-11-12 00:40:29",
+      "dup_count": 15,
+      "dups": [
+        {
+          "title": "California bird flu outbreak hits 1.3 million laying hens ahead of holiday baking rush",
+          "url": "https://uk.news.yahoo.com/california-bird-flu-outbreak-hits-042000776.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-07T15:59:00.000Z"
+        },
+        {
+          "title": "SCDNR advises Public of Avian Influenza Activity in Wild Birds",
+          "url": "https://wnegradio.com/scdnr-advises-public-of-avian-influenza-activity-in-wild-birds/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-07T12:20:00.000Z"
+        },
+        {
+          "title": "SCDNR Advises Public of Avian Influenza Activity in Wild Birds",
+          "url": "https://www.fortmillsun.com/2026/11/06/scdnr-advises-public-of-avian-influenza-activity-in-wild-birds/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-06T13:58:00.000Z"
+        },
+        {
+          "title": "South Carolinians urged to take precautions against avian influenza. Here's what to know",
+          "url": "https://www.southcarolinapublicradio.org/sc-news/2026-11-06/south-carolinians-urged-to-take-precautions-against-avian-influenza-heres-what-to-know",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-06T12:40:00.000Z"
+        },
+        {
+          "title": "SCDNR issues advisory regarding avian influenza activity in wild birds",
+          "url": "https://www.coladaily.com/communities/scdnr-issues-advisory-regarding-avian-influenza-activity-in-wild-birds/article_103b85e8-629a-4099-b905-f91c65372946.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-06T07:56:00.000Z"
+        },
+        {
+          "title": "New HPAI outbreak in Iowa",
+          "url": "https://www.petfoodprocessing.net/articles/21057-new-hpai-outbreak-in-iowa",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-06T05:00:00.000Z"
+        },
+        {
+          "title": "Avian influenza spread beyond a backyard coop on an Illinois farm, analysis finds",
+          "url": "https://phys.org/news/2026-11-avian-influenza-backyard-coop-illinois.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-05T12:30:00.000Z"
+        },
+        {
+          "title": "In Our View: Avian influenza in state necessitates attention",
+          "url": "https://www.columbian.com/news/2026/nov/04/in-our-view-avian-influenza-in-state-necessitates-attention/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-03T22:03:00.000Z"
+        },
+        {
+          "title": "OPINION: Pay attention to avian influenza outbreak in central Washington",
+          "url": "https://www.lmtribune.com/opinion/pay-attention-to-avian-influenza-in-central-wa-f0e51ca7",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-03T16:00:00.000Z"
+        },
+        {
+          "title": "H5N1 avian influenza death reported in Washington dairy outbreak",
+          "url": "https://www.meatpoultry.com/articles/34269-h5n1-avian-influenza-death-reported-in-washington-dairy-outbreak",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-03T07:45:00.000Z"
+        }
+      ]
+    },
     {
       "fingerprint": "00446f05d53548f76e180ef99dea1f13b466c036",
       "disease": "грипп птиц",
@@ -494,69 +620,7 @@
       "published_at": "2026-11-07T20:20:49.000Z",
       "created_at": "2026-11-09 00:40:14",
       "ai_at": "2026-11-09 00:40:20",
-      "dup_count": 16,
-      "dups": [
-        {
-          "title": "California bird flu outbreak hits 1.3 million laying hens ahead of holiday baking rush",
-          "url": "https://uk.news.yahoo.com/california-bird-flu-outbreak-hits-042000776.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-07T15:59:00.000Z"
-        },
-        {
-          "title": "SCDNR advises Public of Avian Influenza Activity in Wild Birds",
-          "url": "https://wnegradio.com/scdnr-advises-public-of-avian-influenza-activity-in-wild-birds/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-07T12:20:00.000Z"
-        },
-        {
-          "title": "SCDNR Advises Public of Avian Influenza Activity in Wild Birds",
-          "url": "https://www.fortmillsun.com/2026/11/06/scdnr-advises-public-of-avian-influenza-activity-in-wild-birds/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-06T13:58:00.000Z"
-        },
-        {
-          "title": "South Carolinians urged to take precautions against avian influenza. Here's what to know",
-          "url": "https://www.southcarolinapublicradio.org/sc-news/2026-11-06/south-carolinians-urged-to-take-precautions-against-avian-influenza-heres-what-to-know",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-06T12:40:00.000Z"
-        },
-        {
-          "title": "SCDNR issues advisory regarding avian influenza activity in wild birds",
-          "url": "https://www.coladaily.com/communities/scdnr-issues-advisory-regarding-avian-influenza-activity-in-wild-birds/article_103b85e8-629a-4099-b905-f91c65372946.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-06T07:56:00.000Z"
-        },
-        {
-          "title": "New HPAI outbreak in Iowa",
-          "url": "https://www.petfoodprocessing.net/articles/21057-new-hpai-outbreak-in-iowa",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-06T05:00:00.000Z"
-        },
-        {
-          "title": "Avian influenza spread beyond a backyard coop on an Illinois farm, analysis finds",
-          "url": "https://phys.org/news/2026-11-avian-influenza-backyard-coop-illinois.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-05T12:30:00.000Z"
-        },
-        {
-          "title": "In Our View: Avian influenza in state necessitates attention",
-          "url": "https://www.columbian.com/news/2026/nov/04/in-our-view-avian-influenza-in-state-necessitates-attention/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-03T22:03:00.000Z"
-        },
-        {
-          "title": "OPINION: Pay attention to avian influenza outbreak in central Washington",
-          "url": "https://www.lmtribune.com/opinion/pay-attention-to-avian-influenza-in-central-wa-f0e51ca7",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-03T16:00:00.000Z"
-        },
-        {
-          "title": "H5N1 avian influenza death reported in Washington dairy outbreak",
-          "url": "https://www.meatpoultry.com/articles/34269-h5n1-avian-influenza-death-reported-in-washington-dairy-outbreak",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-03T07:45:00.000Z"
-        }
-      ]
+      "dup_count": 1
     },
     {
       "fingerprint": "bbdd7a6820e2485d4b4dda18872f785204392d67",
@@ -1072,54 +1136,6 @@
       "published_at": "2026-10-30T17:00:00.000Z",
       "created_at": "2026-10-31 08:40:14",
       "ai_at": "2026-10-31 08:40:25",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "5ab3fbe7f33ce85556eac4cbd835736c6d662ea0",
-      "disease": "африканская чума свиней",
-      "country": "Намибия",
-      "distance_km": 6500,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "Банк Намибии повышает ключевую ставку в связи с ростом инфляции и вспышкой африканской чумы свиней",
-      "source_id": "bing-world-fmd",
-      "title": "Central bank raises repo rate to 7% amid inflation pressures and FMD outbreak",
-      "url": "https://www.msn.com/en-xl/money/economy/central-bank-raises-repo-rate-to-7-amid-inflation-pressures-and-fmd-outbreak/ar-AA2gq0JZ",
-      "published_at": "2026-10-30T06:09:33.000Z",
-      "created_at": "2026-10-31 08:40:14",
-      "ai_at": "2026-10-31 08:40:28",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "ad0e015dd4732b1ba0a15dbc141fe0471434a90c",
-      "disease": "африканская чума свиней",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-asf",
-      "title": "Sri Lanka Warns of Renewed African Swine Fever Outbreak Risk",
-      "url": "https://slguardian.org/sri-lanka-warns-of-renewed-african-swine-fever-outbreak-risk/",
-      "published_at": "2026-10-30T01:01:00.000Z",
-      "created_at": "2026-10-30 20:40:15",
-      "ai_at": "2026-10-30 20:40:19",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "ba9083aadcc1dbc0fbbbcbcad37a5d258752161d",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": null,
-      "source_id": "bing-world-fmd",
-      "title": "Ho Chi Minh City Hand-Foot-and-Mouth Outbreak Tops 44,000; EV71 Vaccine Won’t Cover Most Cases",
-      "url": "https://www.techtimes.com/articles/329717/20261029/ho-chi-minh-city-hand-foot-mouth-outbreak-tops-44000-ev71-vaccine-wont-cover-most-cases.htm",
-      "published_at": "2026-10-29T16:26:00.000Z",
-      "created_at": "2026-10-30 02:40:14",
-      "ai_at": "2026-10-30 02:40:17",
       "dup_count": 1
     }
   ]
