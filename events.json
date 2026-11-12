@@ -1,7 +1,85 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-12T00:40:29.554Z",
+  "generated_at": "2026-11-12T04:40:31.062Z",
   "items": [
+    {
+      "fingerprint": "65ca0775d014595489861d41497df6ad72f92385",
+      "disease": "грипп птиц",
+      "country": "США",
+      "distance_km": 5000,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "В штате Орегон выявлены признаки высокопатогенного гриппа птиц у уток и гусей.",
+      "source_id": "bing-world-ai",
+      "title": "Reports of highly pathogenic avian influenza",
+      "url": "https://lincolncityhomepage.com/reports-of-highly-pathogenic-avian-influenza/",
+      "published_at": "2026-11-11T17:54:00.000Z",
+      "created_at": "2026-11-12 04:40:15",
+      "ai_at": "2026-11-12 04:40:19",
+      "dup_count": 15,
+      "dups": [
+        {
+          "title": "Washington bird flu outbreak kills dairy worker in Yakima Valley",
+          "url": "https://www.msn.com/en-us/news/other/washington-bird-flu-outbreak-kills-dairy-worker-in-yakima-valley/vi-AA2hfHmD",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-11T17:16:37.000Z"
+        },
+        {
+          "title": "Breaking: Avian influenza detected in Worcester County chicken flock",
+          "url": "https://www.delmarvanow.com/story/news/local/maryland/2026/11/11/avian-influenza-detected-in-worcester-county-chicken-flock-breaking/92725004007/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-11T08:44:00.000Z"
+        },
+        {
+          "title": "California bird flu outbreak hits 1.3 million laying hens ahead of holiday baking rush",
+          "url": "https://uk.news.yahoo.com/california-bird-flu-outbreak-hits-042000776.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-07T15:59:00.000Z"
+        },
+        {
+          "title": "SCDNR advises Public of Avian Influenza Activity in Wild Birds",
+          "url": "https://wnegradio.com/scdnr-advises-public-of-avian-influenza-activity-in-wild-birds/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-07T12:20:00.000Z"
+        },
+        {
+          "title": "SCDNR Advises Public of Avian Influenza Activity in Wild Birds",
+          "url": "https://www.fortmillsun.com/2026/11/06/scdnr-advises-public-of-avian-influenza-activity-in-wild-birds/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-06T13:58:00.000Z"
+        },
+        {
+          "title": "South Carolinians urged to take precautions against avian influenza. Here's what to know",
+          "url": "https://www.southcarolinapublicradio.org/sc-news/2026-11-06/south-carolinians-urged-to-take-precautions-against-avian-influenza-heres-what-to-know",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-06T12:40:00.000Z"
+        },
+        {
+          "title": "SCDNR issues advisory regarding avian influenza activity in wild birds",
+          "url": "https://www.coladaily.com/communities/scdnr-issues-advisory-regarding-avian-influenza-activity-in-wild-birds/article_103b85e8-629a-4099-b905-f91c65372946.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-06T07:56:00.000Z"
+        },
+        {
+          "title": "New HPAI outbreak in Iowa",
+          "url": "https://www.petfoodprocessing.net/articles/21057-new-hpai-outbreak-in-iowa",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-06T05:00:00.000Z"
+        },
+        {
+          "title": "Avian influenza spread beyond a backyard coop on an Illinois farm, analysis finds",
+          "url": "https://phys.org/news/2026-11-avian-influenza-backyard-coop-illinois.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-05T12:30:00.000Z"
+        },
+        {
+          "title": "In Our View: Avian influenza in state necessitates attention",
+          "url": "https://www.columbian.com/news/2026/nov/04/in-our-view-avian-influenza-in-state-necessitates-attention/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-03T22:03:00.000Z"
+        }
+      ]
+    },
     {
       "fingerprint": "abdc7fd1f18eea6c081b2c73e1bf8c15ed26d664",
       "disease": null,
@@ -51,82 +129,20 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "a69f724684e9c7650ef34a8d9d92f23deafc1095",
+      "fingerprint": "ac8cbf5cae645107c0e7e99b6a27e2de2fe131d5",
       "disease": "грипп птиц",
-      "country": "США",
-      "distance_km": 5000,
-      "level": "фон",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
       "verdict": "confirmed",
-      "ai_summary": "В штате Мэриленд выявлен случай высокопатогенного гриппа птиц в куриной ферме",
+      "ai_summary": "В штате Массачусетс обнаружен случай тяжелого грозного гриппа птиц",
       "source_id": "bing-world-ai",
       "title": "Breaking: Avian influenza detected in Worcester County chicken flock",
-      "url": "https://www.delmarvanow.com/story/news/local/maryland/2026/11/11/avian-influenza-detected-in-worcester-county-chicken-flock-breaking/92725004007/",
+      "url": "https://www.yahoo.com/news/science/articles/breaking-avian-influenza-detected-worcester-164405832.html",
       "published_at": "2026-11-11T08:44:00.000Z",
-      "created_at": "2026-11-12 00:40:14",
-      "ai_at": "2026-11-12 00:40:29",
-      "dup_count": 15,
-      "dups": [
-        {
-          "title": "California bird flu outbreak hits 1.3 million laying hens ahead of holiday baking rush",
-          "url": "https://uk.news.yahoo.com/california-bird-flu-outbreak-hits-042000776.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-07T15:59:00.000Z"
-        },
-        {
-          "title": "SCDNR advises Public of Avian Influenza Activity in Wild Birds",
-          "url": "https://wnegradio.com/scdnr-advises-public-of-avian-influenza-activity-in-wild-birds/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-07T12:20:00.000Z"
-        },
-        {
-          "title": "SCDNR Advises Public of Avian Influenza Activity in Wild Birds",
-          "url": "https://www.fortmillsun.com/2026/11/06/scdnr-advises-public-of-avian-influenza-activity-in-wild-birds/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-06T13:58:00.000Z"
-        },
-        {
-          "title": "South Carolinians urged to take precautions against avian influenza. Here's what to know",
-          "url": "https://www.southcarolinapublicradio.org/sc-news/2026-11-06/south-carolinians-urged-to-take-precautions-against-avian-influenza-heres-what-to-know",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-06T12:40:00.000Z"
-        },
-        {
-          "title": "SCDNR issues advisory regarding avian influenza activity in wild birds",
-          "url": "https://www.coladaily.com/communities/scdnr-issues-advisory-regarding-avian-influenza-activity-in-wild-birds/article_103b85e8-629a-4099-b905-f91c65372946.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-06T07:56:00.000Z"
-        },
-        {
-          "title": "New HPAI outbreak in Iowa",
-          "url": "https://www.petfoodprocessing.net/articles/21057-new-hpai-outbreak-in-iowa",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-06T05:00:00.000Z"
-        },
-        {
-          "title": "Avian influenza spread beyond a backyard coop on an Illinois farm, analysis finds",
-          "url": "https://phys.org/news/2026-11-avian-influenza-backyard-coop-illinois.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-05T12:30:00.000Z"
-        },
-        {
-          "title": "In Our View: Avian influenza in state necessitates attention",
-          "url": "https://www.columbian.com/news/2026/nov/04/in-our-view-avian-influenza-in-state-necessitates-attention/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-03T22:03:00.000Z"
-        },
-        {
-          "title": "OPINION: Pay attention to avian influenza outbreak in central Washington",
-          "url": "https://www.lmtribune.com/opinion/pay-attention-to-avian-influenza-in-central-wa-f0e51ca7",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-03T16:00:00.000Z"
-        },
-        {
-          "title": "H5N1 avian influenza death reported in Washington dairy outbreak",
-          "url": "https://www.meatpoultry.com/articles/34269-h5n1-avian-influenza-death-reported-in-washington-dairy-outbreak",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-03T07:45:00.000Z"
-        }
-      ]
+      "created_at": "2026-11-12 04:40:15",
+      "ai_at": "2026-11-12 04:40:26",
+      "dup_count": 1
     },
     {
       "fingerprint": "00446f05d53548f76e180ef99dea1f13b466c036",
@@ -607,6 +623,36 @@
       "dup_count": 1
     },
     {
+      "fingerprint": "795552f0c1ac4c739e367c64e71a1e2899070012",
+      "disease": "африканская чума свиней",
+      "country": "Филиппины",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "Провинции Илокос-Норте и Илокос-Сур полностью восстановились после вспышки африканской чумы свиней",
+      "source_id": "bing-world-asf",
+      "title": "Ilocos Norte, Ilocos Sur among areas that have recovered from ASF",
+      "url": "https://www.msn.com/en-ph/news/other/ilocos-norte-ilocos-sur-among-areas-that-have-recovered-from-asf/ar-AA2gYF72",
+      "published_at": "2026-11-08T00:30:23.000Z",
+      "created_at": "2026-11-12 04:40:15",
+      "ai_at": "2026-11-12 04:40:30",
+      "dup_count": 3,
+      "dups": [
+        {
+          "title": "Ilocos Norte, Ilocos Sur among areas that have recovered from ASF",
+          "url": "https://newsinfo.inquirer.net/2337834/ilocos-norte-ilocos-sur-among-areas-that-have-recovered-from-asf",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-11-07T10:30:00.000Z"
+        },
+        {
+          "title": "Ilocos Norte tagged ASF-recovered",
+          "url": "https://thechronicle.com.ph/ilocos-norte-tagged-asf-recovered/",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-11-04T05:12:00.000Z"
+        }
+      ]
+    },
+    {
       "fingerprint": "f67614f7798c40a0b3975892d79f66c365014c3b",
       "disease": "грипп птиц",
       "country": "Калифорния",
@@ -621,36 +667,6 @@
       "created_at": "2026-11-09 00:40:14",
       "ai_at": "2026-11-09 00:40:20",
       "dup_count": 1
-    },
-    {
-      "fingerprint": "bbdd7a6820e2485d4b4dda18872f785204392d67",
-      "disease": "африканская чума свиней",
-      "country": "Филиппины",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Прогресс по борьбе со свининой",
-      "source_id": "bing-world-asf",
-      "title": "Ilocos Norte, Ilocos Sur among areas that have recovered from ASF",
-      "url": "https://newsinfo.inquirer.net/2337834/ilocos-norte-ilocos-sur-among-areas-that-have-recovered-from-asf",
-      "published_at": "2026-11-07T10:30:00.000Z",
-      "created_at": "2026-11-08 02:40:14",
-      "ai_at": "2026-11-08 02:40:20",
-      "dup_count": 3,
-      "dups": [
-        {
-          "title": "Ilocos Norte tagged ASF-recovered",
-          "url": "https://thechronicle.com.ph/ilocos-norte-tagged-asf-recovered/",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-11-04T05:12:00.000Z"
-        },
-        {
-          "title": "Philippines Plans to Authorize Second ASF Vaccine by November",
-          "url": "https://english.pravda.ru/news/world/171197-philippines-second-asf-vaccine-authorization/",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-10-30T21:54:00.000Z"
-        }
-      ]
     },
     {
       "fingerprint": "b254bd63530b4d511c30e3b7dae6a82d6b844d36",
@@ -1120,22 +1136,6 @@
       "published_at": "2026-10-31T21:04:00.000Z",
       "created_at": "2026-11-01 16:40:14",
       "ai_at": "2026-11-01 16:40:16",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "a7ae8374cc09ae98a1e9cceb0b33cfc6811d9f78",
-      "disease": "африканская чума свиней",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Программа по повышению осведомленности о заболевании африканской чумой свиней в школе Манглутан обучает учащихся распознаванию симптомов и мерам предосторожност",
-      "source_id": "bing-world-asf",
-      "title": "African Swine Fever Awareness Campaign Focuses on Early Detection and Prevention in Manglutan",
-      "url": "https://thewaveandaman.com/african-swine-fever-awareness-programme-manglutan-school/",
-      "published_at": "2026-10-30T17:00:00.000Z",
-      "created_at": "2026-10-31 08:40:14",
-      "ai_at": "2026-10-31 08:40:25",
       "dup_count": 1
     }
   ]
