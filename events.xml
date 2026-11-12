@@ -6,6 +6,13 @@
     <description>Радар трансграничных болезней животных: ящур, АЧС, грипп птиц, нодулярный дерматит — с оценкой угрозы для РФ. Информационный сервис «как есть»: не официальная система оповещения, не ветеринарная консультация, ИИ и уровни могут ошибаться. Условия: https://shray77.github.io/biothreat-site/terms.html</description>
     <language>ru</language>
     <item>
+      <title>[фон] грипп птиц — США: Reports of highly pathogenic avian influenza</title>
+      <link>https://lincolncityhomepage.com/reports-of-highly-pathogenic-avian-influenza/</link>
+      <guid isPermaLink="false">65ca0775d014595489861d41497df6ad72f92385</guid>
+      <pubDate>Wed, 11 Nov 2026 17:54:00 GMT</pubDate>
+      <description>В штате Орегон выявлены признаки высокопатогенного гриппа птиц у уток и гусей. · verdict: probable · Reports of highly pathogenic avian influenza</description>
+    </item>
+    <item>
       <title>[не определено] Baloxavir and Molnupiravir Protect Immunosuppressed Hamsters Against Severe Avian Influenza</title>
       <link>https://bioengineer.org/baloxavir-and-molnupiravir-protect-immunosuppressed-hamsters-against-severe-avian-influenza/</link>
       <guid isPermaLink="false">abdc7fd1f18eea6c081b2c73e1bf8c15ed26d664</guid>
@@ -27,11 +34,11 @@
       <description>В Монтане сохраняется высокая степень опасности от птичьего гриппа · verdict: probable · Avian influenza a continuing concern</description>
     </item>
     <item>
-      <title>[фон] грипп птиц — США: Breaking: Avian influenza detected in Worcester County chicken flock</title>
-      <link>https://www.delmarvanow.com/story/news/local/maryland/2026/11/11/avian-influenza-detected-in-worcester-county-chicken-flock-breaking/92725004007/</link>
-      <guid isPermaLink="false">a69f724684e9c7650ef34a8d9d92f23deafc1095</guid>
+      <title>[не определено] грипп птиц: Breaking: Avian influenza detected in Worcester County chicken flock</title>
+      <link>https://www.yahoo.com/news/science/articles/breaking-avian-influenza-detected-worcester-164405832.html</link>
+      <guid isPermaLink="false">ac8cbf5cae645107c0e7e99b6a27e2de2fe131d5</guid>
       <pubDate>Wed, 11 Nov 2026 08:44:00 GMT</pubDate>
-      <description>В штате Мэриленд выявлен случай высокопатогенного гриппа птиц в куриной ферме · verdict: confirmed · Breaking: Avian influenza detected in Worcester County chicken flock</description>
+      <description>В штате Массачусетс обнаружен случай тяжелого грозного гриппа птиц · verdict: confirmed · Breaking: Avian influenza detected in Worcester County chicken flock</description>
     </item>
     <item>
       <title>[фон] грипп птиц — Англия: Bird flu: Keepers ordered to keep poultry indoors following outbreak in Yorkshire</title>
@@ -167,18 +174,18 @@
       <description>verdict: probable · DA eyes approval of Korean, US ASF vaccines by 2027</description>
     </item>
     <item>
+      <title>[не определено] африканская чума свиней — Филиппины: Ilocos Norte, Ilocos Sur among areas that have recovered from ASF</title>
+      <link>https://www.msn.com/en-ph/news/other/ilocos-norte-ilocos-sur-among-areas-that-have-recovered-from-asf/ar-AA2gYF72</link>
+      <guid isPermaLink="false">795552f0c1ac4c739e367c64e71a1e2899070012</guid>
+      <pubDate>Sun, 08 Nov 2026 00:30:23 GMT</pubDate>
+      <description>Провинции Илокос-Норте и Илокос-Сур полностью восстановились после вспышки африканской чумы свиней · verdict: confirmed · Ilocos Norte, Ilocos Sur among areas that have recovered from ASF</description>
+    </item>
+    <item>
       <title>[фон] грипп птиц — Калифорния: California bird flu outbreak hits 1.3 million laying hens ahead of holiday baking rush</title>
       <link>https://www.msn.com/en-us/money/general/california-bird-flu-outbreak-hits-1-3-million-laying-hens-ahead-of-holiday-baking-rush/ar-AA2gYNZw</link>
       <guid isPermaLink="false">f67614f7798c40a0b3975892d79f66c365014c3b</guid>
       <pubDate>Sat, 07 Nov 2026 20:20:49 GMT</pubDate>
       <description>В Калифорнии произошла вспышка гриппа птиц, повлиявшая на 1,3 млн кур-несушек · verdict: confirmed · California bird flu outbreak hits 1.3 million laying hens ahead of holiday baking rush</description>
-    </item>
-    <item>
-      <title>[не определено] африканская чума свиней — Филиппины: Ilocos Norte, Ilocos Sur among areas that have recovered from ASF</title>
-      <link>https://newsinfo.inquirer.net/2337834/ilocos-norte-ilocos-sur-among-areas-that-have-recovered-from-asf</link>
-      <guid isPermaLink="false">bbdd7a6820e2485d4b4dda18872f785204392d67</guid>
-      <pubDate>Sat, 07 Nov 2026 10:30:00 GMT</pubDate>
-      <description>Прогресс по борьбе со свининой · verdict: probable · Ilocos Norte, Ilocos Sur among areas that have recovered from ASF</description>
     </item>
     <item>
       <title>[наблюдение] грипп птиц — Дания: Poultrymed | Avian Influenza in Denmark</title>
@@ -368,13 +375,6 @@
       <guid isPermaLink="false">dfe39d1ab90f23903d8c02cf3dd102a3858f3776</guid>
       <pubDate>Sat, 31 Oct 2026 21:04:00 GMT</pubDate>
       <description>verdict: probable · H5N1 avian influenza: 2nd human case reported in Yakima County, Washington</description>
-    </item>
-    <item>
-      <title>[не определено] африканская чума свиней: African Swine Fever Awareness Campaign Focuses on Early Detection and Prevention in Manglutan</title>
-      <link>https://thewaveandaman.com/african-swine-fever-awareness-programme-manglutan-school/</link>
-      <guid isPermaLink="false">a7ae8374cc09ae98a1e9cceb0b33cfc6811d9f78</guid>
-      <pubDate>Fri, 30 Oct 2026 17:00:00 GMT</pubDate>
-      <description>Программа по повышению осведомленности о заболевании африканской чумой свиней в школе Манглутан обучает учащихся распознаванию симптомов и мерам предосторожност · verdict: probable · African Swine Fever Awareness Campaign Focuses on Early Detection and Prevention in Manglutan</description>
     </item>
   </channel>
 </rss>
