@@ -6,6 +6,27 @@
     <description>Радар трансграничных болезней животных: ящур, АЧС, грипп птиц, нодулярный дерматит — с оценкой угрозы для РФ. Информационный сервис «как есть»: не официальная система оповещения, не ветеринарная консультация, ИИ и уровни могут ошибаться. Условия: https://shray77.github.io/biothreat-site/terms.html</description>
     <language>ru</language>
     <item>
+      <title>[высокая] грипп птиц — Япония: Japan detects season’s second bird flu outbreak</title>
+      <link>https://www.msn.com/en-my/health/general/japan-detects-season-s-second-bird-flu-outbreak/ar-AA2hmNzV</link>
+      <guid isPermaLink="false">3bcdb02a5a5fd43a756ba62e1cce4e1cd530b7ac</guid>
+      <pubDate>Fri, 13 Nov 2026 05:14:19 GMT</pubDate>
+      <description>В Японии выявлено второе за сезон случая гриппа птиц в домашней птице. · verdict: confirmed · Japan detects season’s second bird flu outbreak</description>
+    </item>
+    <item>
+      <title>Japan detects season's second bird flu outbreak, orders culling of 40,000 chickens</title>
+      <link>https://tribune.com.pk/story/2640114/japan-detects-seasons-second-bird-flu-outbreak-orders-culling-of-40000-chickens</link>
+      <guid isPermaLink="false">3b5d8812e9d5587d585c3e8bcfec0a5245040c80</guid>
+      <pubDate>Fri, 13 Nov 2026 02:19:00 GMT</pubDate>
+      <description>Japan detects season's second bird flu outbreak, orders culling of 40,000 chickens</description>
+    </item>
+    <item>
+      <title>[фон] США: Wisconsin bird flu outbreak forces culling of entire backyard flock</title>
+      <link>https://uz.kursiv.media/en/2026-11-13/wisconsin-bird-flu/</link>
+      <guid isPermaLink="false">786cf746a5d7d4e11ab9256d70d7fe0463127b03</guid>
+      <pubDate>Thu, 12 Nov 2026 20:07:00 GMT</pubDate>
+      <description>В Висконсине уничтожено домашнее стадо птицы, обнаруженный высокопатогенный птичий грипп · verdict: confirmed · Wisconsin bird flu outbreak forces culling of entire backyard flock</description>
+    </item>
+    <item>
       <title>[не определено] африканская чума свиней — Южно-Африканская Республика: South Africa: How Bad Has the Foot-and-Mouth Disease Epidemic Been?</title>
       <link>https://allafrica.com/stories/202611130088.html</link>
       <guid isPermaLink="false">2a53fb9b1942dea332fb5d65abb7d377deeee78d</guid>
@@ -88,13 +109,6 @@
       <guid isPermaLink="false">6f304a14c6bf759d4c4ace13a3265000096abdae</guid>
       <pubDate>Wed, 11 Nov 2026 22:39:11 GMT</pubDate>
       <description>Африканская чума свиней и другие заболевания животных передаются быстрее, чем системы мониторинга. · verdict: probable · Weakest links: The state of livestock biosecurity across Asia-Pacific</description>
-    </item>
-    <item>
-      <title>[высокая] грипп птиц — Япония: First Avian Influenza Case of the Season Confirmed at Chicken Farm in Kyoto, Japan</title>
-      <link>https://news.sbs.co.kr/english/article.do?news_id=N1008843168</link>
-      <guid isPermaLink="false">a3b1bf4673c5775a71a7faa2c7bdb094f6a4b89b</guid>
-      <pubDate>Wed, 11 Nov 2026 17:07:00 GMT</pubDate>
-      <description>Подтвержден первый случай гриппа птиц в сезоне на птицефабрике в городе Камеока, префектура Киото. · verdict: confirmed · First Avian Influenza Case of the Season Confirmed at Chicken Farm in Kyoto, Japan</description>
     </item>
     <item>
       <title>[фон] африканская чума свиней — Намибия: Emergency wage talks begin as FMD outbreak cripples Meatco</title>
@@ -368,20 +382,6 @@
       <guid isPermaLink="false">a065cd8254f6dc64317b91772852d48dd208b653</guid>
       <pubDate>Thu, 05 Nov 2026 05:46:00 GMT</pubDate>
       <description>verdict: probable · Hong Kong Bans Poultry From Norway, Britain Over Avian Influenza Concerns</description>
-    </item>
-    <item>
-      <title>[фон] Намибия: FMD outbreak: How much is Namibia’s beef industry really losing?</title>
-      <link>https://observer24.com.na/fmd-outbreak-how-much-is-namibias-beef-industry-really-losing/</link>
-      <guid isPermaLink="false">3d497b582fd1a2d050cae41ebe564a1736565ebf</guid>
-      <pubDate>Wed, 04 Nov 2026 22:00:00 GMT</pubDate>
-      <description>В Намибии вспышка АЧС испытывает не только ветеринарный контроль, но и экономику · verdict: probable · FMD outbreak: How much is Namibia’s beef industry really losing?</description>
-    </item>
-    <item>
-      <title>[не определено] грипп птиц: Hong Kong Suspends Import of Poultry from Norway and UK Due to Avian Influenza Outbreaks</title>
-      <link>https://www.bastillepost.com/global/article/6328904-hong-kong-suspends-import-of-poultry-from-norway-and-uk-due-to-avian-influenza-outbreaks</link>
-      <guid isPermaLink="false">b3424e97814b5fb3aa56eff7f0d9b0f6178e6685</guid>
-      <pubDate>Wed, 04 Nov 2026 20:13:00 GMT</pubDate>
-      <description>США приостановили ввоз птицы из Норвегии и Великобритании из-за вспышки гриппа птиц · verdict: probable · Hong Kong Suspends Import of Poultry from Norway and UK Due to Avian Influenza Outbreaks</description>
     </item>
   </channel>
 </rss>
