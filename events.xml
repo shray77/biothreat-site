@@ -6,6 +6,13 @@
     <description>Радар трансграничных болезней животных: ящур, АЧС, грипп птиц, нодулярный дерматит — с оценкой угрозы для РФ. Информационный сервис «как есть»: не официальная система оповещения, не ветеринарная консультация, ИИ и уровни могут ошибаться. Условия: https://shray77.github.io/biothreat-site/terms.html</description>
     <language>ru</language>
     <item>
+      <title>[фон] грипп птиц — США: Backyard poultry flock in Wisconsin tests positive for highly pathogenic avian influenza</title>
+      <link>https://www.yahoo.com/news/science/articles/backyard-poultry-flock-wisconsin-tests-183222233.html</link>
+      <guid isPermaLink="false">7e45066ad35fb744d39cd71bba118b2417dd077a</guid>
+      <pubDate>Fri, 13 Nov 2026 10:32:00 GMT</pubDate>
+      <description>В штате Висконсин подтвержден случай птичьего гриппа в домашнем курином дворе. · verdict: confirmed · Backyard poultry flock in Wisconsin tests positive for highly pathogenic avian influenza</description>
+    </item>
+    <item>
       <title>[высокая] грипп птиц — Япония: Japan detects season’s second bird flu outbreak</title>
       <link>https://www.msn.com/en-my/health/general/japan-detects-season-s-second-bird-flu-outbreak/ar-AA2hmNzV</link>
       <guid isPermaLink="false">3bcdb02a5a5fd43a756ba62e1cce4e1cd530b7ac</guid>
@@ -41,13 +48,6 @@
       <description>Южноафриканская страна переживает худшую заражение африканской чумой свиней. · verdict: confirmed · How bad has the foot-and-mouth disease epidemic been?</description>
     </item>
     <item>
-      <title>[фон] грипп птиц — США: National States' Ag Dept. Have Emerg. Meet with USADA RE: Avian Flu Outbreaks</title>
-      <link>https://www.carboncountynews.com/news/national-states-ag-dept-have-emerg-meet-with-usada-re-avian-flu-outbreaks/article_12732eae-888c-4d8f-8f19-9149627deb9b.html</link>
-      <guid isPermaLink="false">469122c7f1268d51ec18704406cbac1803442ea9</guid>
-      <pubDate>Thu, 12 Nov 2026 12:45:00 GMT</pubDate>
-      <description>Официальные лица требуют дополнительных средств для защиты молочного скота от HPAI · verdict: probable · National States' Ag Dept. Have Emerg. Meet with USADA RE: Avian Flu Outbreaks</description>
-    </item>
-    <item>
       <title>[граница] африканская чума свиней — Финляндия: Finland plans to install 83 km of electric fencing due to ASF — YLE News</title>
       <link>https://ua.news/en/dovkolo-svitu/finliandiia-planuie-vstanoviti-83-km-elektroogorozhi-cherez-achs-yle-news</link>
       <guid isPermaLink="false">0af6833328089556054626406b81ea30f8e431a1</guid>
@@ -70,10 +70,10 @@
     </item>
     <item>
       <title>[не определено] George, Charlotte and Louis must keep pet chickens indoors as hundreds culled in bird flu outbreak</title>
-      <link>https://www.msn.com/en-us/news/other/george-charlotte-and-louis-must-keep-pet-chickens-indoors-as-hundreds-culled-in-bird-flu-outbreak/ar-AA2hi5a3</link>
-      <guid isPermaLink="false">3e3993810b393015ab77b16ebe1af3e2351b5cde</guid>
+      <link>https://www.msn.com/en-us/money/general/george-charlotte-and-louis-must-keep-pet-chickens-indoors-as-hundreds-culled-in-bird-flu-outbreak/ar-AA2hi5a3</link>
+      <guid isPermaLink="false">89a284e80348247ffec676126a476fda04f85d7e</guid>
       <pubDate>Thu, 12 Nov 2026 03:49:45 GMT</pubDate>
-      <description>verdict: probable · George, Charlotte and Louis must keep pet chickens indoors as hundreds culled in bird flu outbreak</description>
+      <description>Вспышка птичьего гриппа рядом с домом принцев · verdict: confirmed · George, Charlotte and Louis must keep pet chickens indoors as hundreds culled in bird flu outbreak</description>
     </item>
     <item>
       <title>[фон] США: USDA Says U.S. and Territories Remain Free of African Swine Fever, Renews Holiday Pork Warning</title>
@@ -368,13 +368,6 @@
       <guid isPermaLink="false">89b0f2e8908a9be2392672ddcd326955bd25f8d1</guid>
       <pubDate>Thu, 05 Nov 2026 07:04:00 GMT</pubDate>
       <description>Разработан план по борьбе с африканской чумой свиней в дикой свинье в Канаде. · verdict: probable · Squeal on Pigs develops African swine fever plan</description>
-    </item>
-    <item>
-      <title>[не определено] грипп птиц: Hong Kong Bans Poultry From Norway, Britain Over Avian Influenza Concerns</title>
-      <link>https://www.businesstoday.com.my/2026/11/05/hong-kong-bans-poultry-from-norway-britain-over-avian-influenza-concerns/</link>
-      <guid isPermaLink="false">a065cd8254f6dc64317b91772852d48dd208b653</guid>
-      <pubDate>Thu, 05 Nov 2026 05:46:00 GMT</pubDate>
-      <description>verdict: probable · Hong Kong Bans Poultry From Norway, Britain Over Avian Influenza Concerns</description>
     </item>
   </channel>
 </rss>
