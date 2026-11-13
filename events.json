@@ -1,7 +1,81 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-13T12:40:18.970Z",
+  "generated_at": "2026-11-13T16:42:38.308Z",
   "items": [
+    {
+      "fingerprint": "3bcdb02a5a5fd43a756ba62e1cce4e1cd530b7ac",
+      "disease": "грипп птиц",
+      "country": "Япония",
+      "distance_km": 60,
+      "level": "высокая",
+      "verdict": "confirmed",
+      "ai_summary": "В Японии выявлено второе за сезон случая гриппа птиц в домашней птице.",
+      "source_id": "bing-world-ai",
+      "title": "Japan detects season’s second bird flu outbreak",
+      "url": "https://www.msn.com/en-my/health/general/japan-detects-season-s-second-bird-flu-outbreak/ar-AA2hmNzV",
+      "published_at": "2026-11-13T05:14:19.000Z",
+      "created_at": "2026-11-13 16:40:14",
+      "ai_at": "2026-11-13 16:40:26",
+      "dup_count": 5,
+      "dups": [
+        {
+          "title": "Japan confirms 2nd bird flu outbreak of the season",
+          "url": "https://english.news.cn/20261113/a6f6b306765d43afa77c2641b28a75ec/c.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-12T18:18:00.000Z"
+        },
+        {
+          "title": "First Avian Influenza Case of the Season Confirmed at Chicken Farm in Kyoto, Japan",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008843168",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-11T17:07:00.000Z"
+        },
+        {
+          "title": "Japan braces for bird flu outbreak after first farm case",
+          "url": "https://www3.nhk.or.jp/nhkworld/news/20261112de74866/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-11T16:00:00.000Z"
+        },
+        {
+          "title": "Japan reports 1st bird flu outbreak of the season",
+          "url": "https://english.news.cn/20261112/d7358a6a7c2640529eff609c999ff288/c.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-11T15:42:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "3b5d8812e9d5587d585c3e8bcfec0a5245040c80",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Japan detects season's second bird flu outbreak, orders culling of 40,000 chickens",
+      "url": "https://tribune.com.pk/story/2640114/japan-detects-seasons-second-bird-flu-outbreak-orders-culling-of-40000-chickens",
+      "published_at": "2026-11-13T02:19:00.000Z",
+      "created_at": "2026-11-13 16:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "786cf746a5d7d4e11ab9256d70d7fe0463127b03",
+      "disease": null,
+      "country": "США",
+      "distance_km": 5000,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "В Висконсине уничтожено домашнее стадо птицы, обнаруженный высокопатогенный птичий грипп",
+      "source_id": "bing-world-ai",
+      "title": "Wisconsin bird flu outbreak forces culling of entire backyard flock",
+      "url": "https://uz.kursiv.media/en/2026-11-13/wisconsin-bird-flu/",
+      "published_at": "2026-11-12T20:07:00.000Z",
+      "created_at": "2026-11-13 16:40:14",
+      "ai_at": "2026-11-13 16:42:30",
+      "dup_count": 1
+    },
     {
       "fingerprint": "2a53fb9b1942dea332fb5d65abb7d377deeee78d",
       "disease": "африканская чума свиней",
@@ -180,7 +254,7 @@
       "published_at": "2026-11-12T05:56:00.000Z",
       "created_at": "2026-11-12 18:40:14",
       "ai_at": "2026-11-12 18:42:23",
-      "dup_count": 12,
+      "dup_count": 11,
       "dups": [
         {
           "title": "Hong Kong Suspends Poultry Imports from UK Due to H5N1 Avian Influenza Outbreak",
@@ -339,36 +413,6 @@
       "created_at": "2026-11-12 08:40:14",
       "ai_at": "2026-11-12 08:40:18",
       "dup_count": 1
-    },
-    {
-      "fingerprint": "a3b1bf4673c5775a71a7faa2c7bdb094f6a4b89b",
-      "disease": "грипп птиц",
-      "country": "Япония",
-      "distance_km": 60,
-      "level": "высокая",
-      "verdict": "confirmed",
-      "ai_summary": "Подтвержден первый случай гриппа птиц в сезоне на птицефабрике в городе Камеока, префектура Киото.",
-      "source_id": "bing-world-ai",
-      "title": "First Avian Influenza Case of the Season Confirmed at Chicken Farm in Kyoto, Japan",
-      "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008843168",
-      "published_at": "2026-11-11T17:07:00.000Z",
-      "created_at": "2026-11-12 08:40:14",
-      "ai_at": "2026-11-12 08:40:21",
-      "dup_count": 3,
-      "dups": [
-        {
-          "title": "Japan braces for bird flu outbreak after first farm case",
-          "url": "https://www3.nhk.or.jp/nhkworld/news/20261112de74866/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-11T16:00:00.000Z"
-        },
-        {
-          "title": "Japan reports 1st bird flu outbreak of the season",
-          "url": "https://english.news.cn/20261112/d7358a6a7c2640529eff609c999ff288/c.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-11T15:42:00.000Z"
-        }
-      ]
     },
     {
       "fingerprint": "2528028e72e467b52f03e464119975426ef5f467",
@@ -732,15 +776,7 @@
       "published_at": "2026-11-09T16:00:00.000Z",
       "created_at": "2026-11-10 14:40:15",
       "ai_at": "2026-11-10 14:40:32",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "African swine fever outbreaks put Vietnam's Mekong Delta pig herds at risk",
-          "url": "https://news.tuoitre.vn/african-swine-fever-outbreaks-put-vietnams-mekong-delta-pig-herds-at-risk-103261105145838069.htm",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-11-04T17:18:00.000Z"
-        }
-      ]
+      "dup_count": 1
     },
     {
       "fingerprint": "f69d1b14824424e82f003c3d8eca97e41c96730b",
@@ -1122,38 +1158,6 @@
       "published_at": "2026-11-05T05:46:00.000Z",
       "created_at": "2026-11-05 18:40:14",
       "ai_at": "2026-11-05 18:40:23",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "3d497b582fd1a2d050cae41ebe564a1736565ebf",
-      "disease": null,
-      "country": "Намибия",
-      "distance_km": 6500,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "В Намибии вспышка АЧС испытывает не только ветеринарный контроль, но и экономику",
-      "source_id": "bing-world-fmd",
-      "title": "FMD outbreak: How much is Namibia’s beef industry really losing?",
-      "url": "https://observer24.com.na/fmd-outbreak-how-much-is-namibias-beef-industry-really-losing/",
-      "published_at": "2026-11-04T22:00:00.000Z",
-      "created_at": "2026-11-05 06:40:14",
-      "ai_at": "2026-11-05 06:40:17",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "b3424e97814b5fb3aa56eff7f0d9b0f6178e6685",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "США приостановили ввоз птицы из Норвегии и Великобритании из-за вспышки гриппа птиц",
-      "source_id": "bing-world-ai",
-      "title": "Hong Kong Suspends Import of Poultry from Norway and UK Due to Avian Influenza Outbreaks",
-      "url": "https://www.bastillepost.com/global/article/6328904-hong-kong-suspends-import-of-poultry-from-norway-and-uk-due-to-avian-influenza-outbreaks",
-      "published_at": "2026-11-04T20:13:00.000Z",
-      "created_at": "2026-11-05 12:40:15",
-      "ai_at": "2026-11-05 12:40:32",
       "dup_count": 1
     }
   ]
