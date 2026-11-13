@@ -1,7 +1,37 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-13T06:40:22.065Z",
+  "generated_at": "2026-11-13T12:40:18.970Z",
   "items": [
+    {
+      "fingerprint": "2a53fb9b1942dea332fb5d65abb7d377deeee78d",
+      "disease": "африканская чума свиней",
+      "country": "Южно-Африканская Республика",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "В Южно-Африканской Республике отмечена самая серьезная за историю эпидемия африканской чумы свиней.",
+      "source_id": "bing-world-fmd",
+      "title": "South Africa: How Bad Has the Foot-and-Mouth Disease Epidemic Been?",
+      "url": "https://allafrica.com/stories/202611130088.html",
+      "published_at": "2026-11-12T16:00:00.000Z",
+      "created_at": "2026-11-13 12:40:14",
+      "ai_at": "2026-11-13 12:40:18",
+      "dup_count": 3,
+      "dups": [
+        {
+          "title": "South Africa wildlife outbreaks widen foot-and-mouth disease risks for livestock sector",
+          "url": "https://tradersunion.com/news/economic-data/show/4206683-south-africa-wildlife-foot-mouth-disease/",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-11-11T16:00:00.000Z"
+        },
+        {
+          "title": "Foot-and-mouth disease spreads to SA’s wildlife",
+          "url": "https://www.moneyweb.co.za/news/south-africa/foot-and-mouth-disease-spreads-to-sas-wildlife/",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-11-10T18:50:00.000Z"
+        }
+      ]
+    },
     {
       "fingerprint": "34f3c31ebd6eb9ebf463a9071cf8b5fe87ead893",
       "disease": "африканская чума свиней",
@@ -389,30 +419,6 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "cdb183c40b2853c82f5da6700eb9c912c2c2daf6",
-      "disease": "африканская чума свиней",
-      "country": "Южно-Африканская Республика",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "В Южной Африке африканская чума свиней распространяется среди дикой природы, увеличивая риски для сельского хозяйства",
-      "source_id": "bing-world-fmd",
-      "title": "South Africa wildlife outbreaks widen foot-and-mouth disease risks for livestock sector",
-      "url": "https://tradersunion.com/news/economic-data/show/4206683-south-africa-wildlife-foot-mouth-disease/",
-      "published_at": "2026-11-11T16:00:00.000Z",
-      "created_at": "2026-11-12 08:40:14",
-      "ai_at": "2026-11-12 08:40:43",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Foot-and-mouth disease spreads to SA’s wildlife",
-          "url": "https://www.moneyweb.co.za/news/south-africa/foot-and-mouth-disease-spreads-to-sas-wildlife/",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-11-10T18:50:00.000Z"
-        }
-      ]
-    },
-    {
       "fingerprint": "abdc7fd1f18eea6c081b2c73e1bf8c15ed26d664",
       "disease": null,
       "country": null,
@@ -552,7 +558,7 @@
       "published_at": "2026-11-10T19:34:00.000Z",
       "created_at": "2026-11-11 16:40:15",
       "ai_at": "2026-11-11 16:40:29",
-      "dup_count": 7,
+      "dup_count": 6,
       "dups": [
         {
           "title": "Hong Kong Suspends Poultry Imports from Areas in Korea and US Amid Avian Influenza Outbreaks",
@@ -583,12 +589,6 @@
           "url": "https://en.fnnews.com/news/202611061247269145",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-05T14:56:00.000Z"
-        },
-        {
-          "title": "Yeoncheon-gun activates emergency response center after H5 avian influenza confirmed at egg farm",
-          "url": "https://biz.heraldcorp.com/article/10926345",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-04T10:09:00.000Z"
         }
       ]
     },
