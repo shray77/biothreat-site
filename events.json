@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-13T02:40:21.345Z",
+  "generated_at": "2026-11-13T06:40:22.065Z",
   "items": [
+    {
+      "fingerprint": "34f3c31ebd6eb9ebf463a9071cf8b5fe87ead893",
+      "disease": "африканская чума свиней",
+      "country": "ЮАР",
+      "distance_km": 7000,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "Южноафриканская страна переживает худшую заражение африканской чумой свиней.",
+      "source_id": "bing-world-fmd",
+      "title": "How bad has the foot-and-mouth disease epidemic been?",
+      "url": "https://groundup.org.za/article/how-bad-has-the-foot-and-mouth-disease-epidemic-been/",
+      "published_at": "2026-11-12T16:00:00.000Z",
+      "created_at": "2026-11-13 06:40:14",
+      "ai_at": "2026-11-13 06:40:21",
+      "dup_count": 1
+    },
     {
       "fingerprint": "469122c7f1268d51ec18704406cbac1803442ea9",
       "disease": "грипп птиц",
@@ -536,7 +552,7 @@
       "published_at": "2026-11-10T19:34:00.000Z",
       "created_at": "2026-11-11 16:40:15",
       "ai_at": "2026-11-11 16:40:29",
-      "dup_count": 8,
+      "dup_count": 7,
       "dups": [
         {
           "title": "Hong Kong Suspends Poultry Imports from Areas in Korea and US Amid Avian Influenza Outbreaks",
@@ -573,12 +589,6 @@
           "url": "https://biz.heraldcorp.com/article/10926345",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-04T10:09:00.000Z"
-        },
-        {
-          "title": "New avian influenza case detected in Gyeonggi Province",
-          "url": "https://www.ajupress.com/view/20261104142925224",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-04T06:00:00.000Z"
         }
       ]
     },
