@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-13T16:42:38.308Z",
+  "generated_at": "2026-11-13T18:40:22.764Z",
   "items": [
     {
       "fingerprint": "3bcdb02a5a5fd43a756ba62e1cce4e1cd530b7ac",
@@ -16,8 +16,14 @@
       "published_at": "2026-11-13T05:14:19.000Z",
       "created_at": "2026-11-13 16:40:14",
       "ai_at": "2026-11-13 16:40:26",
-      "dup_count": 5,
+      "dup_count": 6,
       "dups": [
+        {
+          "title": "Japan detects season's second bird flu outbreak, orders culling of 40,000 chickens",
+          "url": "https://tribune.com.pk/story/2640114/japan-detects-seasons-second-bird-flu-outbreak-orders-culling-of-40000-chickens",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-13T02:19:00.000Z"
+        },
         {
           "title": "Japan confirms 2nd bird flu outbreak of the season",
           "url": "https://english.news.cn/20261113/a6f6b306765d43afa77c2641b28a75ec/c.html",
@@ -45,20 +51,28 @@
       ]
     },
     {
-      "fingerprint": "3b5d8812e9d5587d585c3e8bcfec0a5245040c80",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "Japan detects season's second bird flu outbreak, orders culling of 40,000 chickens",
-      "url": "https://tribune.com.pk/story/2640114/japan-detects-seasons-second-bird-flu-outbreak-orders-culling-of-40000-chickens",
-      "published_at": "2026-11-13T02:19:00.000Z",
-      "created_at": "2026-11-13 16:40:14",
-      "ai_at": null,
-      "dup_count": 1
+      "fingerprint": "42aa8547b9c4bfadbc212b9a893da128dbe28e4f",
+      "disease": "африканская чума свиней",
+      "country": "Вьетнам",
+      "distance_km": 1600,
+      "level": "наблюдение",
+      "verdict": "probable",
+      "ai_summary": "Вьетнам усиливает меры по предотвращению проникновения африканской чумы свиней из Лаоса",
+      "source_id": "bing-world-asf",
+      "title": "Vietnam's Quang Ngai tightens Laos border controls to curb African swine fever",
+      "url": "https://news.tuoitre.vn/vietnams-quang-ngai-tightens-laos-border-controls-to-curb-african-swine-fever-103261113181310109.htm",
+      "published_at": "2026-11-12T21:12:00.000Z",
+      "created_at": "2026-11-13 18:40:14",
+      "ai_at": "2026-11-13 18:40:18",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Vietnam's Thanh Hoa launches peak ASF campaign as outbreaks persist in 57 villages",
+          "url": "https://www.efeedlink.com/articles/vietnams-thanh-hoa-launches-peak-asf-campaign-as-outbreaks-persist-in-57-villages",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-11-09T16:00:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "786cf746a5d7d4e11ab9256d70d7fe0463127b03",
@@ -763,22 +777,6 @@
       ]
     },
     {
-      "fingerprint": "0b3c5649a5aa70cf0f1890b5aaa9bf46ec305ef5",
-      "disease": "африканская чума свиней",
-      "country": "Вьетнам",
-      "distance_km": 1600,
-      "level": "наблюдение",
-      "verdict": "confirmed",
-      "ai_summary": "Вьетнам запустил кампанию по борьбе с африканской чумой свиней после того, как в 57 деревнях подтвердились случаи этой болезни",
-      "source_id": "bing-world-asf",
-      "title": "Vietnam's Thanh Hoa launches peak ASF campaign as outbreaks persist in 57 villages",
-      "url": "https://www.efeedlink.com/articles/vietnams-thanh-hoa-launches-peak-asf-campaign-as-outbreaks-persist-in-57-villages",
-      "published_at": "2026-11-09T16:00:00.000Z",
-      "created_at": "2026-11-10 14:40:15",
-      "ai_at": "2026-11-10 14:40:32",
-      "dup_count": 1
-    },
-    {
       "fingerprint": "f69d1b14824424e82f003c3d8eca97e41c96730b",
       "disease": null,
       "country": "Молдова",
@@ -1128,19 +1126,13 @@
       "published_at": "2026-11-05T07:04:00.000Z",
       "created_at": "2026-11-05 18:40:14",
       "ai_at": "2026-11-05 18:40:20",
-      "dup_count": 3,
+      "dup_count": 2,
       "dups": [
         {
           "title": "Squeal on Pigs develops African swine fever plan",
           "url": "https://www.brandonsun.com/local/2026/11/05/squeal-on-pigs-develops-african-swine-fever-plan",
           "source_id": "bing-world-asf",
           "published_at": "2026-11-05T06:03:00.000Z"
-        },
-        {
-          "title": "Squeal on Pigs develops African swine fever plan",
-          "url": "https://www.brandonsun.com/westman-this-week/2026/11/05/squeal-on-pigs-develops-african-swine-fever-plan",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-11-04T23:01:00.000Z"
         }
       ]
     },
