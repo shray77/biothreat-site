@@ -1,7 +1,85 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-13T18:40:22.764Z",
+  "generated_at": "2026-11-13T22:40:22.638Z",
   "items": [
+    {
+      "fingerprint": "7e45066ad35fb744d39cd71bba118b2417dd077a",
+      "disease": "грипп птиц",
+      "country": "США",
+      "distance_km": 5000,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "В штате Висконсин подтвержден случай птичьего гриппа в домашнем курином дворе.",
+      "source_id": "bing-world-ai",
+      "title": "Backyard poultry flock in Wisconsin tests positive for highly pathogenic avian influenza",
+      "url": "https://www.yahoo.com/news/science/articles/backyard-poultry-flock-wisconsin-tests-183222233.html",
+      "published_at": "2026-11-13T10:32:00.000Z",
+      "created_at": "2026-11-13 22:40:14",
+      "ai_at": "2026-11-13 22:40:19",
+      "dup_count": 14,
+      "dups": [
+        {
+          "title": "National States' Ag Dept. Have Emerg. Meet with USADA RE: Avian Flu Outbreaks",
+          "url": "https://www.carboncountynews.com/news/national-states-ag-dept-have-emerg-meet-with-usada-re-avian-flu-outbreaks/article_12732eae-888c-4d8f-8f19-9149627deb9b.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-12T12:45:00.000Z"
+        },
+        {
+          "title": "Reports of highly pathogenic avian influenza",
+          "url": "https://lincolncityhomepage.com/reports-of-highly-pathogenic-avian-influenza/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-11T17:54:00.000Z"
+        },
+        {
+          "title": "Washington bird flu outbreak kills dairy worker in Yakima Valley",
+          "url": "https://www.msn.com/en-us/money/general/washington-bird-flu-outbreak-kills-dairy-worker-in-yakima-valley/vi-AA2hfHmD",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-11T17:16:37.000Z"
+        },
+        {
+          "title": "Washington bird flu outbreak kills dairy worker in Yakima Valley",
+          "url": "https://www.msn.com/en-us/news/other/washington-bird-flu-outbreak-kills-dairy-worker-in-yakima-valley/vi-AA2hfHmD",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-11T17:16:37.000Z"
+        },
+        {
+          "title": "Avian Flu Outbreak in Illinois Spread from Backyard Poultry to Mammals",
+          "url": "https://bioengineer.org/avian-flu-outbreak-in-illinois-spread-from-backyard-poultry-to-mammals/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-11T16:00:00.000Z"
+        },
+        {
+          "title": "Breaking: Avian influenza detected in Worcester County chicken flock",
+          "url": "https://www.delmarvanow.com/story/news/local/maryland/2026/11/11/avian-influenza-detected-in-worcester-county-chicken-flock-breaking/92725004007/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-11T08:44:00.000Z"
+        },
+        {
+          "title": "California bird flu outbreak hits 1.3 million laying hens ahead of holiday baking rush",
+          "url": "https://uk.news.yahoo.com/california-bird-flu-outbreak-hits-042000776.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-07T15:59:00.000Z"
+        },
+        {
+          "title": "SCDNR advises Public of Avian Influenza Activity in Wild Birds",
+          "url": "https://wnegradio.com/scdnr-advises-public-of-avian-influenza-activity-in-wild-birds/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-07T12:20:00.000Z"
+        },
+        {
+          "title": "SCDNR Advises Public of Avian Influenza Activity in Wild Birds",
+          "url": "https://www.fortmillsun.com/2026/11/06/scdnr-advises-public-of-avian-influenza-activity-in-wild-birds/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-06T13:58:00.000Z"
+        },
+        {
+          "title": "South Carolinians urged to take precautions against avian influenza. Here's what to know",
+          "url": "https://www.southcarolinapublicradio.org/sc-news/2026-11-06/south-carolinians-urged-to-take-precautions-against-avian-influenza-heres-what-to-know",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-06T12:40:00.000Z"
+        }
+      ]
+    },
     {
       "fingerprint": "3bcdb02a5a5fd43a756ba62e1cce4e1cd530b7ac",
       "disease": "грипп птиц",
@@ -137,84 +215,6 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "469122c7f1268d51ec18704406cbac1803442ea9",
-      "disease": "грипп птиц",
-      "country": "США",
-      "distance_km": 5000,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "Официальные лица требуют дополнительных средств для защиты молочного скота от HPAI",
-      "source_id": "bing-world-ai",
-      "title": "National States' Ag Dept. Have Emerg. Meet with USADA RE: Avian Flu Outbreaks",
-      "url": "https://www.carboncountynews.com/news/national-states-ag-dept-have-emerg-meet-with-usada-re-avian-flu-outbreaks/article_12732eae-888c-4d8f-8f19-9149627deb9b.html",
-      "published_at": "2026-11-12T12:45:00.000Z",
-      "created_at": "2026-11-13 02:40:14",
-      "ai_at": "2026-11-13 02:40:16",
-      "dup_count": 13,
-      "dups": [
-        {
-          "title": "Reports of highly pathogenic avian influenza",
-          "url": "https://lincolncityhomepage.com/reports-of-highly-pathogenic-avian-influenza/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-11T17:54:00.000Z"
-        },
-        {
-          "title": "Washington bird flu outbreak kills dairy worker in Yakima Valley",
-          "url": "https://www.msn.com/en-us/money/general/washington-bird-flu-outbreak-kills-dairy-worker-in-yakima-valley/vi-AA2hfHmD",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-11T17:16:37.000Z"
-        },
-        {
-          "title": "Washington bird flu outbreak kills dairy worker in Yakima Valley",
-          "url": "https://www.msn.com/en-us/news/other/washington-bird-flu-outbreak-kills-dairy-worker-in-yakima-valley/vi-AA2hfHmD",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-11T17:16:37.000Z"
-        },
-        {
-          "title": "Avian Flu Outbreak in Illinois Spread from Backyard Poultry to Mammals",
-          "url": "https://bioengineer.org/avian-flu-outbreak-in-illinois-spread-from-backyard-poultry-to-mammals/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-11T16:00:00.000Z"
-        },
-        {
-          "title": "Breaking: Avian influenza detected in Worcester County chicken flock",
-          "url": "https://www.delmarvanow.com/story/news/local/maryland/2026/11/11/avian-influenza-detected-in-worcester-county-chicken-flock-breaking/92725004007/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-11T08:44:00.000Z"
-        },
-        {
-          "title": "California bird flu outbreak hits 1.3 million laying hens ahead of holiday baking rush",
-          "url": "https://uk.news.yahoo.com/california-bird-flu-outbreak-hits-042000776.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-07T15:59:00.000Z"
-        },
-        {
-          "title": "SCDNR advises Public of Avian Influenza Activity in Wild Birds",
-          "url": "https://wnegradio.com/scdnr-advises-public-of-avian-influenza-activity-in-wild-birds/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-07T12:20:00.000Z"
-        },
-        {
-          "title": "SCDNR Advises Public of Avian Influenza Activity in Wild Birds",
-          "url": "https://www.fortmillsun.com/2026/11/06/scdnr-advises-public-of-avian-influenza-activity-in-wild-birds/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-06T13:58:00.000Z"
-        },
-        {
-          "title": "South Carolinians urged to take precautions against avian influenza. Here's what to know",
-          "url": "https://www.southcarolinapublicradio.org/sc-news/2026-11-06/south-carolinians-urged-to-take-precautions-against-avian-influenza-heres-what-to-know",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-06T12:40:00.000Z"
-        },
-        {
-          "title": "SCDNR issues advisory regarding avian influenza activity in wild birds",
-          "url": "https://www.coladaily.com/communities/scdnr-issues-advisory-regarding-avian-influenza-activity-in-wild-birds/article_103b85e8-629a-4099-b905-f91c65372946.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-06T07:56:00.000Z"
-        }
-      ]
-    },
-    {
       "fingerprint": "0af6833328089556054626406b81ea30f8e431a1",
       "disease": "африканская чума свиней",
       "country": "Финляндия",
@@ -268,7 +268,7 @@
       "published_at": "2026-11-12T05:56:00.000Z",
       "created_at": "2026-11-12 18:40:14",
       "ai_at": "2026-11-12 18:42:23",
-      "dup_count": 11,
+      "dup_count": 10,
       "dups": [
         {
           "title": "Hong Kong Suspends Poultry Imports from UK Due to H5N1 Avian Influenza Outbreak",
@@ -323,30 +323,32 @@
           "url": "https://www.peeblesshirenews.com/news/26706035.bird-flu-outbreak-near-biggar-prompts-new-control-zones/",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-06T08:55:00.000Z"
-        },
-        {
-          "title": "Bird flu outbreak confirmed at poultry farm",
-          "url": "https://www.yahoo.com/news/world/articles/bird-flu-outbreak-confirmed-poultry-110531612.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-05T03:05:00.000Z"
         }
       ]
     },
     {
-      "fingerprint": "3e3993810b393015ab77b16ebe1af3e2351b5cde",
+      "fingerprint": "89a284e80348247ffec676126a476fda04f85d7e",
       "disease": null,
       "country": null,
       "distance_km": null,
       "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
+      "verdict": "confirmed",
+      "ai_summary": "Вспышка птичьего гриппа рядом с домом принцев",
       "source_id": "bing-world-ai",
       "title": "George, Charlotte and Louis must keep pet chickens indoors as hundreds culled in bird flu outbreak",
-      "url": "https://www.msn.com/en-us/news/other/george-charlotte-and-louis-must-keep-pet-chickens-indoors-as-hundreds-culled-in-bird-flu-outbreak/ar-AA2hi5a3",
+      "url": "https://www.msn.com/en-us/money/general/george-charlotte-and-louis-must-keep-pet-chickens-indoors-as-hundreds-culled-in-bird-flu-outbreak/ar-AA2hi5a3",
       "published_at": "2026-11-12T03:49:45.000Z",
-      "created_at": "2026-11-13 02:40:14",
-      "ai_at": "2026-11-13 02:40:18",
-      "dup_count": 1
+      "created_at": "2026-11-13 22:40:14",
+      "ai_at": "2026-11-13 22:40:22",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "George, Charlotte and Louis must keep pet chickens indoors as hundreds culled in bird flu outbreak",
+          "url": "https://www.msn.com/en-us/news/other/george-charlotte-and-louis-must-keep-pet-chickens-indoors-as-hundreds-culled-in-bird-flu-outbreak/ar-AA2hi5a3",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-12T03:49:45.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "bf16a0e6be75ae77d7a662318442ac9694e103f6",
@@ -1135,22 +1137,6 @@
           "published_at": "2026-11-05T06:03:00.000Z"
         }
       ]
-    },
-    {
-      "fingerprint": "a065cd8254f6dc64317b91772852d48dd208b653",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "Hong Kong Bans Poultry From Norway, Britain Over Avian Influenza Concerns",
-      "url": "https://www.businesstoday.com.my/2026/11/05/hong-kong-bans-poultry-from-norway-britain-over-avian-influenza-concerns/",
-      "published_at": "2026-11-05T05:46:00.000Z",
-      "created_at": "2026-11-05 18:40:14",
-      "ai_at": "2026-11-05 18:40:23",
-      "dup_count": 1
     }
   ]
 }
