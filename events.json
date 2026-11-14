@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-14T18:40:27.552Z",
+  "generated_at": "2026-11-14T22:42:15.371Z",
   "items": [
+    {
+      "fingerprint": "6ac46ea4312d93c64008e5bf6c03cbc08f50f66c",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Breeders cull birds after avian flu outbreak at national poultry show in Sask.",
+      "url": "https://www.msn.com/en-ca/news/other/breeders-cull-birds-after-avian-flu-outbreak-at-national-poultry-show-in-sask/ar-AA2hrkAB",
+      "published_at": "2026-11-14T12:47:39.000Z",
+      "created_at": "2026-11-14 22:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
     {
       "fingerprint": "7b3a1c38149944ec599cf684fcba9c24ef10ab86",
       "disease": "грипп птиц",
@@ -918,15 +934,7 @@
       "published_at": "2026-11-09T00:11:00.000Z",
       "created_at": "2026-11-09 16:40:14",
       "ai_at": "2026-11-09 16:40:30",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Mexico reports bird flu outbreak in Yucatan Peninsula",
-          "url": "https://www.yahoo.com/news/world/articles/mexico-reports-bird-flu-outbreak-114426424.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-06T03:44:00.000Z"
-        }
-      ]
+      "dup_count": 1
     },
     {
       "fingerprint": "4e6c284329fa75395f9f07074d30ad65b089cccc",
