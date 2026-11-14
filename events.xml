@@ -6,6 +6,34 @@
     <description>Радар трансграничных болезней животных: ящур, АЧС, грипп птиц, нодулярный дерматит — с оценкой угрозы для РФ. Информационный сервис «как есть»: не официальная система оповещения, не ветеринарная консультация, ИИ и уровни могут ошибаться. Условия: https://shray77.github.io/biothreat-site/terms.html</description>
     <language>ru</language>
     <item>
+      <title>[граница] африканская чума свиней — Финляндия: Finland plans 83-kilometre electric fence to contain African swine fever</title>
+      <link>https://www.helsinkitimes.fi/finland/finland-news/domestic/29491-finland-plans-83-kilometre-electric-fence-to-contain-african-swine-fever.html</link>
+      <guid isPermaLink="false">544488955bbb8dcbdfd37e37eddd3c6922b391cd</guid>
+      <pubDate>Sat, 14 Nov 2026 00:07:00 GMT</pubDate>
+      <description>Планируется строительство в Финляндии электрифицированного забора для борьбы с африканской чумой свиней. · verdict: probable · Finland plans 83-kilometre electric fence to contain African swine fever</description>
+    </item>
+    <item>
+      <title>[наблюдение] африканская чума свиней — Вьетнам: African swine fever forces culling of 4,453 pigs in Vietnam's Vinh Long</title>
+      <link>https://news.tuoitre.vn/african-swine-fever-forces-culling-of-4453-pigs-in-vietnams-vinh-long-103261114145749075.htm</link>
+      <guid isPermaLink="false">231805e250a8df796879e15bd0654f564c8b9195</guid>
+      <pubDate>Fri, 13 Nov 2026 17:14:00 GMT</pubDate>
+      <description>В провинции Винь-Лонг выявлена африканская чума свиней, вырезано 4453 свиньи. · verdict: confirmed · African swine fever forces culling of 4,453 pigs in Vietnam's Vinh Long</description>
+    </item>
+    <item>
+      <title>[высокая] грипп птиц — Япония: Modified Environmental Surveillance Enhances Avian Influenza Monitoring at Japanese Crane Roosts</title>
+      <link>https://bioengineer.org/modified-environmental-surveillance-enhances-avian-influenza-monitoring-at-japanese-crane-roosts/</link>
+      <guid isPermaLink="false">c41e990ee9fc33320d5982abbbd04f666cf1b644</guid>
+      <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
+      <description>В Японии внедряют новую методику выявления вирусов гриппа птиц, которая повышает эффективность их обнаружения. · verdict: probable · Modified Environmental Surveillance Enhances Avian Influenza Monitoring at Japanese Crane Roosts</description>
+    </item>
+    <item>
+      <title>[фон] грипп птиц — Великобритания: New bird flu restrictions imposed across Wales amid rising outbreak threat</title>
+      <link>https://www.farminguk.com/news/new-bird-flu-restrictions-imposed-across-wales-amid-rising-outbreak-threat_69478.html</link>
+      <guid isPermaLink="false">aa33ab41ec948604ce3d496a5ff606d0cbd48014</guid>
+      <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
+      <description>В Уэльсе вводятся новые меры по предотвращению птичьего гриппа · verdict: probable · New bird flu restrictions imposed across Wales amid rising outbreak threat</description>
+    </item>
+    <item>
       <title>[фон] грипп птиц — Висконсин: Highly-Pathogenic Avian Influenza Found In Rusk County</title>
       <link>https://www.thefarmwi.com/highly-pathogenic-avian-influenza-found-in-rusk-county/</link>
       <guid isPermaLink="false">5fc50d2b5f882ce06339bc6ab25c6c8d03bccfdf</guid>
@@ -18,20 +46,6 @@
       <guid isPermaLink="false">7e45066ad35fb744d39cd71bba118b2417dd077a</guid>
       <pubDate>Fri, 13 Nov 2026 10:32:00 GMT</pubDate>
       <description>В штате Висконсин подтвержден случай птичьего гриппа в домашнем курином дворе. · verdict: confirmed · Backyard poultry flock in Wisconsin tests positive for highly pathogenic avian influenza</description>
-    </item>
-    <item>
-      <title>[высокая] грипп птиц — Япония: Japan detects season’s second bird flu outbreak</title>
-      <link>https://www.msn.com/en-my/health/general/japan-detects-season-s-second-bird-flu-outbreak/ar-AA2hmNzV</link>
-      <guid isPermaLink="false">3bcdb02a5a5fd43a756ba62e1cce4e1cd530b7ac</guid>
-      <pubDate>Fri, 13 Nov 2026 05:14:19 GMT</pubDate>
-      <description>В Японии выявлено второе за сезон случая гриппа птиц в домашней птице. · verdict: confirmed · Japan detects season’s second bird flu outbreak</description>
-    </item>
-    <item>
-      <title>[наблюдение] африканская чума свиней — Вьетнам: Vietnam's Quang Ngai tightens Laos border controls to curb African swine fever</title>
-      <link>https://news.tuoitre.vn/vietnams-quang-ngai-tightens-laos-border-controls-to-curb-african-swine-fever-103261113181310109.htm</link>
-      <guid isPermaLink="false">42aa8547b9c4bfadbc212b9a893da128dbe28e4f</guid>
-      <pubDate>Thu, 12 Nov 2026 21:12:00 GMT</pubDate>
-      <description>Вьетнам усиливает меры по предотвращению проникновения африканской чумы свиней из Лаоса · verdict: probable · Vietnam's Quang Ngai tightens Laos border controls to curb African swine fever</description>
     </item>
     <item>
       <title>[фон] США: Wisconsin bird flu outbreak forces culling of entire backyard flock</title>
@@ -55,25 +69,11 @@
       <description>Южноафриканская страна переживает худшую заражение африканской чумой свиней. · verdict: confirmed · How bad has the foot-and-mouth disease epidemic been?</description>
     </item>
     <item>
-      <title>[граница] африканская чума свиней — Финляндия: Finland plans to install 83 km of electric fencing due to ASF — YLE News</title>
-      <link>https://ua.news/en/dovkolo-svitu/finliandiia-planuie-vstanoviti-83-km-elektroogorozhi-cherez-achs-yle-news</link>
-      <guid isPermaLink="false">0af6833328089556054626406b81ea30f8e431a1</guid>
-      <pubDate>Thu, 12 Nov 2026 07:55:00 GMT</pubDate>
-      <description>Финляндия собирается установить в юго-восточной части 83-километровую временную электрифицированную ограждение, чтобы сдерживать африканскую чуму свиней у диких · verdict: probable · Finland plans to install 83 km of electric fencing due to ASF — YLE News</description>
-    </item>
-    <item>
       <title>[не определено] Нигерия: Nigerian Government Deploys Predictive Tool To Prevent Avian Influenza</title>
       <link>https://von.gov.ng/nigerian-government-deploys-predictive-tool-to-prevent-avian-influenza/</link>
       <guid isPermaLink="false">81068aa91ef6497df717553e696a8450fad6203b</guid>
       <pubDate>Thu, 12 Nov 2026 07:52:00 GMT</pubDate>
       <description>Нигерийское правительство развертывает prediction-tool для предотвращения птичьего гриппа · verdict: probable · Nigerian Government Deploys Predictive Tool To Prevent Avian Influenza</description>
-    </item>
-    <item>
-      <title>[фон] грипп птиц — Великобритания: News from our partners: National Housing Order declared to protect birds from Avian Influenza</title>
-      <link>https://newsroom.shropshire.gov.uk/2026/11/news-from-our-partners-national-housing-order-declared-protect-birds-avian-influenza/</link>
-      <guid isPermaLink="false">432cafd1428544ffe606107322675baacd04ce4a</guid>
-      <pubDate>Thu, 12 Nov 2026 05:56:00 GMT</pubDate>
-      <description>В Великобритании введено обязательное карантинное мероприятие для птицеводческих хозяйств из-за повышенного риска и роста числа случаев заболевания птиц гриппом · verdict: probable · News from our partners: National Housing Order declared to protect birds from Avian Influenza</description>
     </item>
     <item>
       <title>[не определено] George, Charlotte and Louis must keep pet chickens indoors as hundreds culled in bird flu outbreak</title>
@@ -347,27 +347,6 @@
       <guid isPermaLink="false">342c76a035f2dc66084b46b3be7d24d384954c16</guid>
       <pubDate>Thu, 05 Nov 2026 23:33:00 GMT</pubDate>
       <description>В Московской области сожжено более 800 тел скота, заболевшего нодулярным дерматитом · verdict: confirmed · Hundreds of cow carcasses reportedly burned near village outside Moscow following disease outbreak</description>
-    </item>
-    <item>
-      <title>[не определено] Greece Plans Livestock Sector Recovery Amid Disease Outbreaks</title>
-      <link>https://www.tovima.com/society/greece-plans-livestock-sector-recovery-amid-disease-outbreaks/</link>
-      <guid isPermaLink="false">0f7f83d6097b211f995c4dc7a9867b95e38ced6a</guid>
-      <pubDate>Thu, 05 Nov 2026 19:30:00 GMT</pubDate>
-      <description>Греция работает над восстановлением отрасли животноводства в условиях вспышек заболеваний · verdict: probable · Greece Plans Livestock Sector Recovery Amid Disease Outbreaks</description>
-    </item>
-    <item>
-      <title>[не определено] India prepares for foot-and-mouth disease threat after it spreads to 17 West Asian countries</title>
-      <link>https://www.newindianexpress.com/states/karnataka/2026/Nov/06/india-prepares-for-foot-and-mouth-disease-threat-after-it-spreads-to-17-west-asian-countries</link>
-      <guid isPermaLink="false">7ea8f31d7438a68f04b82c736e54f7fbaf234abd</guid>
-      <pubDate>Thu, 05 Nov 2026 19:03:00 GMT</pubDate>
-      <description>verdict: probable · India prepares for foot-and-mouth disease threat after it spreads to 17 West Asian countries</description>
-    </item>
-    <item>
-      <title>[не определено] грипп птиц: Gyeonggi Province Strengthens Quarantine Measures to Prevent Spread of Avian Influenza</title>
-      <link>https://news.sbs.co.kr/english/article.do?news_id=N1008833848</link>
-      <guid isPermaLink="false">62a0ac9fedf4b0cfa11171d6b27e3e6aa2014783</guid>
-      <pubDate>Thu, 05 Nov 2026 13:16:00 GMT</pubDate>
-      <description>Провинция Гьонгги усиливает меры по проверке для предотвращения распространения гриппа птиц · verdict: probable · Gyeonggi Province Strengthens Quarantine Measures to Prevent Spread of Avian Influenza</description>
     </item>
   </channel>
 </rss>
