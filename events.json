@@ -1,7 +1,53 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-14T10:40:34.027Z",
+  "generated_at": "2026-11-14T18:40:27.552Z",
   "items": [
+    {
+      "fingerprint": "7b3a1c38149944ec599cf684fcba9c24ef10ab86",
+      "disease": "грипп птиц",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "В районе Куддалоре подтверждена вспышка гриппа птиц, введен запрет на содержание птицы в течение 90 дней.",
+      "source_id": "bing-world-ai",
+      "title": "Avian influenza outbreak confirmed in Cuddalore district",
+      "url": "https://www.msn.com/en-in/news/other/avian-influenza-outbreak-confirmed-in-cuddalore-district/ar-AA2hpXkj",
+      "published_at": "2026-11-14T03:52:58.000Z",
+      "created_at": "2026-11-14 18:40:15",
+      "ai_at": "2026-11-14 18:40:19",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "36b23c917daf4e9f49bec198d4098f50402d254b",
+      "disease": "грипп птиц",
+      "country": "Индия",
+      "distance_km": 3000,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "Болезнь птиц выявлена в индийском штате Тамилнад, убиты более 1550 птиц",
+      "source_id": "bing-world-ai",
+      "title": "Avian influenza confirmed in Tamil Nadu’s Cuddalore; over 1,500 chickens culled",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/avian-influenza-confirmed-in-cuddalore-over-1500-chickens-culled/article71701325.ece",
+      "published_at": "2026-11-14T01:46:00.000Z",
+      "created_at": "2026-11-14 18:40:15",
+      "ai_at": "2026-11-14 18:40:23",
+      "dup_count": 3,
+      "dups": [
+        {
+          "title": "After Maharashtra bird flu outbreak, why are poultry farmers seeking H5N1 vaccination?",
+          "url": "https://indianexpress.com/article/health-wellness/after-maharashtra-bird-flu-outbreak-why-are-poultry-farmers-seeking-h5n1-vaccination-10957398/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-09T23:01:00.000Z"
+        },
+        {
+          "title": "India holds National Exercise to bolster preparedness against Foot-and-Mouth Disease SAT-1",
+          "url": "https://www.indiatribune.com/public/india-holds-national-exercise-to-bolster-preparedness-against-foot-and-mouth-disease-sat-1",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-11-06T05:01:00.000Z"
+        }
+      ]
+    },
     {
       "fingerprint": "544488955bbb8dcbdfd37e37eddd3c6922b391cd",
       "disease": "африканская чума свиней",
@@ -314,6 +360,22 @@
       "published_at": "2026-11-12T20:07:00.000Z",
       "created_at": "2026-11-13 16:40:14",
       "ai_at": "2026-11-13 16:42:30",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "c28eed377617b9c1ad23f3500fa32119e423e1fd",
+      "disease": "нодулярный дерматит",
+      "country": "Япония",
+      "distance_km": 60,
+      "level": "высокая",
+      "verdict": "confirmed",
+      "ai_summary": "Зафиксированы вспышки нодулярного дерматита в префектурах Фукуока, Нагасаки и Кагосима",
+      "source_id": "bing-world-lsd",
+      "title": "⚠️ Successive outbreaks in Kyushu! / Please be vigilant against Lumpy Skin Disease",
+      "url": "https://note.com/nosai_miyazaki/n/n3e5fd380269c?hl=en",
+      "published_at": "2026-11-12T17:49:00.000Z",
+      "created_at": "2026-11-14 18:40:15",
+      "ai_at": "2026-11-14 18:40:26",
       "dup_count": 1
     },
     {
@@ -795,36 +857,6 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "53be6f59e5ee75c94d3457682bdb8c897e690088",
-      "disease": "грипп птиц",
-      "country": "Индия",
-      "distance_km": 3000,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "Птицеводческие фермеры требуют вакцинации после вспышки птичьего гриппа в штате Махараштра",
-      "source_id": "bing-world-ai",
-      "title": "After Maharashtra bird flu outbreak, why are poultry farmers seeking H5N1 vaccination?",
-      "url": "https://indianexpress.com/article/health-wellness/after-maharashtra-bird-flu-outbreak-why-are-poultry-farmers-seeking-h5n1-vaccination-10957398/",
-      "published_at": "2026-11-09T23:01:00.000Z",
-      "created_at": "2026-11-10 08:40:14",
-      "ai_at": "2026-11-10 08:40:18",
-      "dup_count": 3,
-      "dups": [
-        {
-          "title": "India holds National Exercise to bolster preparedness against Foot-and-Mouth Disease SAT-1",
-          "url": "https://www.indiatribune.com/public/india-holds-national-exercise-to-bolster-preparedness-against-foot-and-mouth-disease-sat-1",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-11-06T05:01:00.000Z"
-        },
-        {
-          "title": "India holds National Exercise to bolster preparedness against Foot-and-Mouth Disease SAT-1",
-          "url": "https://www.bizzbuzz.news/industry/agriculture/india-holds-national-exercise-to-bolster-preparedness-against-foot-and-mouth-disease-sat-1-1414271",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-11-06T00:11:00.000Z"
-        }
-      ]
-    },
-    {
       "fingerprint": "f69d1b14824424e82f003c3d8eca97e41c96730b",
       "disease": null,
       "country": "Молдова",
@@ -1070,38 +1102,6 @@
       "published_at": "2026-11-06T07:46:00.000Z",
       "created_at": "2026-11-06 22:40:14",
       "ai_at": "2026-11-06 22:40:31",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "a5e8fc5aa8e214d47e1be03ef302554d760a2f1d",
-      "disease": "грипп птиц",
-      "country": "Орегон",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "Выявлен грипп птиц в птицеферме в Орегоне, убито почти 95 тысяч кур.",
-      "source_id": "bing-world-ai",
-      "title": "Nearly 95,000 chickens euthanized after Oregon bird flu outbreak",
-      "url": "https://youroregonnews.com/2026/11/06/nearly-95000-chickens-euthanized-after-oregon-bird-flu-outbreak-2/",
-      "published_at": "2026-11-06T03:17:00.000Z",
-      "created_at": "2026-11-07 02:40:14",
-      "ai_at": "2026-11-07 02:40:27",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "342c76a035f2dc66084b46b3be7d24d384954c16",
-      "disease": "нодулярный дерматит",
-      "country": "Россия",
-      "distance_km": 0,
-      "level": "граница",
-      "verdict": "confirmed",
-      "ai_summary": "В Московской области сожжено более 800 тел скота, заболевшего нодулярным дерматитом",
-      "source_id": "bing-world-lsd",
-      "title": "Hundreds of cow carcasses reportedly burned near village outside Moscow following disease outbreak",
-      "url": "https://meduza.io/en/news/2026/11/06/hundreds-of-cow-carcasses-reportedly-burned-near-village-outside-moscow-following-disease-outbreak",
-      "published_at": "2026-11-05T23:33:00.000Z",
-      "created_at": "2026-11-06 20:40:14",
-      "ai_at": "2026-11-06 20:40:18",
       "dup_count": 1
     }
   ]
