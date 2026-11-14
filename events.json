@@ -1,7 +1,211 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-14T04:40:24.463Z",
+  "generated_at": "2026-11-14T10:40:34.027Z",
   "items": [
+    {
+      "fingerprint": "544488955bbb8dcbdfd37e37eddd3c6922b391cd",
+      "disease": "африканская чума свиней",
+      "country": "Финляндия",
+      "distance_km": 0,
+      "level": "граница",
+      "verdict": "probable",
+      "ai_summary": "Планируется строительство в Финляндии электрифицированного забора для борьбы с африканской чумой свиней.",
+      "source_id": "bing-world-asf",
+      "title": "Finland plans 83-kilometre electric fence to contain African swine fever",
+      "url": "https://www.helsinkitimes.fi/finland/finland-news/domestic/29491-finland-plans-83-kilometre-electric-fence-to-contain-african-swine-fever.html",
+      "published_at": "2026-11-14T00:07:00.000Z",
+      "created_at": "2026-11-14 10:40:14",
+      "ai_at": "2026-11-14 10:40:18",
+      "dup_count": 3,
+      "dups": [
+        {
+          "title": "Finland plans to install 83 km of electric fencing due to ASF — YLE News",
+          "url": "https://ua.news/en/dovkolo-svitu/finliandiia-planuie-vstanoviti-83-km-elektroogorozhi-cherez-achs-yle-news",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-11-12T07:55:00.000Z"
+        },
+        {
+          "title": "Finland building 83-km fence to contain African swine fever outbreak in wild boar",
+          "url": "https://yle.fi/a/74-20256634",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-11-12T05:35:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "231805e250a8df796879e15bd0654f564c8b9195",
+      "disease": "африканская чума свиней",
+      "country": "Вьетнам",
+      "distance_km": 1600,
+      "level": "наблюдение",
+      "verdict": "confirmed",
+      "ai_summary": "В провинции Винь-Лонг выявлена африканская чума свиней, вырезано 4453 свиньи.",
+      "source_id": "bing-world-asf",
+      "title": "African swine fever forces culling of 4,453 pigs in Vietnam's Vinh Long",
+      "url": "https://news.tuoitre.vn/african-swine-fever-forces-culling-of-4453-pigs-in-vietnams-vinh-long-103261114145749075.htm",
+      "published_at": "2026-11-13T17:14:00.000Z",
+      "created_at": "2026-11-14 10:40:14",
+      "ai_at": "2026-11-14 10:40:22",
+      "dup_count": 3,
+      "dups": [
+        {
+          "title": "Vietnam's Quang Ngai tightens Laos border controls to curb African swine fever",
+          "url": "https://news.tuoitre.vn/vietnams-quang-ngai-tightens-laos-border-controls-to-curb-african-swine-fever-103261113181310109.htm",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-11-12T21:12:00.000Z"
+        },
+        {
+          "title": "Vietnam's Thanh Hoa launches peak ASF campaign as outbreaks persist in 57 villages",
+          "url": "https://www.efeedlink.com/articles/vietnams-thanh-hoa-launches-peak-asf-campaign-as-outbreaks-persist-in-57-villages",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-11-09T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "c41e990ee9fc33320d5982abbbd04f666cf1b644",
+      "disease": "грипп птиц",
+      "country": "Япония",
+      "distance_km": 60,
+      "level": "высокая",
+      "verdict": "probable",
+      "ai_summary": "В Японии внедряют новую методику выявления вирусов гриппа птиц, которая повышает эффективность их обнаружения.",
+      "source_id": "bing-world-ai",
+      "title": "Modified Environmental Surveillance Enhances Avian Influenza Monitoring at Japanese Crane Roosts",
+      "url": "https://bioengineer.org/modified-environmental-surveillance-enhances-avian-influenza-monitoring-at-japanese-crane-roosts/",
+      "published_at": "2026-11-13T16:00:00.000Z",
+      "created_at": "2026-11-14 10:40:14",
+      "ai_at": "2026-11-14 10:40:26",
+      "dup_count": 9,
+      "dups": [
+        {
+          "title": "Japan detects season's second bird flu outbreak, orders culling of 40,000 chickens",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/13/japan-detects-season039s-second-bird-flu-outbreak-orders-culling-of-40000-chickens",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-13T11:16:00.000Z"
+        },
+        {
+          "title": "Japan detects season’s second bird flu outbreak",
+          "url": "https://www.msn.com/en-my/health/general/japan-detects-season-s-second-bird-flu-outbreak/ar-AA2hmNzV",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-13T05:14:19.000Z"
+        },
+        {
+          "title": "Japan detects season's second bird flu outbreak, orders culling of 40,000 chickens",
+          "url": "https://www.aa.com.tr/en/asia-pacific/japan-detects-seasons-second-bird-flu-outbreak-orders-culling-of-40-000-chickens/4123845",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-13T04:38:00.000Z"
+        },
+        {
+          "title": "Japan detects season's second bird flu outbreak, orders culling of 40,000 chickens",
+          "url": "https://tribune.com.pk/story/2640114/japan-detects-seasons-second-bird-flu-outbreak-orders-culling-of-40000-chickens",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-13T02:19:00.000Z"
+        },
+        {
+          "title": "Japan confirms 2nd bird flu outbreak of the season",
+          "url": "https://english.news.cn/20261113/a6f6b306765d43afa77c2641b28a75ec/c.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-12T18:18:00.000Z"
+        },
+        {
+          "title": "First Avian Influenza Case of the Season Confirmed at Chicken Farm in Kyoto, Japan",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008843168",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-11T17:07:00.000Z"
+        },
+        {
+          "title": "Japan braces for bird flu outbreak after first farm case",
+          "url": "https://www3.nhk.or.jp/nhkworld/news/20261112de74866/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-11T16:00:00.000Z"
+        },
+        {
+          "title": "Japan reports 1st bird flu outbreak of the season",
+          "url": "https://english.news.cn/20261112/d7358a6a7c2640529eff609c999ff288/c.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-11T15:42:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "aa33ab41ec948604ce3d496a5ff606d0cbd48014",
+      "disease": "грипп птиц",
+      "country": "Великобритания",
+      "distance_km": 2500,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "В Уэльсе вводятся новые меры по предотвращению птичьего гриппа",
+      "source_id": "bing-world-ai",
+      "title": "New bird flu restrictions imposed across Wales amid rising outbreak threat",
+      "url": "https://www.farminguk.com/news/new-bird-flu-restrictions-imposed-across-wales-amid-rising-outbreak-threat_69478.html",
+      "published_at": "2026-11-13T16:00:00.000Z",
+      "created_at": "2026-11-14 10:40:14",
+      "ai_at": "2026-11-14 10:40:29",
+      "dup_count": 11,
+      "dups": [
+        {
+          "title": "News from our partners: National Housing Order declared to protect birds from Avian Influenza",
+          "url": "https://newsroom.shropshire.gov.uk/2026/11/news-from-our-partners-national-housing-order-declared-protect-birds-avian-influenza/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-12T05:56:00.000Z"
+        },
+        {
+          "title": "Hong Kong Suspends Poultry Imports from UK Due to H5N1 Avian Influenza Outbreak",
+          "url": "https://www.bastillepost.com/global/article/6344516-hong-kong-suspends-poultry-imports-from-uk-due-to-h5n1-avian-influenza-outbreak",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-10T11:27:00.000Z"
+        },
+        {
+          "title": "Another poultry farm hit by bird flu as Norfolk outbreak confirmed",
+          "url": "https://www.farminguk.com/news/another-poultry-farm-hit-by-bird-flu-as-norfolk-outbreak-confirmed_69451.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-09T16:00:00.000Z"
+        },
+        {
+          "title": "Bird flu outbreak at Garstang farm means chickens culled and protection zone in place",
+          "url": "https://www.blogpreston.co.uk/2026/11/bird-flu-outbreak-at-garstang-farm-means-chickens-culled-and-protection-zone-in-place/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-09T08:34:00.000Z"
+        },
+        {
+          "title": "Bird flu outbreak confirmed at Lancashire poultry farm near Garstang",
+          "url": "https://www.lep.co.uk/news/bird-flu-outbreak-confirmed-at-lancashire-poultry-farm-near-garstang-9337370",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-08T03:45:00.000Z"
+        },
+        {
+          "title": "Bird flu outbreak confirmed at Lancashire poultry farm near Garstang with 3km protection zone in force",
+          "url": "https://www.blackpoolgazette.co.uk/news/bird-flu-outbreak-confirmed-at-lancashire-poultry-farm-near-garstang-with-3km-protection-zone-in-force-9337337",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-08T03:38:00.000Z"
+        },
+        {
+          "title": "Bird flu outbreak confirmed at Lancashire poultry farm near Garstang with 3km protection zone in force",
+          "url": "https://www.blackpoolgazette.co.uk/news/bird-flu-outbreak-confirmed-at-lancashire-poultry-farm-near-garstang-with-3km-protection-zone-in-force-9337337?itm_source=Internal&itm_campaign=breaking-news-ticker&itm_channel=homepage_banner&itm_content=8",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-08T03:38:00.000Z"
+        },
+        {
+          "title": "Bird flu outbreak confirmed at Lancashire poultry farm near Garstang with 3km protection zone in force",
+          "url": "https://www.blackpoolgazette.co.uk/news/bird-flu-outbreak-confirmed-at-lancashire-poultry-farm-near-garstang-with-3km-protection-zone-in-force-9337337?itm_source=Internal&itm_campaign=breaking-news-ticker&itm_channel=homepage_banner&itm_content=4",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-08T03:38:00.000Z"
+        },
+        {
+          "title": "Two new bird flu outbreaks hit poultry farms in Yorkshire and Lancashire",
+          "url": "https://www.farminguk.com/news/two-new-bird-flu-outbreaks-hit-poultry-farms-in-yorkshire-and-lancashire_69440.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-07T15:59:00.000Z"
+        },
+        {
+          "title": "Bird flu outbreak near Biggar prompts new control zones",
+          "url": "https://www.peeblesshirenews.com/news/26706035.bird-flu-outbreak-near-biggar-prompts-new-control-zones/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-06T08:55:00.000Z"
+        }
+      ]
+    },
     {
       "fingerprint": "5fc50d2b5f882ce06339bc6ab25c6c8d03bccfdf",
       "disease": "грипп птиц",
@@ -97,84 +301,6 @@
       ]
     },
     {
-      "fingerprint": "3bcdb02a5a5fd43a756ba62e1cce4e1cd530b7ac",
-      "disease": "грипп птиц",
-      "country": "Япония",
-      "distance_km": 60,
-      "level": "высокая",
-      "verdict": "confirmed",
-      "ai_summary": "В Японии выявлено второе за сезон случая гриппа птиц в домашней птице.",
-      "source_id": "bing-world-ai",
-      "title": "Japan detects season’s second bird flu outbreak",
-      "url": "https://www.msn.com/en-my/health/general/japan-detects-season-s-second-bird-flu-outbreak/ar-AA2hmNzV",
-      "published_at": "2026-11-13T05:14:19.000Z",
-      "created_at": "2026-11-13 16:40:14",
-      "ai_at": "2026-11-13 16:40:26",
-      "dup_count": 7,
-      "dups": [
-        {
-          "title": "Japan detects season's second bird flu outbreak, orders culling of 40,000 chickens",
-          "url": "https://www.aa.com.tr/en/asia-pacific/japan-detects-seasons-second-bird-flu-outbreak-orders-culling-of-40-000-chickens/4123845",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-13T04:38:00.000Z"
-        },
-        {
-          "title": "Japan detects season's second bird flu outbreak, orders culling of 40,000 chickens",
-          "url": "https://tribune.com.pk/story/2640114/japan-detects-seasons-second-bird-flu-outbreak-orders-culling-of-40000-chickens",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-13T02:19:00.000Z"
-        },
-        {
-          "title": "Japan confirms 2nd bird flu outbreak of the season",
-          "url": "https://english.news.cn/20261113/a6f6b306765d43afa77c2641b28a75ec/c.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-12T18:18:00.000Z"
-        },
-        {
-          "title": "First Avian Influenza Case of the Season Confirmed at Chicken Farm in Kyoto, Japan",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008843168",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-11T17:07:00.000Z"
-        },
-        {
-          "title": "Japan braces for bird flu outbreak after first farm case",
-          "url": "https://www3.nhk.or.jp/nhkworld/news/20261112de74866/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-11T16:00:00.000Z"
-        },
-        {
-          "title": "Japan reports 1st bird flu outbreak of the season",
-          "url": "https://english.news.cn/20261112/d7358a6a7c2640529eff609c999ff288/c.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-11T15:42:00.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "42aa8547b9c4bfadbc212b9a893da128dbe28e4f",
-      "disease": "африканская чума свиней",
-      "country": "Вьетнам",
-      "distance_km": 1600,
-      "level": "наблюдение",
-      "verdict": "probable",
-      "ai_summary": "Вьетнам усиливает меры по предотвращению проникновения африканской чумы свиней из Лаоса",
-      "source_id": "bing-world-asf",
-      "title": "Vietnam's Quang Ngai tightens Laos border controls to curb African swine fever",
-      "url": "https://news.tuoitre.vn/vietnams-quang-ngai-tightens-laos-border-controls-to-curb-african-swine-fever-103261113181310109.htm",
-      "published_at": "2026-11-12T21:12:00.000Z",
-      "created_at": "2026-11-13 18:40:14",
-      "ai_at": "2026-11-13 18:40:18",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Vietnam's Thanh Hoa launches peak ASF campaign as outbreaks persist in 57 villages",
-          "url": "https://www.efeedlink.com/articles/vietnams-thanh-hoa-launches-peak-asf-campaign-as-outbreaks-persist-in-57-villages",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-11-09T16:00:00.000Z"
-        }
-      ]
-    },
-    {
       "fingerprint": "786cf746a5d7d4e11ab9256d70d7fe0463127b03",
       "disease": null,
       "country": "США",
@@ -237,30 +363,6 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "0af6833328089556054626406b81ea30f8e431a1",
-      "disease": "африканская чума свиней",
-      "country": "Финляндия",
-      "distance_km": 0,
-      "level": "граница",
-      "verdict": "probable",
-      "ai_summary": "Финляндия собирается установить в юго-восточной части 83-километровую временную электрифицированную ограждение, чтобы сдерживать африканскую чуму свиней у диких",
-      "source_id": "bing-world-asf",
-      "title": "Finland plans to install 83 km of electric fencing due to ASF — YLE News",
-      "url": "https://ua.news/en/dovkolo-svitu/finliandiia-planuie-vstanoviti-83-km-elektroogorozhi-cherez-achs-yle-news",
-      "published_at": "2026-11-12T07:55:00.000Z",
-      "created_at": "2026-11-12 18:40:14",
-      "ai_at": "2026-11-12 20:42:20",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Finland building 83-km fence to contain African swine fever outbreak in wild boar",
-          "url": "https://yle.fi/a/74-20256634",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-11-12T05:35:00.000Z"
-        }
-      ]
-    },
-    {
       "fingerprint": "81068aa91ef6497df717553e696a8450fad6203b",
       "disease": null,
       "country": "Нигерия",
@@ -275,78 +377,6 @@
       "created_at": "2026-11-12 18:40:14",
       "ai_at": "2026-11-12 18:42:18",
       "dup_count": 1
-    },
-    {
-      "fingerprint": "432cafd1428544ffe606107322675baacd04ce4a",
-      "disease": "грипп птиц",
-      "country": "Великобритания",
-      "distance_km": 2500,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "В Великобритании введено обязательное карантинное мероприятие для птицеводческих хозяйств из-за повышенного риска и роста числа случаев заболевания птиц гриппом",
-      "source_id": "bing-world-ai",
-      "title": "News from our partners: National Housing Order declared to protect birds from Avian Influenza",
-      "url": "https://newsroom.shropshire.gov.uk/2026/11/news-from-our-partners-national-housing-order-declared-protect-birds-avian-influenza/",
-      "published_at": "2026-11-12T05:56:00.000Z",
-      "created_at": "2026-11-12 18:40:14",
-      "ai_at": "2026-11-12 18:42:23",
-      "dup_count": 10,
-      "dups": [
-        {
-          "title": "Hong Kong Suspends Poultry Imports from UK Due to H5N1 Avian Influenza Outbreak",
-          "url": "https://www.bastillepost.com/global/article/6344516-hong-kong-suspends-poultry-imports-from-uk-due-to-h5n1-avian-influenza-outbreak",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-10T11:27:00.000Z"
-        },
-        {
-          "title": "Another poultry farm hit by bird flu as Norfolk outbreak confirmed",
-          "url": "https://www.farminguk.com/news/another-poultry-farm-hit-by-bird-flu-as-norfolk-outbreak-confirmed_69451.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-09T16:00:00.000Z"
-        },
-        {
-          "title": "Bird flu outbreak at Garstang farm means chickens culled and protection zone in place",
-          "url": "https://www.blogpreston.co.uk/2026/11/bird-flu-outbreak-at-garstang-farm-means-chickens-culled-and-protection-zone-in-place/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-09T08:34:00.000Z"
-        },
-        {
-          "title": "Bird flu outbreak confirmed at Lancashire poultry farm near Garstang",
-          "url": "https://www.lep.co.uk/news/bird-flu-outbreak-confirmed-at-lancashire-poultry-farm-near-garstang-9337370",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-08T03:45:00.000Z"
-        },
-        {
-          "title": "Bird flu outbreak confirmed at Lancashire poultry farm near Garstang with 3km protection zone in force",
-          "url": "https://www.blackpoolgazette.co.uk/news/bird-flu-outbreak-confirmed-at-lancashire-poultry-farm-near-garstang-with-3km-protection-zone-in-force-9337337",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-08T03:38:00.000Z"
-        },
-        {
-          "title": "Bird flu outbreak confirmed at Lancashire poultry farm near Garstang with 3km protection zone in force",
-          "url": "https://www.blackpoolgazette.co.uk/news/bird-flu-outbreak-confirmed-at-lancashire-poultry-farm-near-garstang-with-3km-protection-zone-in-force-9337337?itm_source=Internal&itm_campaign=breaking-news-ticker&itm_channel=homepage_banner&itm_content=8",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-08T03:38:00.000Z"
-        },
-        {
-          "title": "Bird flu outbreak confirmed at Lancashire poultry farm near Garstang with 3km protection zone in force",
-          "url": "https://www.blackpoolgazette.co.uk/news/bird-flu-outbreak-confirmed-at-lancashire-poultry-farm-near-garstang-with-3km-protection-zone-in-force-9337337?itm_source=Internal&itm_campaign=breaking-news-ticker&itm_channel=homepage_banner&itm_content=4",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-08T03:38:00.000Z"
-        },
-        {
-          "title": "Two new bird flu outbreaks hit poultry farms in Yorkshire and Lancashire",
-          "url": "https://www.farminguk.com/news/two-new-bird-flu-outbreaks-hit-poultry-farms-in-yorkshire-and-lancashire_69440.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-07T15:59:00.000Z"
-        },
-        {
-          "title": "Bird flu outbreak near Biggar prompts new control zones",
-          "url": "https://www.peeblesshirenews.com/news/26706035.bird-flu-outbreak-near-biggar-prompts-new-control-zones/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-06T08:55:00.000Z"
-        }
-      ]
     },
     {
       "fingerprint": "89a284e80348247ffec676126a476fda04f85d7e",
@@ -640,7 +670,7 @@
       "published_at": "2026-11-10T19:34:00.000Z",
       "created_at": "2026-11-11 16:40:15",
       "ai_at": "2026-11-11 16:40:29",
-      "dup_count": 6,
+      "dup_count": 5,
       "dups": [
         {
           "title": "Hong Kong Suspends Poultry Imports from Areas in Korea and US Amid Avian Influenza Outbreaks",
@@ -665,12 +695,6 @@
           "url": "https://www.msn.com/en-ca/news/other/over-300-000-birds-culled-after-bird-flu-outbreaks-detected-in-south-korea-mexico/ar-AA2gT0kD",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-06T06:30:03.000Z"
-        },
-        {
-          "title": "“H5 avian influenza antigen detected at duck farm in Jangheung” ... Gwangju Special City launches emergency containment measures",
-          "url": "https://en.fnnews.com/news/202611061247269145",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-05T14:56:00.000Z"
         }
       ]
     },
@@ -1078,62 +1102,6 @@
       "published_at": "2026-11-05T23:33:00.000Z",
       "created_at": "2026-11-06 20:40:14",
       "ai_at": "2026-11-06 20:40:18",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Hundreds of cow carcasses reportedly burned near village outside Moscow following disease outbreak",
-          "url": "https://meduza.io/en/news/2026/11/06/hundreds-of-cow-carcasses-reportedly-burned-near-village-outside-moscow-following-disease-outbreak",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-11-05T23:33:00.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "0f7f83d6097b211f995c4dc7a9867b95e38ced6a",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Греция работает над восстановлением отрасли животноводства в условиях вспышек заболеваний",
-      "source_id": "bing-world-fmd",
-      "title": "Greece Plans Livestock Sector Recovery Amid Disease Outbreaks",
-      "url": "https://www.tovima.com/society/greece-plans-livestock-sector-recovery-amid-disease-outbreaks/",
-      "published_at": "2026-11-05T19:30:00.000Z",
-      "created_at": "2026-11-06 18:40:14",
-      "ai_at": "2026-11-06 18:40:40",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "7ea8f31d7438a68f04b82c736e54f7fbaf234abd",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-fmd",
-      "title": "India prepares for foot-and-mouth disease threat after it spreads to 17 West Asian countries",
-      "url": "https://www.newindianexpress.com/states/karnataka/2026/Nov/06/india-prepares-for-foot-and-mouth-disease-threat-after-it-spreads-to-17-west-asian-countries",
-      "published_at": "2026-11-05T19:03:00.000Z",
-      "created_at": "2026-11-06 06:40:14",
-      "ai_at": "2026-11-06 06:40:17",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "62a0ac9fedf4b0cfa11171d6b27e3e6aa2014783",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Провинция Гьонгги усиливает меры по проверке для предотвращения распространения гриппа птиц",
-      "source_id": "bing-world-ai",
-      "title": "Gyeonggi Province Strengthens Quarantine Measures to Prevent Spread of Avian Influenza",
-      "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008833848",
-      "published_at": "2026-11-05T13:16:00.000Z",
-      "created_at": "2026-11-06 06:40:14",
-      "ai_at": "2026-11-06 06:40:25",
       "dup_count": 1
     }
   ]
