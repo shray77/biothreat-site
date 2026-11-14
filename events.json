@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-13T22:40:22.638Z",
+  "generated_at": "2026-11-14T04:40:24.463Z",
   "items": [
+    {
+      "fingerprint": "5fc50d2b5f882ce06339bc6ab25c6c8d03bccfdf",
+      "disease": "грипп птиц",
+      "country": "Висконсин",
+      "distance_km": 5000,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "зарегистрирован новый случай высокопатогенного гриппа птиц в штате Висконсин",
+      "source_id": "bing-world-ai",
+      "title": "Highly-Pathogenic Avian Influenza Found In Rusk County",
+      "url": "https://www.thefarmwi.com/highly-pathogenic-avian-influenza-found-in-rusk-county/",
+      "published_at": "2026-11-13T13:44:00.000Z",
+      "created_at": "2026-11-14 04:40:14",
+      "ai_at": "2026-11-14 04:40:18",
+      "dup_count": 1
+    },
     {
       "fingerprint": "7e45066ad35fb744d39cd71bba118b2417dd077a",
       "disease": "грипп птиц",
@@ -18,6 +34,12 @@
       "ai_at": "2026-11-13 22:40:19",
       "dup_count": 14,
       "dups": [
+        {
+          "title": "OREGON DEPT. OF FISH & WILDLIFE: Reports of highly pathogenic avian influenza in ducks and geese increasing in Willamette Valley",
+          "url": "https://www.tillamookcountypioneer.net/oregon-dept-of-fish-wildlife-reports-of-highly-pathogenic-avian-influenza-in-ducks-and-geese-increasing-in-willamette-valley/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-12T16:00:00.000Z"
+        },
         {
           "title": "National States' Ag Dept. Have Emerg. Meet with USADA RE: Avian Flu Outbreaks",
           "url": "https://www.carboncountynews.com/news/national-states-ag-dept-have-emerg-meet-with-usada-re-avian-flu-outbreaks/article_12732eae-888c-4d8f-8f19-9149627deb9b.html",
@@ -71,12 +93,6 @@
           "url": "https://www.fortmillsun.com/2026/11/06/scdnr-advises-public-of-avian-influenza-activity-in-wild-birds/",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-06T13:58:00.000Z"
-        },
-        {
-          "title": "South Carolinians urged to take precautions against avian influenza. Here's what to know",
-          "url": "https://www.southcarolinapublicradio.org/sc-news/2026-11-06/south-carolinians-urged-to-take-precautions-against-avian-influenza-heres-what-to-know",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-06T12:40:00.000Z"
         }
       ]
     },
@@ -94,8 +110,14 @@
       "published_at": "2026-11-13T05:14:19.000Z",
       "created_at": "2026-11-13 16:40:14",
       "ai_at": "2026-11-13 16:40:26",
-      "dup_count": 6,
+      "dup_count": 7,
       "dups": [
+        {
+          "title": "Japan detects season's second bird flu outbreak, orders culling of 40,000 chickens",
+          "url": "https://www.aa.com.tr/en/asia-pacific/japan-detects-seasons-second-bird-flu-outbreak-orders-culling-of-40-000-chickens/4123845",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-13T04:38:00.000Z"
+        },
         {
           "title": "Japan detects season's second bird flu outbreak, orders culling of 40,000 chickens",
           "url": "https://tribune.com.pk/story/2640114/japan-detects-seasons-second-bird-flu-outbreak-orders-culling-of-40000-chickens",
@@ -1113,30 +1135,6 @@
       "created_at": "2026-11-06 06:40:14",
       "ai_at": "2026-11-06 06:40:25",
       "dup_count": 1
-    },
-    {
-      "fingerprint": "89b0f2e8908a9be2392672ddcd326955bd25f8d1",
-      "disease": "африканская чума свиней",
-      "country": "Канада",
-      "distance_km": 4500,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "Разработан план по борьбе с африканской чумой свиней в дикой свинье в Канаде.",
-      "source_id": "bing-world-asf",
-      "title": "Squeal on Pigs develops African swine fever plan",
-      "url": "https://www.thespec.com/news/canada/squeal-on-pigs-develops-african-swine-fever-plan/article_91c74b6c-8ef4-52b5-aecf-83fb1e432aae.html",
-      "published_at": "2026-11-05T07:04:00.000Z",
-      "created_at": "2026-11-05 18:40:14",
-      "ai_at": "2026-11-05 18:40:20",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Squeal on Pigs develops African swine fever plan",
-          "url": "https://www.brandonsun.com/local/2026/11/05/squeal-on-pigs-develops-african-swine-fever-plan",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-11-05T06:03:00.000Z"
-        }
-      ]
     }
   ]
 }
