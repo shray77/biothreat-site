@@ -1,21 +1,21 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-14T22:42:15.371Z",
+  "generated_at": "2026-11-15T00:40:18.736Z",
   "items": [
     {
       "fingerprint": "6ac46ea4312d93c64008e5bf6c03cbc08f50f66c",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
+      "disease": "грипп птиц",
+      "country": "Канада",
+      "distance_km": 4500,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "В Канаде вспышка гриппа птиц на птичьей выставке",
       "source_id": "bing-world-ai",
       "title": "Breeders cull birds after avian flu outbreak at national poultry show in Sask.",
       "url": "https://www.msn.com/en-ca/news/other/breeders-cull-birds-after-avian-flu-outbreak-at-national-poultry-show-in-sask/ar-AA2hrkAB",
       "published_at": "2026-11-14T12:47:39.000Z",
       "created_at": "2026-11-14 22:40:14",
-      "ai_at": null,
+      "ai_at": "2026-11-15 00:40:18",
       "dup_count": 1
     },
     {
