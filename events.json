@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-15T14:40:29.196Z",
+  "generated_at": "2026-11-15T22:40:21.283Z",
   "items": [
     {
       "fingerprint": "e4c2b9487db25a6a7e4223ae3471d3a2b4513f76",
@@ -16,6 +16,22 @@
       "published_at": "2026-11-15T03:09:00.000Z",
       "created_at": "2026-11-15 14:40:14",
       "ai_at": "2026-11-15 14:40:15",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "927567b84c186e5e4ac5303ba3db6cd563865a6b",
+      "disease": "африканская чума свиней",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Департамент сельского хозяйства вакцинировал почти 500 тысяч свиней против африканской чумы свиней, а 65% ранее зараженных территорий выздоровели.",
+      "source_id": "bing-world-asf",
+      "title": "DA accelerates ASF vaccination; 65 percent of areas recovered",
+      "url": "https://www.philstar.com/headlines/2026/11/16/2570380/da-accelerates-asf-vaccination-65-percent-areas-recovered",
+      "published_at": "2026-11-15T01:59:00.000Z",
+      "created_at": "2026-11-15 22:40:14",
+      "ai_at": "2026-11-15 22:40:20",
       "dup_count": 1
     },
     {
@@ -1107,22 +1123,6 @@
           "published_at": "2026-11-06T16:00:00.000Z"
         }
       ]
-    },
-    {
-      "fingerprint": "903c480948df5f357b879fe4f75339fa1ab84cb1",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Продолжающиеся вспышки высокопатогенного птичьего гриппа побуждают чиновников напомнить о повышенных мерах биосicherности для производителей птицы и молока.",
-      "source_id": "bing-world-ai",
-      "title": "HPAI outbreaks prompt biosecurity reminders for poultry and dairy producers",
-      "url": "https://brownfieldagnews.com/news/hpai-outbreaks-prompt-biosecurity-reminders-for-poultry-and-dairy-producers/",
-      "published_at": "2026-11-06T13:53:00.000Z",
-      "created_at": "2026-11-06 22:40:14",
-      "ai_at": "2026-11-06 22:40:19",
-      "dup_count": 1
     }
   ]
 }
