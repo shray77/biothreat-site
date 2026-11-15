@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-15T08:42:23.353Z",
+  "generated_at": "2026-11-15T10:40:18.006Z",
   "items": [
     {
       "fingerprint": "049bb1f0501d197241fe8eda388fc3e658f3d61a",
@@ -92,18 +92,18 @@
     },
     {
       "fingerprint": "5b40770e52eda0dcdcb823d487f8871d5c81c29d",
-      "disease": null,
+      "disease": "грипп птиц",
       "country": null,
       "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "В Южной Корее предоставлены гранты для борьбы с птичьим гриппом.",
       "source_id": "bing-world-ai",
       "title": "MOIS Provides 7 Billion Won in Special Grants for Disaster and Safety Management to Combat Avian Influenza",
       "url": "https://en.fnnews.com/news/202611151322311997",
       "published_at": "2026-11-14T15:23:00.000Z",
       "created_at": "2026-11-15 08:40:14",
-      "ai_at": null,
+      "ai_at": "2026-11-15 10:40:17",
       "dup_count": 1
     },
     {
