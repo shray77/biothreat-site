@@ -1,7 +1,153 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-15T10:40:18.006Z",
+  "generated_at": "2026-11-15T14:40:29.196Z",
   "items": [
+    {
+      "fingerprint": "e4c2b9487db25a6a7e4223ae3471d3a2b4513f76",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-asf",
+      "title": "Philippines ASF vaccine rollout nears full use as outbreak remains active",
+      "url": "https://tradersunion.com/news/business-wealth/show/4255324-philippines-asf-vaccine-rollout-2026/",
+      "published_at": "2026-11-15T03:09:00.000Z",
+      "created_at": "2026-11-15 14:40:14",
+      "ai_at": "2026-11-15 14:40:15",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "7b6f954028f3d80454a8c8e7091c7a99834eff7e",
+      "disease": null,
+      "country": "ЮАР",
+      "distance_km": 7000,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-fmd",
+      "title": "90% of SA's national herd vaccinated against Foot-and-Mouth Disease",
+      "url": "https://www.ewn.co.za/2026/11/15/90-of-sas-national-herd-vaccinated-against-foot-and-mouth-disease",
+      "published_at": "2026-11-15T01:11:00.000Z",
+      "created_at": "2026-11-15 14:40:14",
+      "ai_at": "2026-11-15 14:40:17",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "675faa0b0e80162a5e9dbae34b30208d17f207bc",
+      "disease": "африканская чума свиней",
+      "country": "Южно-Африканская Республика",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "В ЮАР привито свыше 90% национальной рогатой скотины против африканской чумы свиней",
+      "source_id": "bing-world-fmd",
+      "title": "More than 90% of South Africa’s cattle herd vaccinated against foot-and-mouth disease",
+      "url": "https://newsnote.co.za/more-than-90-of-south-africas-cattle-herd-vaccinated-against-foot-and-mouth-disease/",
+      "published_at": "2026-11-14T23:20:00.000Z",
+      "created_at": "2026-11-15 14:40:14",
+      "ai_at": "2026-11-15 14:40:23",
+      "dup_count": 4,
+      "dups": [
+        {
+          "title": "South Africa: How Bad Has the Foot-and-Mouth Disease Epidemic Been?",
+          "url": "https://allafrica.com/stories/202611130088.html",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-11-12T16:00:00.000Z"
+        },
+        {
+          "title": "South Africa wildlife outbreaks widen foot-and-mouth disease risks for livestock sector",
+          "url": "https://tradersunion.com/news/economic-data/show/4206683-south-africa-wildlife-foot-mouth-disease/",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-11-11T16:00:00.000Z"
+        },
+        {
+          "title": "Foot-and-mouth disease spreads to SA’s wildlife",
+          "url": "https://www.moneyweb.co.za/news/south-africa/foot-and-mouth-disease-spreads-to-sas-wildlife/",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-11-10T18:50:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "48efb6478074021d473e94e0aaaa2494cdd55a03",
+      "disease": "грипп птиц",
+      "country": "США",
+      "distance_km": 5000,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "В США началась вспышка гриппа птиц на фермах, где работают нелегальные иммигранты",
+      "source_id": "bing-world-ai",
+      "title": "Bird Flu Outbreak Rages in Blue State as Illegal Farm Hands Dodge Health Officials, Union Says",
+      "url": "https://www.westernjournal.com/bird-flu-outbreak-rages-blue-state-illegal-farm-hands-dodge-health-officials-union-says/",
+      "published_at": "2026-11-14T20:30:00.000Z",
+      "created_at": "2026-11-15 14:40:14",
+      "ai_at": "2026-11-15 14:40:26",
+      "dup_count": 14,
+      "dups": [
+        {
+          "title": "Highly-Pathogenic Avian Influenza Found In Rusk County",
+          "url": "https://www.midwestfarmreport.com/2026/11/13/highly-pathogenic-avian-influenza-found-in-rusk-county/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-13T13:44:00.000Z"
+        },
+        {
+          "title": "Highly-Pathogenic Avian Influenza Found In Rusk County",
+          "url": "https://www.thefarmwi.com/highly-pathogenic-avian-influenza-found-in-rusk-county/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-13T13:44:00.000Z"
+        },
+        {
+          "title": "Backyard poultry flock in Wisconsin tests positive for highly pathogenic avian influenza",
+          "url": "https://www.yahoo.com/news/science/articles/backyard-poultry-flock-wisconsin-tests-183222233.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-13T10:32:00.000Z"
+        },
+        {
+          "title": "OREGON DEPT. OF FISH & WILDLIFE: Reports of highly pathogenic avian influenza in ducks and geese increasing in Willamette Valley",
+          "url": "https://www.tillamookcountypioneer.net/oregon-dept-of-fish-wildlife-reports-of-highly-pathogenic-avian-influenza-in-ducks-and-geese-increasing-in-willamette-valley/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-12T16:00:00.000Z"
+        },
+        {
+          "title": "National States' Ag Dept. Have Emerg. Meet with USADA RE: Avian Flu Outbreaks",
+          "url": "https://www.carboncountynews.com/news/national-states-ag-dept-have-emerg-meet-with-usada-re-avian-flu-outbreaks/article_12732eae-888c-4d8f-8f19-9149627deb9b.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-12T12:45:00.000Z"
+        },
+        {
+          "title": "Reports of highly pathogenic avian influenza",
+          "url": "https://lincolncityhomepage.com/reports-of-highly-pathogenic-avian-influenza/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-11T17:54:00.000Z"
+        },
+        {
+          "title": "Washington bird flu outbreak kills dairy worker in Yakima Valley",
+          "url": "https://www.msn.com/en-us/money/general/washington-bird-flu-outbreak-kills-dairy-worker-in-yakima-valley/vi-AA2hfHmD",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-11T17:16:37.000Z"
+        },
+        {
+          "title": "Washington bird flu outbreak kills dairy worker in Yakima Valley",
+          "url": "https://www.msn.com/en-us/news/other/washington-bird-flu-outbreak-kills-dairy-worker-in-yakima-valley/vi-AA2hfHmD",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-11T17:16:37.000Z"
+        },
+        {
+          "title": "Avian Flu Outbreak in Illinois Spread from Backyard Poultry to Mammals",
+          "url": "https://bioengineer.org/avian-flu-outbreak-in-illinois-spread-from-backyard-poultry-to-mammals/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-11T16:00:00.000Z"
+        },
+        {
+          "title": "Breaking: Avian influenza detected in Worcester County chicken flock",
+          "url": "https://www.delmarvanow.com/story/news/local/maryland/2026/11/11/avian-influenza-detected-in-worcester-county-chicken-flock-breaking/92725004007/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-11T08:44:00.000Z"
+        }
+      ]
+    },
     {
       "fingerprint": "049bb1f0501d197241fe8eda388fc3e658f3d61a",
       "disease": "африканская чума свиней",
@@ -244,7 +390,7 @@
       "published_at": "2026-11-13T16:00:00.000Z",
       "created_at": "2026-11-14 10:40:14",
       "ai_at": "2026-11-14 10:40:29",
-      "dup_count": 11,
+      "dup_count": 10,
       "dups": [
         {
           "title": "News from our partners: National Housing Order declared to protect birds from Avian Influenza",
@@ -299,106 +445,6 @@
           "url": "https://www.farminguk.com/news/two-new-bird-flu-outbreaks-hit-poultry-farms-in-yorkshire-and-lancashire_69440.html",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-07T15:59:00.000Z"
-        },
-        {
-          "title": "Bird flu outbreak near Biggar prompts new control zones",
-          "url": "https://www.peeblesshirenews.com/news/26706035.bird-flu-outbreak-near-biggar-prompts-new-control-zones/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-06T08:55:00.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "5fc50d2b5f882ce06339bc6ab25c6c8d03bccfdf",
-      "disease": "грипп птиц",
-      "country": "Висконсин",
-      "distance_km": 5000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "зарегистрирован новый случай высокопатогенного гриппа птиц в штате Висконсин",
-      "source_id": "bing-world-ai",
-      "title": "Highly-Pathogenic Avian Influenza Found In Rusk County",
-      "url": "https://www.thefarmwi.com/highly-pathogenic-avian-influenza-found-in-rusk-county/",
-      "published_at": "2026-11-13T13:44:00.000Z",
-      "created_at": "2026-11-14 04:40:14",
-      "ai_at": "2026-11-14 04:40:18",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "7e45066ad35fb744d39cd71bba118b2417dd077a",
-      "disease": "грипп птиц",
-      "country": "США",
-      "distance_km": 5000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В штате Висконсин подтвержден случай птичьего гриппа в домашнем курином дворе.",
-      "source_id": "bing-world-ai",
-      "title": "Backyard poultry flock in Wisconsin tests positive for highly pathogenic avian influenza",
-      "url": "https://www.yahoo.com/news/science/articles/backyard-poultry-flock-wisconsin-tests-183222233.html",
-      "published_at": "2026-11-13T10:32:00.000Z",
-      "created_at": "2026-11-13 22:40:14",
-      "ai_at": "2026-11-13 22:40:19",
-      "dup_count": 13,
-      "dups": [
-        {
-          "title": "OREGON DEPT. OF FISH & WILDLIFE: Reports of highly pathogenic avian influenza in ducks and geese increasing in Willamette Valley",
-          "url": "https://www.tillamookcountypioneer.net/oregon-dept-of-fish-wildlife-reports-of-highly-pathogenic-avian-influenza-in-ducks-and-geese-increasing-in-willamette-valley/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-12T16:00:00.000Z"
-        },
-        {
-          "title": "National States' Ag Dept. Have Emerg. Meet with USADA RE: Avian Flu Outbreaks",
-          "url": "https://www.carboncountynews.com/news/national-states-ag-dept-have-emerg-meet-with-usada-re-avian-flu-outbreaks/article_12732eae-888c-4d8f-8f19-9149627deb9b.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-12T12:45:00.000Z"
-        },
-        {
-          "title": "Reports of highly pathogenic avian influenza",
-          "url": "https://lincolncityhomepage.com/reports-of-highly-pathogenic-avian-influenza/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-11T17:54:00.000Z"
-        },
-        {
-          "title": "Washington bird flu outbreak kills dairy worker in Yakima Valley",
-          "url": "https://www.msn.com/en-us/money/general/washington-bird-flu-outbreak-kills-dairy-worker-in-yakima-valley/vi-AA2hfHmD",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-11T17:16:37.000Z"
-        },
-        {
-          "title": "Washington bird flu outbreak kills dairy worker in Yakima Valley",
-          "url": "https://www.msn.com/en-us/news/other/washington-bird-flu-outbreak-kills-dairy-worker-in-yakima-valley/vi-AA2hfHmD",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-11T17:16:37.000Z"
-        },
-        {
-          "title": "Avian Flu Outbreak in Illinois Spread from Backyard Poultry to Mammals",
-          "url": "https://bioengineer.org/avian-flu-outbreak-in-illinois-spread-from-backyard-poultry-to-mammals/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-11T16:00:00.000Z"
-        },
-        {
-          "title": "Breaking: Avian influenza detected in Worcester County chicken flock",
-          "url": "https://www.delmarvanow.com/story/news/local/maryland/2026/11/11/avian-influenza-detected-in-worcester-county-chicken-flock-breaking/92725004007/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-11T08:44:00.000Z"
-        },
-        {
-          "title": "California bird flu outbreak hits 1.3 million laying hens ahead of holiday baking rush",
-          "url": "https://uk.news.yahoo.com/california-bird-flu-outbreak-hits-042000776.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-07T15:59:00.000Z"
-        },
-        {
-          "title": "SCDNR advises Public of Avian Influenza Activity in Wild Birds",
-          "url": "https://wnegradio.com/scdnr-advises-public-of-avian-influenza-activity-in-wild-birds/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-07T12:20:00.000Z"
-        },
-        {
-          "title": "SCDNR Advises Public of Avian Influenza Activity in Wild Birds",
-          "url": "https://www.fortmillsun.com/2026/11/06/scdnr-advises-public-of-avian-influenza-activity-in-wild-birds/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-06T13:58:00.000Z"
         }
       ]
     },
@@ -433,36 +479,6 @@
       "created_at": "2026-11-14 18:40:15",
       "ai_at": "2026-11-14 18:40:26",
       "dup_count": 1
-    },
-    {
-      "fingerprint": "2a53fb9b1942dea332fb5d65abb7d377deeee78d",
-      "disease": "африканская чума свиней",
-      "country": "Южно-Африканская Республика",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "В Южно-Африканской Республике отмечена самая серьезная за историю эпидемия африканской чумы свиней.",
-      "source_id": "bing-world-fmd",
-      "title": "South Africa: How Bad Has the Foot-and-Mouth Disease Epidemic Been?",
-      "url": "https://allafrica.com/stories/202611130088.html",
-      "published_at": "2026-11-12T16:00:00.000Z",
-      "created_at": "2026-11-13 12:40:14",
-      "ai_at": "2026-11-13 12:40:18",
-      "dup_count": 3,
-      "dups": [
-        {
-          "title": "South Africa wildlife outbreaks widen foot-and-mouth disease risks for livestock sector",
-          "url": "https://tradersunion.com/news/economic-data/show/4206683-south-africa-wildlife-foot-mouth-disease/",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-11-11T16:00:00.000Z"
-        },
-        {
-          "title": "Foot-and-mouth disease spreads to SA’s wildlife",
-          "url": "https://www.moneyweb.co.za/news/south-africa/foot-and-mouth-disease-spreads-to-sas-wildlife/",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-11-10T18:50:00.000Z"
-        }
-      ]
     },
     {
       "fingerprint": "34f3c31ebd6eb9ebf463a9071cf8b5fe87ead893",
@@ -1106,38 +1122,6 @@
       "published_at": "2026-11-06T13:53:00.000Z",
       "created_at": "2026-11-06 22:40:14",
       "ai_at": "2026-11-06 22:40:19",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "4f41df148f5e3a173b2d3610f97cdf2da5d4bed6",
-      "disease": "грипп птиц",
-      "country": "Индiana",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "Вдобавление к 21 штату с зараженными коровами.",
-      "source_id": "bing-world-ai",
-      "title": "Avian influenza confirmed in Indiana dairy cattle",
-      "url": "https://www.dvm360.com/view/avian-influenza-confirmed-in-indiana-dairy-cattle",
-      "published_at": "2026-11-06T12:00:00.000Z",
-      "created_at": "2026-11-06 22:40:14",
-      "ai_at": "2026-11-06 22:40:26",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "4614572bf4a93fce79431b9cc4c7c36624a10d7d",
-      "disease": "гибридная птица",
-      "country": "Мексика",
-      "distance_km": 9000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Подтвержден случай гибридной птицы в Мексике",
-      "source_id": "bing-world-ai",
-      "title": "H5N1 avian influenza appears in Mexican laying hens",
-      "url": "https://www.wattagnet.com/poultry-meat/diseases-health/avian-influenza/news/16424515/h5n1-avian-influenza-appears-in-mexican-laying-hens",
-      "published_at": "2026-11-06T07:46:00.000Z",
-      "created_at": "2026-11-06 22:40:14",
-      "ai_at": "2026-11-06 22:40:31",
       "dup_count": 1
     }
   ]
