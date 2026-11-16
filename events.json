@@ -1,22 +1,36 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-16T08:42:38.077Z",
+  "generated_at": "2026-11-16T10:40:18.290Z",
   "items": [
     {
       "fingerprint": "aa5acb17bf800272074a9ddf2dba82c5925e7c14",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
+      "disease": "грипп птиц",
+      "country": "Индия",
+      "distance_km": 3000,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "В штате Тамил Наду выявлена вспышка гриппа птиц, убиты курицы, но пока нет выявленных случаев среди людей.",
       "source_id": "bing-world-ai",
       "title": "Should You Eat Eggs, Chicken For Protein During A Bird Flu Outbreak?",
       "url": "https://www.ndtv.com/health/living-healthy/should-you-eat-eggs-chicken-for-protein-during-a-bird-flu-outbreak-12332271",
       "published_at": "2026-11-15T22:26:00.000Z",
       "created_at": "2026-11-16 08:40:14",
-      "ai_at": null,
-      "dup_count": 1
+      "ai_at": "2026-11-16 10:40:17",
+      "dup_count": 3,
+      "dups": [
+        {
+          "title": "Avian influenza confirmed in Tamil Nadu’s Cuddalore; over 1,500 chickens culled",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/avian-influenza-confirmed-in-cuddalore-over-1500-chickens-culled/article71701325.ece",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-14T01:46:00.000Z"
+        },
+        {
+          "title": "After Maharashtra bird flu outbreak, why are poultry farmers seeking H5N1 vaccination?",
+          "url": "https://indianexpress.com/article/health-wellness/after-maharashtra-bird-flu-outbreak-why-are-poultry-farmers-seeking-h5n1-vaccination-10957398/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-09T23:01:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "f553db2b43190f6b60ab1b93580173f3bd07d31a",
@@ -503,30 +517,6 @@
       "created_at": "2026-11-14 18:40:15",
       "ai_at": "2026-11-14 18:40:19",
       "dup_count": 1
-    },
-    {
-      "fingerprint": "36b23c917daf4e9f49bec198d4098f50402d254b",
-      "disease": "грипп птиц",
-      "country": "Индия",
-      "distance_km": 3000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Болезнь птиц выявлена в индийском штате Тамилнад, убиты более 1550 птиц",
-      "source_id": "bing-world-ai",
-      "title": "Avian influenza confirmed in Tamil Nadu’s Cuddalore; over 1,500 chickens culled",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/avian-influenza-confirmed-in-cuddalore-over-1500-chickens-culled/article71701325.ece",
-      "published_at": "2026-11-14T01:46:00.000Z",
-      "created_at": "2026-11-14 18:40:15",
-      "ai_at": "2026-11-14 18:40:23",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "After Maharashtra bird flu outbreak, why are poultry farmers seeking H5N1 vaccination?",
-          "url": "https://indianexpress.com/article/health-wellness/after-maharashtra-bird-flu-outbreak-why-are-poultry-farmers-seeking-h5n1-vaccination-10957398/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-09T23:01:00.000Z"
-        }
-      ]
     },
     {
       "fingerprint": "544488955bbb8dcbdfd37e37eddd3c6922b391cd",
