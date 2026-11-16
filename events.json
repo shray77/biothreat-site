@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-15T22:40:21.283Z",
+  "generated_at": "2026-11-16T02:40:19.557Z",
   "items": [
+    {
+      "fingerprint": "16a968faf3ae59999a849aa1d5acc344e80663e7",
+      "disease": "африканская чума свиней",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Вакцинировано более 500 тысяч свиней против африканской чумы свиней.",
+      "source_id": "bing-world-asf",
+      "title": "Nearly 500,000 pigs vaccinated against ASF",
+      "url": "https://www.msn.com/en-ph/news/other/nearly-500-000-pigs-vaccinated-against-asf/ar-AA2hvcHz",
+      "published_at": "2026-11-15T13:23:58.000Z",
+      "created_at": "2026-11-16 02:40:14",
+      "ai_at": "2026-11-16 02:40:18",
+      "dup_count": 1
+    },
     {
       "fingerprint": "e4c2b9487db25a6a7e4223ae3471d3a2b4513f76",
       "disease": null,
@@ -100,7 +116,7 @@
       "published_at": "2026-11-14T20:30:00.000Z",
       "created_at": "2026-11-15 14:40:14",
       "ai_at": "2026-11-15 14:40:26",
-      "dup_count": 14,
+      "dup_count": 13,
       "dups": [
         {
           "title": "Highly-Pathogenic Avian Influenza Found In Rusk County",
