@@ -1,7 +1,155 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-16T10:40:18.290Z",
+  "generated_at": "2026-11-16T14:40:51.192Z",
   "items": [
+    {
+      "fingerprint": "6a743b8f41cb2b74fe9380d64facfcc21a1da35b",
+      "disease": "грипп птиц",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "В Тамил Наду продолжают проведение мер по наблюдению и контролю за распространением гриппа птиц. Для сохранения безопасности важно соблюдать меры безопасности и",
+      "source_id": "bing-world-ai",
+      "title": "Is It Safe To Eat Chicken & Eggs Amid Bird Flu Outbreak In Tamil Nadu? What You Should Know",
+      "url": "https://www.oneindia.com/chennai/is-it-safe-to-eat-chicken-and-eggs-amid-bird-flu-outbreak-in-tamil-nadu-what-you-should-know-8260831.html",
+      "published_at": "2026-11-16T05:41:00.000Z",
+      "created_at": "2026-11-16 14:40:14",
+      "ai_at": "2026-11-16 14:40:19",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "1fdd87251b125fa9fc687ea5c9fda182a825204d",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Повышенная бдительность необходима для раннего обнаружения и готовности к птичьему гриппу",
+      "source_id": "bing-world-ai",
+      "title": "WOAH calls for heightened vigilance as reported avian influenza outbreaks rise",
+      "url": "https://www.woah.org/en/woah-calls-for-heightened-vigilance-as-reported-avian-influenza-outbreaks-rise/",
+      "published_at": "2026-11-16T05:33:00.000Z",
+      "created_at": "2026-11-16 14:40:14",
+      "ai_at": "2026-11-16 14:40:22",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "89481db07ccdb11bde5790b8bbdccf7135ead4c7",
+      "disease": "грипп птиц",
+      "country": "Норвегия",
+      "distance_km": 0,
+      "level": "граница",
+      "verdict": "confirmed",
+      "ai_summary": "В Норвегии обнаружена крупная вспышка гриппа птиц, уничтожено или предназначено для уничтожения 100 000 поголовья",
+      "source_id": "bing-world-ai",
+      "title": "Bird flu outbreak threatens egg, chicken supplies in Norway",
+      "url": "https://www.aa.com.tr/en/europe/bird-flu-outbreak-threatens-egg-chicken-supplies-in-norway/4126454",
+      "published_at": "2026-11-16T05:29:00.000Z",
+      "created_at": "2026-11-16 14:40:14",
+      "ai_at": "2026-11-16 14:40:26",
+      "dup_count": 3,
+      "dups": [
+        {
+          "title": "Norway bird flu outbreak sparks supply worries as culls grow",
+          "url": "https://minutemirror.com.pk/norway-bird-flu-outbreak-sparks-661410/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-16T04:40:00.000Z"
+        },
+        {
+          "title": "Norway culls 100,000 poultry amid bird flu outbreak",
+          "url": "https://dailytimes.com.pk/1582283/norway-culls-100000-poultry-amid-bird-flu-outbreak/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-15T19:40:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "d2a6b250d4a0094bdda63598931e62fffbd43136",
+      "disease": null,
+      "country": "ЮАР",
+      "distance_km": 7000,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-fmd",
+      "title": "PROJECT: FOOT-AND-MOUTH DISEASE SPREADS INTO SOUTH AFRICA'S WILDLIFE",
+      "url": "https://www.mikebolhuis.co.za/post/project-foot-and-mouth-disease-spreads-into-south-africa-s-wildlife",
+      "published_at": "2026-11-16T00:58:00.000Z",
+      "created_at": "2026-11-16 14:40:14",
+      "ai_at": "2026-11-16 14:40:31",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "4e77c36fad1866c3921a2b181acb0848394c6bc7",
+      "disease": null,
+      "country": "Остров Мэн",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Isle of Man poultry farm’s future uncertain after bird flu outbreak",
+      "url": "https://www.iomtoday.co.im/news/isle-of-man-poultry-farms-future-uncertain-after-bird-flu-outbreak-972707",
+      "published_at": "2026-11-16T00:42:00.000Z",
+      "created_at": "2026-11-16 14:40:14",
+      "ai_at": "2026-11-16 14:40:33",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "e0a668a0b781462c2e2db9d1511bda8a580b035d",
+      "disease": "грипп птиц",
+      "country": "Великобритания",
+      "distance_km": 2500,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "В Уэльсе введен запрет на распространение птичьего гриппа",
+      "source_id": "bing-world-ai",
+      "title": "Avian flu clampdown as risks grow of seasonal outbreaks",
+      "url": "https://www.tivysideadvertiser.co.uk/news/26731446.avian-flu-clampdown-risks-grow-seasonal-outbreaks/",
+      "published_at": "2026-11-16T00:34:00.000Z",
+      "created_at": "2026-11-16 14:40:14",
+      "ai_at": "2026-11-16 14:40:37",
+      "dup_count": 7,
+      "dups": [
+        {
+          "title": "Warning on strict hygiene and biosecurity to prevent spread of bird flu following outbreak near Garstang",
+          "url": "https://www.lep.co.uk/news/fylde-coast-council-warning-strict-hygiene-biosecurity-bird-flu-concerns-9352092",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-15T21:30:00.000Z"
+        },
+        {
+          "title": "New bird flu restrictions imposed across Wales amid rising outbreak threat",
+          "url": "https://www.farminguk.com/news/new-bird-flu-restrictions-imposed-across-wales-amid-rising-outbreak-threat_69478.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-13T16:00:00.000Z"
+        },
+        {
+          "title": "News from our partners: National Housing Order declared to protect birds from Avian Influenza",
+          "url": "https://newsroom.shropshire.gov.uk/2026/11/news-from-our-partners-national-housing-order-declared-protect-birds-avian-influenza/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-12T05:56:00.000Z"
+        },
+        {
+          "title": "Hong Kong Suspends Poultry Imports from UK Due to H5N1 Avian Influenza Outbreak",
+          "url": "https://www.bastillepost.com/global/article/6344516-hong-kong-suspends-poultry-imports-from-uk-due-to-h5n1-avian-influenza-outbreak",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-10T11:27:00.000Z"
+        },
+        {
+          "title": "Another poultry farm hit by bird flu as Norfolk outbreak confirmed",
+          "url": "https://www.farminguk.com/news/another-poultry-farm-hit-by-bird-flu-as-norfolk-outbreak-confirmed_69451.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-09T16:00:00.000Z"
+        },
+        {
+          "title": "Bird flu outbreak at Garstang farm means chickens culled and protection zone in place",
+          "url": "https://www.blogpreston.co.uk/2026/11/bird-flu-outbreak-at-garstang-farm-means-chickens-culled-and-protection-zone-in-place/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-09T08:34:00.000Z"
+        }
+      ]
+    },
     {
       "fingerprint": "aa5acb17bf800272074a9ddf2dba82c5925e7c14",
       "disease": "грипп птиц",
@@ -33,6 +181,22 @@
       ]
     },
     {
+      "fingerprint": "9a3275b03034605892bdfefe0568820e6be0776e",
+      "disease": "грипп птиц",
+      "country": "Китай",
+      "distance_km": 0,
+      "level": "граница",
+      "verdict": "probable",
+      "ai_summary": "В Китае запрещено ввозить мясо птицы из Индии, Великобритании и Японии из-за вспышки гриппа птиц.",
+      "source_id": "bing-world-ai",
+      "title": "Hong Kong Suspends Poultry Imports from India, UK, and Japan Due to Avian Influenza Outbreaks",
+      "url": "https://www.bastillepost.com/global/article/6364452-hong-kong-suspends-poultry-imports-from-india-uk-and-japan-due-to-avian-influenza-outbreaks",
+      "published_at": "2026-11-15T22:04:00.000Z",
+      "created_at": "2026-11-16 14:40:14",
+      "ai_at": "2026-11-16 14:40:41",
+      "dup_count": 1
+    },
+    {
       "fingerprint": "f553db2b43190f6b60ab1b93580173f3bd07d31a",
       "disease": "грипп птиц",
       "country": "Голландия",
@@ -49,76 +213,20 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "60a7c2b5cfb211fa8bccf5d2b98160ce227b4ead",
+      "fingerprint": "aa019b1cad3fbc0992d67f818028e3b4aac564bf",
       "disease": "грипп птиц",
-      "country": "Великобритания",
-      "distance_km": 2500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Предупреждение о строгой гигиене и биозащите для предотвращения распространения птичьего гриппа после вспышки возле Гарстэнга",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Примечание по строгой гигиене и биосекуритету для предотвращения распространения птичьего гриппа после вспышки в окрестностях Гарстенга",
       "source_id": "bing-world-ai",
       "title": "Warning on strict hygiene and biosecurity to prevent spread of bird flu following outbreak near Garstang",
-      "url": "https://www.lep.co.uk/news/fylde-coast-council-warning-strict-hygiene-biosecurity-bird-flu-concerns-9352092",
-      "published_at": "2026-11-15T21:30:00.000Z",
-      "created_at": "2026-11-16 08:40:14",
-      "ai_at": "2026-11-16 08:42:23",
-      "dup_count": 10,
-      "dups": [
-        {
-          "title": "New bird flu restrictions imposed across Wales amid rising outbreak threat",
-          "url": "https://www.farminguk.com/news/new-bird-flu-restrictions-imposed-across-wales-amid-rising-outbreak-threat_69478.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-13T16:00:00.000Z"
-        },
-        {
-          "title": "News from our partners: National Housing Order declared to protect birds from Avian Influenza",
-          "url": "https://newsroom.shropshire.gov.uk/2026/11/news-from-our-partners-national-housing-order-declared-protect-birds-avian-influenza/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-12T05:56:00.000Z"
-        },
-        {
-          "title": "Hong Kong Suspends Poultry Imports from UK Due to H5N1 Avian Influenza Outbreak",
-          "url": "https://www.bastillepost.com/global/article/6344516-hong-kong-suspends-poultry-imports-from-uk-due-to-h5n1-avian-influenza-outbreak",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-10T11:27:00.000Z"
-        },
-        {
-          "title": "Another poultry farm hit by bird flu as Norfolk outbreak confirmed",
-          "url": "https://www.farminguk.com/news/another-poultry-farm-hit-by-bird-flu-as-norfolk-outbreak-confirmed_69451.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-09T16:00:00.000Z"
-        },
-        {
-          "title": "Bird flu outbreak at Garstang farm means chickens culled and protection zone in place",
-          "url": "https://www.blogpreston.co.uk/2026/11/bird-flu-outbreak-at-garstang-farm-means-chickens-culled-and-protection-zone-in-place/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-09T08:34:00.000Z"
-        },
-        {
-          "title": "Bird flu outbreak confirmed at Lancashire poultry farm near Garstang",
-          "url": "https://www.lep.co.uk/news/bird-flu-outbreak-confirmed-at-lancashire-poultry-farm-near-garstang-9337370",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-08T03:45:00.000Z"
-        },
-        {
-          "title": "Bird flu outbreak confirmed at Lancashire poultry farm near Garstang with 3km protection zone in force",
-          "url": "https://www.blackpoolgazette.co.uk/news/bird-flu-outbreak-confirmed-at-lancashire-poultry-farm-near-garstang-with-3km-protection-zone-in-force-9337337",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-08T03:38:00.000Z"
-        },
-        {
-          "title": "Bird flu outbreak confirmed at Lancashire poultry farm near Garstang with 3km protection zone in force",
-          "url": "https://www.blackpoolgazette.co.uk/news/bird-flu-outbreak-confirmed-at-lancashire-poultry-farm-near-garstang-with-3km-protection-zone-in-force-9337337?itm_source=Internal&itm_campaign=breaking-news-ticker&itm_channel=homepage_banner&itm_content=8",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-08T03:38:00.000Z"
-        },
-        {
-          "title": "Bird flu outbreak confirmed at Lancashire poultry farm near Garstang with 3km protection zone in force",
-          "url": "https://www.blackpoolgazette.co.uk/news/bird-flu-outbreak-confirmed-at-lancashire-poultry-farm-near-garstang-with-3km-protection-zone-in-force-9337337?itm_source=Internal&itm_campaign=breaking-news-ticker&itm_channel=homepage_banner&itm_content=4",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-08T03:38:00.000Z"
-        }
-      ]
+      "url": "https://www.msn.com/en-gb/news/other/warning-on-strict-hygiene-and-biosecurity-to-prevent-spread-of-bird-flu-following-outbreak-near-garstang/ar-AA2hw5T4",
+      "published_at": "2026-11-15T21:30:21.000Z",
+      "created_at": "2026-11-16 14:40:14",
+      "ai_at": "2026-11-16 14:40:45",
+      "dup_count": 1
     },
     {
       "fingerprint": "4a4f5e19c40ff1e14441e2215fe8ca0e2cfb06ec",
@@ -134,7 +242,7 @@
       "published_at": "2026-11-15T17:19:00.000Z",
       "created_at": "2026-11-16 08:40:14",
       "ai_at": "2026-11-16 08:42:26",
-      "dup_count": 4,
+      "dup_count": 3,
       "dups": [
         {
           "title": "Hong Kong Suspends Poultry Imports Amid Avian Influenza Outbreaks in Korea and Netherlands",
@@ -147,12 +255,6 @@
           "url": "https://www.bastillepost.com/global/article/6340181-hong-kong-suspends-poultry-imports-from-areas-in-korea-and-us-amid-avian-influenza-outbreaks",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-09T11:00:00.000Z"
-        },
-        {
-          "title": "South Korea reports H5N9 bird flu outbreak on Gyeonggi farm",
-          "url": "https://www.thepoultrysite.com/news/2026/11/south-korea-reports-h5n9-bird-flu-outbreak-on-gyeonggi-farm",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-09T00:16:00.000Z"
         }
       ]
     },
@@ -1062,86 +1164,6 @@
       "published_at": "2026-11-09T01:34:00.000Z",
       "created_at": "2026-11-09 16:40:14",
       "ai_at": "2026-11-09 16:40:23",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "6421d2573d5191242fed4b34f707809a56bda0fb",
-      "disease": "грипп птиц",
-      "country": "Мексика",
-      "distance_km": 9000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Отмечен первый случай высокопатогенного гриппа птиц на птицефабрике в юкатанском полуострове",
-      "source_id": "bing-world-ai",
-      "title": "Mexico reports first bird flu outbreak in poultry in two years",
-      "url": "https://www.thepoultrysite.com/news/2026/11/mexico-reports-first-bird-flu-outbreak-in-poultry-in-two-years",
-      "published_at": "2026-11-09T00:11:00.000Z",
-      "created_at": "2026-11-09 16:40:14",
-      "ai_at": "2026-11-09 16:40:30",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "4e6c284329fa75395f9f07074d30ad65b089cccc",
-      "disease": "африканская чума свиней",
-      "country": "Эстония",
-      "distance_km": 0,
-      "level": "граница",
-      "verdict": "probable",
-      "ai_summary": "Свыше 80% свинокомплексов Эстонии отреставрированы после вспышки африканской свиной чумы",
-      "source_id": "bing-world-asf",
-      "title": "Estonia's domestic pig numbers still below pre-African swine fever levels",
-      "url": "https://news.err.ee/1610190161/estonia-s-domestic-pig-numbers-still-below-pre-african-swine-fever-levels",
-      "published_at": "2026-11-08T23:56:00.000Z",
-      "created_at": "2026-11-09 14:40:14",
-      "ai_at": "2026-11-09 14:40:26",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "8ab55e43ed0b3a9df44532361f0fba108a836a8f",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "Hong Kong Suspends Poultry Imports from Korea and US Amid Avian Influenza Outbreaks",
-      "url": "https://www.bastillepost.com/global/article/6340181-hong-kong-suspends-poultry-imports-from-korea-and-us-amid-avian-influenza-outbreaks",
-      "published_at": "2026-11-08T21:00:00.000Z",
-      "created_at": "2026-11-09 16:40:14",
-      "ai_at": "2026-11-09 16:40:32",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "cb7537c842ba612f4070db320f8c1c2e58105096",
-      "disease": "грипп птиц",
-      "country": "Австралия",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Питомники должны остерегаться, поскольку может усилиться эпидемия птичьего гриппа",
-      "source_id": "bing-world-ai",
-      "title": "‘Here to stay forever’: Australians urged to prioritise backyard biosecurity amid bird flu outbreak",
-      "url": "https://www.news.com.au/news/here-to-stay-forever-australians-urged-to-prioritise-backyard-biosecurity-amid-bird-flu-outbreak/news-story/ab3b965cf6e12c4b0229db9ccf2bf59f",
-      "published_at": "2026-11-08T21:00:00.000Z",
-      "created_at": "2026-11-09 16:40:14",
-      "ai_at": "2026-11-09 16:40:36",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "b3b8cfae982041de616f4f8d03824e87fa6c3b18",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-asf",
-      "title": "DA eyes approval of Korean, US ASF vaccines by 2027",
-      "url": "https://www.gmanetwork.com/news/money/economy/1008871/da-eyes-approval-of-korean-us-asf-vaccines-by-2027/story/",
-      "published_at": "2026-11-08T20:36:00.000Z",
-      "created_at": "2026-11-09 14:40:14",
-      "ai_at": "2026-11-09 14:40:27",
       "dup_count": 1
     }
   ]
