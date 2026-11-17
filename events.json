@@ -1,7 +1,83 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-17T02:40:31.397Z",
+  "generated_at": "2026-11-17T08:40:40.672Z",
   "items": [
+    {
+      "fingerprint": "d57d680b8ef08c0bb296cc3ab45eeb502bea7f9f",
+      "disease": "грипп птиц",
+      "country": "Ирландия",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "В Ирландии введены меры био-безопасности для защиты от птичьего гриппа.",
+      "source_id": "bing-world-ai",
+      "title": "Alert for Kilkenny farms - biosecurity regulations introduced as a precaution against Avian Influenza",
+      "url": "https://www.ireland-live.ie/south-east/kilkenny-live/alert-for-kilkenny-farms-biosecurity-regulations-introduced-as-a-precaution-against-avian-influenza-9354277",
+      "published_at": "2026-11-16T22:18:00.000Z",
+      "created_at": "2026-11-17 08:40:14",
+      "ai_at": "2026-11-17 08:40:19",
+      "dup_count": 3,
+      "dups": [
+        {
+          "title": "Up to 24,000 birds to be culled after Coagh bird flu outbreak",
+          "url": "https://wearetyrone.com/latest-news/up-to-24000-birds-to-be-culled-after-coagh-bird-flu-outbreak/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-16T16:00:00.000Z"
+        },
+        {
+          "title": "Poultry biosecurity regulations introduced as a precaution against Avian Influenza - Minister Martin Heydon TD",
+          "url": "https://www.farminglife.com/country-and-farming/poultry-biosecurity-regulations-introduced-as-a-precaution-against-avian-influenza-minister-martin-heydon-td-9354108",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-16T06:48:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "6a014bcdd7d2fd9a3a614af91729f5ede8f37027",
+      "disease": "грипп птиц",
+      "country": "Индия",
+      "distance_km": 3000,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "В Индии выявлен грипп птиц H5N1, уничтожено 40 000 кур.",
+      "source_id": "bing-world-ai",
+      "title": "Tamil Nadu Steps Up Bird Flu Surveillance After H5N1 Outbreak, 40,000 Chickens Culled In Cuddalore",
+      "url": "https://news.abplive.com/health/tamil-nadu-steps-up-bird-flu-surveillance-after-h5n1-outbreak-40-000-chickens-culled-in-cuddalore-1876247",
+      "published_at": "2026-11-16T19:20:00.000Z",
+      "created_at": "2026-11-17 08:40:14",
+      "ai_at": "2026-11-17 08:40:26",
+      "dup_count": 3,
+      "dups": [
+        {
+          "title": "Should You Eat Eggs, Chicken For Protein During A Bird Flu Outbreak?",
+          "url": "https://www.ndtv.com/health/living-healthy/should-you-eat-eggs-chicken-for-protein-during-a-bird-flu-outbreak-12332271",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-15T22:26:00.000Z"
+        },
+        {
+          "title": "Avian influenza confirmed in Tamil Nadu’s Cuddalore; over 1,500 chickens culled",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/avian-influenza-confirmed-in-cuddalore-over-1500-chickens-culled/article71701325.ece",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-14T01:46:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "8d8291cdf36b50c821fc8b7d0a8658ab8d0210da",
+      "disease": "грипп птиц",
+      "country": "Северная Ирландия",
+      "distance_km": 2500,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "В Северной Ирландии после вспышки птичьего гриппа вводятся новые правила для содержания птицы.",
+      "source_id": "bing-world-ai",
+      "title": "Northern Ireland imposes bird flu housing order after Co Tyrone outbreak",
+      "url": "https://www.farminguk.com/news/northern-ireland-imposes-bird-flu-housing-order-after-co-tyrone-outbreak_69488.html",
+      "published_at": "2026-11-16T16:00:00.000Z",
+      "created_at": "2026-11-17 08:40:14",
+      "ai_at": "2026-11-17 08:40:32",
+      "dup_count": 1
+    },
     {
       "fingerprint": "ea2094c432e181446e96ebccac95add650e3624b",
       "disease": "африканская чума свиней",
@@ -64,22 +140,6 @@
       "published_at": "2026-11-16T07:02:24.000Z",
       "created_at": "2026-11-16 18:40:14",
       "ai_at": "2026-11-16 18:40:18",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "b294ff5d80f6380241ed2ad1909db9590181dcbc",
-      "disease": "грипп птиц",
-      "country": "Ирландия",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "В Ирландии введены меры био-безопасности для предотвращения заражения гриппом птиц",
-      "source_id": "bing-world-ai",
-      "title": "Poultry biosecurity regulations introduced as a precaution against Avian Influenza - Minister Martin Heydon TD",
-      "url": "https://www.farminglife.com/country-and-farming/poultry-biosecurity-regulations-introduced-as-a-precaution-against-avian-influenza-minister-martin-heydon-td-9354108",
-      "published_at": "2026-11-16T06:48:00.000Z",
-      "created_at": "2026-11-16 18:40:14",
-      "ai_at": "2026-11-16 18:40:21",
       "dup_count": 1
     },
     {
@@ -221,36 +281,6 @@
           "url": "https://www.bastillepost.com/global/article/6344516-hong-kong-suspends-poultry-imports-from-uk-due-to-h5n1-avian-influenza-outbreak",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-10T11:27:00.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "aa5acb17bf800272074a9ddf2dba82c5925e7c14",
-      "disease": "грипп птиц",
-      "country": "Индия",
-      "distance_km": 3000,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "В штате Тамил Наду выявлена вспышка гриппа птиц, убиты курицы, но пока нет выявленных случаев среди людей.",
-      "source_id": "bing-world-ai",
-      "title": "Should You Eat Eggs, Chicken For Protein During A Bird Flu Outbreak?",
-      "url": "https://www.ndtv.com/health/living-healthy/should-you-eat-eggs-chicken-for-protein-during-a-bird-flu-outbreak-12332271",
-      "published_at": "2026-11-15T22:26:00.000Z",
-      "created_at": "2026-11-16 08:40:14",
-      "ai_at": "2026-11-16 10:40:17",
-      "dup_count": 3,
-      "dups": [
-        {
-          "title": "Avian influenza confirmed in Tamil Nadu’s Cuddalore; over 1,500 chickens culled",
-          "url": "https://www.thehindu.com/news/national/tamil-nadu/avian-influenza-confirmed-in-cuddalore-over-1500-chickens-culled/article71701325.ece",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-14T01:46:00.000Z"
-        },
-        {
-          "title": "After Maharashtra bird flu outbreak, why are poultry farmers seeking H5N1 vaccination?",
-          "url": "https://indianexpress.com/article/health-wellness/after-maharashtra-bird-flu-outbreak-why-are-poultry-farmers-seeking-h5n1-vaccination-10957398/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-09T23:01:00.000Z"
         }
       ]
     },
@@ -738,21 +768,31 @@
       "published_at": "2026-11-13T17:14:00.000Z",
       "created_at": "2026-11-14 10:40:14",
       "ai_at": "2026-11-14 10:40:22",
-      "dup_count": 3,
+      "dup_count": 2,
       "dups": [
         {
           "title": "Vietnam's Quang Ngai tightens Laos border controls to curb African swine fever",
           "url": "https://news.tuoitre.vn/vietnams-quang-ngai-tightens-laos-border-controls-to-curb-african-swine-fever-103261113181310109.htm",
           "source_id": "bing-world-asf",
           "published_at": "2026-11-12T21:12:00.000Z"
-        },
-        {
-          "title": "Vietnam's Thanh Hoa launches peak ASF campaign as outbreaks persist in 57 villages",
-          "url": "https://www.efeedlink.com/articles/vietnams-thanh-hoa-launches-peak-asf-campaign-as-outbreaks-persist-in-57-villages",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-11-09T16:00:00.000Z"
         }
       ]
+    },
+    {
+      "fingerprint": "6109caa3215613110374afd8d222c2ae58a12125",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-fmd",
+      "title": "Great Start Readiness Program at Montcalm Central canceled due to hand, foot and mouth disease",
+      "url": "https://www.yahoo.com/news/articles/great-start-readiness-program-montcalm-140527692.html",
+      "published_at": "2026-11-13T06:05:00.000Z",
+      "created_at": "2026-11-17 08:40:14",
+      "ai_at": "2026-11-17 08:40:40",
+      "dup_count": 1
     },
     {
       "fingerprint": "786cf746a5d7d4e11ab9256d70d7fe0463127b03",
@@ -1136,15 +1176,7 @@
       "published_at": "2026-11-10T09:11:00.000Z",
       "created_at": "2026-11-10 20:40:15",
       "ai_at": "2026-11-10 20:40:23",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "First Farm Begins Restocking After Foot-and-Mouth Outbreak",
-          "url": "https://en.politis.com.cy/news/cy-news/1066342/first-farm-begins-restocking-after-foot-and-mouth-outbreak",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-11-10T05:24:00.000Z"
-        }
-      ]
+      "dup_count": 1
     },
     {
       "fingerprint": "b7bc17019ea9217f3006ee57f0d274a0e97cd7ef",
@@ -1160,30 +1192,6 @@
       "published_at": "2026-11-10T09:01:00.000Z",
       "created_at": "2026-11-10 20:40:15",
       "ai_at": "2026-11-10 20:40:26",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Scotland declares bird flu prevention zone after fresh outbreak",
-          "url": "https://uk.news.yahoo.com/scotland-declares-bird-flu-prevention-170142359.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-10T01:01:00.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "88f6070fc0cf9edd1a0a25dcecccbae0274de13b",
-      "disease": "африканская чума свиней",
-      "country": "Кипр",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "В Кипре после вспышки африканской чумы свиней вернулись на ферму первые животные",
-      "source_id": "bing-world-fmd",
-      "title": "First animals return to a Limassol farm since foot-and-mouth outbreak led to mass culling",
-      "url": "https://www.kiprinform.com/en/news/first-animals-return-to-a-limassol-farm-since-foot-and-mouth-outbreak-led-to-mass-culling/",
-      "published_at": "2026-11-10T06:44:00.000Z",
-      "created_at": "2026-11-10 20:40:15",
-      "ai_at": "2026-11-10 20:40:30",
       "dup_count": 1
     }
   ]
