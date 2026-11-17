@@ -6,6 +6,27 @@
     <description>Радар трансграничных болезней животных: ящур, АЧС, грипп птиц, нодулярный дерматит — с оценкой угрозы для РФ. Информационный сервис «как есть»: не официальная система оповещения, не ветеринарная консультация, ИИ и уровни могут ошибаться. Условия: https://shray77.github.io/biothreat-site/terms.html</description>
     <language>ru</language>
     <item>
+      <title>[не определено] грипп птиц — Ирландия: Alert for Kilkenny farms - biosecurity regulations introduced as a precaution against Avian Influenza</title>
+      <link>https://www.ireland-live.ie/south-east/kilkenny-live/alert-for-kilkenny-farms-biosecurity-regulations-introduced-as-a-precaution-against-avian-influenza-9354277</link>
+      <guid isPermaLink="false">d57d680b8ef08c0bb296cc3ab45eeb502bea7f9f</guid>
+      <pubDate>Mon, 16 Nov 2026 22:18:00 GMT</pubDate>
+      <description>В Ирландии введены меры био-безопасности для защиты от птичьего гриппа. · verdict: probable · Alert for Kilkenny farms - biosecurity regulations introduced as a precaution against Avian Influenza</description>
+    </item>
+    <item>
+      <title>[фон] грипп птиц — Индия: Tamil Nadu Steps Up Bird Flu Surveillance After H5N1 Outbreak, 40,000 Chickens Culled In Cuddalore</title>
+      <link>https://news.abplive.com/health/tamil-nadu-steps-up-bird-flu-surveillance-after-h5n1-outbreak-40-000-chickens-culled-in-cuddalore-1876247</link>
+      <guid isPermaLink="false">6a014bcdd7d2fd9a3a614af91729f5ede8f37027</guid>
+      <pubDate>Mon, 16 Nov 2026 19:20:00 GMT</pubDate>
+      <description>В Индии выявлен грипп птиц H5N1, уничтожено 40 000 кур. · verdict: confirmed · Tamil Nadu Steps Up Bird Flu Surveillance After H5N1 Outbreak, 40,000 Chickens Culled In Cuddalore</description>
+    </item>
+    <item>
+      <title>[фон] грипп птиц — Северная Ирландия: Northern Ireland imposes bird flu housing order after Co Tyrone outbreak</title>
+      <link>https://www.farminguk.com/news/northern-ireland-imposes-bird-flu-housing-order-after-co-tyrone-outbreak_69488.html</link>
+      <guid isPermaLink="false">8d8291cdf36b50c821fc8b7d0a8658ab8d0210da</guid>
+      <pubDate>Mon, 16 Nov 2026 16:00:00 GMT</pubDate>
+      <description>В Северной Ирландии после вспышки птичьего гриппа вводятся новые правила для содержания птицы. · verdict: confirmed · Northern Ireland imposes bird flu housing order after Co Tyrone outbreak</description>
+    </item>
+    <item>
       <title>[не определено] африканская чума свиней: Ear Vein Blood Enables Early Detection of African Swine Fever in Pigs</title>
       <link>https://bioengineer.org/ear-vein-blood-enables-early-detection-of-african-swine-fever-in-pigs/</link>
       <guid isPermaLink="false">ea2094c432e181446e96ebccac95add650e3624b</guid>
@@ -32,13 +53,6 @@
       <guid isPermaLink="false">9646e9a2fd9f40e0201c9b294dee7f48a7b4a9c7</guid>
       <pubDate>Mon, 16 Nov 2026 07:02:24 GMT</pubDate>
       <description>Южная Африка вакцинировала более 90% своей национальной скотомогильной массы против африканской чумы свиней · verdict: probable · SA exceeds 90% cattle vaccination milestone in foot-and-mouth disease fight</description>
-    </item>
-    <item>
-      <title>[не определено] грипп птиц — Ирландия: Poultry biosecurity regulations introduced as a precaution against Avian Influenza - Minister Martin Heydon TD</title>
-      <link>https://www.farminglife.com/country-and-farming/poultry-biosecurity-regulations-introduced-as-a-precaution-against-avian-influenza-minister-martin-heydon-td-9354108</link>
-      <guid isPermaLink="false">b294ff5d80f6380241ed2ad1909db9590181dcbc</guid>
-      <pubDate>Mon, 16 Nov 2026 06:48:00 GMT</pubDate>
-      <description>В Ирландии введены меры био-безопасности для предотвращения заражения гриппом птиц · verdict: probable · Poultry biosecurity regulations introduced as a precaution against Avian Influenza - Minister Martin Heydon TD</description>
     </item>
     <item>
       <title>[не определено] грипп птиц: Is It Safe To Eat Chicken &amp; Eggs Amid Bird Flu Outbreak In Tamil Nadu? What You Should Know</title>
@@ -81,13 +95,6 @@
       <guid isPermaLink="false">dd32e127db40641494abf2251930ecdb570f4180</guid>
       <pubDate>Mon, 16 Nov 2026 00:34:00 GMT</pubDate>
       <description>В Уэльсе введен запрет на распространение гриппа птиц · verdict: probable · Avian flu clampdown as risks grow of seasonal outbreaks</description>
-    </item>
-    <item>
-      <title>[фон] грипп птиц — Индия: Should You Eat Eggs, Chicken For Protein During A Bird Flu Outbreak?</title>
-      <link>https://www.ndtv.com/health/living-healthy/should-you-eat-eggs-chicken-for-protein-during-a-bird-flu-outbreak-12332271</link>
-      <guid isPermaLink="false">aa5acb17bf800272074a9ddf2dba82c5925e7c14</guid>
-      <pubDate>Sun, 15 Nov 2026 22:26:00 GMT</pubDate>
-      <description>В штате Тамил Наду выявлена вспышка гриппа птиц, убиты курицы, но пока нет выявленных случаев среди людей. · verdict: probable · Should You Eat Eggs, Chicken For Protein During A Bird Flu Outbreak?</description>
     </item>
     <item>
       <title>[граница] грипп птиц — Китай: Hong Kong Suspends Poultry Imports from India, UK, and Japan Due to Avian Influenza Outbreaks</title>
@@ -221,6 +228,13 @@
       <guid isPermaLink="false">231805e250a8df796879e15bd0654f564c8b9195</guid>
       <pubDate>Fri, 13 Nov 2026 17:14:00 GMT</pubDate>
       <description>В провинции Винь-Лонг выявлена африканская чума свиней, вырезано 4453 свиньи. · verdict: confirmed · African swine fever forces culling of 4,453 pigs in Vietnam's Vinh Long</description>
+    </item>
+    <item>
+      <title>[не определено] Great Start Readiness Program at Montcalm Central canceled due to hand, foot and mouth disease</title>
+      <link>https://www.yahoo.com/news/articles/great-start-readiness-program-montcalm-140527692.html</link>
+      <guid isPermaLink="false">6109caa3215613110374afd8d222c2ae58a12125</guid>
+      <pubDate>Fri, 13 Nov 2026 06:05:00 GMT</pubDate>
+      <description>verdict: probable · Great Start Readiness Program at Montcalm Central canceled due to hand, foot and mouth disease</description>
     </item>
     <item>
       <title>[фон] США: Wisconsin bird flu outbreak forces culling of entire backyard flock</title>
@@ -389,13 +403,6 @@
       <guid isPermaLink="false">b7bc17019ea9217f3006ee57f0d274a0e97cd7ef</guid>
       <pubDate>Tue, 10 Nov 2026 09:01:00 GMT</pubDate>
       <description>В Шотландии объявлен запрет на передвижение птиц после выявления вспышки гриппа птиц. · verdict: probable · Scotland declares bird flu prevention zone after fresh outbreak</description>
-    </item>
-    <item>
-      <title>[не определено] африканская чума свиней — Кипр: First animals return to a Limassol farm since foot-and-mouth outbreak led to mass culling</title>
-      <link>https://www.kiprinform.com/en/news/first-animals-return-to-a-limassol-farm-since-foot-and-mouth-outbreak-led-to-mass-culling/</link>
-      <guid isPermaLink="false">88f6070fc0cf9edd1a0a25dcecccbae0274de13b</guid>
-      <pubDate>Tue, 10 Nov 2026 06:44:00 GMT</pubDate>
-      <description>В Кипре после вспышки африканской чумы свиней вернулись на ферму первые животные · verdict: confirmed · First animals return to a Limassol farm since foot-and-mouth outbreak led to mass culling</description>
     </item>
   </channel>
 </rss>
