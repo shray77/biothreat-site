@@ -1,7 +1,55 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-16T18:40:30.713Z",
+  "generated_at": "2026-11-17T02:40:31.397Z",
   "items": [
+    {
+      "fingerprint": "ea2094c432e181446e96ebccac95add650e3624b",
+      "disease": "африканская чума свиней",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Разработана методика раннего выявления африканской чумы свиней путем взятия образца крови из вены ушей свиней.",
+      "source_id": "bing-world-asf",
+      "title": "Ear Vein Blood Enables Early Detection of African Swine Fever in Pigs",
+      "url": "https://bioengineer.org/ear-vein-blood-enables-early-detection-of-african-swine-fever-in-pigs/",
+      "published_at": "2026-11-16T16:00:00.000Z",
+      "created_at": "2026-11-17 02:40:15",
+      "ai_at": "2026-11-17 02:40:22",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "ac34d0208ee0187b6e64c9ee547008eac882453e",
+      "disease": "грипп птиц",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Исследование показало, что грипп птиц наносит ущерб в миллиарды долларов в год и вызывает сложности из-за своих 7 серотипов и устойчивости в окружающей среде.",
+      "source_id": "bing-world-fmd",
+      "title": "Global Synthesis Details Foot-and-Mouth Disease Diversity and Heavy Economic Toll",
+      "url": "https://bioengineer.org/global-synthesis-details-foot-and-mouth-disease-diversity-and-heavy-economic-toll/",
+      "published_at": "2026-11-16T11:47:00.000Z",
+      "created_at": "2026-11-17 02:40:15",
+      "ai_at": "2026-11-17 02:40:27",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "7b12d437a26d6c0f22717abd6d0197382e3ef45f",
+      "disease": "грипп птиц",
+      "country": "Остров Мэн",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "В Острове Мэн подтверждена вспышка гриппа птиц.",
+      "source_id": "bing-world-ai",
+      "title": "Warning as bird flu outbreak confirmed in the Isle of Man",
+      "url": "https://www.itv.com/news/granada/2026-11-16/warning-as-bird-flu-outbreak-confirmed",
+      "published_at": "2026-11-16T10:07:00.000Z",
+      "created_at": "2026-11-17 02:40:15",
+      "ai_at": "2026-11-17 02:40:30",
+      "dup_count": 1
+    },
     {
       "fingerprint": "9646e9a2fd9f40e0201c9b294dee7f48a7b4a9c7",
       "disease": "ящур",
@@ -142,7 +190,7 @@
       "published_at": "2026-11-16T00:34:00.000Z",
       "created_at": "2026-11-16 18:40:14",
       "ai_at": "2026-11-16 18:40:25",
-      "dup_count": 8,
+      "dup_count": 6,
       "dups": [
         {
           "title": "Avian flu clampdown as risks grow of seasonal outbreaks",
@@ -173,18 +221,6 @@
           "url": "https://www.bastillepost.com/global/article/6344516-hong-kong-suspends-poultry-imports-from-uk-due-to-h5n1-avian-influenza-outbreak",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-10T11:27:00.000Z"
-        },
-        {
-          "title": "Another poultry farm hit by bird flu as Norfolk outbreak confirmed",
-          "url": "https://www.farminguk.com/news/another-poultry-farm-hit-by-bird-flu-as-norfolk-outbreak-confirmed_69451.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-09T16:00:00.000Z"
-        },
-        {
-          "title": "Bird flu outbreak at Garstang farm means chickens culled and protection zone in place",
-          "url": "https://www.blogpreston.co.uk/2026/11/bird-flu-outbreak-at-garstang-farm-means-chickens-culled-and-protection-zone-in-place/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-09T08:34:00.000Z"
         }
       ]
     },
@@ -280,19 +316,13 @@
       "published_at": "2026-11-15T17:19:00.000Z",
       "created_at": "2026-11-16 08:40:14",
       "ai_at": "2026-11-16 08:42:26",
-      "dup_count": 3,
+      "dup_count": 2,
       "dups": [
         {
           "title": "Hong Kong Suspends Poultry Imports Amid Avian Influenza Outbreaks in Korea and Netherlands",
           "url": "https://www.bastillepost.com/global/article/6348802-hong-kong-suspends-poultry-imports-amid-avian-influenza-outbreaks-in-korea-and-netherlands",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-10T19:34:00.000Z"
-        },
-        {
-          "title": "Hong Kong Suspends Poultry Imports from Areas in Korea and US Amid Avian Influenza Outbreaks",
-          "url": "https://www.bastillepost.com/global/article/6340181-hong-kong-suspends-poultry-imports-from-areas-in-korea-and-us-amid-avian-influenza-outbreaks",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-09T11:00:00.000Z"
         }
       ]
     },
