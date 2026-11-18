@@ -1,23 +1,29 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-18T06:40:25.112Z",
+  "generated_at": "2026-11-18T10:40:42.763Z",
   "items": [
     {
-      "fingerprint": "ca1017bd09ebeabdd76f61ef7795f67332f2a7b4",
+      "fingerprint": "2382aad4d7736281a207222adffa25406557e161",
       "disease": "грипп птиц",
       "country": "Индия",
       "distance_km": 3000,
       "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "Разработан первый в стране вакцину от птичьего гриппа, которая будет запущена 20 ноября.",
+      "verdict": "confirmed",
+      "ai_summary": "В Керале уничтожают 26 000 домашних птиц из-за вспышки гриппа птиц",
       "source_id": "bing-world-ai",
-      "title": "India Develops First Homegrown H5N1 Vaccine As Bird Flu Outbreaks Return, To Be Launched On November 20",
-      "url": "https://www.ndtv.com/health/india-develops-first-homegrown-h5n1-vaccine-as-bird-flu-outbreaks-return-to-be-launched-on-november-20-12342221",
-      "published_at": "2026-11-17T20:48:00.000Z",
-      "created_at": "2026-11-18 06:40:14",
-      "ai_at": "2026-11-18 06:40:19",
-      "dup_count": 4,
+      "title": "Around 26,000 Domestic Birds To Be Culled In Keralam’s Alappuzha District Following Avian Influenza Outbreak",
+      "url": "https://www.therightnews.in/2026/11/18/around-26000-domestic-birds-to-be-culled-in-keralams-alappuzha-district-following-avian-influenza-outbreak/",
+      "published_at": "2026-11-18T01:59:00.000Z",
+      "created_at": "2026-11-18 10:40:14",
+      "ai_at": "2026-11-18 10:40:17",
+      "dup_count": 5,
       "dups": [
+        {
+          "title": "India Develops First Homegrown H5N1 Vaccine As Bird Flu Outbreaks Return, To Be Launched On November 20",
+          "url": "https://www.ndtv.com/health/india-develops-first-homegrown-h5n1-vaccine-as-bird-flu-outbreaks-return-to-be-launched-on-november-20-12342221",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-17T20:48:00.000Z"
+        },
         {
           "title": "Tamil Nadu Steps Up Bird Flu Surveillance After H5N1 Outbreak, 40,000 Chickens Culled In Cuddalore",
           "url": "https://news.abplive.com/health/tamil-nadu-steps-up-bird-flu-surveillance-after-h5n1-outbreak-40-000-chickens-culled-in-cuddalore-1876247",
@@ -35,6 +41,68 @@
           "url": "https://www.thehindu.com/news/national/tamil-nadu/avian-influenza-confirmed-in-cuddalore-over-1500-chickens-culled/article71701325.ece",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-14T01:46:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "35c6202a0530d0a18eee2ff0762de5bfa5661c7b",
+      "disease": "грипп птиц",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Индия разрабатывает свою вакцину от птичьего гриппа",
+      "source_id": "bing-world-ai",
+      "title": "India develops its own H5N1 vaccine amid fresh bird flu outbreaks",
+      "url": "https://thefederal.com/category/news/india-develops-indigenous-h5n1-vaccine-fresh-bird-flu-outbreak-263286",
+      "published_at": "2026-11-17T23:53:00.000Z",
+      "created_at": "2026-11-18 10:40:14",
+      "ai_at": "2026-11-18 10:40:21",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "0d1f90a18d0f9fea5ed6d1fc952f18b44bd91055",
+      "disease": "африканская чума свиней",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Проблема с африканской чумой свиней усиливается, Южная Корея принимает меры по ее предотвращению",
+      "source_id": "bing-world-asf",
+      "title": "African Swine Fever Spreads as Jeju Steps Up Efforts to Keep It Out",
+      "url": "https://www.kmib.co.kr/en/article/20261118501011",
+      "published_at": "2026-11-17T16:28:00.000Z",
+      "created_at": "2026-11-18 10:40:14",
+      "ai_at": "2026-11-18 10:40:25",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "a021a0bbef60b47abddf66e3614c66f4baf792a3",
+      "disease": "африканская чума свиней",
+      "country": "Вьетнам",
+      "distance_km": 1600,
+      "level": "наблюдение",
+      "verdict": "confirmed",
+      "ai_summary": "В провинции Лайчуа обнаружено 37 мест с африканской свиной чумой.",
+      "source_id": "bing-world-asf",
+      "title": "37/38 communes and wards in Lai Chau have recorded African swine fever",
+      "url": "https://news.laodong.vn/xa-hoi/3738-xa-phuong-o-lai-chau-da-ghi-nhan-dich-ta-lon-chau-phi-1802346.ldo",
+      "published_at": "2026-11-17T16:01:00.000Z",
+      "created_at": "2026-11-18 10:40:14",
+      "ai_at": "2026-11-18 10:40:30",
+      "dup_count": 3,
+      "dups": [
+        {
+          "title": "African swine fever forces culling of 4,453 pigs in Vietnam's Vinh Long",
+          "url": "https://news.tuoitre.vn/african-swine-fever-forces-culling-of-4453-pigs-in-vietnams-vinh-long-103261114145749075.htm",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-11-13T17:14:00.000Z"
+        },
+        {
+          "title": "Vietnam's Quang Ngai tightens Laos border controls to curb African swine fever",
+          "url": "https://news.tuoitre.vn/vietnams-quang-ngai-tightens-laos-border-controls-to-curb-african-swine-fever-103261113181310109.htm",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-11-12T21:12:00.000Z"
         }
       ]
     },
@@ -76,8 +144,14 @@
       "published_at": "2026-11-17T08:46:00.000Z",
       "created_at": "2026-11-17 18:40:14",
       "ai_at": "2026-11-17 18:40:19",
-      "dup_count": 2,
+      "dup_count": 3,
       "dups": [
+        {
+          "title": "Cull of 24,000 birds 'devastating news' as Northern Ireland an Avian Influenza Prevention Zone",
+          "url": "https://www.msn.com/en-gb/news/other/cull-of-24-000-birds-devastating-news-as-northern-ireland-an-avian-influenza-prevention-zone/ar-AA2hDkq8",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-17T08:44:59.000Z"
+        },
         {
           "title": "Northern Ireland imposes bird flu housing order after Co Tyrone outbreak",
           "url": "https://www.farminguk.com/news/northern-ireland-imposes-bird-flu-housing-order-after-co-tyrone-outbreak_69488.html",
@@ -162,7 +236,7 @@
       "published_at": "2026-11-16T21:26:00.000Z",
       "created_at": "2026-11-17 18:40:14",
       "ai_at": "2026-11-17 18:40:40",
-      "dup_count": 13,
+      "dup_count": 12,
       "dups": [
         {
           "title": "Bird Flu Outbreak Rages in Blue State as Illegal Farm Hands Dodge Health Officials, Union Says",
@@ -827,30 +901,6 @@
       ]
     },
     {
-      "fingerprint": "231805e250a8df796879e15bd0654f564c8b9195",
-      "disease": "африканская чума свиней",
-      "country": "Вьетнам",
-      "distance_km": 1600,
-      "level": "наблюдение",
-      "verdict": "confirmed",
-      "ai_summary": "В провинции Винь-Лонг выявлена африканская чума свиней, вырезано 4453 свиньи.",
-      "source_id": "bing-world-asf",
-      "title": "African swine fever forces culling of 4,453 pigs in Vietnam's Vinh Long",
-      "url": "https://news.tuoitre.vn/african-swine-fever-forces-culling-of-4453-pigs-in-vietnams-vinh-long-103261114145749075.htm",
-      "published_at": "2026-11-13T17:14:00.000Z",
-      "created_at": "2026-11-14 10:40:14",
-      "ai_at": "2026-11-14 10:40:22",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Vietnam's Quang Ngai tightens Laos border controls to curb African swine fever",
-          "url": "https://news.tuoitre.vn/vietnams-quang-ngai-tightens-laos-border-controls-to-curb-african-swine-fever-103261113181310109.htm",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-11-12T21:12:00.000Z"
-        }
-      ]
-    },
-    {
       "fingerprint": "6109caa3215613110374afd8d222c2ae58a12125",
       "disease": null,
       "country": null,
@@ -864,6 +914,22 @@
       "published_at": "2026-11-13T06:05:00.000Z",
       "created_at": "2026-11-17 08:40:14",
       "ai_at": "2026-11-17 08:40:40",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "3e1caddcf1ab65552796277da3621792481f2111",
+      "disease": "африканская чума свиней",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "Появилась вспышка классической чумы свиней на ферме в провинции Північна Ґьонгсан.",
+      "source_id": "bing-world-fmd",
+      "title": "Foot-and-Mouth Disease Confirmed at Another Yecheon Cattle Farm, Bringing North Gyeongsang's Total to 10 This Year",
+      "url": "https://www.kmib.co.kr/en/article/20261113500258",
+      "published_at": "2026-11-13T03:31:00.000Z",
+      "created_at": "2026-11-18 10:40:14",
+      "ai_at": "2026-11-18 10:40:42",
       "dup_count": 1
     },
     {
@@ -1096,86 +1162,6 @@
       "published_at": "2026-11-11T13:54:00.000Z",
       "created_at": "2026-11-12 00:40:14",
       "ai_at": "2026-11-12 00:40:16",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "195fad835e65e4317148b2a403e199d749e8a9a9",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "В штате Вашингтон зарегистрирован первый случай смерти от птичьего гриппа",
-      "source_id": "bing-world-ai",
-      "title": "First bird flu death hits WA, dairy outbreak spreads",
-      "url": "https://www.msn.com/en-us/money/general/first-bird-flu-death-hits-wa-dairy-outbreak-spreads/ar-AA2heHuJ",
-      "published_at": "2026-11-11T13:04:56.000Z",
-      "created_at": "2026-11-12 00:40:14",
-      "ai_at": "2026-11-12 00:40:19",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "a328ccee48827d0522a46e5ce08b833a293c0cfa",
-      "disease": "африканская чума свиней",
-      "country": "Индия",
-      "distance_km": 3000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В штате Ассам зафиксирована вспышка африканской чумы свиней, запрещена продажа свинины в радиусе 10 км",
-      "source_id": "bing-world-asf",
-      "title": "African Swine Fever Outbreak in Assam's Bokakhat, Pork Sales Banned Within 10-Km Radius",
-      "url": "https://english.hindusthansamachar.in/Encyc/2026/11/12/African-Swine-Fever-Outbreak-i.php",
-      "published_at": "2026-11-11T13:04:00.000Z",
-      "created_at": "2026-11-12 12:40:14",
-      "ai_at": "2026-11-12 12:42:34",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "69fda53f2a79d8b40e9a4414065ff7e4f13fa4d7",
-      "disease": "грипп птиц",
-      "country": "Монтана",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "В Монтане сохраняется высокая степень опасности от птичьего гриппа",
-      "source_id": "bing-world-ai",
-      "title": "Avian influenza a continuing concern",
-      "url": "https://www.choteauacantha.com/news/article_8d5e09b1-6531-4c1b-9d84-a9e4a3099ff0.html",
-      "published_at": "2026-11-11T13:01:00.000Z",
-      "created_at": "2026-11-12 00:40:14",
-      "ai_at": "2026-11-12 00:40:22",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "ac8cbf5cae645107c0e7e99b6a27e2de2fe131d5",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "В штате Массачусетс обнаружен случай тяжелого грозного гриппа птиц",
-      "source_id": "bing-world-ai",
-      "title": "Breaking: Avian influenza detected in Worcester County chicken flock",
-      "url": "https://www.yahoo.com/news/science/articles/breaking-avian-influenza-detected-worcester-164405832.html",
-      "published_at": "2026-11-11T08:44:00.000Z",
-      "created_at": "2026-11-12 04:40:15",
-      "ai_at": "2026-11-12 04:40:26",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "00446f05d53548f76e180ef99dea1f13b466c036",
-      "disease": "грипп птиц",
-      "country": "Англия",
-      "distance_km": 2500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В Англии случаи птичьего гриппа продолжают расти, поэтому птицеводов обязали держать птиц indoors.",
-      "source_id": "bing-world-ai",
-      "title": "Bird flu: Keepers ordered to keep poultry indoors following outbreak in Yorkshire",
-      "url": "https://www.yorkshirepost.co.uk/news/bird-flu-keepers-ordered-to-keep-poultry-indoors-following-outbreak-in-yorkshire-9344714",
-      "published_at": "2026-11-11T05:37:00.000Z",
-      "created_at": "2026-11-11 16:40:15",
-      "ai_at": "2026-11-11 16:40:19",
       "dup_count": 1
     }
   ]
