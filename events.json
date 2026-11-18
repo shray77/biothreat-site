@@ -1,7 +1,107 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-18T10:40:42.763Z",
+  "generated_at": "2026-11-18T18:47:13.524Z",
   "items": [
+    {
+      "fingerprint": "a0d14cfa8a60d08030bd666aeee116cb039f627a",
+      "disease": "грипп птиц",
+      "country": "Керала",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "В Керале уничтожено более 18 000 птиц из-за вспышки птичьего гриппа.",
+      "source_id": "bing-world-ai",
+      "title": "Kerala bird flu outbreak prompts culling of over 18,000 birds in Alappuzha",
+      "url": "https://www.indiatoday.in/india/kerala/story/kerala-bird-flu-outbreak-18600-birds-culled-and-28040-eggs-destroyed-alappuzha-3041811-2026-11-18",
+      "published_at": "2026-11-18T09:24:00.000Z",
+      "created_at": "2026-11-18 18:40:41",
+      "ai_at": "2026-11-18 18:40:46",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "717ce1a869f7a144b8d6404b91f5e4e349e15f0b",
+      "disease": "грипп птиц",
+      "country": "Флорида",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "Высокопатогенный грипп птиц выявлен на производстве в Флориде",
+      "source_id": "bing-world-ai",
+      "title": "Cal-Maine Foods Shares Jump 7% Despite Bird Flu Outbreak At Florida Facility",
+      "url": "https://www.rttnews.com/3715984/cal-maine-foods-shares-jump-7-despite-bird-flu-outbreak-at-florida-facility.aspx",
+      "published_at": "2026-11-18T08:11:00.000Z",
+      "created_at": "2026-11-18 18:40:41",
+      "ai_at": "2026-11-18 18:40:49",
+      "dup_count": 4,
+      "dups": [
+        {
+          "title": "Cal-Maine Foods, Inc. Reports Positive Test Result for Avian Influenza At Florida Facility",
+          "url": "https://www.marketscreener.com/news/cal-maine-foods-inc-reports-positive-test-result-for-avian-influenza-at-florida-facility-ce785eddda81fe23",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-18T07:58:00.000Z"
+        },
+        {
+          "title": "Cal-Maine Foods Reports Avian Influenza Outbreak at Florida Facility Affecting 1.76 Million Birds",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cal-maine-foods-reports-avian-143908284.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-18T06:39:00.000Z"
+        },
+        {
+          "title": "Cal-Maine Foods Reports Positive Test Result for Avian Influenza at Florida Facility",
+          "url": "https://finance.yahoo.com/healthcare/articles/cal-maine-foods-reports-positive-135500518.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-18T05:55:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "aba72db813b823b37204d803876654c6d801f17c",
+      "disease": null,
+      "country": "Великобритания",
+      "distance_km": 2500,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "В Уэльсе предупреждают о предотвращении птичьего гриппа",
+      "source_id": "bing-world-ai",
+      "title": "Powys poultry keepers asked to follow avian influenza prevention measures",
+      "url": "https://www.shropshirestar.com/news/farming/powys-poultry-keepers-avian-influenza-prevention-measures-9359302",
+      "published_at": "2026-11-18T07:00:00.000Z",
+      "created_at": "2026-11-18 18:40:41",
+      "ai_at": "2026-11-18 18:40:56",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "33e090d10dc2fd08de59e998292227f128a39b8e",
+      "disease": "нодулярный дерматит",
+      "country": "Индия",
+      "distance_km": 3000,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "В индийском штате Тамилнаду зафиксирована вспышка нодулярного дерматита у местного скота",
+      "source_id": "bing-world-lsd",
+      "title": "Farmers demand relief as lumpy skin disease ravages native Pulikulam calves",
+      "url": "https://www.thehindu.com/news/cities/Madurai/farmers-demand-relief-as-lumpy-skin-disease-ravages-native-pulikulam-calves/article71715949.ece",
+      "published_at": "2026-11-18T06:04:00.000Z",
+      "created_at": "2026-11-18 18:40:41",
+      "ai_at": "2026-11-18 18:41:03",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "d136be2d5cfc3c7c058944e1622d84f89c3bc1f2",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Bird keepers urged to follow new housing measures as avian influenza controls continue",
+      "url": "https://www.northumberlandgazette.co.uk/news/people/bird-keepers-urged-to-follow-new-housing-measures-as-avian-influenza-controls-continue-9359099",
+      "published_at": "2026-11-18T05:47:00.000Z",
+      "created_at": "2026-11-18 18:40:41",
+      "ai_at": null,
+      "dup_count": 1
+    },
     {
       "fingerprint": "2382aad4d7736281a207222adffa25406557e161",
       "disease": "грипп птиц",
@@ -59,6 +159,120 @@
       "created_at": "2026-11-18 10:40:14",
       "ai_at": "2026-11-18 10:40:21",
       "dup_count": 1
+    },
+    {
+      "fingerprint": "c280360bad2db96c2dd31f164816ce07e489bb9f",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Authorities order culling of 26,000 domestic birds in India's Kerala amid bird flu outbreak",
+      "url": "https://english.news.cn/20261118/6335123e6ba24e06acf69b63b4a2d207/c.html",
+      "published_at": "2026-11-17T21:37:00.000Z",
+      "created_at": "2026-11-18 18:40:41",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "b30dcf85c842da8b7c0d95e9224fbbefce94b68b",
+      "disease": null,
+      "country": "Индия",
+      "distance_km": 3000,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "Индия разрабатывает первую отечественную вакцину от птичьего гриппа, которую планируют запустить 20 ноября",
+      "source_id": "bing-world-ai",
+      "title": "India develops first homegrown H5N1 vaccine as bird flu outbreaks return, to be launched on November 20",
+      "url": "https://www.msn.com/en-in/money/general/india-develops-first-homegrown-h5n1-vaccine-as-bird-flu-outbreaks-return-to-be-launched-on-november-20/ar-AA2hFHIz",
+      "published_at": "2026-11-17T20:48:44.000Z",
+      "created_at": "2026-11-18 18:40:41",
+      "ai_at": "2026-11-18 18:45:09",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "6157e934e4268c94354d6fa51329768bb32d8d53",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Hong Kong Suspends Poultry Imports from UK Due to Avian Influenza Outbreak",
+      "url": "https://www.bastillepost.com/global/article/6373327-hong-kong-suspends-poultry-imports-from-uk-due-to-avian-influenza-outbreak",
+      "published_at": "2026-11-17T20:45:00.000Z",
+      "created_at": "2026-11-18 18:40:41",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "131c2e4c58a4762f927361458ae986750c269959",
+      "disease": "грипп птиц",
+      "country": "США",
+      "distance_km": 5000,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "Лидер по производству яиц в США intends cull 1,8 миллиона птиц после вспышки гриппа птиц в Флориде",
+      "source_id": "bing-world-ai",
+      "title": "Largest US egg producer to cull 1.8 million birds after bird flu outbreak",
+      "url": "https://www.aljazeera.com/economy/2026/11/18/largest-us-egg-producer-to-cull-1-8-million-birds-after-bird-flu-outbreak",
+      "published_at": "2026-11-17T17:08:00.000Z",
+      "created_at": "2026-11-18 18:40:41",
+      "ai_at": "2026-11-18 18:47:13",
+      "dup_count": 9,
+      "dups": [
+        {
+          "title": "Hong Kong Suspends Poultry Imports from Norway and US Due to Avian Influenza Outbreaks",
+          "url": "https://www.bastillepost.com/global/article/6368502-hong-kong-suspends-poultry-imports-from-norway-and-us-due-to-avian-influenza-outbreaks",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-16T21:26:00.000Z"
+        },
+        {
+          "title": "Bird Flu Outbreak Rages in Blue State as Illegal Farm Hands Dodge Health Officials, Union Says",
+          "url": "https://www.westernjournal.com/bird-flu-outbreak-rages-blue-state-illegal-farm-hands-dodge-health-officials-union-says/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-14T20:30:00.000Z"
+        },
+        {
+          "title": "Highly-Pathogenic Avian Influenza Found In Rusk County",
+          "url": "https://www.midwestfarmreport.com/2026/11/13/highly-pathogenic-avian-influenza-found-in-rusk-county/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-13T13:44:00.000Z"
+        },
+        {
+          "title": "Highly-Pathogenic Avian Influenza Found In Rusk County",
+          "url": "https://www.thefarmwi.com/highly-pathogenic-avian-influenza-found-in-rusk-county/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-13T13:44:00.000Z"
+        },
+        {
+          "title": "Backyard poultry flock in Wisconsin tests positive for highly pathogenic avian influenza",
+          "url": "https://www.yahoo.com/news/science/articles/backyard-poultry-flock-wisconsin-tests-183222233.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-13T10:32:00.000Z"
+        },
+        {
+          "title": "Highly contagious bird flu detected in Wisconsin as officials euthanize infected flock",
+          "url": "https://nypost.com/2026/11/13/us-news/wisconsin-bird-flu-outbreak-leads-to-flock-being-killed-to-stop-deadly-disease/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-13T01:32:00.000Z"
+        },
+        {
+          "title": "OREGON DEPT. OF FISH & WILDLIFE: Reports of highly pathogenic avian influenza in ducks and geese increasing in Willamette Valley",
+          "url": "https://www.tillamookcountypioneer.net/oregon-dept-of-fish-wildlife-reports-of-highly-pathogenic-avian-influenza-in-ducks-and-geese-increasing-in-willamette-valley/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-12T16:00:00.000Z"
+        },
+        {
+          "title": "National States' Ag Dept. Have Emerg. Meet with USADA RE: Avian Flu Outbreaks",
+          "url": "https://www.carboncountynews.com/news/national-states-ag-dept-have-emerg-meet-with-usada-re-avian-flu-outbreaks/article_12732eae-888c-4d8f-8f19-9149627deb9b.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-12T12:45:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "0d1f90a18d0f9fea5ed6d1fc952f18b44bd91055",
@@ -219,84 +433,6 @@
           "url": "https://www.farminglife.com/country-and-farming/poultry-biosecurity-regulations-introduced-as-a-precaution-against-avian-influenza-minister-martin-heydon-td-9354108",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-16T06:48:00.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "1532294dc9b2d186baf2b070da6f44b23f8c33c8",
-      "disease": "грипп птиц",
-      "country": "США",
-      "distance_km": 5000,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "В США зафиксирована вспышка гриппа птиц, поэтому в Хонконге временно запрещен импорт птицы из США и Норвегии.",
-      "source_id": "bing-world-ai",
-      "title": "Hong Kong Suspends Poultry Imports from Norway and US Due to Avian Influenza Outbreaks",
-      "url": "https://www.bastillepost.com/global/article/6368502-hong-kong-suspends-poultry-imports-from-norway-and-us-due-to-avian-influenza-outbreaks",
-      "published_at": "2026-11-16T21:26:00.000Z",
-      "created_at": "2026-11-17 18:40:14",
-      "ai_at": "2026-11-17 18:40:40",
-      "dup_count": 12,
-      "dups": [
-        {
-          "title": "Bird Flu Outbreak Rages in Blue State as Illegal Farm Hands Dodge Health Officials, Union Says",
-          "url": "https://www.westernjournal.com/bird-flu-outbreak-rages-blue-state-illegal-farm-hands-dodge-health-officials-union-says/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-14T20:30:00.000Z"
-        },
-        {
-          "title": "Highly-Pathogenic Avian Influenza Found In Rusk County",
-          "url": "https://www.midwestfarmreport.com/2026/11/13/highly-pathogenic-avian-influenza-found-in-rusk-county/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-13T13:44:00.000Z"
-        },
-        {
-          "title": "Highly-Pathogenic Avian Influenza Found In Rusk County",
-          "url": "https://www.thefarmwi.com/highly-pathogenic-avian-influenza-found-in-rusk-county/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-13T13:44:00.000Z"
-        },
-        {
-          "title": "Backyard poultry flock in Wisconsin tests positive for highly pathogenic avian influenza",
-          "url": "https://www.yahoo.com/news/science/articles/backyard-poultry-flock-wisconsin-tests-183222233.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-13T10:32:00.000Z"
-        },
-        {
-          "title": "Highly contagious bird flu detected in Wisconsin as officials euthanize infected flock",
-          "url": "https://nypost.com/2026/11/13/us-news/wisconsin-bird-flu-outbreak-leads-to-flock-being-killed-to-stop-deadly-disease/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-13T01:32:00.000Z"
-        },
-        {
-          "title": "OREGON DEPT. OF FISH & WILDLIFE: Reports of highly pathogenic avian influenza in ducks and geese increasing in Willamette Valley",
-          "url": "https://www.tillamookcountypioneer.net/oregon-dept-of-fish-wildlife-reports-of-highly-pathogenic-avian-influenza-in-ducks-and-geese-increasing-in-willamette-valley/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-12T16:00:00.000Z"
-        },
-        {
-          "title": "National States' Ag Dept. Have Emerg. Meet with USADA RE: Avian Flu Outbreaks",
-          "url": "https://www.carboncountynews.com/news/national-states-ag-dept-have-emerg-meet-with-usada-re-avian-flu-outbreaks/article_12732eae-888c-4d8f-8f19-9149627deb9b.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-12T12:45:00.000Z"
-        },
-        {
-          "title": "Reports of highly pathogenic avian influenza",
-          "url": "https://lincolncityhomepage.com/reports-of-highly-pathogenic-avian-influenza/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-11T17:54:00.000Z"
-        },
-        {
-          "title": "Washington bird flu outbreak kills dairy worker in Yakima Valley",
-          "url": "https://www.msn.com/en-us/money/general/washington-bird-flu-outbreak-kills-dairy-worker-in-yakima-valley/vi-AA2hfHmD",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-11T17:16:37.000Z"
-        },
-        {
-          "title": "Washington bird flu outbreak kills dairy worker in Yakima Valley",
-          "url": "https://www.msn.com/en-us/news/other/washington-bird-flu-outbreak-kills-dairy-worker-in-yakima-valley/vi-AA2hfHmD",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-11T17:16:37.000Z"
         }
       ]
     },
@@ -720,19 +856,13 @@
       "published_at": "2026-11-14T23:20:00.000Z",
       "created_at": "2026-11-15 14:40:14",
       "ai_at": "2026-11-15 14:40:23",
-      "dup_count": 3,
+      "dup_count": 2,
       "dups": [
         {
           "title": "South Africa: How Bad Has the Foot-and-Mouth Disease Epidemic Been?",
           "url": "https://allafrica.com/stories/202611130088.html",
           "source_id": "bing-world-fmd",
           "published_at": "2026-11-12T16:00:00.000Z"
-        },
-        {
-          "title": "South Africa wildlife outbreaks widen foot-and-mouth disease risks for livestock sector",
-          "url": "https://tradersunion.com/news/economic-data/show/4206683-south-africa-wildlife-foot-mouth-disease/",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-11-11T16:00:00.000Z"
         }
       ]
     },
@@ -750,7 +880,7 @@
       "published_at": "2026-11-14T16:00:00.000Z",
       "created_at": "2026-11-15 02:40:15",
       "ai_at": "2026-11-15 02:40:19",
-      "dup_count": 10,
+      "dup_count": 7,
       "dups": [
         {
           "title": "Modified Environmental Surveillance Enhances Avian Influenza Monitoring at Japanese Crane Roosts",
@@ -787,24 +917,6 @@
           "url": "https://english.news.cn/20261113/a6f6b306765d43afa77c2641b28a75ec/c.html",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-12T18:18:00.000Z"
-        },
-        {
-          "title": "First Avian Influenza Case of the Season Confirmed at Chicken Farm in Kyoto, Japan",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008843168",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-11T17:07:00.000Z"
-        },
-        {
-          "title": "Japan braces for bird flu outbreak after first farm case",
-          "url": "https://www3.nhk.or.jp/nhkworld/news/20261112de74866/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-11T16:00:00.000Z"
-        },
-        {
-          "title": "Japan reports 1st bird flu outbreak of the season",
-          "url": "https://english.news.cn/20261112/d7358a6a7c2640529eff609c999ff288/c.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-11T15:42:00.000Z"
         }
       ]
     },
@@ -1098,70 +1210,6 @@
       "published_at": "2026-11-11T22:39:11.000Z",
       "created_at": "2026-11-12 08:40:14",
       "ai_at": "2026-11-12 08:40:18",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "2528028e72e467b52f03e464119975426ef5f467",
-      "disease": "африканская чума свиней",
-      "country": "Намибия",
-      "distance_km": 6500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Вспышка африканской чумы свиней парализовала работу Meatco",
-      "source_id": "bing-world-fmd",
-      "title": "Emergency wage talks begin as FMD outbreak cripples Meatco",
-      "url": "https://economist.com.na/emergency-wage-talks-begin-as-fmd-outbreak-cripples-meatco/",
-      "published_at": "2026-11-11T16:00:00.000Z",
-      "created_at": "2026-11-12 18:40:14",
-      "ai_at": "2026-11-12 18:42:36",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "b6842df1a8563b526b2192c299e370ac48aff2e3",
-      "disease": "африканская чума свиней",
-      "country": "Австралия",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Правительства Австралии предлагают уничтожить диких свиней из-за возможного проникновения африканской чумы свиней.",
-      "source_id": "bing-world-fmd",
-      "title": "Calls for feral pig cull to stem foot-and-mouth disease threat",
-      "url": "https://iview.abc.net.au/show/abc-news-sa/series/0/video/SACL202213996908",
-      "published_at": "2026-11-11T16:00:00.000Z",
-      "created_at": "2026-11-12 12:40:14",
-      "ai_at": "2026-11-12 14:40:19",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "dde0af5df715a95741b36db16f31fb5dd67097f2",
-      "disease": "африканская чума свиней",
-      "country": "Украина",
-      "distance_km": 0,
-      "level": "граница",
-      "verdict": "probable",
-      "ai_summary": "В Украине ожидается потенциальный дефицит свиней из-за распространения африканской чумы свиней",
-      "source_id": "bing-world-asf",
-      "title": "Ukraine may face potential pig shortage as ASF spreads",
-      "url": "https://www.foodagribusiness.world/pigs/ukraine-may-face-potential-pig-shortage-as-asf-spreads",
-      "published_at": "2026-11-11T16:00:00.000Z",
-      "created_at": "2026-11-12 08:40:14",
-      "ai_at": "2026-11-12 08:40:40",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "abdc7fd1f18eea6c081b2c73e1bf8c15ed26d664",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "Baloxavir and Molnupiravir Protect Immunosuppressed Hamsters Against Severe Avian Influenza",
-      "url": "https://bioengineer.org/baloxavir-and-molnupiravir-protect-immunosuppressed-hamsters-against-severe-avian-influenza/",
-      "published_at": "2026-11-11T13:54:00.000Z",
-      "created_at": "2026-11-12 00:40:14",
-      "ai_at": "2026-11-12 00:40:16",
       "dup_count": 1
     }
   ]
