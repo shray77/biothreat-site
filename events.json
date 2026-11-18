@@ -1,7 +1,67 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-17T18:40:54.589Z",
+  "generated_at": "2026-11-18T06:40:25.112Z",
   "items": [
+    {
+      "fingerprint": "ca1017bd09ebeabdd76f61ef7795f67332f2a7b4",
+      "disease": "грипп птиц",
+      "country": "Индия",
+      "distance_km": 3000,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "Разработан первый в стране вакцину от птичьего гриппа, которая будет запущена 20 ноября.",
+      "source_id": "bing-world-ai",
+      "title": "India Develops First Homegrown H5N1 Vaccine As Bird Flu Outbreaks Return, To Be Launched On November 20",
+      "url": "https://www.ndtv.com/health/india-develops-first-homegrown-h5n1-vaccine-as-bird-flu-outbreaks-return-to-be-launched-on-november-20-12342221",
+      "published_at": "2026-11-17T20:48:00.000Z",
+      "created_at": "2026-11-18 06:40:14",
+      "ai_at": "2026-11-18 06:40:19",
+      "dup_count": 4,
+      "dups": [
+        {
+          "title": "Tamil Nadu Steps Up Bird Flu Surveillance After H5N1 Outbreak, 40,000 Chickens Culled In Cuddalore",
+          "url": "https://news.abplive.com/health/tamil-nadu-steps-up-bird-flu-surveillance-after-h5n1-outbreak-40-000-chickens-culled-in-cuddalore-1876247",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-16T19:20:00.000Z"
+        },
+        {
+          "title": "Should You Eat Eggs, Chicken For Protein During A Bird Flu Outbreak?",
+          "url": "https://www.ndtv.com/health/living-healthy/should-you-eat-eggs-chicken-for-protein-during-a-bird-flu-outbreak-12332271",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-15T22:26:00.000Z"
+        },
+        {
+          "title": "Avian influenza confirmed in Tamil Nadu’s Cuddalore; over 1,500 chickens culled",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/avian-influenza-confirmed-in-cuddalore-over-1500-chickens-culled/article71701325.ece",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-14T01:46:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "2b8b415b57da2f749a85e136d2cf90d083c112d0",
+      "disease": "африканская чума свиней",
+      "country": "Южная Корея",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Остров Чеджудо усиливает меры по предотвращению распространения африканской чумы свиней.",
+      "source_id": "bing-world-asf",
+      "title": "Jeju steps up measures against African swine fever",
+      "url": "https://www.ajupress.com/view/20261118101618497",
+      "published_at": "2026-11-17T12:17:00.000Z",
+      "created_at": "2026-11-18 06:40:14",
+      "ai_at": "2026-11-18 06:40:23",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "South Korea finds foot-and-mouth disease in eight more cattle in North Gyeongsang's Yecheon",
+          "url": "https://www.efeedlink.com/articles/south-korea-finds-foot-and-mouth-disease-in-eight-more-cattle-in-north-gyeongsangs-yecheon",
+          "source_id": "bing-world-fmd",
+          "published_at": "2026-11-14T16:00:00.000Z"
+        }
+      ]
+    },
     {
       "fingerprint": "0c747c8add035b159ef605533d2861c2529ca877",
       "disease": "грипп птиц",
@@ -163,36 +223,6 @@
           "url": "https://www.msn.com/en-us/news/other/washington-bird-flu-outbreak-kills-dairy-worker-in-yakima-valley/vi-AA2hfHmD",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-11T17:16:37.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "6a014bcdd7d2fd9a3a614af91729f5ede8f37027",
-      "disease": "грипп птиц",
-      "country": "Индия",
-      "distance_km": 3000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В Индии выявлен грипп птиц H5N1, уничтожено 40 000 кур.",
-      "source_id": "bing-world-ai",
-      "title": "Tamil Nadu Steps Up Bird Flu Surveillance After H5N1 Outbreak, 40,000 Chickens Culled In Cuddalore",
-      "url": "https://news.abplive.com/health/tamil-nadu-steps-up-bird-flu-surveillance-after-h5n1-outbreak-40-000-chickens-culled-in-cuddalore-1876247",
-      "published_at": "2026-11-16T19:20:00.000Z",
-      "created_at": "2026-11-17 08:40:14",
-      "ai_at": "2026-11-17 08:40:26",
-      "dup_count": 3,
-      "dups": [
-        {
-          "title": "Should You Eat Eggs, Chicken For Protein During A Bird Flu Outbreak?",
-          "url": "https://www.ndtv.com/health/living-healthy/should-you-eat-eggs-chicken-for-protein-during-a-bird-flu-outbreak-12332271",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-15T22:26:00.000Z"
-        },
-        {
-          "title": "Avian influenza confirmed in Tamil Nadu’s Cuddalore; over 1,500 chickens culled",
-          "url": "https://www.thehindu.com/news/national/tamil-nadu/avian-influenza-confirmed-in-cuddalore-over-1500-chickens-culled/article71701325.ece",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-14T01:46:00.000Z"
         }
       ]
     },
@@ -631,22 +661,6 @@
           "published_at": "2026-11-11T16:00:00.000Z"
         }
       ]
-    },
-    {
-      "fingerprint": "049bb1f0501d197241fe8eda388fc3e658f3d61a",
-      "disease": "африканская чума свиней",
-      "country": "Южная Корея",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "В Южной Корее в еще 8 животных выявлена африканская чума свиней",
-      "source_id": "bing-world-fmd",
-      "title": "South Korea finds foot-and-mouth disease in eight more cattle in North Gyeongsang's Yecheon",
-      "url": "https://www.efeedlink.com/articles/south-korea-finds-foot-and-mouth-disease-in-eight-more-cattle-in-north-gyeongsangs-yecheon",
-      "published_at": "2026-11-14T16:00:00.000Z",
-      "created_at": "2026-11-15 08:40:14",
-      "ai_at": "2026-11-15 08:40:18",
-      "dup_count": 1
     },
     {
       "fingerprint": "fa81a9ab676049b9d79a9d3db2dd876915f6c537",
@@ -1162,30 +1176,6 @@
       "published_at": "2026-11-11T05:37:00.000Z",
       "created_at": "2026-11-11 16:40:15",
       "ai_at": "2026-11-11 16:40:19",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Bird flu outbreak: Keepers ordered to keep poultry indoors following outbreak in Yorkshire",
-          "url": "https://www.yorkshirepost.co.uk/news/bird-flu-outbreak-keepers-ordered-to-keep-poultry-indoors-following-outbreak-in-yorkshire-9344714",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-11T05:22:00.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "9887d5db3c4a4114f2be2021f6651e59a49f02de",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-lsd",
-      "title": "[Bovine Viral Disease] What is \"Lumpy Skin Disease\"? Why is there such a fuss when the mortality rate is low?",
-      "url": "https://note.com/pre_mix/n/n3472a4d89e8f?hl=en",
-      "published_at": "2026-11-10T23:53:00.000Z",
-      "created_at": "2026-11-12 20:40:15",
-      "ai_at": "2026-11-12 22:40:17",
       "dup_count": 1
     }
   ]
