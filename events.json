@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-18T18:47:13.524Z",
+  "generated_at": "2026-11-18T20:42:22.603Z",
   "items": [
     {
       "fingerprint": "a0d14cfa8a60d08030bd666aeee116cb039f627a",
@@ -116,8 +116,14 @@
       "published_at": "2026-11-18T01:59:00.000Z",
       "created_at": "2026-11-18 10:40:14",
       "ai_at": "2026-11-18 10:40:17",
-      "dup_count": 5,
+      "dup_count": 6,
       "dups": [
+        {
+          "title": "Authorities order culling of 26,000 domestic birds in India's Kerala amid bird flu outbreak",
+          "url": "https://english.news.cn/20261118/6335123e6ba24e06acf69b63b4a2d207/c.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-17T21:37:00.000Z"
+        },
         {
           "title": "India Develops First Homegrown H5N1 Vaccine As Bird Flu Outbreaks Return, To Be Launched On November 20",
           "url": "https://www.ndtv.com/health/india-develops-first-homegrown-h5n1-vaccine-as-bird-flu-outbreaks-return-to-be-launched-on-november-20-12342221",
@@ -161,22 +167,6 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "c280360bad2db96c2dd31f164816ce07e489bb9f",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "Authorities order culling of 26,000 domestic birds in India's Kerala amid bird flu outbreak",
-      "url": "https://english.news.cn/20261118/6335123e6ba24e06acf69b63b4a2d207/c.html",
-      "published_at": "2026-11-17T21:37:00.000Z",
-      "created_at": "2026-11-18 18:40:41",
-      "ai_at": null,
-      "dup_count": 1
-    },
-    {
       "fingerprint": "b30dcf85c842da8b7c0d95e9224fbbefce94b68b",
       "disease": null,
       "country": "Индия",
@@ -194,19 +184,51 @@
     },
     {
       "fingerprint": "6157e934e4268c94354d6fa51329768bb32d8d53",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
+      "disease": "грипп птиц",
+      "country": "Великобритания",
+      "distance_km": 2500,
+      "level": "фон",
+      "verdict": "probable",
       "ai_summary": null,
       "source_id": "bing-world-ai",
       "title": "Hong Kong Suspends Poultry Imports from UK Due to Avian Influenza Outbreak",
       "url": "https://www.bastillepost.com/global/article/6373327-hong-kong-suspends-poultry-imports-from-uk-due-to-avian-influenza-outbreak",
       "published_at": "2026-11-17T20:45:00.000Z",
       "created_at": "2026-11-18 18:40:41",
-      "ai_at": null,
-      "dup_count": 1
+      "ai_at": "2026-11-18 20:42:22",
+      "dup_count": 6,
+      "dups": [
+        {
+          "title": "Avian flu clampdown as risks grow of seasonal outbreaks",
+          "url": "https://www.westerntelegraph.co.uk/news/26731446.avian-flu-clampdown-risks-grow-seasonal-outbreaks/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-16T00:34:00.000Z"
+        },
+        {
+          "title": "Avian flu clampdown as risks grow of seasonal outbreaks",
+          "url": "https://www.tivysideadvertiser.co.uk/news/26731446.avian-flu-clampdown-risks-grow-seasonal-outbreaks/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-16T00:34:00.000Z"
+        },
+        {
+          "title": "Warning on strict hygiene and biosecurity to prevent spread of bird flu following outbreak near Garstang",
+          "url": "https://www.lep.co.uk/news/fylde-coast-council-warning-strict-hygiene-biosecurity-bird-flu-concerns-9352092",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-15T21:30:00.000Z"
+        },
+        {
+          "title": "New bird flu restrictions imposed across Wales amid rising outbreak threat",
+          "url": "https://www.farminguk.com/news/new-bird-flu-restrictions-imposed-across-wales-amid-rising-outbreak-threat_69478.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-13T16:00:00.000Z"
+        },
+        {
+          "title": "News from our partners: National Housing Order declared to protect birds from Avian Influenza",
+          "url": "https://newsroom.shropshire.gov.uk/2026/11/news-from-our-partners-national-housing-order-declared-protect-birds-avian-influenza/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-12T05:56:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "131c2e4c58a4762f927361458ae986750c269959",
@@ -625,48 +647,6 @@
       "created_at": "2026-11-16 14:40:14",
       "ai_at": "2026-11-16 14:40:33",
       "dup_count": 1
-    },
-    {
-      "fingerprint": "dd32e127db40641494abf2251930ecdb570f4180",
-      "disease": "грипп птиц",
-      "country": "Великобритания",
-      "distance_km": 2500,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "В Уэльсе введен запрет на распространение гриппа птиц",
-      "source_id": "bing-world-ai",
-      "title": "Avian flu clampdown as risks grow of seasonal outbreaks",
-      "url": "https://www.westerntelegraph.co.uk/news/26731446.avian-flu-clampdown-risks-grow-seasonal-outbreaks/",
-      "published_at": "2026-11-16T00:34:00.000Z",
-      "created_at": "2026-11-16 18:40:14",
-      "ai_at": "2026-11-16 18:40:25",
-      "dup_count": 5,
-      "dups": [
-        {
-          "title": "Avian flu clampdown as risks grow of seasonal outbreaks",
-          "url": "https://www.tivysideadvertiser.co.uk/news/26731446.avian-flu-clampdown-risks-grow-seasonal-outbreaks/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-16T00:34:00.000Z"
-        },
-        {
-          "title": "Warning on strict hygiene and biosecurity to prevent spread of bird flu following outbreak near Garstang",
-          "url": "https://www.lep.co.uk/news/fylde-coast-council-warning-strict-hygiene-biosecurity-bird-flu-concerns-9352092",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-15T21:30:00.000Z"
-        },
-        {
-          "title": "New bird flu restrictions imposed across Wales amid rising outbreak threat",
-          "url": "https://www.farminguk.com/news/new-bird-flu-restrictions-imposed-across-wales-amid-rising-outbreak-threat_69478.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-13T16:00:00.000Z"
-        },
-        {
-          "title": "News from our partners: National Housing Order declared to protect birds from Avian Influenza",
-          "url": "https://newsroom.shropshire.gov.uk/2026/11/news-from-our-partners-national-housing-order-declared-protect-birds-avian-influenza/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-12T05:56:00.000Z"
-        }
-      ]
     },
     {
       "fingerprint": "9a3275b03034605892bdfefe0568820e6be0776e",
