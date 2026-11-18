@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-18T20:42:22.603Z",
+  "generated_at": "2026-11-18T22:40:19.542Z",
   "items": [
     {
       "fingerprint": "a0d14cfa8a60d08030bd666aeee116cb039f627a",
@@ -88,19 +88,57 @@
     },
     {
       "fingerprint": "d136be2d5cfc3c7c058944e1622d84f89c3bc1f2",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
+      "disease": "грипп птиц",
+      "country": "Великобритания",
+      "distance_km": 2500,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "Разведчикам предлагают следовать новым мерам по содержанию, чтобы защитить стада от птичьего гриппа",
       "source_id": "bing-world-ai",
       "title": "Bird keepers urged to follow new housing measures as avian influenza controls continue",
       "url": "https://www.northumberlandgazette.co.uk/news/people/bird-keepers-urged-to-follow-new-housing-measures-as-avian-influenza-controls-continue-9359099",
       "published_at": "2026-11-18T05:47:00.000Z",
       "created_at": "2026-11-18 18:40:41",
-      "ai_at": null,
-      "dup_count": 1
+      "ai_at": "2026-11-18 22:40:19",
+      "dup_count": 7,
+      "dups": [
+        {
+          "title": "Hong Kong Suspends Poultry Imports from UK Due to Avian Influenza Outbreak",
+          "url": "https://www.bastillepost.com/global/article/6373327-hong-kong-suspends-poultry-imports-from-uk-due-to-avian-influenza-outbreak",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-17T20:45:00.000Z"
+        },
+        {
+          "title": "Avian flu clampdown as risks grow of seasonal outbreaks",
+          "url": "https://www.westerntelegraph.co.uk/news/26731446.avian-flu-clampdown-risks-grow-seasonal-outbreaks/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-16T00:34:00.000Z"
+        },
+        {
+          "title": "Avian flu clampdown as risks grow of seasonal outbreaks",
+          "url": "https://www.tivysideadvertiser.co.uk/news/26731446.avian-flu-clampdown-risks-grow-seasonal-outbreaks/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-16T00:34:00.000Z"
+        },
+        {
+          "title": "Warning on strict hygiene and biosecurity to prevent spread of bird flu following outbreak near Garstang",
+          "url": "https://www.lep.co.uk/news/fylde-coast-council-warning-strict-hygiene-biosecurity-bird-flu-concerns-9352092",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-15T21:30:00.000Z"
+        },
+        {
+          "title": "New bird flu restrictions imposed across Wales amid rising outbreak threat",
+          "url": "https://www.farminguk.com/news/new-bird-flu-restrictions-imposed-across-wales-amid-rising-outbreak-threat_69478.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-13T16:00:00.000Z"
+        },
+        {
+          "title": "News from our partners: National Housing Order declared to protect birds from Avian Influenza",
+          "url": "https://newsroom.shropshire.gov.uk/2026/11/news-from-our-partners-national-housing-order-declared-protect-birds-avian-influenza/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-12T05:56:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "2382aad4d7736281a207222adffa25406557e161",
@@ -181,54 +219,6 @@
       "created_at": "2026-11-18 18:40:41",
       "ai_at": "2026-11-18 18:45:09",
       "dup_count": 1
-    },
-    {
-      "fingerprint": "6157e934e4268c94354d6fa51329768bb32d8d53",
-      "disease": "грипп птиц",
-      "country": "Великобритания",
-      "distance_km": 2500,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "Hong Kong Suspends Poultry Imports from UK Due to Avian Influenza Outbreak",
-      "url": "https://www.bastillepost.com/global/article/6373327-hong-kong-suspends-poultry-imports-from-uk-due-to-avian-influenza-outbreak",
-      "published_at": "2026-11-17T20:45:00.000Z",
-      "created_at": "2026-11-18 18:40:41",
-      "ai_at": "2026-11-18 20:42:22",
-      "dup_count": 6,
-      "dups": [
-        {
-          "title": "Avian flu clampdown as risks grow of seasonal outbreaks",
-          "url": "https://www.westerntelegraph.co.uk/news/26731446.avian-flu-clampdown-risks-grow-seasonal-outbreaks/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-16T00:34:00.000Z"
-        },
-        {
-          "title": "Avian flu clampdown as risks grow of seasonal outbreaks",
-          "url": "https://www.tivysideadvertiser.co.uk/news/26731446.avian-flu-clampdown-risks-grow-seasonal-outbreaks/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-16T00:34:00.000Z"
-        },
-        {
-          "title": "Warning on strict hygiene and biosecurity to prevent spread of bird flu following outbreak near Garstang",
-          "url": "https://www.lep.co.uk/news/fylde-coast-council-warning-strict-hygiene-biosecurity-bird-flu-concerns-9352092",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-15T21:30:00.000Z"
-        },
-        {
-          "title": "New bird flu restrictions imposed across Wales amid rising outbreak threat",
-          "url": "https://www.farminguk.com/news/new-bird-flu-restrictions-imposed-across-wales-amid-rising-outbreak-threat_69478.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-13T16:00:00.000Z"
-        },
-        {
-          "title": "News from our partners: National Housing Order declared to protect birds from Avian Influenza",
-          "url": "https://newsroom.shropshire.gov.uk/2026/11/news-from-our-partners-national-housing-order-declared-protect-birds-avian-influenza/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-12T05:56:00.000Z"
-        }
-      ]
     },
     {
       "fingerprint": "131c2e4c58a4762f927361458ae986750c269959",
