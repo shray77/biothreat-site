@@ -1,7 +1,39 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-18T22:40:19.542Z",
+  "generated_at": "2026-11-19T00:42:35.775Z",
   "items": [
+    {
+      "fingerprint": "5d6d2112dbd8cc7b0b6be9feb188fba8db4dc6cf",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "National States' Ag Dept. Have Emerg. Meet with USADA RE: Avian Flu Outbreaks",
+      "url": "https://www.bighorncountynews.com/news/national-states-ag-dept-have-emerg-meet-with-usada-re-avian-flu-outbreaks/article_6c069f2d-8e8a-4f8b-ac33-4d5b813180d8.html",
+      "published_at": "2026-11-18T12:49:00.000Z",
+      "created_at": "2026-11-19 00:40:14",
+      "ai_at": "2026-11-19 00:40:17",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "87195b5c8e25e3fb05b933737dc55d0d702d7eb3",
+      "disease": "грипп птиц",
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "Систематический обзор 47 исследований показывает, что распространение птичьего гриппа на расстоянии несколько километров возможно, но доказательства по эксперим",
+      "source_id": "bing-world-ai",
+      "title": "Review Finds Windborne Avian Influenza Transmission Plausible Over Several Kilometers",
+      "url": "https://bioengineer.org/review-finds-windborne-avian-influenza-transmission-plausible-over-several-kilometers/",
+      "published_at": "2026-11-18T11:30:00.000Z",
+      "created_at": "2026-11-19 00:40:14",
+      "ai_at": "2026-11-19 00:40:22",
+      "dup_count": 1
+    },
     {
       "fingerprint": "a0d14cfa8a60d08030bd666aeee116cb039f627a",
       "disease": "грипп птиц",
@@ -51,6 +83,84 @@
           "url": "https://finance.yahoo.com/healthcare/articles/cal-maine-foods-reports-positive-135500518.html",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-18T05:55:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "10c101c27d3597e363643943b81406f5106cf998",
+      "disease": "грипп птиц",
+      "country": "США",
+      "distance_km": 5000,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "Лидирующий в США производитель яиц вынужден уничтожить 1,8 миллиона птиц после вспышки гриппа птиц.",
+      "source_id": "bing-world-ai",
+      "title": "Largest US egg producer to cull 1.8 million birds after bird flu outbreak",
+      "url": "https://www.msn.com/en-us/money/economy/largest-us-egg-producer-to-cull-1-8-million-birds-after-bird-flu-outbreak/ar-AA2hI8JK",
+      "published_at": "2026-11-18T07:57:35.000Z",
+      "created_at": "2026-11-19 00:40:14",
+      "ai_at": "2026-11-19 00:40:25",
+      "dup_count": 11,
+      "dups": [
+        {
+          "title": "Cal-Maine Foods Reports Positive Test Result for Avian Influenza at Florida Facility",
+          "url": "https://uk.finance.yahoo.com/news/cal-maine-foods-reports-positive-135500518.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-18T00:55:00.000Z"
+        },
+        {
+          "title": "Largest US egg producer to cull 1.8 million birds after bird flu outbreak",
+          "url": "https://www.aljazeera.com/economy/2026/11/18/largest-us-egg-producer-to-cull-1-8-million-birds-after-bird-flu-outbreak",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-17T17:08:00.000Z"
+        },
+        {
+          "title": "Hong Kong Suspends Poultry Imports from Norway and US Due to Avian Influenza Outbreaks",
+          "url": "https://www.bastillepost.com/global/article/6368502-hong-kong-suspends-poultry-imports-from-norway-and-us-due-to-avian-influenza-outbreaks",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-16T21:26:00.000Z"
+        },
+        {
+          "title": "Bird Flu Outbreak Rages in Blue State as Illegal Farm Hands Dodge Health Officials, Union Says",
+          "url": "https://www.westernjournal.com/bird-flu-outbreak-rages-blue-state-illegal-farm-hands-dodge-health-officials-union-says/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-14T20:30:00.000Z"
+        },
+        {
+          "title": "Highly-Pathogenic Avian Influenza Found In Rusk County",
+          "url": "https://www.midwestfarmreport.com/2026/11/13/highly-pathogenic-avian-influenza-found-in-rusk-county/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-13T13:44:00.000Z"
+        },
+        {
+          "title": "Highly-Pathogenic Avian Influenza Found In Rusk County",
+          "url": "https://www.thefarmwi.com/highly-pathogenic-avian-influenza-found-in-rusk-county/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-13T13:44:00.000Z"
+        },
+        {
+          "title": "Backyard poultry flock in Wisconsin tests positive for highly pathogenic avian influenza",
+          "url": "https://www.yahoo.com/news/science/articles/backyard-poultry-flock-wisconsin-tests-183222233.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-13T10:32:00.000Z"
+        },
+        {
+          "title": "Highly contagious bird flu detected in Wisconsin as officials euthanize infected flock",
+          "url": "https://nypost.com/2026/11/13/us-news/wisconsin-bird-flu-outbreak-leads-to-flock-being-killed-to-stop-deadly-disease/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-13T01:32:00.000Z"
+        },
+        {
+          "title": "OREGON DEPT. OF FISH & WILDLIFE: Reports of highly pathogenic avian influenza in ducks and geese increasing in Willamette Valley",
+          "url": "https://www.tillamookcountypioneer.net/oregon-dept-of-fish-wildlife-reports-of-highly-pathogenic-avian-influenza-in-ducks-and-geese-increasing-in-willamette-valley/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-12T16:00:00.000Z"
+        },
+        {
+          "title": "National States' Ag Dept. Have Emerg. Meet with USADA RE: Avian Flu Outbreaks",
+          "url": "https://www.carboncountynews.com/news/national-states-ag-dept-have-emerg-meet-with-usada-re-avian-flu-outbreaks/article_12732eae-888c-4d8f-8f19-9149627deb9b.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-12T12:45:00.000Z"
         }
       ]
     },
@@ -141,6 +251,22 @@
       ]
     },
     {
+      "fingerprint": "640c8783f69c55ce00d81bdbf88057c16d3787d0",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Highly Pathogenic Avian Influenza Confirmed in Rusk County, Wisconsin",
+      "url": "https://dairybusiness.com/highly-pathogenic-avian-influenza-confirmed-in-rusk-county-wisconsin/",
+      "published_at": "2026-11-18T03:30:00.000Z",
+      "created_at": "2026-11-19 00:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
       "fingerprint": "2382aad4d7736281a207222adffa25406557e161",
       "disease": "грипп птиц",
       "country": "Индия",
@@ -154,13 +280,25 @@
       "published_at": "2026-11-18T01:59:00.000Z",
       "created_at": "2026-11-18 10:40:14",
       "ai_at": "2026-11-18 10:40:17",
-      "dup_count": 6,
+      "dup_count": 8,
       "dups": [
         {
           "title": "Authorities order culling of 26,000 domestic birds in India's Kerala amid bird flu outbreak",
           "url": "https://english.news.cn/20261118/6335123e6ba24e06acf69b63b4a2d207/c.html",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-17T21:37:00.000Z"
+        },
+        {
+          "title": "India develops first homegrown H5N1 vaccine as bird flu outbreaks return, to be launched on November 20",
+          "url": "https://www.msn.com/en-in/news/other/india-develops-first-homegrown-h5n1-vaccine-as-bird-flu-outbreaks-return-to-be-launched-on-november-20/ar-AA2hFHIz",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-17T20:48:44.000Z"
+        },
+        {
+          "title": "India develops first homegrown H5N1 vaccine as bird flu outbreaks return, to be launched on November 20",
+          "url": "https://www.msn.com/en-in/money/general/india-develops-first-homegrown-h5n1-vaccine-as-bird-flu-outbreaks-return-to-be-launched-on-november-20/ar-AA2hFHIz",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-17T20:48:44.000Z"
         },
         {
           "title": "India Develops First Homegrown H5N1 Vaccine As Bird Flu Outbreaks Return, To Be Launched On November 20",
@@ -203,88 +341,6 @@
       "created_at": "2026-11-18 10:40:14",
       "ai_at": "2026-11-18 10:40:21",
       "dup_count": 1
-    },
-    {
-      "fingerprint": "b30dcf85c842da8b7c0d95e9224fbbefce94b68b",
-      "disease": null,
-      "country": "Индия",
-      "distance_km": 3000,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "Индия разрабатывает первую отечественную вакцину от птичьего гриппа, которую планируют запустить 20 ноября",
-      "source_id": "bing-world-ai",
-      "title": "India develops first homegrown H5N1 vaccine as bird flu outbreaks return, to be launched on November 20",
-      "url": "https://www.msn.com/en-in/money/general/india-develops-first-homegrown-h5n1-vaccine-as-bird-flu-outbreaks-return-to-be-launched-on-november-20/ar-AA2hFHIz",
-      "published_at": "2026-11-17T20:48:44.000Z",
-      "created_at": "2026-11-18 18:40:41",
-      "ai_at": "2026-11-18 18:45:09",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "131c2e4c58a4762f927361458ae986750c269959",
-      "disease": "грипп птиц",
-      "country": "США",
-      "distance_km": 5000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Лидер по производству яиц в США intends cull 1,8 миллиона птиц после вспышки гриппа птиц в Флориде",
-      "source_id": "bing-world-ai",
-      "title": "Largest US egg producer to cull 1.8 million birds after bird flu outbreak",
-      "url": "https://www.aljazeera.com/economy/2026/11/18/largest-us-egg-producer-to-cull-1-8-million-birds-after-bird-flu-outbreak",
-      "published_at": "2026-11-17T17:08:00.000Z",
-      "created_at": "2026-11-18 18:40:41",
-      "ai_at": "2026-11-18 18:47:13",
-      "dup_count": 9,
-      "dups": [
-        {
-          "title": "Hong Kong Suspends Poultry Imports from Norway and US Due to Avian Influenza Outbreaks",
-          "url": "https://www.bastillepost.com/global/article/6368502-hong-kong-suspends-poultry-imports-from-norway-and-us-due-to-avian-influenza-outbreaks",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-16T21:26:00.000Z"
-        },
-        {
-          "title": "Bird Flu Outbreak Rages in Blue State as Illegal Farm Hands Dodge Health Officials, Union Says",
-          "url": "https://www.westernjournal.com/bird-flu-outbreak-rages-blue-state-illegal-farm-hands-dodge-health-officials-union-says/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-14T20:30:00.000Z"
-        },
-        {
-          "title": "Highly-Pathogenic Avian Influenza Found In Rusk County",
-          "url": "https://www.midwestfarmreport.com/2026/11/13/highly-pathogenic-avian-influenza-found-in-rusk-county/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-13T13:44:00.000Z"
-        },
-        {
-          "title": "Highly-Pathogenic Avian Influenza Found In Rusk County",
-          "url": "https://www.thefarmwi.com/highly-pathogenic-avian-influenza-found-in-rusk-county/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-13T13:44:00.000Z"
-        },
-        {
-          "title": "Backyard poultry flock in Wisconsin tests positive for highly pathogenic avian influenza",
-          "url": "https://www.yahoo.com/news/science/articles/backyard-poultry-flock-wisconsin-tests-183222233.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-13T10:32:00.000Z"
-        },
-        {
-          "title": "Highly contagious bird flu detected in Wisconsin as officials euthanize infected flock",
-          "url": "https://nypost.com/2026/11/13/us-news/wisconsin-bird-flu-outbreak-leads-to-flock-being-killed-to-stop-deadly-disease/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-13T01:32:00.000Z"
-        },
-        {
-          "title": "OREGON DEPT. OF FISH & WILDLIFE: Reports of highly pathogenic avian influenza in ducks and geese increasing in Willamette Valley",
-          "url": "https://www.tillamookcountypioneer.net/oregon-dept-of-fish-wildlife-reports-of-highly-pathogenic-avian-influenza-in-ducks-and-geese-increasing-in-willamette-valley/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-12T16:00:00.000Z"
-        },
-        {
-          "title": "National States' Ag Dept. Have Emerg. Meet with USADA RE: Avian Flu Outbreaks",
-          "url": "https://www.carboncountynews.com/news/national-states-ag-dept-have-emerg-meet-with-usada-re-avian-flu-outbreaks/article_12732eae-888c-4d8f-8f19-9149627deb9b.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-12T12:45:00.000Z"
-        }
-      ]
     },
     {
       "fingerprint": "0d1f90a18d0f9fea5ed6d1fc952f18b44bd91055",
@@ -1092,94 +1148,6 @@
       "published_at": "2026-11-12T03:49:45.000Z",
       "created_at": "2026-11-13 22:40:14",
       "ai_at": "2026-11-13 22:40:22",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "George, Charlotte and Louis must keep pet chickens indoors as hundreds culled in bird flu outbreak",
-          "url": "https://www.msn.com/en-us/news/other/george-charlotte-and-louis-must-keep-pet-chickens-indoors-as-hundreds-culled-in-bird-flu-outbreak/ar-AA2hi5a3",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-12T03:49:45.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "bf16a0e6be75ae77d7a662318442ac9694e103f6",
-      "disease": null,
-      "country": "США",
-      "distance_km": 5000,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "Сообщается о предупреждении о возможности заражения африканской свиной чумой в США перед новогодними праздниками.",
-      "source_id": "bing-world-asf",
-      "title": "USDA Says U.S. and Territories Remain Free of African Swine Fever, Renews Holiday Pork Warning",
-      "url": "https://viconsortium.com/vi-community_center/virgin-islands-usda-says-u-s--and-territories-remain-free-of-african-swine-fever--renews-holiday-pork-warning",
-      "published_at": "2026-11-12T03:49:00.000Z",
-      "created_at": "2026-11-12 18:40:14",
-      "ai_at": "2026-11-12 18:42:33",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "fce17585a94286f0d06380d7aa147493ccbdae0b",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "В округе у дома принца Георга и его брата цыплят постреляли.",
-      "source_id": "bing-world-ai",
-      "title": "Prince George, Princess Charlotte and Prince Louis must now keep pet chickens indoors as hundreds of the birds are culled a mile from their home in bird flu outbreak",
-      "url": "https://www.dailymail.com/news/article-16286699/Prince-George-Princess-Charlotte-Louis-chickens-bird-flu.html",
-      "published_at": "2026-11-12T03:49:00.000Z",
-      "created_at": "2026-11-12 12:40:14",
-      "ai_at": "2026-11-12 12:40:17",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "30a2ff3c39dc8c35c19c2a2b02d07706be100e55",
-      "disease": "грипп птиц",
-      "country": "Лаос",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Исследование выявляет 12 генотипов гриппа птиц в Лаосе",
-      "source_id": "bing-world-ai",
-      "title": "Study Identifies Twelve Avian Influenza Genotypes Circulating Across Laos",
-      "url": "https://bioengineer.org/study-identifies-twelve-avian-influenza-genotypes-circulating-across-laos/",
-      "published_at": "2026-11-12T01:54:00.000Z",
-      "created_at": "2026-11-12 12:40:14",
-      "ai_at": "2026-11-12 12:40:22",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "95e5758946deb65b5500b00dbdc7c46e439c1497",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "В Вашингтоне вспышка гриппа птиц заражает людей",
-      "source_id": "bing-world-ai",
-      "title": "Bird Flu Outbreak Hits Washington Dairy Workers",
-      "url": "https://pnwdaily.com/2026/11/11/washington-bird-flu-dairy-workers-outbreak/",
-      "published_at": "2026-11-12T01:12:00.000Z",
-      "created_at": "2026-11-13 02:40:14",
-      "ai_at": "2026-11-13 02:40:21",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "6f304a14c6bf759d4c4ace13a3265000096abdae",
-      "disease": "африканская чума свиней",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Африканская чума свиней и другие заболевания животных передаются быстрее, чем системы мониторинга.",
-      "source_id": "bing-world-asf",
-      "title": "Weakest links: The state of livestock biosecurity across Asia-Pacific",
-      "url": "https://www.msn.com/en-in/news/other/weakest-links-the-state-of-livestock-biosecurity-across-asia-pacific/ar-AA2hgHVl",
-      "published_at": "2026-11-11T22:39:11.000Z",
-      "created_at": "2026-11-12 08:40:14",
-      "ai_at": "2026-11-12 08:40:18",
       "dup_count": 1
     }
   ]
