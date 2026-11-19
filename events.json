@@ -1,7 +1,101 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-19T08:40:19.758Z",
+  "generated_at": "2026-11-19T14:40:30.696Z",
   "items": [
+    {
+      "fingerprint": "ca7aee1ceea704455772086b91afb2f8f9897e77",
+      "disease": "грипп птиц",
+      "country": "Великобритания",
+      "distance_km": 2500,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "В Норфолке снова подтверждены случаи птичьего гриппа, птицеводам предстоит пережить ещё один тревожный зимний сезон",
+      "source_id": "bing-world-ai",
+      "title": "Norfolk poultry farms face up to 'dread' of bird flu outbreaks",
+      "url": "https://www.edp24.co.uk/news/26742986.norfolk-poultry-farms-face-dread-bird-flu-outbreaks/",
+      "published_at": "2026-11-19T04:00:00.000Z",
+      "created_at": "2026-11-19 14:40:15",
+      "ai_at": "2026-11-19 14:40:20",
+      "dup_count": 7,
+      "dups": [
+        {
+          "title": "Bird keepers urged to follow new housing measures as avian influenza controls continue",
+          "url": "https://www.northumberlandgazette.co.uk/news/people/bird-keepers-urged-to-follow-new-housing-measures-as-avian-influenza-controls-continue-9359099",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-18T05:47:00.000Z"
+        },
+        {
+          "title": "Hong Kong Suspends Poultry Imports from UK Due to Avian Influenza Outbreak",
+          "url": "https://www.bastillepost.com/global/article/6373327-hong-kong-suspends-poultry-imports-from-uk-due-to-avian-influenza-outbreak",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-17T20:45:00.000Z"
+        },
+        {
+          "title": "Avian flu clampdown as risks grow of seasonal outbreaks",
+          "url": "https://www.westerntelegraph.co.uk/news/26731446.avian-flu-clampdown-risks-grow-seasonal-outbreaks/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-16T00:34:00.000Z"
+        },
+        {
+          "title": "Avian flu clampdown as risks grow of seasonal outbreaks",
+          "url": "https://www.tivysideadvertiser.co.uk/news/26731446.avian-flu-clampdown-risks-grow-seasonal-outbreaks/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-16T00:34:00.000Z"
+        },
+        {
+          "title": "Warning on strict hygiene and biosecurity to prevent spread of bird flu following outbreak near Garstang",
+          "url": "https://www.lep.co.uk/news/fylde-coast-council-warning-strict-hygiene-biosecurity-bird-flu-concerns-9352092",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-15T21:30:00.000Z"
+        },
+        {
+          "title": "New bird flu restrictions imposed across Wales amid rising outbreak threat",
+          "url": "https://www.farminguk.com/news/new-bird-flu-restrictions-imposed-across-wales-amid-rising-outbreak-threat_69478.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-13T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "00bf799bae93977e8dfd6973d2137f7465cb57fc",
+      "disease": "грипп птиц",
+      "country": "Остров Мэн",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "confirmed",
+      "ai_summary": "На острове Мэн выявлен птичий грипп H5N1, уничтожены все оставшиеся птицы.",
+      "source_id": "bing-world-ai",
+      "title": "What avian flu outbreak in Isle of Man means for rest of us",
+      "url": "https://www.iomtoday.co.im/opinion/what-avian-flu-outbreak-in-isle-of-man-means-for-rest-of-us-973869",
+      "published_at": "2026-11-19T02:00:00.000Z",
+      "created_at": "2026-11-19 14:40:15",
+      "ai_at": "2026-11-19 14:40:24",
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Warning as bird flu outbreak confirmed in the Isle of Man",
+          "url": "https://www.itv.com/news/granada/2026-11-16/warning-as-bird-flu-outbreak-confirmed",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-16T10:07:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "1289b236ed8d2973b63e93d8d882f7930db9f635",
+      "disease": "грипп птиц",
+      "country": "Саскачеван",
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": "В провинции Саскачеван зафиксировано 11 случаев высокопатогенного гриппа птиц в 2026 году.",
+      "source_id": "bing-world-ai",
+      "title": "Saskatchewan reports 11 avian influenza cases in 2026 so far",
+      "url": "https://discoverestevan.com/articles/saskatchewan-reports-11-avian-influenza-cases-in-2026-so-far",
+      "published_at": "2026-11-18T20:30:00.000Z",
+      "created_at": "2026-11-19 14:40:15",
+      "ai_at": "2026-11-19 14:40:30",
+      "dup_count": 1
+    },
     {
       "fingerprint": "3285f9bab2f21ee16a807afd1d359ef98841412e",
       "disease": null,
@@ -211,60 +305,6 @@
       "created_at": "2026-11-18 18:40:41",
       "ai_at": "2026-11-18 18:41:03",
       "dup_count": 1
-    },
-    {
-      "fingerprint": "d136be2d5cfc3c7c058944e1622d84f89c3bc1f2",
-      "disease": "грипп птиц",
-      "country": "Великобритания",
-      "distance_km": 2500,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "Разведчикам предлагают следовать новым мерам по содержанию, чтобы защитить стада от птичьего гриппа",
-      "source_id": "bing-world-ai",
-      "title": "Bird keepers urged to follow new housing measures as avian influenza controls continue",
-      "url": "https://www.northumberlandgazette.co.uk/news/people/bird-keepers-urged-to-follow-new-housing-measures-as-avian-influenza-controls-continue-9359099",
-      "published_at": "2026-11-18T05:47:00.000Z",
-      "created_at": "2026-11-18 18:40:41",
-      "ai_at": "2026-11-18 22:40:19",
-      "dup_count": 7,
-      "dups": [
-        {
-          "title": "Hong Kong Suspends Poultry Imports from UK Due to Avian Influenza Outbreak",
-          "url": "https://www.bastillepost.com/global/article/6373327-hong-kong-suspends-poultry-imports-from-uk-due-to-avian-influenza-outbreak",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-17T20:45:00.000Z"
-        },
-        {
-          "title": "Avian flu clampdown as risks grow of seasonal outbreaks",
-          "url": "https://www.westerntelegraph.co.uk/news/26731446.avian-flu-clampdown-risks-grow-seasonal-outbreaks/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-16T00:34:00.000Z"
-        },
-        {
-          "title": "Avian flu clampdown as risks grow of seasonal outbreaks",
-          "url": "https://www.tivysideadvertiser.co.uk/news/26731446.avian-flu-clampdown-risks-grow-seasonal-outbreaks/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-16T00:34:00.000Z"
-        },
-        {
-          "title": "Warning on strict hygiene and biosecurity to prevent spread of bird flu following outbreak near Garstang",
-          "url": "https://www.lep.co.uk/news/fylde-coast-council-warning-strict-hygiene-biosecurity-bird-flu-concerns-9352092",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-15T21:30:00.000Z"
-        },
-        {
-          "title": "New bird flu restrictions imposed across Wales amid rising outbreak threat",
-          "url": "https://www.farminguk.com/news/new-bird-flu-restrictions-imposed-across-wales-amid-rising-outbreak-threat_69478.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-13T16:00:00.000Z"
-        },
-        {
-          "title": "News from our partners: National Housing Order declared to protect birds from Avian Influenza",
-          "url": "https://newsroom.shropshire.gov.uk/2026/11/news-from-our-partners-national-housing-order-declared-protect-birds-avian-influenza/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-12T05:56:00.000Z"
-        }
-      ]
     },
     {
       "fingerprint": "2382aad4d7736281a207222adffa25406557e161",
@@ -550,22 +590,6 @@
       "published_at": "2026-11-16T11:47:00.000Z",
       "created_at": "2026-11-17 02:40:15",
       "ai_at": "2026-11-17 02:40:27",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "7b12d437a26d6c0f22717abd6d0197382e3ef45f",
-      "disease": "грипп птиц",
-      "country": "Остров Мэн",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "В Острове Мэн подтверждена вспышка гриппа птиц.",
-      "source_id": "bing-world-ai",
-      "title": "Warning as bird flu outbreak confirmed in the Isle of Man",
-      "url": "https://www.itv.com/news/granada/2026-11-16/warning-as-bird-flu-outbreak-confirmed",
-      "published_at": "2026-11-16T10:07:00.000Z",
-      "created_at": "2026-11-17 02:40:15",
-      "ai_at": "2026-11-17 02:40:30",
       "dup_count": 1
     },
     {
@@ -1022,19 +1046,13 @@
       "published_at": "2026-11-14T00:07:00.000Z",
       "created_at": "2026-11-14 10:40:14",
       "ai_at": "2026-11-14 10:40:18",
-      "dup_count": 3,
+      "dup_count": 2,
       "dups": [
         {
           "title": "Finland plans to install 83 km of electric fencing due to ASF — YLE News",
           "url": "https://ua.news/en/dovkolo-svitu/finliandiia-planuie-vstanoviti-83-km-elektroogorozhi-cherez-achs-yle-news",
           "source_id": "bing-world-asf",
           "published_at": "2026-11-12T07:55:00.000Z"
-        },
-        {
-          "title": "Finland building 83-km fence to contain African swine fever outbreak in wild boar",
-          "url": "https://yle.fi/a/74-20256634",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-11-12T05:35:00.000Z"
         }
       ]
     },
@@ -1116,22 +1134,6 @@
       "published_at": "2026-11-12T16:00:00.000Z",
       "created_at": "2026-11-13 06:40:14",
       "ai_at": "2026-11-13 06:40:21",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "81068aa91ef6497df717553e696a8450fad6203b",
-      "disease": null,
-      "country": "Нигерия",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Нигерийское правительство развертывает prediction-tool для предотвращения птичьего гриппа",
-      "source_id": "bing-world-ai",
-      "title": "Nigerian Government Deploys Predictive Tool To Prevent Avian Influenza",
-      "url": "https://von.gov.ng/nigerian-government-deploys-predictive-tool-to-prevent-avian-influenza/",
-      "published_at": "2026-11-12T07:52:00.000Z",
-      "created_at": "2026-11-12 18:40:14",
-      "ai_at": "2026-11-12 18:42:18",
       "dup_count": 1
     }
   ]
