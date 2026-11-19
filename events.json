@@ -1,7 +1,121 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-19T14:40:30.696Z",
+  "generated_at": "2026-11-19T20:40:31.349Z",
   "items": [
+    {
+      "fingerprint": "a0e0f8f0527b21175b2481cd1dfe56c74ece2da7",
+      "disease": "грипп птиц",
+      "country": "США",
+      "distance_km": 5000,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "В штате Орегон подтвержден первый случай заражения человека гриппом птиц 2026 года",
+      "source_id": "bing-world-ai",
+      "title": "OHA confirms state’s first human case of avian influenza of 2026",
+      "url": "https://www.thenewsguard.com/news/oha-confirms-state-s-first-human-case-of-avian-influenza-of-2026/article_a7a931c0-3c28-4a46-9745-fcba09c40b5f.html",
+      "published_at": "2026-11-19T11:19:00.000Z",
+      "created_at": "2026-11-19 20:40:14",
+      "ai_at": "2026-11-19 20:40:18",
+      "dup_count": 13,
+      "dups": [
+        {
+          "title": "Cal-Maine halts egg production at Florida plant after bird flu outbreak",
+          "url": "https://finance.yahoo.com/markets/commodities/articles/cal-maine-halts-egg-production-145800710.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-19T06:58:00.000Z"
+        },
+        {
+          "title": "Largest US egg producer to cull 1.8 million birds after bird flu outbreak",
+          "url": "https://www.msn.com/en-us/money/economy/largest-us-egg-producer-to-cull-1-8-million-birds-after-bird-flu-outbreak/ar-AA2hI8JK",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-18T07:57:35.000Z"
+        },
+        {
+          "title": "Highly Pathogenic Avian Influenza Confirmed in Rusk County, Wisconsin",
+          "url": "https://dairybusiness.com/highly-pathogenic-avian-influenza-confirmed-in-rusk-county-wisconsin/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-18T03:30:00.000Z"
+        },
+        {
+          "title": "Cal-Maine Foods Reports Positive Test Result for Avian Influenza at Florida Facility",
+          "url": "https://uk.finance.yahoo.com/news/cal-maine-foods-reports-positive-135500518.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-18T00:55:00.000Z"
+        },
+        {
+          "title": "Largest US egg producer to cull 1.8 million birds after bird flu outbreak",
+          "url": "https://www.aljazeera.com/economy/2026/11/18/largest-us-egg-producer-to-cull-1-8-million-birds-after-bird-flu-outbreak",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-17T17:08:00.000Z"
+        },
+        {
+          "title": "Hong Kong Suspends Poultry Imports from Norway and US Due to Avian Influenza Outbreaks",
+          "url": "https://www.bastillepost.com/global/article/6368502-hong-kong-suspends-poultry-imports-from-norway-and-us-due-to-avian-influenza-outbreaks",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-16T21:26:00.000Z"
+        },
+        {
+          "title": "Bird Flu Outbreak Rages in Blue State as Illegal Farm Hands Dodge Health Officials, Union Says",
+          "url": "https://www.westernjournal.com/bird-flu-outbreak-rages-blue-state-illegal-farm-hands-dodge-health-officials-union-says/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-14T20:30:00.000Z"
+        },
+        {
+          "title": "Highly-Pathogenic Avian Influenza Found In Rusk County",
+          "url": "https://www.midwestfarmreport.com/2026/11/13/highly-pathogenic-avian-influenza-found-in-rusk-county/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-13T13:44:00.000Z"
+        },
+        {
+          "title": "Highly-Pathogenic Avian Influenza Found In Rusk County",
+          "url": "https://www.thefarmwi.com/highly-pathogenic-avian-influenza-found-in-rusk-county/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-13T13:44:00.000Z"
+        },
+        {
+          "title": "Backyard poultry flock in Wisconsin tests positive for highly pathogenic avian influenza",
+          "url": "https://www.yahoo.com/news/science/articles/backyard-poultry-flock-wisconsin-tests-183222233.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-13T10:32:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "ae2b420b2267ed32cd317b2cfd54d1d0b3ee9128",
+      "disease": "грипп птиц",
+      "country": "Северная Ирландия",
+      "distance_km": 2500,
+      "level": "фон",
+      "verdict": "confirmed",
+      "ai_summary": "В Северной Ирландии уничтожены 24 тысячи птиц из-за выявленного гриппа птиц.",
+      "source_id": "bing-world-ai",
+      "title": "24,000 birds are culled in Co Tyrone after avian influenza was detected",
+      "url": "https://www.msn.com/en-gb/news/other/24000-birds-are-culled-in-co-tyrone-after-avian-influenza-was-detected/vi-AA2hNyHC",
+      "published_at": "2026-11-19T08:45:50.000Z",
+      "created_at": "2026-11-19 20:40:14",
+      "ai_at": "2026-11-19 20:40:22",
+      "dup_count": 4,
+      "dups": [
+        {
+          "title": "Cull of 24,000 birds 'devastating news' as Northern Ireland an Avian Influenza Prevention Zone",
+          "url": "https://www.newsletter.co.uk/country-and-farming/cull-of-24000-birds-devastating-news-as-northern-ireland-an-avian-influenza-prevention-zone-9357309",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-17T08:46:00.000Z"
+        },
+        {
+          "title": "Cull of 24,000 birds 'devastating news' as Northern Ireland an Avian Influenza Prevention Zone",
+          "url": "https://www.msn.com/en-gb/news/other/cull-of-24-000-birds-devastating-news-as-northern-ireland-an-avian-influenza-prevention-zone/ar-AA2hDkq8",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-17T08:44:59.000Z"
+        },
+        {
+          "title": "Northern Ireland imposes bird flu housing order after Co Tyrone outbreak",
+          "url": "https://www.farminguk.com/news/northern-ireland-imposes-bird-flu-housing-order-after-co-tyrone-outbreak_69488.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-16T16:00:00.000Z"
+        }
+      ]
+    },
     {
       "fingerprint": "ca7aee1ceea704455772086b91afb2f8f9897e77",
       "disease": "грипп птиц",
@@ -55,6 +169,22 @@
           "published_at": "2026-11-13T16:00:00.000Z"
         }
       ]
+    },
+    {
+      "fingerprint": "21f0f657223e7bfc74bf537cb199b10e485624e9",
+      "disease": null,
+      "country": "США",
+      "distance_km": 5000,
+      "level": "фон",
+      "verdict": "probable",
+      "ai_summary": "Владелец молочного комплекса в Вашингтоне заразился птицезаболеванием, которое, вероятно, передалось от скота из Айдахо",
+      "source_id": "bing-world-ai",
+      "title": "Bird flu outbreak in Washington state dairies is linked to virus transmitted from Idaho",
+      "url": "https://idahocapitalsun.com/2026/11/19/bird-flu-outbreak-in-washington-state-dairies-is-linked-to-virus-transmitted-from-idaho/",
+      "published_at": "2026-11-19T03:25:00.000Z",
+      "created_at": "2026-11-19 20:40:14",
+      "ai_at": "2026-11-19 20:40:30",
+      "dup_count": 1
     },
     {
       "fingerprint": "00bf799bae93977e8dfd6973d2137f7465cb57fc",
@@ -193,84 +323,6 @@
           "url": "https://finance.yahoo.com/healthcare/articles/cal-maine-foods-reports-positive-135500518.html",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-18T05:55:00.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "10c101c27d3597e363643943b81406f5106cf998",
-      "disease": "грипп птиц",
-      "country": "США",
-      "distance_km": 5000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Лидирующий в США производитель яиц вынужден уничтожить 1,8 миллиона птиц после вспышки гриппа птиц.",
-      "source_id": "bing-world-ai",
-      "title": "Largest US egg producer to cull 1.8 million birds after bird flu outbreak",
-      "url": "https://www.msn.com/en-us/money/economy/largest-us-egg-producer-to-cull-1-8-million-birds-after-bird-flu-outbreak/ar-AA2hI8JK",
-      "published_at": "2026-11-18T07:57:35.000Z",
-      "created_at": "2026-11-19 00:40:14",
-      "ai_at": "2026-11-19 00:40:25",
-      "dup_count": 12,
-      "dups": [
-        {
-          "title": "Highly Pathogenic Avian Influenza Confirmed in Rusk County, Wisconsin",
-          "url": "https://dairybusiness.com/highly-pathogenic-avian-influenza-confirmed-in-rusk-county-wisconsin/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-18T03:30:00.000Z"
-        },
-        {
-          "title": "Cal-Maine Foods Reports Positive Test Result for Avian Influenza at Florida Facility",
-          "url": "https://uk.finance.yahoo.com/news/cal-maine-foods-reports-positive-135500518.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-18T00:55:00.000Z"
-        },
-        {
-          "title": "Largest US egg producer to cull 1.8 million birds after bird flu outbreak",
-          "url": "https://www.aljazeera.com/economy/2026/11/18/largest-us-egg-producer-to-cull-1-8-million-birds-after-bird-flu-outbreak",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-17T17:08:00.000Z"
-        },
-        {
-          "title": "Hong Kong Suspends Poultry Imports from Norway and US Due to Avian Influenza Outbreaks",
-          "url": "https://www.bastillepost.com/global/article/6368502-hong-kong-suspends-poultry-imports-from-norway-and-us-due-to-avian-influenza-outbreaks",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-16T21:26:00.000Z"
-        },
-        {
-          "title": "Bird Flu Outbreak Rages in Blue State as Illegal Farm Hands Dodge Health Officials, Union Says",
-          "url": "https://www.westernjournal.com/bird-flu-outbreak-rages-blue-state-illegal-farm-hands-dodge-health-officials-union-says/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-14T20:30:00.000Z"
-        },
-        {
-          "title": "Highly-Pathogenic Avian Influenza Found In Rusk County",
-          "url": "https://www.midwestfarmreport.com/2026/11/13/highly-pathogenic-avian-influenza-found-in-rusk-county/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-13T13:44:00.000Z"
-        },
-        {
-          "title": "Highly-Pathogenic Avian Influenza Found In Rusk County",
-          "url": "https://www.thefarmwi.com/highly-pathogenic-avian-influenza-found-in-rusk-county/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-13T13:44:00.000Z"
-        },
-        {
-          "title": "Backyard poultry flock in Wisconsin tests positive for highly pathogenic avian influenza",
-          "url": "https://www.yahoo.com/news/science/articles/backyard-poultry-flock-wisconsin-tests-183222233.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-13T10:32:00.000Z"
-        },
-        {
-          "title": "Highly contagious bird flu detected in Wisconsin as officials euthanize infected flock",
-          "url": "https://nypost.com/2026/11/13/us-news/wisconsin-bird-flu-outbreak-leads-to-flock-being-killed-to-stop-deadly-disease/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-13T01:32:00.000Z"
-        },
-        {
-          "title": "OREGON DEPT. OF FISH & WILDLIFE: Reports of highly pathogenic avian influenza in ducks and geese increasing in Willamette Valley",
-          "url": "https://www.tillamookcountypioneer.net/oregon-dept-of-fish-wildlife-reports-of-highly-pathogenic-avian-influenza-in-ducks-and-geese-increasing-in-willamette-valley/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-12T16:00:00.000Z"
         }
       ]
     },
@@ -449,36 +501,6 @@
           "url": "https://www.efeedlink.com/articles/south-korea-finds-foot-and-mouth-disease-in-eight-more-cattle-in-north-gyeongsangs-yecheon",
           "source_id": "bing-world-fmd",
           "published_at": "2026-11-14T16:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "0c747c8add035b159ef605533d2861c2529ca877",
-      "disease": "грипп птиц",
-      "country": "Северная Ирландия",
-      "distance_km": 2500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В Северной Ирландии заражены 24 тысячи кур, их придется уничтожить.",
-      "source_id": "bing-world-ai",
-      "title": "Cull of 24,000 birds 'devastating news' as Northern Ireland an Avian Influenza Prevention Zone",
-      "url": "https://www.newsletter.co.uk/country-and-farming/cull-of-24000-birds-devastating-news-as-northern-ireland-an-avian-influenza-prevention-zone-9357309",
-      "published_at": "2026-11-17T08:46:00.000Z",
-      "created_at": "2026-11-17 18:40:14",
-      "ai_at": "2026-11-17 18:40:19",
-      "dup_count": 3,
-      "dups": [
-        {
-          "title": "Cull of 24,000 birds 'devastating news' as Northern Ireland an Avian Influenza Prevention Zone",
-          "url": "https://www.msn.com/en-gb/news/other/cull-of-24-000-birds-devastating-news-as-northern-ireland-an-avian-influenza-prevention-zone/ar-AA2hDkq8",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-17T08:44:59.000Z"
-        },
-        {
-          "title": "Northern Ireland imposes bird flu housing order after Co Tyrone outbreak",
-          "url": "https://www.farminguk.com/news/northern-ireland-imposes-bird-flu-housing-order-after-co-tyrone-outbreak_69488.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-16T16:00:00.000Z"
         }
       ]
     },
@@ -906,15 +928,7 @@
       "published_at": "2026-11-14T23:20:00.000Z",
       "created_at": "2026-11-15 14:40:14",
       "ai_at": "2026-11-15 14:40:23",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "South Africa: How Bad Has the Foot-and-Mouth Disease Epidemic Been?",
-          "url": "https://allafrica.com/stories/202611130088.html",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-11-12T16:00:00.000Z"
-        }
-      ]
+      "dup_count": 1
     },
     {
       "fingerprint": "fa81a9ab676049b9d79a9d3db2dd876915f6c537",
@@ -1046,15 +1060,7 @@
       "published_at": "2026-11-14T00:07:00.000Z",
       "created_at": "2026-11-14 10:40:14",
       "ai_at": "2026-11-14 10:40:18",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Finland plans to install 83 km of electric fencing due to ASF — YLE News",
-          "url": "https://ua.news/en/dovkolo-svitu/finliandiia-planuie-vstanoviti-83-km-elektroogorozhi-cherez-achs-yle-news",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-11-12T07:55:00.000Z"
-        }
-      ]
+      "dup_count": 1
     },
     {
       "fingerprint": "6109caa3215613110374afd8d222c2ae58a12125",
@@ -1118,22 +1124,6 @@
       "published_at": "2026-11-12T17:49:00.000Z",
       "created_at": "2026-11-14 18:40:15",
       "ai_at": "2026-11-14 18:40:26",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "34f3c31ebd6eb9ebf463a9071cf8b5fe87ead893",
-      "disease": "африканская чума свиней",
-      "country": "ЮАР",
-      "distance_km": 7000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Южноафриканская страна переживает худшую заражение африканской чумой свиней.",
-      "source_id": "bing-world-fmd",
-      "title": "How bad has the foot-and-mouth disease epidemic been?",
-      "url": "https://groundup.org.za/article/how-bad-has-the-foot-and-mouth-disease-epidemic-been/",
-      "published_at": "2026-11-12T16:00:00.000Z",
-      "created_at": "2026-11-13 06:40:14",
-      "ai_at": "2026-11-13 06:40:21",
       "dup_count": 1
     }
   ]
