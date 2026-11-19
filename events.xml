@@ -6,6 +6,27 @@
     <description>Радар трансграничных болезней животных: ящур, АЧС, грипп птиц, нодулярный дерматит — с оценкой угрозы для РФ. Информационный сервис «как есть»: не официальная система оповещения, не ветеринарная консультация, ИИ и уровни могут ошибаться. Условия: https://shray77.github.io/biothreat-site/terms.html</description>
     <language>ru</language>
     <item>
+      <title>[фон] грипп птиц — Великобритания: Norfolk poultry farms face up to 'dread' of bird flu outbreaks</title>
+      <link>https://www.edp24.co.uk/news/26742986.norfolk-poultry-farms-face-dread-bird-flu-outbreaks/</link>
+      <guid isPermaLink="false">ca7aee1ceea704455772086b91afb2f8f9897e77</guid>
+      <pubDate>Thu, 19 Nov 2026 04:00:00 GMT</pubDate>
+      <description>В Норфолке снова подтверждены случаи птичьего гриппа, птицеводам предстоит пережить ещё один тревожный зимний сезон · verdict: confirmed · Norfolk poultry farms face up to 'dread' of bird flu outbreaks</description>
+    </item>
+    <item>
+      <title>[не определено] грипп птиц — Остров Мэн: What avian flu outbreak in Isle of Man means for rest of us</title>
+      <link>https://www.iomtoday.co.im/opinion/what-avian-flu-outbreak-in-isle-of-man-means-for-rest-of-us-973869</link>
+      <guid isPermaLink="false">00bf799bae93977e8dfd6973d2137f7465cb57fc</guid>
+      <pubDate>Thu, 19 Nov 2026 02:00:00 GMT</pubDate>
+      <description>На острове Мэн выявлен птичий грипп H5N1, уничтожены все оставшиеся птицы. · verdict: confirmed · What avian flu outbreak in Isle of Man means for rest of us</description>
+    </item>
+    <item>
+      <title>[не определено] грипп птиц — Саскачеван: Saskatchewan reports 11 avian influenza cases in 2026 so far</title>
+      <link>https://discoverestevan.com/articles/saskatchewan-reports-11-avian-influenza-cases-in-2026-so-far</link>
+      <guid isPermaLink="false">1289b236ed8d2973b63e93d8d882f7930db9f635</guid>
+      <pubDate>Wed, 18 Nov 2026 20:30:00 GMT</pubDate>
+      <description>В провинции Саскачеван зафиксировано 11 случаев высокопатогенного гриппа птиц в 2026 году. · verdict: probable · Saskatchewan reports 11 avian influenza cases in 2026 so far</description>
+    </item>
+    <item>
       <title>[не определено] Willamette Valley seeing highest concentration of avian influenza in state</title>
       <link>https://www.msn.com/en-us/news/other/willamette-valley-seeing-highest-concentration-of-avian-influenza-in-state/ar-AA2hJkx7</link>
       <guid isPermaLink="false">3285f9bab2f21ee16a807afd1d359ef98841412e</guid>
@@ -60,13 +81,6 @@
       <guid isPermaLink="false">33e090d10dc2fd08de59e998292227f128a39b8e</guid>
       <pubDate>Wed, 18 Nov 2026 06:04:00 GMT</pubDate>
       <description>В индийском штате Тамилнаду зафиксирована вспышка нодулярного дерматита у местного скота · verdict: confirmed · Farmers demand relief as lumpy skin disease ravages native Pulikulam calves</description>
-    </item>
-    <item>
-      <title>[фон] грипп птиц — Великобритания: Bird keepers urged to follow new housing measures as avian influenza controls continue</title>
-      <link>https://www.northumberlandgazette.co.uk/news/people/bird-keepers-urged-to-follow-new-housing-measures-as-avian-influenza-controls-continue-9359099</link>
-      <guid isPermaLink="false">d136be2d5cfc3c7c058944e1622d84f89c3bc1f2</guid>
-      <pubDate>Wed, 18 Nov 2026 05:47:00 GMT</pubDate>
-      <description>Разведчикам предлагают следовать новым мерам по содержанию, чтобы защитить стада от птичьего гриппа · verdict: probable · Bird keepers urged to follow new housing measures as avian influenza controls continue</description>
     </item>
     <item>
       <title>[фон] грипп птиц — Индия: Around 26,000 Domestic Birds To Be Culled In Keralam’s Alappuzha District Following Avian Influenza Outbreak</title>
@@ -151,13 +165,6 @@
       <guid isPermaLink="false">ac34d0208ee0187b6e64c9ee547008eac882453e</guid>
       <pubDate>Mon, 16 Nov 2026 11:47:00 GMT</pubDate>
       <description>Исследование показало, что грипп птиц наносит ущерб в миллиарды долларов в год и вызывает сложности из-за своих 7 серотипов и устойчивости в окружающей среде. · verdict: probable · Global Synthesis Details Foot-and-Mouth Disease Diversity and Heavy Economic Toll</description>
-    </item>
-    <item>
-      <title>[не определено] грипп птиц — Остров Мэн: Warning as bird flu outbreak confirmed in the Isle of Man</title>
-      <link>https://www.itv.com/news/granada/2026-11-16/warning-as-bird-flu-outbreak-confirmed</link>
-      <guid isPermaLink="false">7b12d437a26d6c0f22717abd6d0197382e3ef45f</guid>
-      <pubDate>Mon, 16 Nov 2026 10:07:00 GMT</pubDate>
-      <description>В Острове Мэн подтверждена вспышка гриппа птиц. · verdict: confirmed · Warning as bird flu outbreak confirmed in the Isle of Man</description>
     </item>
     <item>
       <title>[не определено] ящур: SA exceeds 90% cattle vaccination milestone in foot-and-mouth disease fight</title>
@@ -354,13 +361,6 @@
       <guid isPermaLink="false">34f3c31ebd6eb9ebf463a9071cf8b5fe87ead893</guid>
       <pubDate>Thu, 12 Nov 2026 16:00:00 GMT</pubDate>
       <description>Южноафриканская страна переживает худшую заражение африканской чумой свиней. · verdict: confirmed · How bad has the foot-and-mouth disease epidemic been?</description>
-    </item>
-    <item>
-      <title>[не определено] Нигерия: Nigerian Government Deploys Predictive Tool To Prevent Avian Influenza</title>
-      <link>https://von.gov.ng/nigerian-government-deploys-predictive-tool-to-prevent-avian-influenza/</link>
-      <guid isPermaLink="false">81068aa91ef6497df717553e696a8450fad6203b</guid>
-      <pubDate>Thu, 12 Nov 2026 07:52:00 GMT</pubDate>
-      <description>Нигерийское правительство развертывает prediction-tool для предотвращения птичьего гриппа · verdict: probable · Nigerian Government Deploys Predictive Tool To Prevent Avian Influenza</description>
     </item>
   </channel>
 </rss>
