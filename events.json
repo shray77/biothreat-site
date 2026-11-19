@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-19T02:40:19.786Z",
+  "generated_at": "2026-11-19T08:40:19.758Z",
   "items": [
+    {
+      "fingerprint": "3285f9bab2f21ee16a807afd1d359ef98841412e",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": "не определено",
+      "verdict": "probable",
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Willamette Valley seeing highest concentration of avian influenza in state",
+      "url": "https://www.msn.com/en-us/news/other/willamette-valley-seeing-highest-concentration-of-avian-influenza-in-state/ar-AA2hJkx7",
+      "published_at": "2026-11-18T16:33:02.000Z",
+      "created_at": "2026-11-19 08:40:14",
+      "ai_at": "2026-11-19 08:40:17",
+      "dup_count": 1
+    },
     {
       "fingerprint": "5d6d2112dbd8cc7b0b6be9feb188fba8db4dc6cf",
       "disease": null,
@@ -1116,22 +1132,6 @@
       "published_at": "2026-11-12T07:52:00.000Z",
       "created_at": "2026-11-12 18:40:14",
       "ai_at": "2026-11-12 18:42:18",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "89a284e80348247ffec676126a476fda04f85d7e",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "Вспышка птичьего гриппа рядом с домом принцев",
-      "source_id": "bing-world-ai",
-      "title": "George, Charlotte and Louis must keep pet chickens indoors as hundreds culled in bird flu outbreak",
-      "url": "https://www.msn.com/en-us/money/general/george-charlotte-and-louis-must-keep-pet-chickens-indoors-as-hundreds-culled-in-bird-flu-outbreak/ar-AA2hi5a3",
-      "published_at": "2026-11-12T03:49:45.000Z",
-      "created_at": "2026-11-13 22:40:14",
-      "ai_at": "2026-11-13 22:40:22",
       "dup_count": 1
     }
   ]
