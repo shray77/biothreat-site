@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-19T00:42:35.775Z",
+  "generated_at": "2026-11-19T02:40:19.786Z",
   "items": [
     {
       "fingerprint": "5d6d2112dbd8cc7b0b6be9feb188fba8db4dc6cf",
@@ -100,8 +100,14 @@
       "published_at": "2026-11-18T07:57:35.000Z",
       "created_at": "2026-11-19 00:40:14",
       "ai_at": "2026-11-19 00:40:25",
-      "dup_count": 11,
+      "dup_count": 12,
       "dups": [
+        {
+          "title": "Highly Pathogenic Avian Influenza Confirmed in Rusk County, Wisconsin",
+          "url": "https://dairybusiness.com/highly-pathogenic-avian-influenza-confirmed-in-rusk-county-wisconsin/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-18T03:30:00.000Z"
+        },
         {
           "title": "Cal-Maine Foods Reports Positive Test Result for Avian Influenza at Florida Facility",
           "url": "https://uk.finance.yahoo.com/news/cal-maine-foods-reports-positive-135500518.html",
@@ -155,12 +161,6 @@
           "url": "https://www.tillamookcountypioneer.net/oregon-dept-of-fish-wildlife-reports-of-highly-pathogenic-avian-influenza-in-ducks-and-geese-increasing-in-willamette-valley/",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-12T16:00:00.000Z"
-        },
-        {
-          "title": "National States' Ag Dept. Have Emerg. Meet with USADA RE: Avian Flu Outbreaks",
-          "url": "https://www.carboncountynews.com/news/national-states-ag-dept-have-emerg-meet-with-usada-re-avian-flu-outbreaks/article_12732eae-888c-4d8f-8f19-9149627deb9b.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-12T12:45:00.000Z"
         }
       ]
     },
@@ -249,22 +249,6 @@
           "published_at": "2026-11-12T05:56:00.000Z"
         }
       ]
-    },
-    {
-      "fingerprint": "640c8783f69c55ce00d81bdbf88057c16d3787d0",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "Highly Pathogenic Avian Influenza Confirmed in Rusk County, Wisconsin",
-      "url": "https://dairybusiness.com/highly-pathogenic-avian-influenza-confirmed-in-rusk-county-wisconsin/",
-      "published_at": "2026-11-18T03:30:00.000Z",
-      "created_at": "2026-11-19 00:40:14",
-      "ai_at": null,
-      "dup_count": 1
     },
     {
       "fingerprint": "2382aad4d7736281a207222adffa25406557e161",
