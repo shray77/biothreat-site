@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-20T12:40:14.930Z",
+  "generated_at": "2026-11-20T16:40:16.698Z",
   "items": [
+    {
+      "fingerprint": "272c79c168b66de9ea56f936764ddabcb053cba2",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-lsd",
+      "title": "India unveils first indigenous H5N1 bird flu vaccine for chickens at ₹1-2 per dose",
+      "url": "https://www.hindustantimes.com/india-news/india-unveils-first-indigenous-h5n1-bird-flu-vaccine-for-chickens-at-1-2-per-dose-101795182511502.html",
+      "published_at": "2026-11-20T05:47:00.000Z",
+      "created_at": "2026-11-20 16:40:15",
+      "ai_at": null,
+      "dup_count": 1
+    },
     {
       "fingerprint": "592dbf99110299bf5b4dbe08cb522272fe80d74d",
       "disease": null,
@@ -80,7 +96,7 @@
       "published_at": "2026-11-19T15:30:00.000Z",
       "created_at": "2026-11-20 02:40:14",
       "ai_at": null,
-      "dup_count": 12,
+      "dup_count": 11,
       "dups": [
         {
           "title": "OHA confirms state’s first human case of avian influenza of 2026",
