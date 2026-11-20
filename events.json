@@ -1,7 +1,39 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-20T06:40:15.918Z",
+  "generated_at": "2026-11-20T12:40:14.930Z",
   "items": [
+    {
+      "fingerprint": "592dbf99110299bf5b4dbe08cb522272fe80d74d",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-fmd",
+      "title": "Hands-On Workshops Sharply Increase Livestock Stakeholder Foot-And-Mouth Disease Recognition in Puerto Rico",
+      "url": "https://bioengineer.org/hands-on-workshops-sharply-increase-livestock-stakeholder-foot-and-mouth-disease-recognition-in-puerto-rico/",
+      "published_at": "2026-11-20T02:44:00.000Z",
+      "created_at": "2026-11-20 12:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "8fc93e4dc0628ba53b9ada2ca1096ff6a703843e",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Bird flu outbreak in WA linked to Idaho virus",
+      "url": "https://www.dnews.com/northwest/bird-flu-outbreak-in-wa-linked-to-idaho-virus-1ddc0baf",
+      "published_at": "2026-11-20T00:00:00.000Z",
+      "created_at": "2026-11-20 12:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
     {
       "fingerprint": "642415508e5873c2ee72ed50aba5ddc4202451e8",
       "disease": null,
@@ -15,6 +47,22 @@
       "url": "https://www.ndtv.com/health/new-vaccine-launch-marks-major-step-in-controlling-bird-flu-outbreaks-in-indian-poultry-sector-12352043",
       "published_at": "2026-11-19T21:11:00.000Z",
       "created_at": "2026-11-20 06:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "c47ee7f662a35ee9a52e486cade142d6599b2000",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Washington bird flu outbreak linked to Idaho",
+      "url": "https://bonnercountydailybee.com/news/2026/nov/20/washington-bird-flu-outbreak-linked-to-idaho/",
+      "published_at": "2026-11-19T17:00:00.000Z",
+      "created_at": "2026-11-20 12:40:14",
       "ai_at": null,
       "dup_count": 1
     },
@@ -169,21 +217,27 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "ae2b420b2267ed32cd317b2cfd54d1d0b3ee9128",
-      "disease": "грипп птиц",
-      "country": "Северная Ирландия",
-      "distance_km": 2500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В Северной Ирландии уничтожены 24 тысячи птиц из-за выявленного гриппа птиц.",
+      "fingerprint": "9b6f6a61683b45c54b42a601abc514480541ffe8",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
       "source_id": "bing-world-ai",
       "title": "24,000 birds are culled in Co Tyrone after avian influenza was detected",
-      "url": "https://www.msn.com/en-gb/news/other/24000-birds-are-culled-in-co-tyrone-after-avian-influenza-was-detected/vi-AA2hNyHC",
+      "url": "https://www.msn.com/en-gb/news/other/24-000-birds-are-culled-in-co-tyrone-after-avian-influenza-was-detected/vi-AA2hNyHC",
       "published_at": "2026-11-19T08:45:50.000Z",
-      "created_at": "2026-11-19 20:40:14",
-      "ai_at": "2026-11-19 20:40:22",
-      "dup_count": 4,
+      "created_at": "2026-11-20 12:40:14",
+      "ai_at": null,
+      "dup_count": 5,
       "dups": [
+        {
+          "title": "24,000 birds are culled in Co Tyrone after avian influenza was detected",
+          "url": "https://www.msn.com/en-gb/news/other/24000-birds-are-culled-in-co-tyrone-after-avian-influenza-was-detected/vi-AA2hNyHC",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-19T08:45:50.000Z"
+        },
         {
           "title": "Cull of 24,000 birds 'devastating news' as Northern Ireland an Avian Influenza Prevention Zone",
           "url": "https://www.newsletter.co.uk/country-and-farming/cull-of-24000-birds-devastating-news-as-northern-ireland-an-avian-influenza-prevention-zone-9357309",
@@ -1026,7 +1080,7 @@
       "published_at": "2026-11-14T16:00:00.000Z",
       "created_at": "2026-11-15 02:40:15",
       "ai_at": "2026-11-15 02:40:19",
-      "dup_count": 5,
+      "dup_count": 3,
       "dups": [
         {
           "title": "Modified Environmental Surveillance Enhances Avian Influenza Monitoring at Japanese Crane Roosts",
@@ -1039,18 +1093,6 @@
           "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/13/japan-detects-season039s-second-bird-flu-outbreak-orders-culling-of-40000-chickens",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-13T11:16:00.000Z"
-        },
-        {
-          "title": "Japan detects season’s second bird flu outbreak",
-          "url": "https://www.msn.com/en-my/health/general/japan-detects-season-s-second-bird-flu-outbreak/ar-AA2hmNzV",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-13T05:14:19.000Z"
-        },
-        {
-          "title": "Japan detects season's second bird flu outbreak, orders culling of 40,000 chickens",
-          "url": "https://www.aa.com.tr/en/asia-pacific/japan-detects-seasons-second-bird-flu-outbreak-orders-culling-of-40-000-chickens/4123845",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-13T04:38:00.000Z"
         }
       ]
     },
@@ -1130,38 +1172,6 @@
       "published_at": "2026-11-14T00:07:00.000Z",
       "created_at": "2026-11-14 10:40:14",
       "ai_at": "2026-11-14 10:40:18",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "6109caa3215613110374afd8d222c2ae58a12125",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-fmd",
-      "title": "Great Start Readiness Program at Montcalm Central canceled due to hand, foot and mouth disease",
-      "url": "https://www.yahoo.com/news/articles/great-start-readiness-program-montcalm-140527692.html",
-      "published_at": "2026-11-13T06:05:00.000Z",
-      "created_at": "2026-11-17 08:40:14",
-      "ai_at": "2026-11-17 08:40:40",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "3e1caddcf1ab65552796277da3621792481f2111",
-      "disease": "африканская чума свиней",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "Появилась вспышка классической чумы свиней на ферме в провинции Північна Ґьонгсан.",
-      "source_id": "bing-world-fmd",
-      "title": "Foot-and-Mouth Disease Confirmed at Another Yecheon Cattle Farm, Bringing North Gyeongsang's Total to 10 This Year",
-      "url": "https://www.kmib.co.kr/en/article/20261113500258",
-      "published_at": "2026-11-13T03:31:00.000Z",
-      "created_at": "2026-11-18 10:40:14",
-      "ai_at": "2026-11-18 10:40:42",
       "dup_count": 1
     }
   ]
