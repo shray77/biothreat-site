@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-20T16:40:16.698Z",
+  "generated_at": "2026-11-20T18:40:14.907Z",
   "items": [
     {
       "fingerprint": "272c79c168b66de9ea56f936764ddabcb053cba2",
@@ -19,6 +19,22 @@
       "dup_count": 1
     },
     {
+      "fingerprint": "5052437297d1c9f341409a398d95088bebd16ead",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Avian influenza scare affects chicken sales in Tiruchi",
+      "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/avian-influenza-scare-affects-chicken-sales-in-tiruchi/article71724587.ece",
+      "published_at": "2026-11-20T05:39:00.000Z",
+      "created_at": "2026-11-20 18:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
       "fingerprint": "592dbf99110299bf5b4dbe08cb522272fe80d74d",
       "disease": null,
       "country": null,
@@ -31,6 +47,22 @@
       "url": "https://bioengineer.org/hands-on-workshops-sharply-increase-livestock-stakeholder-foot-and-mouth-disease-recognition-in-puerto-rico/",
       "published_at": "2026-11-20T02:44:00.000Z",
       "created_at": "2026-11-20 12:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "96c35f9af74baf9493a1e84df14557abcfd49afd",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Cal-Maine halts egg production at Florida plant after bird flu outbreak",
+      "url": "https://www.supplychaindive.com/news/cal-maine-halts-egg-production-at-florida-plant-after-bird-flu-outbreak/875316/",
+      "published_at": "2026-11-20T02:09:00.000Z",
+      "created_at": "2026-11-20 18:40:14",
       "ai_at": null,
       "dup_count": 1
     },
@@ -96,7 +128,7 @@
       "published_at": "2026-11-19T15:30:00.000Z",
       "created_at": "2026-11-20 02:40:14",
       "ai_at": null,
-      "dup_count": 11,
+      "dup_count": 10,
       "dups": [
         {
           "title": "OHA confirms state’s first human case of avian influenza of 2026",
@@ -149,12 +181,6 @@
         {
           "title": "Highly-Pathogenic Avian Influenza Found In Rusk County",
           "url": "https://www.midwestfarmreport.com/2026/11/13/highly-pathogenic-avian-influenza-found-in-rusk-county/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-13T13:44:00.000Z"
-        },
-        {
-          "title": "Highly-Pathogenic Avian Influenza Found In Rusk County",
-          "url": "https://www.thefarmwi.com/highly-pathogenic-avian-influenza-found-in-rusk-county/",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-13T13:44:00.000Z"
         }
@@ -1096,19 +1122,13 @@
       "published_at": "2026-11-14T16:00:00.000Z",
       "created_at": "2026-11-15 02:40:15",
       "ai_at": "2026-11-15 02:40:19",
-      "dup_count": 3,
+      "dup_count": 2,
       "dups": [
         {
           "title": "Modified Environmental Surveillance Enhances Avian Influenza Monitoring at Japanese Crane Roosts",
           "url": "https://bioengineer.org/modified-environmental-surveillance-enhances-avian-influenza-monitoring-at-japanese-crane-roosts/",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-13T16:00:00.000Z"
-        },
-        {
-          "title": "Japan detects season's second bird flu outbreak, orders culling of 40,000 chickens",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/13/japan-detects-season039s-second-bird-flu-outbreak-orders-culling-of-40000-chickens",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-13T11:16:00.000Z"
         }
       ]
     },
