@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-20T02:40:14.963Z",
+  "generated_at": "2026-11-20T06:40:15.918Z",
   "items": [
+    {
+      "fingerprint": "642415508e5873c2ee72ed50aba5ddc4202451e8",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "New Vaccine Launch Marks Major Step In Controlling Bird Flu Outbreaks In Indian Poultry Sector",
+      "url": "https://www.ndtv.com/health/new-vaccine-launch-marks-major-step-in-controlling-bird-flu-outbreaks-in-indian-poultry-sector-12352043",
+      "published_at": "2026-11-19T21:11:00.000Z",
+      "created_at": "2026-11-20 06:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
     {
       "fingerprint": "9425a1802b5d0d1a5f736f4b7c992cd3e9bd35d0",
       "disease": null,
@@ -16,7 +32,7 @@
       "published_at": "2026-11-19T15:30:00.000Z",
       "created_at": "2026-11-20 02:40:14",
       "ai_at": null,
-      "dup_count": 13,
+      "dup_count": 12,
       "dups": [
         {
           "title": "OHA confirms state’s first human case of avian influenza of 2026",
@@ -296,6 +312,22 @@
       "published_at": "2026-11-18T16:33:02.000Z",
       "created_at": "2026-11-19 08:40:14",
       "ai_at": "2026-11-19 08:40:17",
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "aef44264b61d87f7035827488c9ea5fcca673d41",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-fmd",
+      "title": "Namibia confirms export of 6,294 livestock to Mauritius amid FMD outbreaks",
+      "url": "https://namibiadailynews.info/namibia-confirms-export-of-6294-livestock-to-mauritius-amid-fmd-outbreaks/",
+      "published_at": "2026-11-18T16:01:00.000Z",
+      "created_at": "2026-11-20 06:40:14",
+      "ai_at": null,
       "dup_count": 1
     },
     {
@@ -994,7 +1026,7 @@
       "published_at": "2026-11-14T16:00:00.000Z",
       "created_at": "2026-11-15 02:40:15",
       "ai_at": "2026-11-15 02:40:19",
-      "dup_count": 6,
+      "dup_count": 5,
       "dups": [
         {
           "title": "Modified Environmental Surveillance Enhances Avian Influenza Monitoring at Japanese Crane Roosts",
@@ -1019,12 +1051,6 @@
           "url": "https://www.aa.com.tr/en/asia-pacific/japan-detects-seasons-second-bird-flu-outbreak-orders-culling-of-40-000-chickens/4123845",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-13T04:38:00.000Z"
-        },
-        {
-          "title": "Japan detects season's second bird flu outbreak, orders culling of 40,000 chickens",
-          "url": "https://tribune.com.pk/story/2640114/japan-detects-seasons-second-bird-flu-outbreak-orders-culling-of-40000-chickens",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-13T02:19:00.000Z"
         }
       ]
     },
