@@ -1,23 +1,29 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-19T20:40:31.349Z",
+  "generated_at": "2026-11-20T02:40:14.963Z",
   "items": [
     {
-      "fingerprint": "a0e0f8f0527b21175b2481cd1dfe56c74ece2da7",
-      "disease": "грипп птиц",
-      "country": "США",
-      "distance_km": 5000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В штате Орегон подтвержден первый случай заражения человека гриппом птиц 2026 года",
+      "fingerprint": "9425a1802b5d0d1a5f736f4b7c992cd3e9bd35d0",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
       "source_id": "bing-world-ai",
       "title": "OHA confirms state’s first human case of avian influenza of 2026",
-      "url": "https://www.thenewsguard.com/news/oha-confirms-state-s-first-human-case-of-avian-influenza-of-2026/article_a7a931c0-3c28-4a46-9745-fcba09c40b5f.html",
-      "published_at": "2026-11-19T11:19:00.000Z",
-      "created_at": "2026-11-19 20:40:14",
-      "ai_at": "2026-11-19 20:40:18",
+      "url": "https://www.columbiagorgenews.com/free_news/oha-confirms-state-s-first-human-case-of-avian-influenza-of-2026/article_0984577c-4374-4597-ae11-c403dcca89ea.html",
+      "published_at": "2026-11-19T15:30:00.000Z",
+      "created_at": "2026-11-20 02:40:14",
+      "ai_at": null,
       "dup_count": 13,
       "dups": [
+        {
+          "title": "OHA confirms state’s first human case of avian influenza of 2026",
+          "url": "https://www.thenewsguard.com/news/oha-confirms-state-s-first-human-case-of-avian-influenza-of-2026/article_a7a931c0-3c28-4a46-9745-fcba09c40b5f.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-19T11:19:00.000Z"
+        },
         {
           "title": "Cal-Maine halts egg production at Florida plant after bird flu outbreak",
           "url": "https://finance.yahoo.com/markets/commodities/articles/cal-maine-halts-egg-production-145800710.html",
@@ -71,14 +77,80 @@
           "url": "https://www.thefarmwi.com/highly-pathogenic-avian-influenza-found-in-rusk-county/",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-13T13:44:00.000Z"
-        },
-        {
-          "title": "Backyard poultry flock in Wisconsin tests positive for highly pathogenic avian influenza",
-          "url": "https://www.yahoo.com/news/science/articles/backyard-poultry-flock-wisconsin-tests-183222233.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-13T10:32:00.000Z"
         }
       ]
+    },
+    {
+      "fingerprint": "8ec4d6f5677a9ce33ed74de2323bf382991ad61b",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-asf",
+      "title": "Pasteurella Multocida Type A Outbreak Drives Severe Fatal Pneumonia in Gilts",
+      "url": "https://bioengineer.org/pasteurella-multocida-type-a-outbreak-drives-severe-fatal-pneumonia-in-gilts/",
+      "published_at": "2026-11-19T14:48:00.000Z",
+      "created_at": "2026-11-20 02:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "e44af80b7ec9f1a7263a4465092c77e2560d7205",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Bird flu outbreak in Washington state dairies is linked to virus transmitted from Idaho",
+      "url": "https://www.yahoo.com/news/science/articles/bird-flu-outbreak-washington-state-182514107.html",
+      "published_at": "2026-11-19T10:25:00.000Z",
+      "created_at": "2026-11-20 02:40:14",
+      "ai_at": null,
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Bird flu outbreak in Washington state dairies is linked to virus transmitted from Idaho",
+          "url": "https://idahocapitalsun.com/2026/11/19/bird-flu-outbreak-in-washington-state-dairies-is-linked-to-virus-transmitted-from-idaho/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-19T03:25:00.000Z"
+        }
+      ]
+    },
+    {
+      "fingerprint": "ca1e4b5da2da574968224a6ca4c808710c1f785b",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Bird movement restricted after avian influenza detected southeast of Bowden",
+      "url": "https://www.thealbertan.com/bowden-news/bird-movement-restricted-after-avian-influenza-detected-southeast-of-bowden-13038806",
+      "published_at": "2026-11-19T09:00:00.000Z",
+      "created_at": "2026-11-20 02:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "c5b6766e978a71e48d910513ff9bbeb3af81e12f",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Bird movement restricted after avian influenza detected in Red Deer County",
+      "url": "https://www.townandcountrytoday.com/agriupdate/bird-movement-restricted-after-avian-influenza-detected-in-red-deer-county-13039331",
+      "published_at": "2026-11-19T09:00:00.000Z",
+      "created_at": "2026-11-20 02:40:14",
+      "ai_at": null,
+      "dup_count": 1
     },
     {
       "fingerprint": "ae2b420b2267ed32cd317b2cfd54d1d0b3ee9128",
@@ -169,22 +241,6 @@
           "published_at": "2026-11-13T16:00:00.000Z"
         }
       ]
-    },
-    {
-      "fingerprint": "21f0f657223e7bfc74bf537cb199b10e485624e9",
-      "disease": null,
-      "country": "США",
-      "distance_km": 5000,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": "Владелец молочного комплекса в Вашингтоне заразился птицезаболеванием, которое, вероятно, передалось от скота из Айдахо",
-      "source_id": "bing-world-ai",
-      "title": "Bird flu outbreak in Washington state dairies is linked to virus transmitted from Idaho",
-      "url": "https://idahocapitalsun.com/2026/11/19/bird-flu-outbreak-in-washington-state-dairies-is-linked-to-virus-transmitted-from-idaho/",
-      "published_at": "2026-11-19T03:25:00.000Z",
-      "created_at": "2026-11-19 20:40:14",
-      "ai_at": "2026-11-19 20:40:30",
-      "dup_count": 1
     },
     {
       "fingerprint": "00bf799bae93977e8dfd6973d2137f7465cb57fc",
@@ -464,19 +520,13 @@
       "published_at": "2026-11-17T16:01:00.000Z",
       "created_at": "2026-11-18 10:40:14",
       "ai_at": "2026-11-18 10:40:30",
-      "dup_count": 3,
+      "dup_count": 2,
       "dups": [
         {
           "title": "African swine fever forces culling of 4,453 pigs in Vietnam's Vinh Long",
           "url": "https://news.tuoitre.vn/african-swine-fever-forces-culling-of-4453-pigs-in-vietnams-vinh-long-103261114145749075.htm",
           "source_id": "bing-world-asf",
           "published_at": "2026-11-13T17:14:00.000Z"
-        },
-        {
-          "title": "Vietnam's Quang Ngai tightens Laos border controls to curb African swine fever",
-          "url": "https://news.tuoitre.vn/vietnams-quang-ngai-tightens-laos-border-controls-to-curb-african-swine-fever-103261113181310109.htm",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-11-12T21:12:00.000Z"
         }
       ]
     },
@@ -944,7 +994,7 @@
       "published_at": "2026-11-14T16:00:00.000Z",
       "created_at": "2026-11-15 02:40:15",
       "ai_at": "2026-11-15 02:40:19",
-      "dup_count": 7,
+      "dup_count": 6,
       "dups": [
         {
           "title": "Modified Environmental Surveillance Enhances Avian Influenza Monitoring at Japanese Crane Roosts",
@@ -975,12 +1025,6 @@
           "url": "https://tribune.com.pk/story/2640114/japan-detects-seasons-second-bird-flu-outbreak-orders-culling-of-40000-chickens",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-13T02:19:00.000Z"
-        },
-        {
-          "title": "Japan confirms 2nd bird flu outbreak of the season",
-          "url": "https://english.news.cn/20261113/a6f6b306765d43afa77c2641b28a75ec/c.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-12T18:18:00.000Z"
         }
       ]
     },
@@ -1092,38 +1136,6 @@
       "published_at": "2026-11-13T03:31:00.000Z",
       "created_at": "2026-11-18 10:40:14",
       "ai_at": "2026-11-18 10:40:42",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "786cf746a5d7d4e11ab9256d70d7fe0463127b03",
-      "disease": null,
-      "country": "США",
-      "distance_km": 5000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В Висконсине уничтожено домашнее стадо птицы, обнаруженный высокопатогенный птичий грипп",
-      "source_id": "bing-world-ai",
-      "title": "Wisconsin bird flu outbreak forces culling of entire backyard flock",
-      "url": "https://uz.kursiv.media/en/2026-11-13/wisconsin-bird-flu/",
-      "published_at": "2026-11-12T20:07:00.000Z",
-      "created_at": "2026-11-13 16:40:14",
-      "ai_at": "2026-11-13 16:42:30",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "c28eed377617b9c1ad23f3500fa32119e423e1fd",
-      "disease": "нодулярный дерматит",
-      "country": "Япония",
-      "distance_km": 60,
-      "level": "высокая",
-      "verdict": "confirmed",
-      "ai_summary": "Зафиксированы вспышки нодулярного дерматита в префектурах Фукуока, Нагасаки и Кагосима",
-      "source_id": "bing-world-lsd",
-      "title": "⚠️ Successive outbreaks in Kyushu! / Please be vigilant against Lumpy Skin Disease",
-      "url": "https://note.com/nosai_miyazaki/n/n3e5fd380269c?hl=en",
-      "published_at": "2026-11-12T17:49:00.000Z",
-      "created_at": "2026-11-14 18:40:15",
-      "ai_at": "2026-11-14 18:40:26",
       "dup_count": 1
     }
   ]
