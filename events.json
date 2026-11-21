@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-21T04:40:16.712Z",
+  "generated_at": "2026-11-21T06:40:15.202Z",
   "items": [
     {
       "fingerprint": "008bebd8df18e2802a3222b394859e070f545bf1",
@@ -47,6 +47,38 @@
       "url": "https://centralnews.co.za/free-state-reports-three-active-foot-and-mouth-disease-cases-as-801-are-resolved/",
       "published_at": "2026-11-20T13:11:00.000Z",
       "created_at": "2026-11-21 00:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "38a1e2c8704e68fc93dd86a54f467b677925337a",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-lsd",
+      "title": "India unveils first indigenous H5N1 vaccine for chickens, priced at Rs 1-2 per dose",
+      "url": "https://www.newindianexpress.com/states/madhya-pradesh/2026/Nov/20/india-unveils-first-indigenous-h5n1-vaccine-for-chickens-priced-at-rs-1-2-per-dose",
+      "published_at": "2026-11-20T08:24:00.000Z",
+      "created_at": "2026-11-21 06:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "c77bbebfc24b8930dee809ed49fb29430367f5c2",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-lsd",
+      "title": "India develops first indigenous H5N1 bird flu vaccine, priced at ₹1-2 per dose",
+      "url": "https://www.livemint.com/news/india-develops-first-indigenous-h5n1-bird-flu-vaccine-priced-at-1-2-per-dose-11795177299717.html",
+      "published_at": "2026-11-20T05:57:00.000Z",
+      "created_at": "2026-11-21 06:40:14",
       "ai_at": null,
       "dup_count": 1
     },
@@ -608,7 +640,7 @@
       "published_at": "2026-11-18T01:59:00.000Z",
       "created_at": "2026-11-18 10:40:14",
       "ai_at": "2026-11-18 10:40:17",
-      "dup_count": 8,
+      "dup_count": 7,
       "dups": [
         {
           "title": "Authorities order culling of 26,000 domestic birds in India's Kerala amid bird flu outbreak",
@@ -645,12 +677,6 @@
           "url": "https://www.ndtv.com/health/living-healthy/should-you-eat-eggs-chicken-for-protein-during-a-bird-flu-outbreak-12332271",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-15T22:26:00.000Z"
-        },
-        {
-          "title": "Avian influenza confirmed in Tamil Nadu’s Cuddalore; over 1,500 chickens culled",
-          "url": "https://www.thehindu.com/news/national/tamil-nadu/avian-influenza-confirmed-in-cuddalore-over-1500-chickens-culled/article71701325.ece",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-14T01:46:00.000Z"
         }
       ]
     },
@@ -1228,22 +1254,6 @@
       "published_at": "2026-11-14T03:52:58.000Z",
       "created_at": "2026-11-14 18:40:15",
       "ai_at": "2026-11-14 18:40:19",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "544488955bbb8dcbdfd37e37eddd3c6922b391cd",
-      "disease": "африканская чума свиней",
-      "country": "Финляндия",
-      "distance_km": 0,
-      "level": "граница",
-      "verdict": "probable",
-      "ai_summary": "Планируется строительство в Финляндии электрифицированного забора для борьбы с африканской чумой свиней.",
-      "source_id": "bing-world-asf",
-      "title": "Finland plans 83-kilometre electric fence to contain African swine fever",
-      "url": "https://www.helsinkitimes.fi/finland/finland-news/domestic/29491-finland-plans-83-kilometre-electric-fence-to-contain-african-swine-fever.html",
-      "published_at": "2026-11-14T00:07:00.000Z",
-      "created_at": "2026-11-14 10:40:14",
-      "ai_at": "2026-11-14 10:40:18",
       "dup_count": 1
     }
   ]
