@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-21T16:40:14.872Z",
+  "generated_at": "2026-11-21T22:40:15.531Z",
   "items": [
     {
       "fingerprint": "098792085dd30ab942066c6008240f4d048a55f2",
@@ -19,7 +19,7 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "c773a6ceaa015e2d630218656de9e316b13e84ad",
+      "fingerprint": "820c6fe922c96e0e13455d686550974d04dfd63b",
       "disease": null,
       "country": null,
       "distance_km": null,
@@ -28,11 +28,19 @@
       "ai_summary": null,
       "source_id": "bing-world-ai",
       "title": "Bird flu outbreak alert: Central team visits Cuddalore",
-      "url": "https://www.dtnext.in/news/tamilnadu/bird-flu-outbreak-alert-central-team-visits-cuddalore",
-      "published_at": "2026-11-21T05:00:00.000Z",
-      "created_at": "2026-11-21 16:40:14",
+      "url": "https://www.msn.com/en-in/news/other/bird-flu-outbreak-alert-central-team-visits-cuddalore/ar-AA2hUqwn",
+      "published_at": "2026-11-21T05:22:04.000Z",
+      "created_at": "2026-11-21 22:40:14",
       "ai_at": null,
-      "dup_count": 1
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Bird flu outbreak alert: Central team visits Cuddalore",
+          "url": "https://www.dtnext.in/news/tamilnadu/bird-flu-outbreak-alert-central-team-visits-cuddalore",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-21T05:00:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "b8ed2091b9be21195780e30d5b081ee3e9a5fc3f",
@@ -112,7 +120,15 @@
       "published_at": "2026-11-21T02:00:00.000Z",
       "created_at": "2026-11-21 16:40:14",
       "ai_at": null,
-      "dup_count": 1
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Are wild boar spreading African swine fever to Europe's pig farms?",
+          "url": "https://www.agriland.ie/farming-news/are-wild-boar-spreading-african-swine-fever-to-europes-pig-farms/",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-11-20T18:00:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "008bebd8df18e2802a3222b394859e070f545bf1",
@@ -1228,17 +1244,11 @@
       "published_at": "2026-11-15T16:00:00.000Z",
       "created_at": "2026-11-17 18:40:14",
       "ai_at": "2026-11-17 18:40:54",
-      "dup_count": 3,
+      "dup_count": 2,
       "dups": [
         {
           "title": "Nearly 500,000 pigs vaccinated against ASF",
           "url": "https://www.msn.com/en-ph/money/general/nearly-500-000-pigs-vaccinated-against-asf/ar-AA2hvcHz",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-11-15T13:23:58.000Z"
-        },
-        {
-          "title": "Nearly 500,000 pigs vaccinated against ASF",
-          "url": "https://www.msn.com/en-ph/news/other/nearly-500-000-pigs-vaccinated-against-asf/ar-AA2hvcHz",
           "source_id": "bing-world-asf",
           "published_at": "2026-11-15T13:23:58.000Z"
         }
@@ -1274,22 +1284,6 @@
       "published_at": "2026-11-15T13:25:00.000Z",
       "created_at": "2026-11-16 08:40:14",
       "ai_at": "2026-11-16 08:42:31",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "e4c2b9487db25a6a7e4223ae3471d3a2b4513f76",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-asf",
-      "title": "Philippines ASF vaccine rollout nears full use as outbreak remains active",
-      "url": "https://tradersunion.com/news/business-wealth/show/4255324-philippines-asf-vaccine-rollout-2026/",
-      "published_at": "2026-11-15T03:09:00.000Z",
-      "created_at": "2026-11-15 14:40:14",
-      "ai_at": "2026-11-15 14:40:15",
       "dup_count": 1
     }
   ]
