@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-21T06:40:15.202Z",
+  "generated_at": "2026-11-21T10:40:15.961Z",
   "items": [
     {
       "fingerprint": "008bebd8df18e2802a3222b394859e070f545bf1",
@@ -35,6 +35,22 @@
       "dup_count": 1
     },
     {
+      "fingerprint": "31e7d2afcbf54563000df5388d45bbcc50be9e59",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-asf",
+      "title": "African swine fever in Vietnam's Dak Lak spreads to 52 communes as losses reach 13,495 pigs",
+      "url": "https://www.efeedlink.com/articles/african-swine-fever-in-vietnams-dak-lak-spreads-to-52-communes-as-losses-reach-13-495-pigs",
+      "published_at": "2026-11-20T16:00:00.000Z",
+      "created_at": "2026-11-21 10:40:15",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
       "fingerprint": "714b9547174795e04e0e9027f75294d4279a023c",
       "disease": null,
       "country": null,
@@ -63,6 +79,22 @@
       "url": "https://www.newindianexpress.com/states/madhya-pradesh/2026/Nov/20/india-unveils-first-indigenous-h5n1-vaccine-for-chickens-priced-at-rs-1-2-per-dose",
       "published_at": "2026-11-20T08:24:00.000Z",
       "created_at": "2026-11-21 06:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "e4872603f882bff74f3bd43028b085999c9eab3e",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-fmd",
+      "title": "India develops first indigenous H5N1 bird flu vaccine, priced at ₹1-2 per dose",
+      "url": "https://www.livemint.com/news/india-develops-first-indigenous-h5n1-bird-flu-vaccine-priced-at-1-2-per-dose-11795177299717.html",
+      "published_at": "2026-11-20T05:57:00.000Z",
+      "created_at": "2026-11-21 10:40:15",
       "ai_at": null,
       "dup_count": 1
     },
@@ -989,6 +1021,22 @@
       "dup_count": 1
     },
     {
+      "fingerprint": "1f6beddb6fd47b21f29c2fdc024acef7b884e117",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-fmd",
+      "title": "Botswana Commits US$7 Million to Beef Crisis",
+      "url": "https://www.riotimesonline.com/botswana-foot-and-mouth-beef-industry-us7-million-fight/",
+      "published_at": "2026-11-15T23:50:00.000Z",
+      "created_at": "2026-11-21 10:40:15",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
       "fingerprint": "9a3275b03034605892bdfefe0568820e6be0776e",
       "disease": "грипп птиц",
       "country": "Китай",
@@ -1224,36 +1272,6 @@
       "published_at": "2026-11-14T12:47:39.000Z",
       "created_at": "2026-11-15 08:40:14",
       "ai_at": "2026-11-15 08:42:23",
-      "dup_count": 3,
-      "dups": [
-        {
-          "title": "Breeders cull birds after avian flu outbreak at national poultry show in Sask.",
-          "url": "https://www.msn.com/en-ca/news/other/breeders-cull-birds-after-avian-flu-outbreak-at-national-poultry-show-in-sask/ar-AA2hrkAB",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-14T12:47:39.000Z"
-        },
-        {
-          "title": "Avian flu outbreak at national poultry show spreads to other provinces: CFIA",
-          "url": "https://www.msn.com/en-ca/news/other/avian-flu-outbreak-at-national-poultry-show-spreads-to-other-provinces-cfia/ar-AA2hrkAB",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-14T12:12:05.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "7b3a1c38149944ec599cf684fcba9c24ef10ab86",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "В районе Куддалоре подтверждена вспышка гриппа птиц, введен запрет на содержание птицы в течение 90 дней.",
-      "source_id": "bing-world-ai",
-      "title": "Avian influenza outbreak confirmed in Cuddalore district",
-      "url": "https://www.msn.com/en-in/news/other/avian-influenza-outbreak-confirmed-in-cuddalore-district/ar-AA2hpXkj",
-      "published_at": "2026-11-14T03:52:58.000Z",
-      "created_at": "2026-11-14 18:40:15",
-      "ai_at": "2026-11-14 18:40:19",
       "dup_count": 1
     }
   ]
