@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-21T10:40:15.961Z",
+  "generated_at": "2026-11-21T14:40:14.979Z",
   "items": [
     {
       "fingerprint": "008bebd8df18e2802a3222b394859e070f545bf1",
@@ -175,6 +175,22 @@
       "url": "https://www.supplychaindive.com/news/cal-maine-halts-egg-production-at-florida-plant-after-bird-flu-outbreak/875316/",
       "published_at": "2026-11-20T02:09:00.000Z",
       "created_at": "2026-11-20 18:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "0ac5e87a8ec442be4ba68d3387192d34e29584e9",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-lsd",
+      "title": "286 weeks since taking office as mayor. Response to Lumpy Skin Disease (Request for support from the national government)",
+      "url": "https://note.com/nagayaaan/n/n940ce54058c3?hl=en",
+      "published_at": "2026-11-20T00:31:00.000Z",
+      "created_at": "2026-11-21 14:40:14",
       "ai_at": null,
       "dup_count": 1
     },
@@ -1256,22 +1272,6 @@
       "published_at": "2026-11-14T15:23:00.000Z",
       "created_at": "2026-11-15 08:40:14",
       "ai_at": "2026-11-15 10:40:17",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "5817a9e9ba4081b01f8d903b462baa9e0b441a21",
-      "disease": "грипп птиц",
-      "country": "Канада",
-      "distance_km": 4500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Вспышка гриппа птиц в национальной выставке разошлась на 2 другие провинции",
-      "source_id": "bing-world-ai",
-      "title": "Avian flu outbreak at national poultry show in Sask. has spread to 2 other provinces: CFIA",
-      "url": "https://www.msn.com/en-ca/news/other/avian-flu-outbreak-at-national-poultry-show-in-sask-has-spread-to-2-other-provinces-cfia/ar-AA2hrkAB",
-      "published_at": "2026-11-14T12:47:39.000Z",
-      "created_at": "2026-11-15 08:40:14",
-      "ai_at": "2026-11-15 08:42:23",
       "dup_count": 1
     }
   ]
