@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-20T18:40:14.907Z",
+  "generated_at": "2026-11-21T00:40:15.271Z",
   "items": [
+    {
+      "fingerprint": "714b9547174795e04e0e9027f75294d4279a023c",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-fmd",
+      "title": "Free State Reports Three Active Foot-and-Mouth Disease Cases as 801 Are Resolved",
+      "url": "https://centralnews.co.za/free-state-reports-three-active-foot-and-mouth-disease-cases-as-801-are-resolved/",
+      "published_at": "2026-11-20T13:11:00.000Z",
+      "created_at": "2026-11-21 00:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
     {
       "fingerprint": "272c79c168b66de9ea56f936764ddabcb053cba2",
       "disease": null,
@@ -115,6 +131,22 @@
       "dup_count": 1
     },
     {
+      "fingerprint": "9460a12f0843988a895a2e4eee14596312a3ae2f",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "OREGON HEALTH AUTHORITY: OHA confirms state’s first human case of avian influenza of 2026",
+      "url": "https://www.tillamookcountypioneer.net/oregon-health-authority-oha-confirms-states-first-human-case-of-avian-influenza-of-2026/",
+      "published_at": "2026-11-19T16:00:00.000Z",
+      "created_at": "2026-11-21 00:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
       "fingerprint": "9425a1802b5d0d1a5f736f4b7c992cd3e9bd35d0",
       "disease": null,
       "country": null,
@@ -128,7 +160,7 @@
       "published_at": "2026-11-19T15:30:00.000Z",
       "created_at": "2026-11-20 02:40:14",
       "ai_at": null,
-      "dup_count": 10,
+      "dup_count": 9,
       "dups": [
         {
           "title": "OHA confirms state’s first human case of avian influenza of 2026",
@@ -177,12 +209,6 @@
           "url": "https://www.westernjournal.com/bird-flu-outbreak-rages-blue-state-illegal-farm-hands-dodge-health-officials-union-says/",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-14T20:30:00.000Z"
-        },
-        {
-          "title": "Highly-Pathogenic Avian Influenza Found In Rusk County",
-          "url": "https://www.midwestfarmreport.com/2026/11/13/highly-pathogenic-avian-influenza-found-in-rusk-county/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-13T13:44:00.000Z"
         }
       ]
     },
@@ -314,7 +340,7 @@
       "published_at": "2026-11-19T04:00:00.000Z",
       "created_at": "2026-11-19 14:40:15",
       "ai_at": "2026-11-19 14:40:20",
-      "dup_count": 7,
+      "dup_count": 6,
       "dups": [
         {
           "title": "Bird keepers urged to follow new housing measures as avian influenza controls continue",
@@ -345,12 +371,6 @@
           "url": "https://www.lep.co.uk/news/fylde-coast-council-warning-strict-hygiene-biosecurity-bird-flu-concerns-9352092",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-15T21:30:00.000Z"
-        },
-        {
-          "title": "New bird flu restrictions imposed across Wales amid rising outbreak threat",
-          "url": "https://www.farminguk.com/news/new-bird-flu-restrictions-imposed-across-wales-amid-rising-outbreak-threat_69478.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-13T16:00:00.000Z"
         }
       ]
     },
