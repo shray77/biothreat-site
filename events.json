@@ -1,7 +1,119 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-21T14:40:14.979Z",
+  "generated_at": "2026-11-21T16:40:14.872Z",
   "items": [
+    {
+      "fingerprint": "098792085dd30ab942066c6008240f4d048a55f2",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Tenkasi district takes precautionary measures to avert avian influenza outbreak",
+      "url": "https://www.thehindu.com/news/cities/Madurai/tenkasi-district-takes-precautionary-measures-to-avert-avian-influenza-outbreak/article71728496.ece",
+      "published_at": "2026-11-21T06:20:00.000Z",
+      "created_at": "2026-11-21 16:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "c773a6ceaa015e2d630218656de9e316b13e84ad",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Bird flu outbreak alert: Central team visits Cuddalore",
+      "url": "https://www.dtnext.in/news/tamilnadu/bird-flu-outbreak-alert-central-team-visits-cuddalore",
+      "published_at": "2026-11-21T05:00:00.000Z",
+      "created_at": "2026-11-21 16:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "b8ed2091b9be21195780e30d5b081ee3e9a5fc3f",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-fmd",
+      "title": "Foot-and-Mouth Disease Serotype O Detection in Mauritius",
+      "url": "https://globalriskatlas.com/en/foot-and-mouth-disease-serotype-o-detection-in-mauritius/",
+      "published_at": "2026-11-21T04:28:00.000Z",
+      "created_at": "2026-11-21 16:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "1ef2db230aebddac45b2b74a437212463150d0d4",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Bird flu outbreak in TN’s Cuddalore district; Central team inspects affected poultry farms",
+      "url": "https://www.bizzbuzz.news/national/bird-flu-outbreak-in-tns-cuddalore-district-central-team-inspects-affected-poultry-farms-1416769",
+      "published_at": "2026-11-21T04:05:00.000Z",
+      "created_at": "2026-11-21 16:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "7261c75d0254dec3cba5567efb46ac13e48bee5a",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Bird Flu Outbreak in Cuddalore: Central Team Inspects Affected Farms, Residents Alerted",
+      "url": "https://www.lokmattimes.com/health/bird-flu-outbreak-in-cuddalore-central-team-inspects-affected-farms-residents-alerted-a001-w02/",
+      "published_at": "2026-11-21T04:00:00.000Z",
+      "created_at": "2026-11-21 16:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "26004ddeebf92055a3198f0586d09da03d713be1",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Bird Flu Outbreak in Cuddalore: Central Team Inspects Affected Poultry Farms",
+      "url": "https://www.lokmattimes.com/national/bird-flu-outbreak-in-cuddalore-central-team-inspects-affected-poultry-farms-a001-w02/",
+      "published_at": "2026-11-21T04:00:00.000Z",
+      "created_at": "2026-11-21 16:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "55c534a72168f4f1e25938a0abc22f5b6c8232d9",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-asf",
+      "title": "Are wild boar spreading African swine fever to Europe’s pig farms?",
+      "url": "https://www.agriland.co.uk/farming-news/are-wild-boar-spreading-african-swine-fever-to-europes-pig-farms/",
+      "published_at": "2026-11-21T02:00:00.000Z",
+      "created_at": "2026-11-21 16:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
     {
       "fingerprint": "008bebd8df18e2802a3222b394859e070f545bf1",
       "disease": null,
@@ -272,7 +384,7 @@
       "published_at": "2026-11-19T15:30:00.000Z",
       "created_at": "2026-11-20 02:40:14",
       "ai_at": null,
-      "dup_count": 9,
+      "dup_count": 8,
       "dups": [
         {
           "title": "OHA confirms state’s first human case of avian influenza of 2026",
@@ -315,12 +427,6 @@
           "url": "https://www.bastillepost.com/global/article/6368502-hong-kong-suspends-poultry-imports-from-norway-and-us-due-to-avian-influenza-outbreaks",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-16T21:26:00.000Z"
-        },
-        {
-          "title": "Bird Flu Outbreak Rages in Blue State as Illegal Farm Hands Dodge Health Officials, Union Says",
-          "url": "https://www.westernjournal.com/bird-flu-outbreak-rages-blue-state-illegal-farm-hands-dodge-health-officials-union-says/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-14T20:30:00.000Z"
         }
       ]
     },
@@ -790,15 +896,7 @@
       "published_at": "2026-11-17T12:17:00.000Z",
       "created_at": "2026-11-18 06:40:14",
       "ai_at": "2026-11-18 06:40:23",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "South Korea finds foot-and-mouth disease in eight more cattle in North Gyeongsang's Yecheon",
-          "url": "https://www.efeedlink.com/articles/south-korea-finds-foot-and-mouth-disease-in-eight-more-cattle-in-north-gyeongsangs-yecheon",
-          "source_id": "bing-world-fmd",
-          "published_at": "2026-11-14T16:00:00.000Z"
-        }
-      ]
+      "dup_count": 1
     },
     {
       "fingerprint": "e52bb3d4c0e4cadd6ff329e4f6f317463c44160e",
@@ -1192,86 +1290,6 @@
       "published_at": "2026-11-15T03:09:00.000Z",
       "created_at": "2026-11-15 14:40:14",
       "ai_at": "2026-11-15 14:40:15",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "927567b84c186e5e4ac5303ba3db6cd563865a6b",
-      "disease": "африканская чума свиней",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Департамент сельского хозяйства вакцинировал почти 500 тысяч свиней против африканской чумы свиней, а 65% ранее зараженных территорий выздоровели.",
-      "source_id": "bing-world-asf",
-      "title": "DA accelerates ASF vaccination; 65 percent of areas recovered",
-      "url": "https://www.philstar.com/headlines/2026/11/16/2570380/da-accelerates-asf-vaccination-65-percent-areas-recovered",
-      "published_at": "2026-11-15T01:59:00.000Z",
-      "created_at": "2026-11-15 22:40:14",
-      "ai_at": "2026-11-15 22:40:20",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "7b6f954028f3d80454a8c8e7091c7a99834eff7e",
-      "disease": null,
-      "country": "ЮАР",
-      "distance_km": 7000,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-fmd",
-      "title": "90% of SA's national herd vaccinated against Foot-and-Mouth Disease",
-      "url": "https://www.ewn.co.za/2026/11/15/90-of-sas-national-herd-vaccinated-against-foot-and-mouth-disease",
-      "published_at": "2026-11-15T01:11:00.000Z",
-      "created_at": "2026-11-15 14:40:14",
-      "ai_at": "2026-11-15 14:40:17",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "675faa0b0e80162a5e9dbae34b30208d17f207bc",
-      "disease": "африканская чума свиней",
-      "country": "Южно-Африканская Республика",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "В ЮАР привито свыше 90% национальной рогатой скотины против африканской чумы свиней",
-      "source_id": "bing-world-fmd",
-      "title": "More than 90% of South Africa’s cattle herd vaccinated against foot-and-mouth disease",
-      "url": "https://newsnote.co.za/more-than-90-of-south-africas-cattle-herd-vaccinated-against-foot-and-mouth-disease/",
-      "published_at": "2026-11-14T23:20:00.000Z",
-      "created_at": "2026-11-15 14:40:14",
-      "ai_at": "2026-11-15 14:40:23",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "fa81a9ab676049b9d79a9d3db2dd876915f6c537",
-      "disease": "грипп птиц",
-      "country": "Япония",
-      "distance_km": 60,
-      "level": "высокая",
-      "verdict": "confirmed",
-      "ai_summary": "В Японии выявлено второе за сезон мощное птичий грипп на ферме с 40 000 кур",
-      "source_id": "bing-world-ai",
-      "title": "40,000 hens to be culled over bird flu outbreak",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/15/40000-hens-to-be-culled-over-bird-flu-outbreak",
-      "published_at": "2026-11-14T16:00:00.000Z",
-      "created_at": "2026-11-15 02:40:15",
-      "ai_at": "2026-11-15 02:40:19",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "5b40770e52eda0dcdcb823d487f8871d5c81c29d",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "В Южной Корее предоставлены гранты для борьбы с птичьим гриппом.",
-      "source_id": "bing-world-ai",
-      "title": "MOIS Provides 7 Billion Won in Special Grants for Disaster and Safety Management to Combat Avian Influenza",
-      "url": "https://en.fnnews.com/news/202611151322311997",
-      "published_at": "2026-11-14T15:23:00.000Z",
-      "created_at": "2026-11-15 08:40:14",
-      "ai_at": "2026-11-15 10:40:17",
       "dup_count": 1
     }
   ]
