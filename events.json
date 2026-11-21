@@ -1,7 +1,39 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-21T00:40:15.271Z",
+  "generated_at": "2026-11-21T04:40:16.712Z",
   "items": [
+    {
+      "fingerprint": "008bebd8df18e2802a3222b394859e070f545bf1",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-fmd",
+      "title": "FMD outbreak could cost 12 000 jobs and lift inflation",
+      "url": "https://observer24.com.na/fmd-outbreak-could-cost-12-000-jobs-and-lift-inflation/",
+      "published_at": "2026-11-20T19:07:00.000Z",
+      "created_at": "2026-11-21 04:40:15",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "d326c5f26c1e73061cc4c8d0d110342646c9bfe7",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-fmd",
+      "title": "Over 6,200 live animals exported to Mauritius amid FMD outbreaks",
+      "url": "https://www.msn.com/en-xl/money/general/over-6-200-live-animals-exported-to-mauritius-amid-fmd-outbreaks/ar-AA2hTCVz",
+      "published_at": "2026-11-20T17:05:26.000Z",
+      "created_at": "2026-11-21 04:40:15",
+      "ai_at": null,
+      "dup_count": 1
+    },
     {
       "fingerprint": "714b9547174795e04e0e9027f75294d4279a023c",
       "disease": null,
@@ -668,15 +700,7 @@
       "published_at": "2026-11-17T16:01:00.000Z",
       "created_at": "2026-11-18 10:40:14",
       "ai_at": "2026-11-18 10:40:30",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "African swine fever forces culling of 4,453 pigs in Vietnam's Vinh Long",
-          "url": "https://news.tuoitre.vn/african-swine-fever-forces-culling-of-4453-pigs-in-vietnams-vinh-long-103261114145749075.htm",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-11-13T17:14:00.000Z"
-        }
-      ]
+      "dup_count": 1
     },
     {
       "fingerprint": "2b8b415b57da2f749a85e136d2cf90d083c112d0",
@@ -1142,15 +1166,7 @@
       "published_at": "2026-11-14T16:00:00.000Z",
       "created_at": "2026-11-15 02:40:15",
       "ai_at": "2026-11-15 02:40:19",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Modified Environmental Surveillance Enhances Avian Influenza Monitoring at Japanese Crane Roosts",
-          "url": "https://bioengineer.org/modified-environmental-surveillance-enhances-avian-influenza-monitoring-at-japanese-crane-roosts/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-13T16:00:00.000Z"
-        }
-      ]
+      "dup_count": 1
     },
     {
       "fingerprint": "5b40770e52eda0dcdcb823d487f8871d5c81c29d",
