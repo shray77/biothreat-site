@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-22T04:40:14.643Z",
+  "generated_at": "2026-11-22T08:40:16.680Z",
   "items": [
     {
       "fingerprint": "098792085dd30ab942066c6008240f4d048a55f2",
@@ -179,6 +179,22 @@
       "dup_count": 1
     },
     {
+      "fingerprint": "d136e39cccb29120cb8dc705d289d43c49eaf721",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Japan: First Avian Influenza Outbreaks of the 2026–2027 Winter Season",
+      "url": "https://www.poultrymed.com/ID-Eng-Japan211126",
+      "published_at": "2026-11-20T16:00:00.000Z",
+      "created_at": "2026-11-22 08:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
       "fingerprint": "31e7d2afcbf54563000df5388d45bbcc50be9e59",
       "disease": null,
       "country": null,
@@ -207,6 +223,22 @@
       "url": "https://centralnews.co.za/free-state-reports-three-active-foot-and-mouth-disease-cases-as-801-are-resolved/",
       "published_at": "2026-11-20T13:11:00.000Z",
       "created_at": "2026-11-21 00:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "173edd6270df8c5d1d533d0ca0280836ed4185a9",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-asf",
+      "title": "An Giang quickly destroys a herd of nearly 450kg of pigs infected with African swine fever",
+      "url": "https://news.laodong.vn/ban-tin/an-giang-nhanh-chong-tieu-huy-dan-heo-gan-450kg-mac-dich-ta-heo-chau-phi-1803860.ldo",
+      "published_at": "2026-11-20T13:00:00.000Z",
+      "created_at": "2026-11-22 08:40:14",
       "ai_at": null,
       "dup_count": 1
     },
@@ -487,6 +519,22 @@
       "dup_count": 1
     },
     {
+      "fingerprint": "8286c84bb20c5954384389f0013e219a67c00f4a",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "What Does Cal-Maine Foods' (NASDAQ:CALM) Latest Avian Influenza Outbreak Mean for Egg Supply?",
+      "url": "https://kalkine.com.au/news/consumer/what-does-cal-maine-foods-nasdaqcalm-latest-avian-influenza-outbreak-mean-for-egg-supply",
+      "published_at": "2026-11-19T13:41:00.000Z",
+      "created_at": "2026-11-22 08:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
       "fingerprint": "353daa717a14696e75e4a26335bb385a35dfe938",
       "disease": null,
       "country": null,
@@ -630,7 +678,7 @@
       "published_at": "2026-11-19T04:00:00.000Z",
       "created_at": "2026-11-19 14:40:15",
       "ai_at": "2026-11-19 14:40:20",
-      "dup_count": 6,
+      "dup_count": 5,
       "dups": [
         {
           "title": "Bird keepers urged to follow new housing measures as avian influenza controls continue",
@@ -655,12 +703,6 @@
           "url": "https://www.tivysideadvertiser.co.uk/news/26731446.avian-flu-clampdown-risks-grow-seasonal-outbreaks/",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-16T00:34:00.000Z"
-        },
-        {
-          "title": "Warning on strict hygiene and biosecurity to prevent spread of bird flu following outbreak near Garstang",
-          "url": "https://www.lep.co.uk/news/fylde-coast-council-warning-strict-hygiene-biosecurity-bird-flu-concerns-9352092",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-15T21:30:00.000Z"
         }
       ]
     },
@@ -1158,19 +1200,13 @@
       "published_at": "2026-11-16T05:29:00.000Z",
       "created_at": "2026-11-16 14:40:14",
       "ai_at": "2026-11-16 14:40:26",
-      "dup_count": 3,
+      "dup_count": 2,
       "dups": [
         {
           "title": "Norway bird flu outbreak sparks supply worries as culls grow",
           "url": "https://minutemirror.com.pk/norway-bird-flu-outbreak-sparks-661410/",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-16T04:40:00.000Z"
-        },
-        {
-          "title": "Norway culls 100,000 poultry amid bird flu outbreak",
-          "url": "https://dailytimes.com.pk/1582283/norway-culls-100000-poultry-amid-bird-flu-outbreak/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-15T19:40:00.000Z"
         }
       ]
     },
@@ -1268,22 +1304,6 @@
       "published_at": "2026-11-15T21:30:21.000Z",
       "created_at": "2026-11-16 14:40:14",
       "ai_at": "2026-11-16 14:40:45",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "4a4f5e19c40ff1e14441e2215fe8ca0e2cfb06ec",
-      "disease": "грипп птиц",
-      "country": "Южная Корея",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "Ульсан принимает меры по предотвращению распространения птичьего гриппа в регионе",
-      "source_id": "bing-world-ai",
-      "title": "Ulsan City Launches Emergency Biosecurity Measures After HPAI Outbreak in Neighboring Gyeongju",
-      "url": "https://en.fnnews.com/news/202611161507192078",
-      "published_at": "2026-11-15T17:19:00.000Z",
-      "created_at": "2026-11-16 08:40:14",
-      "ai_at": "2026-11-16 08:42:26",
       "dup_count": 1
     }
   ]
