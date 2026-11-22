@@ -1,7 +1,47 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-22T12:40:17.088Z",
+  "generated_at": "2026-11-22T16:40:15.049Z",
   "items": [
+    {
+      "fingerprint": "0de2a875f285eea4dc5704f5b5f7b36cb743086e",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Oregon Confirms Human Bird Flu Infection Following First Dairy Cattle Outbreak as Health Officials Monitor Agricultural Workers",
+      "url": "https://www.grantspasstribune.com/oregon-confirms-human-bird-flu-infection-following-first-dairy-cattle-outbreak-as-health-officials-monitor-agricultural-workers/",
+      "published_at": "2026-11-22T05:57:00.000Z",
+      "created_at": "2026-11-22 16:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "ffa43485a876f4e08d446a5da2b9a5e7a46b30f9",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Saskatchewan reports 11 avian influenza cases in 2026 so far",
+      "url": "https://www.discoverhumboldt.com/articles/saskatchewan-reports-11-avian-influenza-cases-in-2026-so-far",
+      "published_at": "2026-11-22T01:00:00.000Z",
+      "created_at": "2026-11-22 16:40:14",
+      "ai_at": null,
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Saskatchewan reports 11 avian influenza cases in 2026 so far",
+          "url": "https://discoverestevan.com/articles/saskatchewan-reports-11-avian-influenza-cases-in-2026-so-far",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-18T20:30:00.000Z"
+        }
+      ]
+    },
     {
       "fingerprint": "098792085dd30ab942066c6008240f4d048a55f2",
       "disease": null,
@@ -145,6 +185,30 @@
       "created_at": "2026-11-22 02:40:14",
       "ai_at": null,
       "dup_count": 1
+    },
+    {
+      "fingerprint": "34c7306c6048a849e804abd3029b1f291b406e13",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Bird flu outbreak in WA linked to Idaho virus",
+      "url": "https://www.yahoo.com/news/us/articles/bird-flu-outbreak-wa-linked-045900123.html",
+      "published_at": "2026-11-20T20:59:00.000Z",
+      "created_at": "2026-11-22 16:40:14",
+      "ai_at": null,
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Bird flu outbreak in WA linked to Idaho virus",
+          "url": "https://www.dnews.com/northwest/bird-flu-outbreak-in-wa-linked-to-idaho-virus-1ddc0baf",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-20T00:00:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "da44461c0f639e8a039a5ad96e03bdb18ac5ae92",
@@ -391,22 +455,6 @@
       "url": "https://note.com/nagayaaan/n/n940ce54058c3?hl=en",
       "published_at": "2026-11-20T00:31:00.000Z",
       "created_at": "2026-11-21 14:40:14",
-      "ai_at": null,
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "8fc93e4dc0628ba53b9ada2ca1096ff6a703843e",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "Bird flu outbreak in WA linked to Idaho virus",
-      "url": "https://www.dnews.com/northwest/bird-flu-outbreak-in-wa-linked-to-idaho-virus-1ddc0baf",
-      "published_at": "2026-11-20T00:00:00.000Z",
-      "created_at": "2026-11-20 12:40:14",
       "ai_at": null,
       "dup_count": 1
     },
@@ -747,22 +795,6 @@
       ]
     },
     {
-      "fingerprint": "1289b236ed8d2973b63e93d8d882f7930db9f635",
-      "disease": "грипп птиц",
-      "country": "Саскачеван",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "В провинции Саскачеван зафиксировано 11 случаев высокопатогенного гриппа птиц в 2026 году.",
-      "source_id": "bing-world-ai",
-      "title": "Saskatchewan reports 11 avian influenza cases in 2026 so far",
-      "url": "https://discoverestevan.com/articles/saskatchewan-reports-11-avian-influenza-cases-in-2026-so-far",
-      "published_at": "2026-11-18T20:30:00.000Z",
-      "created_at": "2026-11-19 14:40:15",
-      "ai_at": "2026-11-19 14:40:30",
-      "dup_count": 1
-    },
-    {
       "fingerprint": "3285f9bab2f21ee16a807afd1d359ef98841412e",
       "disease": null,
       "country": null,
@@ -924,7 +956,7 @@
       "published_at": "2026-11-18T01:59:00.000Z",
       "created_at": "2026-11-18 10:40:14",
       "ai_at": "2026-11-18 10:40:17",
-      "dup_count": 7,
+      "dup_count": 6,
       "dups": [
         {
           "title": "Authorities order culling of 26,000 domestic birds in India's Kerala amid bird flu outbreak",
@@ -955,12 +987,6 @@
           "url": "https://news.abplive.com/health/tamil-nadu-steps-up-bird-flu-surveillance-after-h5n1-outbreak-40-000-chickens-culled-in-cuddalore-1876247",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-16T19:20:00.000Z"
-        },
-        {
-          "title": "Should You Eat Eggs, Chicken For Protein During A Bird Flu Outbreak?",
-          "url": "https://www.ndtv.com/health/living-healthy/should-you-eat-eggs-chicken-for-protein-during-a-bird-flu-outbreak-12332271",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-15T22:26:00.000Z"
         }
       ]
     },
@@ -1272,38 +1298,6 @@
       "published_at": "2026-11-15T23:50:00.000Z",
       "created_at": "2026-11-21 10:40:15",
       "ai_at": null,
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "9a3275b03034605892bdfefe0568820e6be0776e",
-      "disease": "грипп птиц",
-      "country": "Китай",
-      "distance_km": 0,
-      "level": "граница",
-      "verdict": "probable",
-      "ai_summary": "В Китае запрещено ввозить мясо птицы из Индии, Великобритании и Японии из-за вспышки гриппа птиц.",
-      "source_id": "bing-world-ai",
-      "title": "Hong Kong Suspends Poultry Imports from India, UK, and Japan Due to Avian Influenza Outbreaks",
-      "url": "https://www.bastillepost.com/global/article/6364452-hong-kong-suspends-poultry-imports-from-india-uk-and-japan-due-to-avian-influenza-outbreaks",
-      "published_at": "2026-11-15T22:04:00.000Z",
-      "created_at": "2026-11-16 14:40:14",
-      "ai_at": "2026-11-16 14:40:41",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "f553db2b43190f6b60ab1b93580173f3bd07d31a",
-      "disease": "грипп птиц",
-      "country": "Голландия",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "В Голландии ликвидировано 160 000 птиц после подтверждения нового случая гриппа птиц",
-      "source_id": "bing-world-ai",
-      "title": "Nearly 160,000 birds culled in Gelderland this week after fourth avian flu outbreak",
-      "url": "https://nltimes.nl/2026/11/16/nearly-160000-birds-culled-gelderland-week-fourth-avian-flu-outbreak",
-      "published_at": "2026-11-15T22:03:00.000Z",
-      "created_at": "2026-11-16 08:40:14",
-      "ai_at": "2026-11-16 08:42:19",
       "dup_count": 1
     }
   ]
