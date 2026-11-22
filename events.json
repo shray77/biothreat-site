@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-22T08:40:16.680Z",
+  "generated_at": "2026-11-22T12:40:17.088Z",
   "items": [
     {
       "fingerprint": "098792085dd30ab942066c6008240f4d048a55f2",
@@ -143,6 +143,22 @@
       "url": "https://abc17news.com/stacker-government-politics/2026/11/20/bird-flu-spreads-amid-cuts-to-federal-agency-oversight/",
       "published_at": "2026-11-20T21:40:00.000Z",
       "created_at": "2026-11-22 02:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "da44461c0f639e8a039a5ad96e03bdb18ac5ae92",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-lsd",
+      "title": "Lumpy Skin Disease Suspected Case Confirmed in Ojika Town, Nagasaki Prefecture | 7th Outbreak in the Prefecture and Vaccination Across the Goto Islands",
+      "url": "https://note.com/aoi_jin/n/n3a9eda60fcb6?hl=en",
+      "published_at": "2026-11-20T20:40:00.000Z",
+      "created_at": "2026-11-22 12:40:15",
       "ai_at": null,
       "dup_count": 1
     },
@@ -1288,22 +1304,6 @@
       "published_at": "2026-11-15T22:03:00.000Z",
       "created_at": "2026-11-16 08:40:14",
       "ai_at": "2026-11-16 08:42:19",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "aa019b1cad3fbc0992d67f818028e3b4aac564bf",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Примечание по строгой гигиене и биосекуритету для предотвращения распространения птичьего гриппа после вспышки в окрестностях Гарстенга",
-      "source_id": "bing-world-ai",
-      "title": "Warning on strict hygiene and biosecurity to prevent spread of bird flu following outbreak near Garstang",
-      "url": "https://www.msn.com/en-gb/news/other/warning-on-strict-hygiene-and-biosecurity-to-prevent-spread-of-bird-flu-following-outbreak-near-garstang/ar-AA2hw5T4",
-      "published_at": "2026-11-15T21:30:21.000Z",
-      "created_at": "2026-11-16 14:40:14",
-      "ai_at": "2026-11-16 14:40:45",
       "dup_count": 1
     }
   ]
