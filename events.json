@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-22T16:40:15.049Z",
+  "generated_at": "2026-11-22T22:40:15.490Z",
   "items": [
     {
       "fingerprint": "0de2a875f285eea4dc5704f5b5f7b36cb743086e",
@@ -243,6 +243,22 @@
       "dup_count": 1
     },
     {
+      "fingerprint": "b1987ebfca5e78ab715de11d28a5db3d0775bc24",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Okeechobee Bird Flu Outbreak Forces Cal-Maine to Cull Nearly 1.8 Million Chickens",
+      "url": "https://hoodline.com/2026/11/okeechobee-bird-flu-outbreak-forces-cal-maine-to-cull-nearly-1-8-million-chickens/",
+      "published_at": "2026-11-20T17:09:00.000Z",
+      "created_at": "2026-11-22 22:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
       "fingerprint": "d326c5f26c1e73061cc4c8d0d110342646c9bfe7",
       "disease": null,
       "country": null,
@@ -440,7 +456,15 @@
       "published_at": "2026-11-20T02:09:00.000Z",
       "created_at": "2026-11-20 18:40:14",
       "ai_at": null,
-      "dup_count": 1
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Cal-Maine halts egg production at Florida plant after bird flu outbreak",
+          "url": "https://www.fooddive.com/news/cal-maine-eggs-bird-flu-florida-production-pause/875172/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-19T01:57:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "0ac5e87a8ec442be4ba68d3387192d34e29584e9",
@@ -742,7 +766,7 @@
       "published_at": "2026-11-19T04:00:00.000Z",
       "created_at": "2026-11-19 14:40:15",
       "ai_at": "2026-11-19 14:40:20",
-      "dup_count": 5,
+      "dup_count": 4,
       "dups": [
         {
           "title": "Bird keepers urged to follow new housing measures as avian influenza controls continue",
@@ -759,12 +783,6 @@
         {
           "title": "Avian flu clampdown as risks grow of seasonal outbreaks",
           "url": "https://www.westerntelegraph.co.uk/news/26731446.avian-flu-clampdown-risks-grow-seasonal-outbreaks/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-16T00:34:00.000Z"
-        },
-        {
-          "title": "Avian flu clampdown as risks grow of seasonal outbreaks",
-          "url": "https://www.tivysideadvertiser.co.uk/news/26731446.avian-flu-clampdown-risks-grow-seasonal-outbreaks/",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-16T00:34:00.000Z"
         }
@@ -1282,22 +1300,6 @@
       "published_at": "2026-11-16T00:42:00.000Z",
       "created_at": "2026-11-16 14:40:14",
       "ai_at": "2026-11-16 14:40:33",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "1f6beddb6fd47b21f29c2fdc024acef7b884e117",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
-      "source_id": "bing-world-fmd",
-      "title": "Botswana Commits US$7 Million to Beef Crisis",
-      "url": "https://www.riotimesonline.com/botswana-foot-and-mouth-beef-industry-us7-million-fight/",
-      "published_at": "2026-11-15T23:50:00.000Z",
-      "created_at": "2026-11-21 10:40:15",
-      "ai_at": null,
       "dup_count": 1
     }
   ]
