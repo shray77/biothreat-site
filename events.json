@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-21T22:40:15.531Z",
+  "generated_at": "2026-11-22T02:40:16.492Z",
   "items": [
     {
       "fingerprint": "098792085dd30ab942066c6008240f4d048a55f2",
@@ -129,6 +129,22 @@
           "published_at": "2026-11-20T18:00:00.000Z"
         }
       ]
+    },
+    {
+      "fingerprint": "a0fbc93a16ac6eef3d2b0653484df68ad91142a7",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Bird flu spreads amid cuts to federal agency oversight",
+      "url": "https://abc17news.com/stacker-government-politics/2026/11/20/bird-flu-spreads-amid-cuts-to-federal-agency-oversight/",
+      "published_at": "2026-11-20T21:40:00.000Z",
+      "created_at": "2026-11-22 02:40:14",
+      "ai_at": null,
+      "dup_count": 1
     },
     {
       "fingerprint": "008bebd8df18e2802a3222b394859e070f545bf1",
@@ -463,6 +479,22 @@
       "dup_count": 1
     },
     {
+      "fingerprint": "353daa717a14696e75e4a26335bb385a35dfe938",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Human contracts bird flu at Morrow County dairy farm in Oregon",
+      "url": "https://www.statesmanjournal.com/story/news/health/2026/11/19/human-contracts-bird-flu-morrow-county-dairy-farm-oregon/92864239007/",
+      "published_at": "2026-11-19T12:09:00.000Z",
+      "created_at": "2026-11-22 02:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
       "fingerprint": "e44af80b7ec9f1a7263a4465092c77e2560d7205",
       "disease": null,
       "country": null,
@@ -485,6 +517,22 @@
           "published_at": "2026-11-19T03:25:00.000Z"
         }
       ]
+    },
+    {
+      "fingerprint": "3a765a38473ab0327cefc0aa662a0c81f0ce45fb",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Oregon reports its first human case of avian flu linked to dairy cows",
+      "url": "https://www.opb.org/article/2026/11/19/avian-flu-oregon-health-dairy-cows-influenza/",
+      "published_at": "2026-11-19T09:24:00.000Z",
+      "created_at": "2026-11-22 02:40:14",
+      "ai_at": null,
+      "dup_count": 1
     },
     {
       "fingerprint": "ca1e4b5da2da574968224a6ca4c808710c1f785b",
@@ -1244,46 +1292,6 @@
       "published_at": "2026-11-15T16:00:00.000Z",
       "created_at": "2026-11-17 18:40:14",
       "ai_at": "2026-11-17 18:40:54",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Nearly 500,000 pigs vaccinated against ASF",
-          "url": "https://www.msn.com/en-ph/money/general/nearly-500-000-pigs-vaccinated-against-asf/ar-AA2hvcHz",
-          "source_id": "bing-world-asf",
-          "published_at": "2026-11-15T13:23:58.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "84afa4e6e4c161abef25828b99588224d2223e5f",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Птицеводам необходимо проверить биосекьюрити и готовиться к риску птичьего гриппа в связи с весенней миграцией птиц.",
-      "source_id": "bing-world-ai",
-      "title": "Prepare backyard poultry for the autumn avian influenza risk",
-      "url": "https://www.thepoultrysite.com/articles/prepare-backyard-poultry-for-the-autumn-avian-influenza-risk",
-      "published_at": "2026-11-15T16:00:00.000Z",
-      "created_at": "2026-11-16 08:40:14",
-      "ai_at": "2026-11-16 08:42:29",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "7163e8b7a0bba344238c5f9fcd5880d7c69e5e11",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-asf",
-      "title": "DA fast-tracks ASF jabs to revive hog industry",
-      "url": "https://tribune.net.ph/2026/11/16/da-fast-tracks-asf-jabs-to-revive-hog-industry",
-      "published_at": "2026-11-15T13:25:00.000Z",
-      "created_at": "2026-11-16 08:40:14",
-      "ai_at": "2026-11-16 08:42:31",
       "dup_count": 1
     }
   ]
