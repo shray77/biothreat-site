@@ -1,6 +1,6 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-22T22:40:15.490Z",
+  "generated_at": "2026-11-23T04:40:14.901Z",
   "items": [
     {
       "fingerprint": "0de2a875f285eea4dc5704f5b5f7b36cb743086e",
@@ -275,6 +275,22 @@
       "dup_count": 1
     },
     {
+      "fingerprint": "3a5a9456804980ed51a144d300d0a744b64f0158",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-fmd",
+      "title": "Central Bangladesh Study Finds Strong FMD Awareness but Scarce Routine Vaccination",
+      "url": "https://bioengineer.org/central-bangladesh-study-finds-strong-fmd-awareness-but-scarce-routine-vaccination/",
+      "published_at": "2026-11-20T16:00:00.000Z",
+      "created_at": "2026-11-23 04:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
       "fingerprint": "d136e39cccb29120cb8dc705d289d43c49eaf721",
       "disease": null,
       "country": null,
@@ -499,39 +515,7 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "c47ee7f662a35ee9a52e486cade142d6599b2000",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "Washington bird flu outbreak linked to Idaho",
-      "url": "https://bonnercountydailybee.com/news/2026/nov/20/washington-bird-flu-outbreak-linked-to-idaho/",
-      "published_at": "2026-11-19T17:00:00.000Z",
-      "created_at": "2026-11-20 12:40:14",
-      "ai_at": null,
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "9460a12f0843988a895a2e4eee14596312a3ae2f",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "OREGON HEALTH AUTHORITY: OHA confirms state’s first human case of avian influenza of 2026",
-      "url": "https://www.tillamookcountypioneer.net/oregon-health-authority-oha-confirms-states-first-human-case-of-avian-influenza-of-2026/",
-      "published_at": "2026-11-19T16:00:00.000Z",
-      "created_at": "2026-11-21 00:40:14",
-      "ai_at": null,
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "9425a1802b5d0d1a5f736f4b7c992cd3e9bd35d0",
+      "fingerprint": "36ea6a07f8ec69d15743deda577f74622570a2be",
       "disease": null,
       "country": null,
       "distance_km": null,
@@ -540,12 +524,18 @@
       "ai_summary": null,
       "source_id": "bing-world-ai",
       "title": "OHA confirms state’s first human case of avian influenza of 2026",
-      "url": "https://www.columbiagorgenews.com/free_news/oha-confirms-state-s-first-human-case-of-avian-influenza-of-2026/article_0984577c-4374-4597-ae11-c403dcca89ea.html",
-      "published_at": "2026-11-19T15:30:00.000Z",
-      "created_at": "2026-11-20 02:40:14",
+      "url": "https://www.yahoo.com/news/science/articles/oha-confirms-state-first-human-045900660.html",
+      "published_at": "2026-11-19T20:59:00.000Z",
+      "created_at": "2026-11-23 04:40:14",
       "ai_at": null,
-      "dup_count": 8,
+      "dup_count": 9,
       "dups": [
+        {
+          "title": "OHA confirms state’s first human case of avian influenza of 2026",
+          "url": "https://www.columbiagorgenews.com/free_news/oha-confirms-state-s-first-human-case-of-avian-influenza-of-2026/article_0984577c-4374-4597-ae11-c403dcca89ea.html",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-19T15:30:00.000Z"
+        },
         {
           "title": "OHA confirms state’s first human case of avian influenza of 2026",
           "url": "https://www.thenewsguard.com/news/oha-confirms-state-s-first-human-case-of-avian-influenza-of-2026/article_a7a931c0-3c28-4a46-9745-fcba09c40b5f.html",
@@ -589,6 +579,38 @@
           "published_at": "2026-11-16T21:26:00.000Z"
         }
       ]
+    },
+    {
+      "fingerprint": "c47ee7f662a35ee9a52e486cade142d6599b2000",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Washington bird flu outbreak linked to Idaho",
+      "url": "https://bonnercountydailybee.com/news/2026/nov/20/washington-bird-flu-outbreak-linked-to-idaho/",
+      "published_at": "2026-11-19T17:00:00.000Z",
+      "created_at": "2026-11-20 12:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "9460a12f0843988a895a2e4eee14596312a3ae2f",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "OREGON HEALTH AUTHORITY: OHA confirms state’s first human case of avian influenza of 2026",
+      "url": "https://www.tillamookcountypioneer.net/oregon-health-authority-oha-confirms-states-first-human-case-of-avian-influenza-of-2026/",
+      "published_at": "2026-11-19T16:00:00.000Z",
+      "created_at": "2026-11-21 00:40:14",
+      "ai_at": null,
+      "dup_count": 1
     },
     {
       "fingerprint": "8ec4d6f5677a9ce33ed74de2323bf382991ad61b",
@@ -766,7 +788,7 @@
       "published_at": "2026-11-19T04:00:00.000Z",
       "created_at": "2026-11-19 14:40:15",
       "ai_at": "2026-11-19 14:40:20",
-      "dup_count": 4,
+      "dup_count": 3,
       "dups": [
         {
           "title": "Bird keepers urged to follow new housing measures as avian influenza controls continue",
@@ -779,12 +801,6 @@
           "url": "https://www.bastillepost.com/global/article/6373327-hong-kong-suspends-poultry-imports-from-uk-due-to-avian-influenza-outbreak",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-17T20:45:00.000Z"
-        },
-        {
-          "title": "Avian flu clampdown as risks grow of seasonal outbreaks",
-          "url": "https://www.westerntelegraph.co.uk/news/26731446.avian-flu-clampdown-risks-grow-seasonal-outbreaks/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-16T00:34:00.000Z"
         }
       ]
     },
@@ -1284,22 +1300,6 @@
       "published_at": "2026-11-16T00:58:00.000Z",
       "created_at": "2026-11-16 14:40:14",
       "ai_at": "2026-11-16 14:40:31",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "4e77c36fad1866c3921a2b181acb0848394c6bc7",
-      "disease": null,
-      "country": "Остров Мэн",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "Isle of Man poultry farm’s future uncertain after bird flu outbreak",
-      "url": "https://www.iomtoday.co.im/news/isle-of-man-poultry-farms-future-uncertain-after-bird-flu-outbreak-972707",
-      "published_at": "2026-11-16T00:42:00.000Z",
-      "created_at": "2026-11-16 14:40:14",
-      "ai_at": "2026-11-16 14:40:33",
       "dup_count": 1
     }
   ]
