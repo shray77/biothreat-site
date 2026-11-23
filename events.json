@@ -1,7 +1,55 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-23T04:40:14.901Z",
+  "generated_at": "2026-11-23T10:40:15.181Z",
   "items": [
+    {
+      "fingerprint": "daf59000c4d19d78a45dac11e320f26ea41ed3e2",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-fmd",
+      "title": "FMD: Understanding the challenges, the road to recovery",
+      "url": "https://observer24.com.na/fmd-understanding-the-challenges-the-road-to-recovery/",
+      "published_at": "2026-11-22T22:19:00.000Z",
+      "created_at": "2026-11-23 10:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "27420f0133437ae615218baa9d84540cd3b3251e",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Novel Avian Influenza Reassortant Virus Discovered in Chinese Poultry Outbreak",
+      "url": "https://bioengineer.org/novel-avian-influenza-reassortant-virus-discovered-in-chinese-poultry-outbreak/",
+      "published_at": "2026-11-22T16:00:00.000Z",
+      "created_at": "2026-11-23 10:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "2643b32cb177090a1b82bb18d5c70287e2219ca9",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-fmd",
+      "title": "Vectored Porcine Interferon Omega-5 Induces Sterile Immunity Against Foot-and-Mouth Disease",
+      "url": "https://bioengineer.org/vectored-porcine-interferon-omega-5-induces-sterile-immunity-against-foot-and-mouth-disease/",
+      "published_at": "2026-11-22T16:00:00.000Z",
+      "created_at": "2026-11-23 10:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
     {
       "fingerprint": "0de2a875f285eea4dc5704f5b5f7b36cb743086e",
       "disease": null,
@@ -169,6 +217,22 @@
           "published_at": "2026-11-20T18:00:00.000Z"
         }
       ]
+    },
+    {
+      "fingerprint": "6526659e0a257936bcb6fa0581db0db59f1cf474",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-asf",
+      "title": "Increase in number of ASF cases in wild boars in Europe",
+      "url": "https://www.foodagribusiness.world/pigs/increase-in-number-of-asf-cases-in-wild-boars-in-europe",
+      "published_at": "2026-11-21T01:00:00.000Z",
+      "created_at": "2026-11-23 10:40:14",
+      "ai_at": null,
+      "dup_count": 1
     },
     {
       "fingerprint": "a0fbc93a16ac6eef3d2b0653484df68ad91142a7",
@@ -377,6 +441,22 @@
           "published_at": "2026-11-20T08:24:00.000Z"
         }
       ]
+    },
+    {
+      "fingerprint": "f704d7cd24cc339d647077e883dc656d0256d99a",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-asf",
+      "title": "India develops first indigenous H5N1 bird flu vaccine, priced at ₹1-2 per dose",
+      "url": "https://www.livemint.com/news/india-develops-first-indigenous-h5n1-bird-flu-vaccine-priced-at-1-2-per-dose-11795177299717.html",
+      "published_at": "2026-11-20T05:57:00.000Z",
+      "created_at": "2026-11-23 10:40:14",
+      "ai_at": null,
+      "dup_count": 1
     },
     {
       "fingerprint": "e4872603f882bff74f3bd43028b085999c9eab3e",
@@ -1228,78 +1308,6 @@
       "published_at": "2026-11-16T05:41:00.000Z",
       "created_at": "2026-11-17 18:40:14",
       "ai_at": "2026-11-17 18:40:50",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "6a743b8f41cb2b74fe9380d64facfcc21a1da35b",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "В Тамил Наду продолжают проведение мер по наблюдению и контролю за распространением гриппа птиц. Для сохранения безопасности важно соблюдать меры безопасности и",
-      "source_id": "bing-world-ai",
-      "title": "Is It Safe To Eat Chicken & Eggs Amid Bird Flu Outbreak In Tamil Nadu? What You Should Know",
-      "url": "https://www.oneindia.com/chennai/is-it-safe-to-eat-chicken-and-eggs-amid-bird-flu-outbreak-in-tamil-nadu-what-you-should-know-8260831.html",
-      "published_at": "2026-11-16T05:41:00.000Z",
-      "created_at": "2026-11-16 14:40:14",
-      "ai_at": "2026-11-16 14:40:19",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "1fdd87251b125fa9fc687ea5c9fda182a825204d",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Повышенная бдительность необходима для раннего обнаружения и готовности к птичьему гриппу",
-      "source_id": "bing-world-ai",
-      "title": "WOAH calls for heightened vigilance as reported avian influenza outbreaks rise",
-      "url": "https://www.woah.org/en/woah-calls-for-heightened-vigilance-as-reported-avian-influenza-outbreaks-rise/",
-      "published_at": "2026-11-16T05:33:00.000Z",
-      "created_at": "2026-11-16 14:40:14",
-      "ai_at": "2026-11-16 14:40:22",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "89481db07ccdb11bde5790b8bbdccf7135ead4c7",
-      "disease": "грипп птиц",
-      "country": "Норвегия",
-      "distance_km": 0,
-      "level": "граница",
-      "verdict": "confirmed",
-      "ai_summary": "В Норвегии обнаружена крупная вспышка гриппа птиц, уничтожено или предназначено для уничтожения 100 000 поголовья",
-      "source_id": "bing-world-ai",
-      "title": "Bird flu outbreak threatens egg, chicken supplies in Norway",
-      "url": "https://www.aa.com.tr/en/europe/bird-flu-outbreak-threatens-egg-chicken-supplies-in-norway/4126454",
-      "published_at": "2026-11-16T05:29:00.000Z",
-      "created_at": "2026-11-16 14:40:14",
-      "ai_at": "2026-11-16 14:40:26",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Norway bird flu outbreak sparks supply worries as culls grow",
-          "url": "https://minutemirror.com.pk/norway-bird-flu-outbreak-sparks-661410/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-16T04:40:00.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "d2a6b250d4a0094bdda63598931e62fffbd43136",
-      "disease": null,
-      "country": "ЮАР",
-      "distance_km": 7000,
-      "level": "фон",
-      "verdict": "probable",
-      "ai_summary": null,
-      "source_id": "bing-world-fmd",
-      "title": "PROJECT: FOOT-AND-MOUTH DISEASE SPREADS INTO SOUTH AFRICA'S WILDLIFE",
-      "url": "https://www.mikebolhuis.co.za/post/project-foot-and-mouth-disease-spreads-into-south-africa-s-wildlife",
-      "published_at": "2026-11-16T00:58:00.000Z",
-      "created_at": "2026-11-16 14:40:14",
-      "ai_at": "2026-11-16 14:40:31",
       "dup_count": 1
     }
   ]
