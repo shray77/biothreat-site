@@ -1,7 +1,103 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-24T00:40:15.103Z",
+  "generated_at": "2026-11-24T08:40:15.161Z",
   "items": [
+    {
+      "fingerprint": "6b4ace198d77c6fc9e9f422ea6cbc4884af57d14",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "France reports bird flu outbreak on northern poultry farm",
+      "url": "https://www.thepoultrysite.com/news/2026/11/france-reports-bird-flu-outbreak-on-northern-poultry-farm",
+      "published_at": "2026-11-23T16:00:00.000Z",
+      "created_at": "2026-11-24 08:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "3979b676f2464c258ae52a0601c944b78b584c59",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Poland reports first bird flu outbreak in six months",
+      "url": "https://www.thepoultrysite.com/news/2026/11/poland-reports-first-bird-flu-outbreak-in-six-months",
+      "published_at": "2026-11-23T16:00:00.000Z",
+      "created_at": "2026-11-24 08:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "fdc78f5542fbc8fe59416b4f992a40fb31370e3e",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Farming News - Poultry producers urged to review outbreak plans as avian influenza cases increase",
+      "url": "https://farming.co.uk/news/poultry-producers-urged-to-review-outbreak-plans-as-avian-influenza-cases-increase-",
+      "published_at": "2026-11-23T16:00:00.000Z",
+      "created_at": "2026-11-24 08:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "9fab409f95c7e5174ca49a3239ae182f80d3f6cc",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Hong Kong Bans Poultry From Several Countries Over Bird Flu Outbreaks",
+      "url": "https://www.businesstoday.com.my/2026/11/24/hong-kong-bans-poultry-from-several-countries-over-bird-flu-outbreaks/",
+      "published_at": "2026-11-23T16:00:00.000Z",
+      "created_at": "2026-11-24 08:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "7036aac271d6232a1e1f97c3eaa68a56869821e1",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Patna On Alert As Bird Flu Outbreak In Nalanda Raises Concerns",
+      "url": "https://patnapress.com/patna-bird-flu-alert-h5n1-nalanda-surveillance-zoo/",
+      "published_at": "2026-11-23T16:00:00.000Z",
+      "created_at": "2026-11-24 08:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "24e77c5afa70779e200db13657b80da19568cc29",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "France Reports H5N1 Bird Flu Outbreak at Poultry Farm",
+      "url": "https://en.tempo.co/read/2124295/france-reports-h5n1-bird-flu-outbreak-at-poultry-farm",
+      "published_at": "2026-11-23T15:18:00.000Z",
+      "created_at": "2026-11-24 08:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
     {
       "fingerprint": "46d62edf66cf35644fc65420b1c084f4caafbae5",
       "disease": null,
@@ -32,8 +128,14 @@
       "published_at": "2026-11-23T09:08:00.000Z",
       "created_at": "2026-11-23 18:40:14",
       "ai_at": null,
-      "dup_count": 2,
+      "dup_count": 3,
       "dups": [
+        {
+          "title": "France reports bird flu outbreak on farm in north of country",
+          "url": "https://kelo.com/2026/11/23/france-reports-bird-flu-outbreak-on-farm-in-north-of-country/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-23T03:08:00.000Z"
+        },
         {
           "title": "France reports bird flu outbreak on farm in north of country",
           "url": "https://wsau.com/2026/11/23/france-reports-bird-flu-outbreak-on-farm-in-north-of-country/",
@@ -760,7 +862,7 @@
       "published_at": "2026-11-19T20:59:00.000Z",
       "created_at": "2026-11-23 04:40:14",
       "ai_at": null,
-      "dup_count": 9,
+      "dup_count": 8,
       "dups": [
         {
           "title": "OHA confirms state’s first human case of avian influenza of 2026",
@@ -803,12 +905,6 @@
           "url": "https://www.aljazeera.com/economy/2026/11/18/largest-us-egg-producer-to-cull-1-8-million-birds-after-bird-flu-outbreak",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-17T17:08:00.000Z"
-        },
-        {
-          "title": "Hong Kong Suspends Poultry Imports from Norway and US Due to Avian Influenza Outbreaks",
-          "url": "https://www.bastillepost.com/global/article/6368502-hong-kong-suspends-poultry-imports-from-norway-and-us-due-to-avian-influenza-outbreaks",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-16T21:26:00.000Z"
         }
       ]
     },
@@ -978,25 +1074,13 @@
       "published_at": "2026-11-19T08:45:50.000Z",
       "created_at": "2026-11-20 12:40:14",
       "ai_at": null,
-      "dup_count": 4,
+      "dup_count": 2,
       "dups": [
         {
           "title": "24,000 birds are culled in Co Tyrone after avian influenza was detected",
           "url": "https://www.msn.com/en-gb/news/other/24000-birds-are-culled-in-co-tyrone-after-avian-influenza-was-detected/vi-AA2hNyHC",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-19T08:45:50.000Z"
-        },
-        {
-          "title": "Cull of 24,000 birds 'devastating news' as Northern Ireland an Avian Influenza Prevention Zone",
-          "url": "https://www.newsletter.co.uk/country-and-farming/cull-of-24000-birds-devastating-news-as-northern-ireland-an-avian-influenza-prevention-zone-9357309",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-17T08:46:00.000Z"
-        },
-        {
-          "title": "Cull of 24,000 birds 'devastating news' as Northern Ireland an Avian Influenza Prevention Zone",
-          "url": "https://www.msn.com/en-gb/news/other/cull-of-24-000-birds-devastating-news-as-northern-ireland-an-avian-influenza-prevention-zone/ar-AA2hDkq8",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-17T08:44:59.000Z"
         }
       ]
     },
@@ -1282,70 +1366,6 @@
       "published_at": "2026-11-17T16:01:00.000Z",
       "created_at": "2026-11-18 10:40:14",
       "ai_at": "2026-11-18 10:40:30",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "2b8b415b57da2f749a85e136d2cf90d083c112d0",
-      "disease": "африканская чума свиней",
-      "country": "Южная Корея",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Остров Чеджудо усиливает меры по предотвращению распространения африканской чумы свиней.",
-      "source_id": "bing-world-asf",
-      "title": "Jeju steps up measures against African swine fever",
-      "url": "https://www.ajupress.com/view/20261118101618497",
-      "published_at": "2026-11-17T12:17:00.000Z",
-      "created_at": "2026-11-18 06:40:14",
-      "ai_at": "2026-11-18 06:40:23",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "e52bb3d4c0e4cadd6ff329e4f6f317463c44160e",
-      "disease": null,
-      "country": "Северная Ирландия",
-      "distance_km": 2500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "Повышенные меры по содержанию кур в отдельных помещениях вошли в действие после вспышки гриппа птиц на ферме в графстве Тирон в Северной Ирландии",
-      "source_id": "bing-world-ai",
-      "title": "NI poultry housing order follows bird flu outbreak",
-      "url": "https://www.farmersguide.co.uk/livestock/poultry/ni-poultry-housing-order-follows-bird-flu-outbreak/",
-      "published_at": "2026-11-17T04:48:00.000Z",
-      "created_at": "2026-11-17 18:40:14",
-      "ai_at": "2026-11-17 18:40:25",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "8278541774b63ea212de3a422f58a48cbd4b6fc3",
-      "disease": "африканская чума свиней",
-      "country": "Россия",
-      "distance_km": 0,
-      "level": "граница",
-      "verdict": "confirmed",
-      "ai_summary": "Город Ламут вводит полный запрет на ввоз живых свиней и свинного мяса",
-      "source_id": "bing-world-asf",
-      "title": "Lamut temporarily bans entry of live hogs, pork products amid ASF outbreak",
-      "url": "https://pia.gov.ph/news/lamut-temporarily-bans-entry-of-live-hogs-pork-products-amid-asf-outbreak/",
-      "published_at": "2026-11-17T00:30:00.000Z",
-      "created_at": "2026-11-17 18:40:14",
-      "ai_at": "2026-11-17 18:40:31",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "d57d680b8ef08c0bb296cc3ab45eeb502bea7f9f",
-      "disease": "грипп птиц",
-      "country": "Ирландия",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "В Ирландии введены меры био-безопасности для защиты от птичьего гриппа.",
-      "source_id": "bing-world-ai",
-      "title": "Alert for Kilkenny farms - biosecurity regulations introduced as a precaution against Avian Influenza",
-      "url": "https://www.ireland-live.ie/south-east/kilkenny-live/alert-for-kilkenny-farms-biosecurity-regulations-introduced-as-a-precaution-against-avian-influenza-9354277",
-      "published_at": "2026-11-16T22:18:00.000Z",
-      "created_at": "2026-11-17 08:40:14",
-      "ai_at": "2026-11-17 08:40:19",
       "dup_count": 1
     }
   ]
