@@ -1,7 +1,39 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-24T08:40:15.161Z",
+  "generated_at": "2026-11-24T10:40:15.285Z",
   "items": [
+    {
+      "fingerprint": "7d8e7096b3c96fce1aa3516bbf99dd48852afff0",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-lsd",
+      "title": "गोवंश में फिर फैला लंपी वायरस, मौत भी हो चुकी:6 दिन में 13 केस सामने आए ...",
+      "url": "https://www.bhaskar.com/g/local/rajasthan/kota/news/lumpy-virus-outbreak-kota-stray-cattle-cases-update-139783939.html",
+      "published_at": "2026-11-23T23:12:00.000Z",
+      "created_at": "2026-11-24 10:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "dc1a8e844e9758f80be2b6ed7a179ed451b0c14d",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-lsd",
+      "title": "Russia imposes quarantine after lumpy skin disease outbreak in cattle",
+      "url": "https://dairynews.today/news/v_rossii_vveli_karantin_iz_za_ochaga_zaraznogo_uzelkovogo_dermatita_u_skota_9762841.html",
+      "published_at": "2026-11-23T16:00:00.000Z",
+      "created_at": "2026-11-24 10:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
     {
       "fingerprint": "6b4ace198d77c6fc9e9f422ea6cbc4884af57d14",
       "disease": null,
@@ -673,7 +705,7 @@
       "dup_count": 1
     },
     {
-      "fingerprint": "82bcc671775e7ec243f8fec571c88c846d19810e",
+      "fingerprint": "72ce1da5c05779d1735a13ea1cd81336091f3467",
       "disease": null,
       "country": null,
       "distance_km": null,
@@ -682,12 +714,18 @@
       "ai_summary": null,
       "source_id": "bing-world-lsd",
       "title": "India unveils first indigenous H5N1 vaccine for chickens, priced at Rs 1-2 per dose",
-      "url": "https://www.msn.com/en-in/money/general/india-unveils-first-indigenous-h5n1-vaccine-for-chickens-priced-at-rs-1-2-per-dose/ar-AA2hRXR5",
+      "url": "https://www.msn.com/en-in/news/other/india-unveils-first-indigenous-h5n1-vaccine-for-chickens-priced-at-rs-1-2-per-dose/ar-AA2hRXR5",
       "published_at": "2026-11-20T08:24:29.000Z",
-      "created_at": "2026-11-22 04:40:14",
+      "created_at": "2026-11-24 10:40:14",
       "ai_at": null,
-      "dup_count": 2,
+      "dup_count": 3,
       "dups": [
+        {
+          "title": "India unveils first indigenous H5N1 vaccine for chickens, priced at Rs 1-2 per dose",
+          "url": "https://www.msn.com/en-in/money/general/india-unveils-first-indigenous-h5n1-vaccine-for-chickens-priced-at-rs-1-2-per-dose/ar-AA2hRXR5",
+          "source_id": "bing-world-lsd",
+          "published_at": "2026-11-20T08:24:29.000Z"
+        },
         {
           "title": "India unveils first indigenous H5N1 vaccine for chickens, priced at Rs 1-2 per dose",
           "url": "https://www.newindianexpress.com/states/madhya-pradesh/2026/Nov/20/india-unveils-first-indigenous-h5n1-vaccine-for-chickens-priced-at-rs-1-2-per-dose",
@@ -862,7 +900,7 @@
       "published_at": "2026-11-19T20:59:00.000Z",
       "created_at": "2026-11-23 04:40:14",
       "ai_at": null,
-      "dup_count": 8,
+      "dup_count": 7,
       "dups": [
         {
           "title": "OHA confirms state’s first human case of avian influenza of 2026",
@@ -899,12 +937,6 @@
           "url": "https://uk.finance.yahoo.com/news/cal-maine-foods-reports-positive-135500518.html",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-18T00:55:00.000Z"
-        },
-        {
-          "title": "Largest US egg producer to cull 1.8 million birds after bird flu outbreak",
-          "url": "https://www.aljazeera.com/economy/2026/11/18/largest-us-egg-producer-to-cull-1-8-million-birds-after-bird-flu-outbreak",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-17T17:08:00.000Z"
         }
       ]
     },
@@ -1334,38 +1366,6 @@
       "published_at": "2026-11-17T23:53:00.000Z",
       "created_at": "2026-11-18 10:40:14",
       "ai_at": "2026-11-18 10:40:21",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "0d1f90a18d0f9fea5ed6d1fc952f18b44bd91055",
-      "disease": "африканская чума свиней",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Проблема с африканской чумой свиней усиливается, Южная Корея принимает меры по ее предотвращению",
-      "source_id": "bing-world-asf",
-      "title": "African Swine Fever Spreads as Jeju Steps Up Efforts to Keep It Out",
-      "url": "https://www.kmib.co.kr/en/article/20261118501011",
-      "published_at": "2026-11-17T16:28:00.000Z",
-      "created_at": "2026-11-18 10:40:14",
-      "ai_at": "2026-11-18 10:40:25",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "a021a0bbef60b47abddf66e3614c66f4baf792a3",
-      "disease": "африканская чума свиней",
-      "country": "Вьетнам",
-      "distance_km": 1600,
-      "level": "наблюдение",
-      "verdict": "confirmed",
-      "ai_summary": "В провинции Лайчуа обнаружено 37 мест с африканской свиной чумой.",
-      "source_id": "bing-world-asf",
-      "title": "37/38 communes and wards in Lai Chau have recorded African swine fever",
-      "url": "https://news.laodong.vn/xa-hoi/3738-xa-phuong-o-lai-chau-da-ghi-nhan-dich-ta-lon-chau-phi-1802346.ldo",
-      "published_at": "2026-11-17T16:01:00.000Z",
-      "created_at": "2026-11-18 10:40:14",
-      "ai_at": "2026-11-18 10:40:30",
       "dup_count": 1
     }
   ]
