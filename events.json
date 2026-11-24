@@ -1,7 +1,55 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-24T10:40:15.285Z",
+  "generated_at": "2026-11-24T14:40:15.639Z",
   "items": [
+    {
+      "fingerprint": "c2de0d5f6c97cbd93ceca19e2ea924e119164455",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Avian influenza remains a threat to South Africa’s poultry industry",
+      "url": "https://www.foodagribusiness.world/poultry/avian-influenza-remains-a-threat-to-south-africa-s-poultry-industry",
+      "published_at": "2026-11-24T05:43:00.000Z",
+      "created_at": "2026-11-24 14:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "3bcdfb5ad41ce452c27f7494c336d2473b61c6fd",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Keep poultry indoors order follows bird flu outbreak near Driffield",
+      "url": "https://www.msn.com/en-gb/news/other/keep-poultry-indoors-order-follows-bird-flu-outbreak-near-driffield/ar-AA2i6TlJ",
+      "published_at": "2026-11-24T00:45:20.000Z",
+      "created_at": "2026-11-24 14:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "cce734e539e719e315c9fc7ecd1db1ec476144b1",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "H5N1 avian influenza is hitting Europe’s poultry flocks hard",
+      "url": "https://www.bolnews.com/world/h5n1-avian-influenza-is-hitting-europes-poultry-flocks-hard",
+      "published_at": "2026-11-24T00:02:00.000Z",
+      "created_at": "2026-11-24 14:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
     {
       "fingerprint": "7d8e7096b3c96fce1aa3516bbf99dd48852afff0",
       "disease": null,
@@ -15,6 +63,54 @@
       "url": "https://www.bhaskar.com/g/local/rajasthan/kota/news/lumpy-virus-outbreak-kota-stray-cattle-cases-update-139783939.html",
       "published_at": "2026-11-23T23:12:00.000Z",
       "created_at": "2026-11-24 10:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "6739d31df63b48053f7b1104ada93c3f58c8c0f1",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Hong Kong Suspends Poultry Imports Due to H5N1 Avian Influenza Outbreaks in Europe",
+      "url": "https://www.bastillepost.com/global/article/6393186-hong-kong-suspends-poultry-imports-due-to-h5n1-avian-influenza-outbreaks-in-europe",
+      "published_at": "2026-11-23T20:15:00.000Z",
+      "created_at": "2026-11-24 14:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "3a0fe56ab274158978a48c5c9b9a1c4be2838458",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-asf",
+      "title": "Focus on preventing the complicated developments of African swine fever in Ha Tinh",
+      "url": "https://news.laodong.vn/xa-hoi/tap-trung-ngan-chan-dich-ta-lon-chau-phi-dien-bien-phuc-tap-o-ha-tinh-1805890.ldo",
+      "published_at": "2026-11-23T18:58:00.000Z",
+      "created_at": "2026-11-24 14:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "df40a13d4ac05a10e159ff9e197af340209ed172",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-fmd",
+      "title": "Southern border fence planned to contain FMD outbreak",
+      "url": "https://economist.com.na/southern-border-fence-planned-to-contain-fmd-outbreak/",
+      "published_at": "2026-11-23T16:00:00.000Z",
+      "created_at": "2026-11-24 14:40:14",
       "ai_at": null,
       "dup_count": 1
     },
@@ -175,6 +271,22 @@
           "published_at": "2026-11-23T03:08:00.000Z"
         }
       ]
+    },
+    {
+      "fingerprint": "f4f8a867486935a91b5df48109aeed861e11832c",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Avian Influenza: Prevention and Verification Methods at Home | Safety of Chicken and Eggs and What to Do If You Find a Dead Wild Bird",
+      "url": "https://note.com/serene_swan2233/n/n4ebd9a7f3603?hl=en",
+      "published_at": "2026-11-23T08:36:00.000Z",
+      "created_at": "2026-11-24 14:40:14",
+      "ai_at": null,
+      "dup_count": 1
     },
     {
       "fingerprint": "0c2088099aceae3cabd69498a508cd4f6c8ed081",
@@ -900,7 +1012,7 @@
       "published_at": "2026-11-19T20:59:00.000Z",
       "created_at": "2026-11-23 04:40:14",
       "ai_at": null,
-      "dup_count": 7,
+      "dup_count": 6,
       "dups": [
         {
           "title": "OHA confirms state’s first human case of avian influenza of 2026",
@@ -931,12 +1043,6 @@
           "url": "https://dairybusiness.com/highly-pathogenic-avian-influenza-confirmed-in-rusk-county-wisconsin/",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-18T03:30:00.000Z"
-        },
-        {
-          "title": "Cal-Maine Foods Reports Positive Test Result for Avian Influenza at Florida Facility",
-          "url": "https://uk.finance.yahoo.com/news/cal-maine-foods-reports-positive-135500518.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-18T00:55:00.000Z"
         }
       ]
     },
@@ -1130,19 +1236,13 @@
       "published_at": "2026-11-19T04:00:00.000Z",
       "created_at": "2026-11-19 14:40:15",
       "ai_at": "2026-11-19 14:40:20",
-      "dup_count": 3,
+      "dup_count": 2,
       "dups": [
         {
           "title": "Bird keepers urged to follow new housing measures as avian influenza controls continue",
           "url": "https://www.northumberlandgazette.co.uk/news/people/bird-keepers-urged-to-follow-new-housing-measures-as-avian-influenza-controls-continue-9359099",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-18T05:47:00.000Z"
-        },
-        {
-          "title": "Hong Kong Suspends Poultry Imports from UK Due to Avian Influenza Outbreak",
-          "url": "https://www.bastillepost.com/global/article/6373327-hong-kong-suspends-poultry-imports-from-uk-due-to-avian-influenza-outbreak",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-17T20:45:00.000Z"
         }
       ]
     },
@@ -1324,48 +1424,6 @@
       "published_at": "2026-11-18T01:59:00.000Z",
       "created_at": "2026-11-18 10:40:14",
       "ai_at": "2026-11-18 10:40:17",
-      "dup_count": 5,
-      "dups": [
-        {
-          "title": "Authorities order culling of 26,000 domestic birds in India's Kerala amid bird flu outbreak",
-          "url": "https://english.news.cn/20261118/6335123e6ba24e06acf69b63b4a2d207/c.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-17T21:37:00.000Z"
-        },
-        {
-          "title": "India develops first homegrown H5N1 vaccine as bird flu outbreaks return, to be launched on November 20",
-          "url": "https://www.msn.com/en-in/news/other/india-develops-first-homegrown-h5n1-vaccine-as-bird-flu-outbreaks-return-to-be-launched-on-november-20/ar-AA2hFHIz",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-17T20:48:44.000Z"
-        },
-        {
-          "title": "India develops first homegrown H5N1 vaccine as bird flu outbreaks return, to be launched on November 20",
-          "url": "https://www.msn.com/en-in/money/general/india-develops-first-homegrown-h5n1-vaccine-as-bird-flu-outbreaks-return-to-be-launched-on-november-20/ar-AA2hFHIz",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-17T20:48:44.000Z"
-        },
-        {
-          "title": "India Develops First Homegrown H5N1 Vaccine As Bird Flu Outbreaks Return, To Be Launched On November 20",
-          "url": "https://www.ndtv.com/health/india-develops-first-homegrown-h5n1-vaccine-as-bird-flu-outbreaks-return-to-be-launched-on-november-20-12342221",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-17T20:48:00.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "35c6202a0530d0a18eee2ff0762de5bfa5661c7b",
-      "disease": "грипп птиц",
-      "country": null,
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "probable",
-      "ai_summary": "Индия разрабатывает свою вакцину от птичьего гриппа",
-      "source_id": "bing-world-ai",
-      "title": "India develops its own H5N1 vaccine amid fresh bird flu outbreaks",
-      "url": "https://thefederal.com/category/news/india-develops-indigenous-h5n1-vaccine-fresh-bird-flu-outbreak-263286",
-      "published_at": "2026-11-17T23:53:00.000Z",
-      "created_at": "2026-11-18 10:40:14",
-      "ai_at": "2026-11-18 10:40:21",
       "dup_count": 1
     }
   ]
