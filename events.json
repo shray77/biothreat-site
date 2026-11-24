@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-24T14:40:15.639Z",
+  "generated_at": "2026-11-24T22:40:15.539Z",
   "items": [
+    {
+      "fingerprint": "f6e4757a80fe6796df53b85f700cb8b499594d46",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Highly pathogenic avian influenza confirmed in Polk County",
+      "url": "https://www.wkow.com/news/state/highly-pathogenic-avian-influenza-confirmed-in-polk-county/article_1e0f215c-81b0-462f-aa4d-5c2f9bdb7795.html",
+      "published_at": "2026-11-24T07:37:00.000Z",
+      "created_at": "2026-11-24 22:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
     {
       "fingerprint": "c2de0d5f6c97cbd93ceca19e2ea924e119164455",
       "disease": null,
@@ -1408,22 +1424,6 @@
       "published_at": "2026-11-18T06:04:00.000Z",
       "created_at": "2026-11-18 18:40:41",
       "ai_at": "2026-11-18 18:41:03",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "2382aad4d7736281a207222adffa25406557e161",
-      "disease": "грипп птиц",
-      "country": "Индия",
-      "distance_km": 3000,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В Керале уничтожают 26 000 домашних птиц из-за вспышки гриппа птиц",
-      "source_id": "bing-world-ai",
-      "title": "Around 26,000 Domestic Birds To Be Culled In Keralam’s Alappuzha District Following Avian Influenza Outbreak",
-      "url": "https://www.therightnews.in/2026/11/18/around-26000-domestic-birds-to-be-culled-in-keralams-alappuzha-district-following-avian-influenza-outbreak/",
-      "published_at": "2026-11-18T01:59:00.000Z",
-      "created_at": "2026-11-18 10:40:14",
-      "ai_at": "2026-11-18 10:40:17",
       "dup_count": 1
     }
   ]
