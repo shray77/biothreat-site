@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-24T22:40:15.539Z",
+  "generated_at": "2026-11-25T02:40:16.144Z",
   "items": [
+    {
+      "fingerprint": "338c765aab5dd38f99fd024d496285dea214b703",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-fmd",
+      "title": "Crunch time as Meatco offers staff voluntary exits",
+      "url": "https://www.namibiansun.com/local-news/crunch-time-as-meatco-offers-staff-voluntary-exits-nmh022470-1-27647",
+      "published_at": "2026-11-24T16:06:00.000Z",
+      "created_at": "2026-11-25 02:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
     {
       "fingerprint": "f6e4757a80fe6796df53b85f700cb8b499594d46",
       "disease": null,
@@ -350,7 +366,15 @@
       "published_at": "2026-11-23T04:06:00.000Z",
       "created_at": "2026-11-23 18:40:14",
       "ai_at": null,
-      "dup_count": 1
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Poland reports bird flu outbreak on turkey farm",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/poland-reports-bird-flu-outbreak-turkey-farm-2026-11-23/",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-23T03:27:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "4529d3c4d087ed79c9c72d84177402b80486fc29",
@@ -429,6 +453,22 @@
       "url": "https://www.bastillepost.com/global/article/6389345-hong-kong-suspends-poultry-imports-from-regions-affected-by-h5n1-avian-influenza-outbreaks",
       "published_at": "2026-11-22T20:41:00.000Z",
       "created_at": "2026-11-23 18:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "c71be482f40cd31075739cba0915163e5b434155",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-asf",
+      "title": "95% efficacy: African swine fever vax available soon in PHL",
+      "url": "https://businessmirror.com.ph/2023/02/17/95-efficacy-asf-vax-available-soon-in-phl/",
+      "published_at": "2026-11-22T16:00:00.000Z",
+      "created_at": "2026-11-25 02:40:14",
       "ai_at": null,
       "dup_count": 1
     },
@@ -1028,7 +1068,7 @@
       "published_at": "2026-11-19T20:59:00.000Z",
       "created_at": "2026-11-23 04:40:14",
       "ai_at": null,
-      "dup_count": 6,
+      "dup_count": 5,
       "dups": [
         {
           "title": "OHA confirms state’s first human case of avian influenza of 2026",
@@ -1053,12 +1093,6 @@
           "url": "https://www.msn.com/en-us/money/economy/largest-us-egg-producer-to-cull-1-8-million-birds-after-bird-flu-outbreak/ar-AA2hI8JK",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-18T07:57:35.000Z"
-        },
-        {
-          "title": "Highly Pathogenic Avian Influenza Confirmed in Rusk County, Wisconsin",
-          "url": "https://dairybusiness.com/highly-pathogenic-avian-influenza-confirmed-in-rusk-county-wisconsin/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-18T03:30:00.000Z"
         }
       ]
     },
@@ -1252,15 +1286,7 @@
       "published_at": "2026-11-19T04:00:00.000Z",
       "created_at": "2026-11-19 14:40:15",
       "ai_at": "2026-11-19 14:40:20",
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Bird keepers urged to follow new housing measures as avian influenza controls continue",
-          "url": "https://www.northumberlandgazette.co.uk/news/people/bird-keepers-urged-to-follow-new-housing-measures-as-avian-influenza-controls-continue-9359099",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-18T05:47:00.000Z"
-        }
-      ]
+      "dup_count": 1
     },
     {
       "fingerprint": "00bf799bae93977e8dfd6973d2137f7465cb57fc",
@@ -1372,7 +1398,7 @@
       "published_at": "2026-11-18T08:11:00.000Z",
       "created_at": "2026-11-18 18:40:41",
       "ai_at": "2026-11-18 18:40:49",
-      "dup_count": 4,
+      "dup_count": 3,
       "dups": [
         {
           "title": "Cal-Maine Foods, Inc. Reports Positive Test Result for Avian Influenza At Florida Facility",
@@ -1385,12 +1411,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/cal-maine-foods-reports-avian-143908284.html",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-18T06:39:00.000Z"
-        },
-        {
-          "title": "Cal-Maine Foods Reports Positive Test Result for Avian Influenza at Florida Facility",
-          "url": "https://finance.yahoo.com/healthcare/articles/cal-maine-foods-reports-positive-135500518.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-18T05:55:00.000Z"
         }
       ]
     },
