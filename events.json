@@ -1,7 +1,55 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-26T02:40:15.129Z",
+  "generated_at": "2026-11-26T08:40:13.974Z",
   "items": [
+    {
+      "fingerprint": "f7235dd2c8bc0532e1ad142eb4e9ec9924c28679",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-fmd",
+      "title": "Sapa warns bird flu vaccination delays leave poultry sector exposed",
+      "url": "https://www.bizcommunity.com/article/sapa-warns-bird-flu-vaccination-delays-leave-poultry-sector-exposed-417899a",
+      "published_at": "2026-11-25T16:00:00.000Z",
+      "created_at": "2026-11-26 08:40:13",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "eca58c4fb48c0279631c60657476d9b268e10ae8",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-asf",
+      "title": "Romanian farmers lose €30 per pig as ASF continues to hit production",
+      "url": "https://www.foodagribusiness.world/pigs/romanian-farmers-lose-30-per-pig-as-asf-continues-to-hit-production",
+      "published_at": "2026-11-25T16:00:00.000Z",
+      "created_at": "2026-11-26 08:40:13",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "d367b1b59878fac7e3cfb654774dab2dc3504887",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-asf",
+      "title": "African swine fever forces cull of 11,357 pigs in 41 outbreaks in Vietnam's Nghe An this year",
+      "url": "https://www.efeedlink.com/articles/african-swine-fever-forces-cull-of-11-357-pigs-in-41-outbreaks-in-vietnams-nghe-an-this-year",
+      "published_at": "2026-11-25T16:00:00.000Z",
+      "created_at": "2026-11-26 08:40:13",
+      "ai_at": null,
+      "dup_count": 1
+    },
     {
       "fingerprint": "d308db50d0b75f0a5d04291fc79030aefc4a8952",
       "disease": null,
@@ -47,6 +95,22 @@
       "url": "https://www.ecofinagency.com/news-agriculture/2511-61177-botswana-namibia-agree-on-joint-veterinary-committee-to-ease-livestock-trade",
       "published_at": "2026-11-25T10:47:00.000Z",
       "created_at": "2026-11-26 02:40:13",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "40564bad8ade16a4b9fc13862b7b387271862b5a",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-asf",
+      "title": "African swine fever detected 45 km from the French-Italian border as Alpes-Maritimes authorities urge vigilance",
+      "url": "https://www.rivieraradio.mc/article/african-swine-fever-detected-45-km-from-the-french-italian-border-as-alpes-marit-5HjdnZY_2/",
+      "published_at": "2026-11-25T10:16:00.000Z",
+      "created_at": "2026-11-26 08:40:13",
       "ai_at": null,
       "dup_count": 1
     },
@@ -1268,7 +1332,7 @@
       "published_at": "2026-11-19T20:59:00.000Z",
       "created_at": "2026-11-23 04:40:14",
       "ai_at": null,
-      "dup_count": 4,
+      "dup_count": 3,
       "dups": [
         {
           "title": "OHA confirms state’s first human case of avian influenza of 2026",
@@ -1281,12 +1345,6 @@
           "url": "https://www.thenewsguard.com/news/oha-confirms-state-s-first-human-case-of-avian-influenza-of-2026/article_a7a931c0-3c28-4a46-9745-fcba09c40b5f.html",
           "source_id": "bing-world-ai",
           "published_at": "2026-11-19T11:19:00.000Z"
-        },
-        {
-          "title": "Cal-Maine halts egg production at Florida plant after bird flu outbreak",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/cal-maine-halts-egg-production-145800710.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-19T06:58:00.000Z"
         }
       ]
     },
@@ -1384,15 +1442,7 @@
       "published_at": "2026-11-19T10:25:00.000Z",
       "created_at": "2026-11-20 02:40:14",
       "ai_at": null,
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Bird flu outbreak in Washington state dairies is linked to virus transmitted from Idaho",
-          "url": "https://idahocapitalsun.com/2026/11/19/bird-flu-outbreak-in-washington-state-dairies-is-linked-to-virus-transmitted-from-idaho/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-19T03:25:00.000Z"
-        }
-      ]
+      "dup_count": 1
     },
     {
       "fingerprint": "3a765a38473ab0327cefc0aa662a0c81f0ce45fb",
@@ -1456,30 +1506,6 @@
       "published_at": "2026-11-19T08:45:50.000Z",
       "created_at": "2026-11-20 12:40:14",
       "ai_at": null,
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "24,000 birds are culled in Co Tyrone after avian influenza was detected",
-          "url": "https://www.msn.com/en-gb/news/other/24000-birds-are-culled-in-co-tyrone-after-avian-influenza-was-detected/vi-AA2hNyHC",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-19T08:45:50.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "ca7aee1ceea704455772086b91afb2f8f9897e77",
-      "disease": "грипп птиц",
-      "country": "Великобритания",
-      "distance_km": 2500,
-      "level": "фон",
-      "verdict": "confirmed",
-      "ai_summary": "В Норфолке снова подтверждены случаи птичьего гриппа, птицеводам предстоит пережить ещё один тревожный зимний сезон",
-      "source_id": "bing-world-ai",
-      "title": "Norfolk poultry farms face up to 'dread' of bird flu outbreaks",
-      "url": "https://www.edp24.co.uk/news/26742986.norfolk-poultry-farms-face-dread-bird-flu-outbreaks/",
-      "published_at": "2026-11-19T04:00:00.000Z",
-      "created_at": "2026-11-19 14:40:15",
-      "ai_at": "2026-11-19 14:40:20",
       "dup_count": 1
     }
   ]
