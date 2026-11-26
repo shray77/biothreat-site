@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-26T08:40:13.974Z",
+  "generated_at": "2026-11-26T16:40:15.251Z",
   "items": [
+    {
+      "fingerprint": "137db151e87b341c26528c407d9824f7b16bf925",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Hong Kong Suspends Poultry Imports from Korea Due to H5N1 and H5N9 Avian Influenza Outbreaks",
+      "url": "https://www.bastillepost.com/global/article/6399964-hong-kong-suspends-poultry-imports-from-korea-due-to-h5n1-and-h5n9-avian-influenza-outbreaks",
+      "published_at": "2026-11-25T20:25:00.000Z",
+      "created_at": "2026-11-26 16:40:13",
+      "ai_at": null,
+      "dup_count": 1
+    },
     {
       "fingerprint": "f7235dd2c8bc0532e1ad142eb4e9ec9924c28679",
       "disease": null,
@@ -1489,22 +1505,6 @@
       "url": "https://www.townandcountrytoday.com/agriupdate/bird-movement-restricted-after-avian-influenza-detected-in-red-deer-county-13039331",
       "published_at": "2026-11-19T09:00:00.000Z",
       "created_at": "2026-11-20 02:40:14",
-      "ai_at": null,
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "9b6f6a61683b45c54b42a601abc514480541ffe8",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "24,000 birds are culled in Co Tyrone after avian influenza was detected",
-      "url": "https://www.msn.com/en-gb/news/other/24-000-birds-are-culled-in-co-tyrone-after-avian-influenza-was-detected/vi-AA2hNyHC",
-      "published_at": "2026-11-19T08:45:50.000Z",
-      "created_at": "2026-11-20 12:40:14",
       "ai_at": null,
       "dup_count": 1
     }
