@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-25T20:40:14.480Z",
+  "generated_at": "2026-11-26T02:40:15.129Z",
   "items": [
+    {
+      "fingerprint": "d308db50d0b75f0a5d04291fc79030aefc4a8952",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Antarctic Seabirds Harbor Avian Flu Lineages Linked to South American Outbreaks",
+      "url": "https://bioengineer.org/antarctic-seabirds-harbor-avian-flu-lineages-linked-to-south-american-outbreaks/",
+      "published_at": "2026-11-25T13:51:00.000Z",
+      "created_at": "2026-11-26 02:40:13",
+      "ai_at": null,
+      "dup_count": 1
+    },
     {
       "fingerprint": "439fa220bf84e5012ee5f689bb564802b9cca58f",
       "disease": null,
@@ -15,6 +31,22 @@
       "url": "https://bioengineer.org/african-swine-fever-detected-in-bhutan-wild-pigs-near-human-settlements/",
       "published_at": "2026-11-25T11:29:00.000Z",
       "created_at": "2026-11-25 20:40:13",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "4cc1736c15548ef73f821974f2fa700e82c9eb0f",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-fmd",
+      "title": "Botswana, Namibia Agree on Joint Veterinary Committee to Ease Livestock Trade",
+      "url": "https://www.ecofinagency.com/news-agriculture/2511-61177-botswana-namibia-agree-on-joint-veterinary-committee-to-ease-livestock-trade",
+      "published_at": "2026-11-25T10:47:00.000Z",
+      "created_at": "2026-11-26 02:40:13",
       "ai_at": null,
       "dup_count": 1
     },
@@ -1188,15 +1220,7 @@
       "published_at": "2026-11-20T02:09:00.000Z",
       "created_at": "2026-11-20 18:40:14",
       "ai_at": null,
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Cal-Maine halts egg production at Florida plant after bird flu outbreak",
-          "url": "https://www.fooddive.com/news/cal-maine-eggs-bird-flu-florida-production-pause/875172/",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-19T01:57:00.000Z"
-        }
-      ]
+      "dup_count": 1
     },
     {
       "fingerprint": "0ac5e87a8ec442be4ba68d3387192d34e29584e9",
@@ -1456,22 +1480,6 @@
       "published_at": "2026-11-19T04:00:00.000Z",
       "created_at": "2026-11-19 14:40:15",
       "ai_at": "2026-11-19 14:40:20",
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "00bf799bae93977e8dfd6973d2137f7465cb57fc",
-      "disease": "грипп птиц",
-      "country": "Остров Мэн",
-      "distance_km": null,
-      "level": "не определено",
-      "verdict": "confirmed",
-      "ai_summary": "На острове Мэн выявлен птичий грипп H5N1, уничтожены все оставшиеся птицы.",
-      "source_id": "bing-world-ai",
-      "title": "What avian flu outbreak in Isle of Man means for rest of us",
-      "url": "https://www.iomtoday.co.im/opinion/what-avian-flu-outbreak-in-isle-of-man-means-for-rest-of-us-973869",
-      "published_at": "2026-11-19T02:00:00.000Z",
-      "created_at": "2026-11-19 14:40:15",
-      "ai_at": "2026-11-19 14:40:24",
       "dup_count": 1
     }
   ]
