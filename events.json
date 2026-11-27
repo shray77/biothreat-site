@@ -1,9 +1,73 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-27T02:40:14.036Z",
+  "generated_at": "2026-11-27T08:40:14.502Z",
   "items": [
     {
-      "fingerprint": "b0d8912decefde2c7b57e28fd065fa0196a4cc4b",
+      "fingerprint": "ae0ff9957bdd119e0e515e4f38d5da3dd6384174",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-asf",
+      "title": "Progress made on FMD as Gauteng outbreaks fall by 92%",
+      "url": "https://www.citizen.co.za/news/progress-made-on-fmd-as-gauteng-outbreaks-fall-by-92/",
+      "published_at": "2026-11-26T21:20:00.000Z",
+      "created_at": "2026-11-27 08:40:13",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "5a6e6e7d25b588b039a355830d4dc0d701f20e7d",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-fmd",
+      "title": "Progress made on FMD as Gauteng outbreaks fall by 92%",
+      "url": "https://www.citizen.co.za/news/progress-made-on-fmd-as-gauteng-outbreaks-fall-by-92/",
+      "published_at": "2026-11-26T21:20:00.000Z",
+      "created_at": "2026-11-27 08:40:13",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "28e6ab9118c866b76b1e567380db57c522485677",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-asf",
+      "title": "Caribbean Survey Uncovers Regional Disparities In African Swine Fever Preparedness",
+      "url": "https://bioengineer.org/caribbean-survey-uncovers-regional-disparities-in-african-swine-fever-preparedness/",
+      "published_at": "2026-11-26T16:00:00.000Z",
+      "created_at": "2026-11-27 08:40:13",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "fce140ab3e8a3a21538980ab39559b573e033337",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-ai",
+      "title": "Two new bird flu outbreaks confirmed in commercial flocks",
+      "url": "https://www.poultrynews.co.uk/health-welfare/two-new-bird-flu-outbreaks-confirmed-in-commercial-flocks.html",
+      "published_at": "2026-11-26T16:00:00.000Z",
+      "created_at": "2026-11-27 08:40:13",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "4ab64c62d5a069afcde112c7bfc627cdd0e8a6bc",
       "disease": null,
       "country": null,
       "distance_km": null,
@@ -12,11 +76,19 @@
       "ai_summary": null,
       "source_id": "bing-world-ai",
       "title": "Fresh bird flu outbreak in Cuddalore; culling of 25,000 chickens begins",
-      "url": "https://www.msn.com/en-in/news/other/fresh-bird-flu-outbreak-in-cuddalore-culling-of-25000-chickens-begins/ar-AA2ijGFr",
+      "url": "https://www.msn.com/en-in/news/other/fresh-bird-flu-outbreak-in-cuddalore-culling-of-25-000-chickens-begins/ar-AA2ijGFr",
       "published_at": "2026-11-26T13:59:00.000Z",
-      "created_at": "2026-11-27 02:40:13",
+      "created_at": "2026-11-27 08:40:13",
       "ai_at": null,
-      "dup_count": 1
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Fresh bird flu outbreak in Cuddalore; culling of 25,000 chickens begins",
+          "url": "https://www.msn.com/en-in/news/other/fresh-bird-flu-outbreak-in-cuddalore-culling-of-25000-chickens-begins/ar-AA2ijGFr",
+          "source_id": "bing-world-ai",
+          "published_at": "2026-11-26T13:59:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "8ff8c5037662f1c624d74bef60fc76425e4fd2f8",
@@ -31,6 +103,22 @@
       "url": "https://mexiconewsdaily.com/news/leon-zoo-closes-bird-flu-outbreak-mammals/",
       "published_at": "2026-11-26T12:22:00.000Z",
       "created_at": "2026-11-27 02:40:13",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "d61db6c027e1de2bdb49a5f3871ef5c9c7b876c0",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-asf",
+      "title": "African Swine Fever: French Riviera on Alert After Outbreak in Neighboring Italy",
+      "url": "https://www.nicematin.com/en/community/african-swine-fever-french-riviera-on-alert-after-outbreak-in-neighboring-italy-10768898",
+      "published_at": "2026-11-26T10:08:00.000Z",
+      "created_at": "2026-11-27 08:40:13",
       "ai_at": null,
       "dup_count": 1
     },
@@ -1134,15 +1222,7 @@
       "published_at": "2026-11-20T20:59:00.000Z",
       "created_at": "2026-11-22 16:40:14",
       "ai_at": null,
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "Bird flu outbreak in WA linked to Idaho virus",
-          "url": "https://www.dnews.com/northwest/bird-flu-outbreak-in-wa-linked-to-idaho-virus-1ddc0baf",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-20T00:00:00.000Z"
-        }
-      ]
+      "dup_count": 1
     },
     {
       "fingerprint": "da44461c0f639e8a039a5ad96e03bdb18ac5ae92",
@@ -1443,78 +1523,6 @@
       "url": "https://note.com/nagayaaan/n/n940ce54058c3?hl=en",
       "published_at": "2026-11-20T00:31:00.000Z",
       "created_at": "2026-11-21 14:40:14",
-      "ai_at": null,
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "642415508e5873c2ee72ed50aba5ddc4202451e8",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "New Vaccine Launch Marks Major Step In Controlling Bird Flu Outbreaks In Indian Poultry Sector",
-      "url": "https://www.ndtv.com/health/new-vaccine-launch-marks-major-step-in-controlling-bird-flu-outbreaks-in-indian-poultry-sector-12352043",
-      "published_at": "2026-11-19T21:11:00.000Z",
-      "created_at": "2026-11-20 06:40:14",
-      "ai_at": null,
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "36ea6a07f8ec69d15743deda577f74622570a2be",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "OHA confirms state’s first human case of avian influenza of 2026",
-      "url": "https://www.yahoo.com/news/science/articles/oha-confirms-state-first-human-045900660.html",
-      "published_at": "2026-11-19T20:59:00.000Z",
-      "created_at": "2026-11-23 04:40:14",
-      "ai_at": null,
-      "dup_count": 2,
-      "dups": [
-        {
-          "title": "OHA confirms state’s first human case of avian influenza of 2026",
-          "url": "https://www.columbiagorgenews.com/free_news/oha-confirms-state-s-first-human-case-of-avian-influenza-of-2026/article_0984577c-4374-4597-ae11-c403dcca89ea.html",
-          "source_id": "bing-world-ai",
-          "published_at": "2026-11-19T15:30:00.000Z"
-        }
-      ]
-    },
-    {
-      "fingerprint": "c47ee7f662a35ee9a52e486cade142d6599b2000",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "Washington bird flu outbreak linked to Idaho",
-      "url": "https://bonnercountydailybee.com/news/2026/nov/20/washington-bird-flu-outbreak-linked-to-idaho/",
-      "published_at": "2026-11-19T17:00:00.000Z",
-      "created_at": "2026-11-20 12:40:14",
-      "ai_at": null,
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "9460a12f0843988a895a2e4eee14596312a3ae2f",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
-      "source_id": "bing-world-ai",
-      "title": "OREGON HEALTH AUTHORITY: OHA confirms state’s first human case of avian influenza of 2026",
-      "url": "https://www.tillamookcountypioneer.net/oregon-health-authority-oha-confirms-states-first-human-case-of-avian-influenza-of-2026/",
-      "published_at": "2026-11-19T16:00:00.000Z",
-      "created_at": "2026-11-21 00:40:14",
       "ai_at": null,
       "dup_count": 1
     }
