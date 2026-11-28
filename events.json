@@ -1,7 +1,23 @@
 {
   "service": "biothreat",
-  "generated_at": "2026-11-27T22:40:15.158Z",
+  "generated_at": "2026-11-28T16:40:14.627Z",
   "items": [
+    {
+      "fingerprint": "bc315d781aa10a23ecb842d26a089f860dd48e26",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-fmd",
+      "title": "€3.5m scheme to protect jobs at Cyprus farms hit by foot-and-mouth disease",
+      "url": "https://knews.kathimerini.com.cy/en/news/€3-5m-scheme-to-protect-jobs-at-cyprus-farms-hit-by-foot-and-mouth-disease",
+      "published_at": "2026-11-28T01:33:00.000Z",
+      "created_at": "2026-11-28 16:40:13",
+      "ai_at": null,
+      "dup_count": 1
+    },
     {
       "fingerprint": "3b5ae6adcdc4e128a6e8314d197cfb487e769f84",
       "disease": null,
@@ -33,6 +49,30 @@
       "created_at": "2026-11-27 22:40:13",
       "ai_at": null,
       "dup_count": 1
+    },
+    {
+      "fingerprint": "c0cbbbb5efa599fc2a2df0c635ba4f1b46d334d4",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-asf",
+      "title": "Philippines approves pork import regionalization with United Kingdom",
+      "url": "https://www.msn.com/en-ph/news/other/philippines-approves-pork-import-regionalization-with-united-kingdom/ar-AA2imEM4",
+      "published_at": "2026-11-27T08:00:00.000Z",
+      "created_at": "2026-11-28 16:40:13",
+      "ai_at": null,
+      "dup_count": 2,
+      "dups": [
+        {
+          "title": "Philippines approves pork import regionalization with United Kingdom",
+          "url": "https://www.philstar.com/business/2026/11/28/2573076/philippines-approves-pork-import-regionalization-united-kingdom",
+          "source_id": "bing-world-asf",
+          "published_at": "2026-11-27T02:00:00.000Z"
+        }
+      ]
     },
     {
       "fingerprint": "5630a5d9fdf676d3688baffb4e2b5755b1295cc4",
@@ -95,22 +135,6 @@
       "url": "https://www.lancashiretelegraph.co.uk/news/26768592.poultry-culled-bird-flu-outbreak-confirmed-farm/",
       "published_at": "2026-11-27T03:17:00.000Z",
       "created_at": "2026-11-27 16:40:14",
-      "ai_at": null,
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "730da65100c1e712f2deee3c9a4cb54c1645c00b",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
-      "source_id": "bing-world-asf",
-      "title": "Philippines approves pork import regionalization with United Kingdom",
-      "url": "https://www.philstar.com/business/2026/11/28/2573076/philippines-approves-pork-import-regionalization-united-kingdom",
-      "published_at": "2026-11-27T02:00:00.000Z",
-      "created_at": "2026-11-27 22:40:13",
       "ai_at": null,
       "dup_count": 1
     },
@@ -191,6 +215,22 @@
       "url": "https://www.europesays.com/3404532/",
       "published_at": "2026-11-26T19:07:00.000Z",
       "created_at": "2026-11-27 16:40:14",
+      "ai_at": null,
+      "dup_count": 1
+    },
+    {
+      "fingerprint": "2c5e54feebdf46e75b27a1e261e97a2089d22f9e",
+      "disease": null,
+      "country": null,
+      "distance_km": null,
+      "level": null,
+      "verdict": null,
+      "ai_summary": null,
+      "source_id": "bing-world-fmd",
+      "title": "Namibia aims to regain FMD-free status within 6 months",
+      "url": "https://namibiadailynews.info/namibia-aims-to-regain-fmd-free-status-within-6-months/",
+      "published_at": "2026-11-26T16:00:00.000Z",
+      "created_at": "2026-11-28 16:40:13",
       "ai_at": null,
       "dup_count": 1
     },
@@ -1492,54 +1532,6 @@
       "title": "Japan: First Avian Influenza Outbreaks of the 2026–2027 Winter Season",
       "url": "https://www.poultrymed.com/ID-Eng-Japan211126",
       "published_at": "2026-11-20T16:00:00.000Z",
-      "created_at": "2026-11-22 08:40:14",
-      "ai_at": null,
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "31e7d2afcbf54563000df5388d45bbcc50be9e59",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
-      "source_id": "bing-world-asf",
-      "title": "African swine fever in Vietnam's Dak Lak spreads to 52 communes as losses reach 13,495 pigs",
-      "url": "https://www.efeedlink.com/articles/african-swine-fever-in-vietnams-dak-lak-spreads-to-52-communes-as-losses-reach-13-495-pigs",
-      "published_at": "2026-11-20T16:00:00.000Z",
-      "created_at": "2026-11-21 10:40:15",
-      "ai_at": null,
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "714b9547174795e04e0e9027f75294d4279a023c",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
-      "source_id": "bing-world-fmd",
-      "title": "Free State Reports Three Active Foot-and-Mouth Disease Cases as 801 Are Resolved",
-      "url": "https://centralnews.co.za/free-state-reports-three-active-foot-and-mouth-disease-cases-as-801-are-resolved/",
-      "published_at": "2026-11-20T13:11:00.000Z",
-      "created_at": "2026-11-21 00:40:14",
-      "ai_at": null,
-      "dup_count": 1
-    },
-    {
-      "fingerprint": "173edd6270df8c5d1d533d0ca0280836ed4185a9",
-      "disease": null,
-      "country": null,
-      "distance_km": null,
-      "level": null,
-      "verdict": null,
-      "ai_summary": null,
-      "source_id": "bing-world-asf",
-      "title": "An Giang quickly destroys a herd of nearly 450kg of pigs infected with African swine fever",
-      "url": "https://news.laodong.vn/ban-tin/an-giang-nhanh-chong-tieu-huy-dan-heo-gan-450kg-mac-dich-ta-heo-chau-phi-1803860.ldo",
-      "published_at": "2026-11-20T13:00:00.000Z",
       "created_at": "2026-11-22 08:40:14",
       "ai_at": null,
       "dup_count": 1
